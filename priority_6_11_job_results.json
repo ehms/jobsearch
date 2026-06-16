@@ -1,0 +1,93 @@
+[
+  {
+    "priority": 6,
+    "category": "VFX Compositor / Compositor",
+    "title": "Compositor & VFX Artist",
+    "company": "Piranha Bar",
+    "location": "Dublin 2, County Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/compositor-vfx-artist-at-piranha-bar-1506524631",
+    "posting_date": "recent",
+    "experience_years": "N/A (portfolio-based)",
+    "key_skills": ["VFX Compositing", "Motion Design", "Nuke", "After Effects"],
+    "fit": "High",
+    "reason_for_fit": "Direct compositor role at top-tier VFX studio with 15-year track record. Matches your compositing background from Studio Meala and VFX workflow experience. Portfolio-driven application."
+  },
+  {
+    "priority": 6,
+    "category": "VFX Compositor / Compositor",
+    "title": "Experienced ToonBoom Harmony Compositing Artist",
+    "company": "Lighthouse Studios",
+    "location": "Kilkenny, Ireland",
+    "url": "https://jobvfx.com/jobs/compositor-kilkenny-ireland-april-24-2026-lighthouse-studios/",
+    "posting_date": "2026-04-24",
+    "experience_years": "Experienced",
+    "key_skills": ["ToonBoom Harmony", "Compositing", "2D animation"],
+    "fit": "Medium",
+    "reason_for_fit": "Established compositing role at award-winning studio (Apple TV+, Amazon, Netflix). Core compositing skills transfer; different tool focus (ToonBoom vs Nuke). Kilkenny location 1.5 hrs from Dublin; remote options possible."
+  },
+  {
+    "priority": 7,
+    "category": "Graphic Designer / Brand Motion Designer",
+    "title": "3D Artist / Motion Graphics Artist",
+    "company": "Cogs & Marvel",
+    "location": "Dublin, County Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/3d-artist-motion-graphics-artist-at-cogs-marvel-3166373570",
+    "posting_date": "recent",
+    "experience_years": "N/A (portfolio-based)",
+    "key_skills": ["3D Animation", "Motion Graphics", "Maya", "Cinema 4D", "Nuke", "After Effects", "Unity", "Unreal", "Asset creation"],
+    "fit": "High",
+    "reason_for_fit": "Brand experience agency seeking 3D Artist/Motion Designer. Direct match: motion graphics, CG, Unreal, asset creation. Experiential focus aligns with exhibition design background. Dublin HQ."
+  },
+  {
+    "priority": 8,
+    "category": "Exhibition / Installation / Experiential Designer",
+    "title": "Exhibition Designer",
+    "company": "Multiple (LinkedIn Board)",
+    "location": "Dublin / Ireland",
+    "url": "https://ie.linkedin.com/jobs/search?keywords=Exhibition%20Designer&location=Dublin",
+    "posting_date": "2026-06-15 (17-20 hrs old at search time)",
+    "experience_years": "2-5 years typical",
+    "key_skills": ["Exhibition design", "3D visualization", "Vectorworks", "SketchUp", "Adobe Creative Suite", "Spatial design"],
+    "fit": "High",
+    "reason_for_fit": "28 Exhibition Designer roles currently active on LinkedIn Ireland. Directly matches your background at Science Gallery. Many posted within last 24 hours. Requires portfolio of installations/exhibitions."
+  },
+  {
+    "priority": 9,
+    "category": "Product Visualisation / Arch-Viz Artist",
+    "title": "3D Artist (AR/VR / Real-time)",
+    "company": "VIVERSE (HTC)",
+    "location": "County Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/3d-artist-viverse-limited-at-viverse-3423633712",
+    "posting_date": "recent",
+    "experience_years": "N/A (portfolio-based)",
+    "key_skills": ["Blender", "3DS Max", "Maya", "Real-time rendering", "AR/VR", "Asset optimization", "Performance budgeting"],
+    "fit": "High",
+    "reason_for_fit": "Real-time 3D art for AR/VR using Blender (your primary tool) or equivalent. Matches procedural workflows, optimization expertise, and interest in immersive/interactive. HTC Vive developer ecosystem experience valuable."
+  },
+  {
+    "priority": 10,
+    "category": "Creative Developer / Interactive Developer",
+    "title": "Creative Developer (General Board)",
+    "company": "Multiple (LinkedIn Board)",
+    "location": "Dublin / Remote EU",
+    "url": "https://ie.linkedin.com/jobs/search?keywords=Creative%20Developer&location=Dublin",
+    "posting_date": "recent (72 new roles in past period)",
+    "experience_years": "2-5 years typical",
+    "key_skills": ["Python", "JavaScript", "WebGL", "Three.js", "React", "Interactive design", "Animation libraries"],
+    "fit": "Medium",
+    "reason_for_fit": "1000+ Creative Developer roles across LinkedIn Ireland; 72 new postings available. Your Python and JavaScript skills + procedural background suit creative dev roles. Requires specific role evaluation for tool stack match."
+  },
+  {
+    "priority": 11,
+    "category": "AR/VR/XR Artist or Developer",
+    "title": "Immersive Experience Designer / XR",
+    "company": "Market Overview",
+    "location": "Dublin / Remote EU",
+    "url": "https://ie.linkedin.com/jobs/search?keywords=XR%20Developer%20OR%20VR%20Artist",
+    "posting_date": "variable",
+    "experience_years": "2-4 years typical",
+    "key_skills": ["Unreal Engine", "TouchDesigner", "Spatial design", "Interactive systems", "3D modeling"],
+    "fit": "Medium",
+    "reason_for_fit": "Limited confirmed Dublin-specific XR/VR listings found. Market exists but thinner than other categories. VIVERSE (HTC) position above is primary confirmed AR/VR opportunity. Remote EU opportunities likely available on specialized platforms (e.g., XR Jobs Board, We Are Spatial)."
+  }
+]

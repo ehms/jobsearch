@@ -1,0 +1,39 @@
+{
+  "generated": "2026-06-15T22:42:19.028628",
+  "total_applications": 2,
+  "by_status": {
+    "Interesting": 2
+  },
+  "applications": [
+    {
+      "file": "3D Printing Dublin.md",
+      "company": "3D Printing Dublin",
+      "role": "Speculative",
+      "status": "Interesting",
+      "url": "3dprintingdublin.com",
+      "posting_date": null,
+      "deadline": null,
+      "key_requirements": null,
+      "sector": null,
+      "team_size": null,
+      "salary": null,
+      "type": "posted",
+      "date_found": "2026-06-15"
+    },
+    {
+      "file": "Visual Designer.md",
+      "company": "Microsoft",
+      "role": "Visual Designer",
+      "status": "Interesting",
+      "url": "https://apply.careers.microsoft.com/careers?query=Visual+Designer&start=0&pid=1970393556872109&sort_by=relevance",
+      "posting_date": null,
+      "deadline": null,
+      "key_requirements": null,
+      "sector": null,
+      "team_size": null,
+      "salary": null,
+      "type": "posted",
+      "date_found": "2026-06-15"
+    }
+  ]
+}
