@@ -1,0 +1,303 @@
+[
+  {
+    "id": "scopely-technical-artist-unannounced-2026",
+    "title": "Technical Artist - Unannounced Project",
+    "company": "Scopely",
+    "location": "UK / Spain / Ireland / Portugal (remote/hybrid)",
+    "url": "https://www.artstation.com/jobs/AdEe",
+    "first_seen": "2026-07-14",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Shader / material / rendering / asset bundle optimization",
+      "Technical animation, rigging, character pipelines, or animation implementation",
+      "Validation tools, content review systems, or production-readiness workflows",
+      "Git / Perforce source control",
+      "Supporting large-scale content teams through tools, documentation",
+      "Scripting (HLSL, GLSL, C# or similar)",
+      "Real-time 3D game engine experience",
+      "Mobile platform optimization"
+    ],
+    "notes": "Scopely unannounced cross-platform Strategy/MMO in early dev. Active as of July 2026. Ireland/Dublin eligible. Also at https://jobs.jobvite.com/scopely/job/oUELofwr"
+  },
+  {
+    "id": "void-interactive-environment-artist-ireland-2026",
+    "title": "Environment Artist - Ready or Not",
+    "company": "VOID Interactive",
+    "location": "Ireland (fully remote, full-time employee)",
+    "url": "https://remotegamejobs.com/jobs/void-interactive-environment-artist-ready-or-not-remote-job",
+    "first_seen": "2026-07-14",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Dedicated enthusiastic environment artist",
+      "Strong understanding of 3D graphics principles and rendering",
+      "Experience with Unreal Engine or similar game engines",
+      "Proficiency in Python, C# or similar scripting",
+      "Shipped at least 1 game project in a relevant role",
+      "Ability to translate creative vision into efficient technical solutions"
+    ],
+    "notes": "VOID Interactive is one of Shem's cold-call targets. Ireland resident = full-time employee. Also at https://zerply.com/industry-jobs/Environment-Artist-VOID-Interactive-Remote-Work-Dublin-29Fe4kuq"
+  },
+  {
+    "id": "void-interactive-vfx-artist-ireland-2026",
+    "title": "VFX Artist - Ready or Not",
+    "company": "VOID Interactive",
+    "location": "Ireland (fully remote, full-time employee)",
+    "url": "https://remotegamejobs.com/jobs/void-interactive-vfx-artist-ready-or-not-ireland-remote-job",
+    "first_seen": "2026-07-14",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unreal Engine or Unity proficiency",
+      "Particle systems, shaders, and lighting techniques",
+      "Shipped at least 1 AAA or equivalent game",
+      "Demo reel demonstrating creativity and technical proficiency",
+      "Strong artistic skills with eye for detail, colour, composition"
+    ],
+    "notes": "Strong VFX skills match. 'Shipped AAA' requirement may be partial gap (Shem has Disney+ production credit from Studio Meala). Also Europe variant: https://remotegamejobs.com/jobs/void-interactive-vfx-artist-ready-or-not-europe-remote-job"
+  },
+  {
+    "id": "void-interactive-technical-artist-europe-2026",
+    "title": "Technical Artist - Ready or Not (Europe)",
+    "company": "VOID Interactive",
+    "location": "Europe (fully remote)",
+    "url": "https://remotegamejobs.com/jobs/void-interactive-technical-artist-ready-or-not-europe-remote-job",
+    "first_seen": "2026-07-14",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Shipped at least one game project (full production cycle, technical art or related)",
+      "Strong understanding of 3D graphics principles and rendering techniques",
+      "Experience with game engines (Unity or Unreal Engine)",
+      "Proficiency in Python, C# or similar scripting",
+      "Tool development in a game development context",
+      "Collaboration with artists, designers, animators"
+    ],
+    "notes": "Possibly listed as expired on some platforms; verify before applying. VOID Interactive is already a Shem cold-call target."
+  },
+  {
+    "id": "scopely-junior-3d-artist-star-trek-2026",
+    "title": "Junior 3D Artist - Star Trek Fleet Command (12-month FTC)",
+    "company": "Scopely",
+    "location": "Dublin, Ireland / UK / Barcelona",
+    "url": "https://job-boards.greenhouse.io/scopely/jobs/5220395008",
+    "first_seen": "2026-07-14",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "~2026-06-23",
+    "requirements": [
+      "Strong knowledge of Maya or equivalent 3D software",
+      "Good knowledge of Substance Painter",
+      "UV unwrapping and texturing for game assets",
+      "Understanding of materials and lighting",
+      "Understanding of Unity pipelines for importing and optimizing 3D assets",
+      "Portfolio demonstrating 3D character/environment work"
+    ],
+    "notes": "Salary £40K-£45K. Dublin office option. Posted ~3 weeks ago (borderline 14-day window). Unity pipeline is less aligned with Shem's Unreal/Blender background but Maya equivalent acceptable. Character art focus."
+  },
+  {
+    "id": "brown-bag-films-3d-environment-modelling-2026",
+    "title": "3D Environment Modelling Artist (Unreal Engine)",
+    "company": "Brown Bag Films",
+    "location": "Dublin, Ireland (hybrid, min 2 days/week in studio)",
+    "url": "https://www.ziprecruiter.ie/jobs/542536777-3d-environment-modelling-artist-unreal-engine-at-milo-hr",
+    "first_seen": "2026-07-14",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unreal Engine (terrain, architecture, foliage, props, set dressing)",
+      "Autodesk Maya (construct and refine environments)",
+      "Working knowledge of 3D asset creation pipeline and workflow",
+      "Set dressing and instancing",
+      "Previz to modelling workflow",
+      "Troubleshooting environment creation and integration issues",
+      "Right to work in Ireland required"
+    ],
+    "notes": "5-month fixed-term contract via Milo HR (Vacancy VN1894). Children's animation production. Unreal Engine is strong match; Maya preferred over Blender is partial gap. Also at https://milo-hr.my.salesforce-sites.com/recruit/fRecruit__ApplyJob?vacancyNo=VN1894&portal=Dublin"
+  },
+  {
+    "id": "black-shamrock-ai-technical-animator-2026",
+    "title": "AI Technical Animator",
+    "company": "Black Shamrock (a Virtuos Studio)",
+    "location": "Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/ai-technical-animator-at-black-shamrock-a-virtuos-studio-4307532925",
+    "first_seen": "2026-07-14",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Experience in technical animation on at least 1 shipped AAA title",
+      "Python, MEL scripting",
+      "Maya (primary DCC tool)",
+      "Unreal Engine (Control Rig, Sequencer)",
+      "MotionBuilder",
+      "Designing scalable real-time animation systems",
+      "AI-driven animation systems and runtime behaviours"
+    ],
+    "notes": "AAA shipped title and Maya-centric requirements are significant gaps for Shem. Unreal experience partially matches but the role is highly specialized in AI animation."
+  },
+  {
+    "id": "grand-intelligence-visual-designer-2026",
+    "title": "Founding Digital Visual Designer",
+    "company": "Grand Intelligence",
+    "location": "Dublin or London (hybrid 3 days/week in office)",
+    "url": "https://www.ziprecruiter.ie/jobs/519758343-founding-digital-visual-designer-at-grand-intelligence",
+    "first_seen": "2026-07-14",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2026-04-01",
+    "skip_reason": "Posted April 2026 - outside 14-day window. Also brand/social-focused rather than technical-creative.",
+    "requirements": [
+      "Brand videos and motion systems",
+      "Social content and product storytelling",
+      "Launch assets",
+      "Hybrid Dublin or London office requirement"
+    ],
+    "notes": "Posted April 2026. More brand/motion focus than technical art. Worth revisiting if more recent opening appears."
+  },
+  {
+    "id": "brown-bag-films-senior-ue-generalist-2026",
+    "title": "Senior Unreal Environment Generalist",
+    "company": "Brown Bag Films",
+    "location": "Dublin, Ireland (hybrid, 2 days/week)",
+    "url": "https://www.brownbagfilms.com/careers/dublin",
+    "first_seen": "2026-07-14",
+    "fit": "medium-high",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Senior level - excluded per seniority filter",
+    "requirements": [
+      "Senior Unreal Engine for distant environments, foliage, sky domes, atmospheric setups",
+      "Maya and Nuke secondary tools",
+      "Real-time lighting and atmospheric effects",
+      "Asset reuse and scene optimization"
+    ],
+    "notes": "12-month FTC, €48K-€62K. Skills are a very strong match for Shem apart from seniority. Worth monitoring for non-senior future openings."
+  },
+  {
+    "id": "larian-studios-vfx-artist-2026",
+    "title": "VFX Artist",
+    "company": "Larian Studios",
+    "location": "Dublin, Ireland (on-site)",
+    "url": "https://builtindublin.ie/job/senior-vfx-artist/3626067",
+    "first_seen": "2026-07-14",
+    "fit": "medium-high",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Listed as Senior VFX Artist - excluded per seniority filter",
+    "requirements": [
+      "Unreal Engine VFX",
+      "LookDev, LRC, Groom pipelines",
+      "Cinematics or games animation/VFX",
+      "On-site Dublin required"
+    ],
+    "notes": "Skills strong match. On-site Dublin works for Shem. Watch for non-senior openings at Larian."
+  },
+  {
+    "id": "black-shamrock-lead-tech-artist-2026",
+    "title": "Lead Technical Artist - Unreal Engine",
+    "company": "Black Shamrock (Virtuos)",
+    "location": "Dublin, Ireland",
+    "url": "https://animationandvfxjobs.com/black-shamrock-is-seeking-a-lead-technical-artist-dublin/",
+    "first_seen": "2026-07-14",
+    "fit": "medium-high",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Lead level - excluded per seniority filter"
+  },
+  {
+    "id": "scopely-lead-technical-artist-2026",
+    "title": "Lead Technical Artist - Unannounced Project",
+    "company": "Scopely",
+    "location": "Dublin / Remote",
+    "url": "https://job-boards.greenhouse.io/scopely/jobs/5240364008",
+    "first_seen": "2026-07-14",
+    "fit": "high",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Lead level - excluded per seniority filter"
+  },
+  {
+    "id": "scopely-senior-vfx-artist-unannounced-2026",
+    "title": "Senior VFX Artist - Unannounced Project",
+    "company": "Scopely",
+    "location": "Dublin / Remote",
+    "url": "https://job-boards.greenhouse.io/scopely/jobs/4907795008",
+    "first_seen": "2026-07-14",
+    "fit": "high",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Senior level - excluded per seniority filter"
+  },
+  {
+    "id": "void-interactive-senior-environment-artist-2026",
+    "title": "Senior Environment Artist",
+    "company": "VOID Interactive",
+    "location": "Ireland (remote)",
+    "url": "https://remotegamejobs.com/jobs/void-interactive-senior-environment-artist-remote-job",
+    "first_seen": "2026-07-14",
+    "fit": "high",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Senior level - excluded per seniority filter"
+  },
+  {
+    "id": "virtuos-technical-artist-pcg-2026",
+    "title": "Technical Artist - PCG (Procedural Content Generation)",
+    "company": "Virtuos",
+    "location": "Dublin, Ireland",
+    "url": "https://www.virtuosgames.com/careers/",
+    "first_seen": "2026-07-14",
+    "fit": "medium-high",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Requires minimum 5 years game dev experience + 2 years as Technical Artist - de facto Senior. Also Houdini PCG focus is a gap.",
+    "requirements": [
+      "5+ years game development or CG industry",
+      "2+ years as Technical Artist",
+      "Strong expertise with Unreal Engine PCG framework",
+      "Houdini for procedural asset creation",
+      "DCC tools: Blender, Maya, or 3DS Max",
+      "Shader development and material creation"
+    ],
+    "notes": "€39K-€62K. Skills are close to Shem's profile but years of experience requirement is a barrier. Strong PCG/procedural match conceptually."
+  },
+  {
+    "id": "nightdive-studios-environment-artist-2025",
+    "title": "Environment Artist (Contract)",
+    "company": "Nightdive Studios",
+    "location": "Remote (USA-based, open to international)",
+    "url": "https://job-boards.greenhouse.io/nightdivestudios/jobs/4763933008",
+    "first_seen": "2026-07-14",
+    "fit": "high",
+    "status": "skipped",
+    "posting_date": "2025-06-13",
+    "skip_reason": "Posting from 2025 - outside 14-day window. Likely stale.",
+    "requirements": [
+      "Blender (hard surface environment art and props from concept art)",
+      "Unreal Engine 5 (implement finished assets)",
+      "Substance Designer (procedural tileable textures)",
+      "3-5+ years experience",
+      "First-person game art experience"
+    ],
+    "notes": "Excellent skills match (Blender + Unreal 5). Monitor Nightdive careers page for fresh openings."
+  },
+  {
+    "id": "indiepics-motion-graphics-designer-2026",
+    "title": "Motion Graphics Designer",
+    "company": "Indiepics",
+    "location": "Dublin, Ireland",
+    "url": "https://iftn.ie/jobs/filmtvjob/?act1=record&aid=18&rid=3953&only=1&force=1&tpl=jobslist",
+    "first_seen": "2026-07-14",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2026-06-01",
+    "skip_reason": "Posted June 1, 2026 - outside 14-day window (>43 days old)"
+  }
+]
