@@ -299,5 +299,295 @@
     "status": "skipped",
     "posting_date": "2026-06-01",
     "skip_reason": "Posted June 1, 2026 - outside 14-day window (>43 days old)"
+  },
+  {
+    "id": "traylz-3d-artist-dublin-2026",
+    "title": "3D Artist",
+    "company": "TRAYLZ",
+    "location": "Dublin, Ireland",
+    "url": "https://wellfound.com/jobs/2213550-3d-artist",
+    "first_seen": "2026-07-15",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "3D modeling and asset creation (Maya, ZBrush, and/or Blender)",
+      "Real-time 3D asset development (Unreal Engine or Unity)",
+      "Mobile AR asset optimization for performance",
+      "Outstanding portfolio demonstrating visual storytelling",
+      "Understanding of composition and industry trends"
+    ],
+    "notes": "TRAYLZ is an early-stage Dublin AR startup building a mobile app for cultural/sports heritage storytelling. Mid-to-senior scope, significant creative ownership. No shipped game title required. Apply via https://traylz.co/3dartist.html"
+  },
+  {
+    "id": "brown-bag-films-online-compositor-2026",
+    "title": "Online Compositor",
+    "company": "Brown Bag Films",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://www.brownbagfilms.com/about-us/careers/dublin-jobs",
+    "first_seen": "2026-07-15",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Node-based compositing (Nuke or Blackmagic Fusion)",
+      "After Effects",
+      "2+ years on animated or VFX production",
+      "Broadcast delivery format knowledge",
+      "TV animation pipeline experience",
+      "Right to work in Ireland required"
+    ],
+    "notes": "Confirmed open per search snippets. Studio Meala Disney+ credit (mid-level compositor 2022) is a direct qualifier. Brown Bag Films is one of Shem's cold-call targets. Full spec requires direct browser visit to the URL."
+  },
+  {
+    "id": "redhill-games-technical-artist-2026",
+    "title": "Technical Artist",
+    "company": "Redhill Games",
+    "location": "Helsinki, Finland / Nicosia, Cyprus / Remote",
+    "url": "https://ingamejob.com/en/away/job/technical-artist-30",
+    "first_seen": "2026-07-15",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "5+ years industry experience",
+      "3ds Max / Maya / Houdini",
+      "Unreal Engine (shaders, Blueprints)",
+      "High/low-poly, UVs, baking, texturing",
+      "Art pipeline tool development",
+      "Cross-discipline support (lighting, rigging, animation)"
+    ],
+    "notes": "Helsinki-based co-dev FPS studio. Remote option available. 5+ years experience may make this de facto senior. Posting date unconfirmed - verify within 14-day window before applying."
+  },
+  {
+    "id": "talenthub-exhibition-designer-dublin-2026",
+    "title": "Exhibition Designer",
+    "company": "TalentHub Recruitment",
+    "location": "Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/exhibition-designer-at-talenthub-recruitment-3863985282",
+    "first_seen": "2026-07-15",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Full requirements not accessible - needs manual LinkedIn login to view"
+    ],
+    "notes": "Dublin recruitment agency placing creative professionals. Science Gallery Lifelogging credit is directly relevant. Likely requires SketchUp/CAD/fabrication knowledge - check spec carefully before applying."
+  },
+  {
+    "id": "edge-world-studios-environment-artist-2026",
+    "title": "3D Environment Artist",
+    "company": "Edge of the World Studios",
+    "location": "Remote (GMT+3, Riyadh-based studio)",
+    "url": "https://remotegamejobs.com/jobs/edge-of-the-world-studios-3d-environment-artist-remote-job",
+    "first_seen": "2026-07-15",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Strong 3D modeling (environments, props, architecture)",
+      "Unity",
+      "Blender-to-Unity pipeline (nice-to-have)",
+      "Modular environment workflows",
+      "Greyboxing, blockout, layout, scene composition",
+      "Environmental storytelling"
+    ],
+    "notes": "Project: Halima - 2.5D narrative puzzle-platformer with claymation aesthetic. Remote-first indie studio. GMT+3 timezone - Dublin (UTC+1) has good overlap (2hr difference only). Contract."
+  },
+  {
+    "id": "iftn-designer-3d-artist-ireland-2026",
+    "title": "Designer / 3D Artist",
+    "company": "Unknown (IFTN posting #3875)",
+    "location": "Ireland",
+    "url": "https://www.iftn.ie/jobs/?act1=record&aid=18&rid=3875&only=1&force=1&tpl=jobslist",
+    "first_seen": "2026-07-15",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Full requirements not accessible - page blocked from automated access"
+    ],
+    "notes": "Irish Film & TV Network job board. Title matches core profile directly. Company name, full spec, and deadline need manual browser check."
+  },
+  {
+    "id": "a-stranger-gravity-environment-artist-2026",
+    "title": "3D Environment Artist",
+    "company": "A Stranger Gravity",
+    "location": "Remote (US timezone overlap required)",
+    "url": "https://remotegamejobs.com/jobs/a-stranger-gravity-3d-environment-artist-remote-job",
+    "first_seen": "2026-07-15",
+    "fit": "low",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Strong 3D modeling and texturing (stylized aesthetic)",
+      "Work from concepts, paintovers, block-ins",
+      "Set dressing experience (nice-to-have)",
+      "Shaders in Unity (nice-to-have)"
+    ],
+    "notes": "San Francisco/Brooklyn studio (also known as Pontoco). 6-8 months contract, 40hrs/week. US timezone overlap required from Dublin - significant constraint. Stylized 3D, no shipped game required."
+  },
+  {
+    "id": "mac-n-cheese-games-environment-artist-2026",
+    "title": "3D Environment Artist",
+    "company": "Mac N Cheese Games",
+    "location": "Remote (Europe/CET timezone)",
+    "url": "https://remotegamejobs.com/jobs/mac-n-cheese-games-3d-environment-artist-remote-job",
+    "first_seen": "2026-07-15",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Posting expired/closed",
+    "requirements": [
+      "Portfolio mandatory (applications without portfolio rejected)",
+      "Environmental storytelling",
+      "Kitbashing and modular environment workflows",
+      "Set dressing of large environments",
+      "Prop creation matching existing visual style"
+    ],
+    "notes": "Project: Void Martyrs (grimdark survival horror, WW1 aesthetic, Unity). ~12 months from August 2026. Posting closed as of July 2026."
+  },
+  {
+    "id": "kow-company-3d-generalist-2026",
+    "title": "3D Generalist",
+    "company": "The Kow Company",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://www.linkedin.com/posts/the-kow-company_hiring-activity-7424430529061769216-COye",
+    "first_seen": "2026-07-15",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Dhaka Bangladesh location - not Dublin/remote EU. Application deadline passed March 2026.",
+    "requirements": [
+      "3D Modeling, Texturing, UV Unwrapping",
+      "Photorealism"
+    ],
+    "notes": "E-commerce product retouching/CGI studio. Not relevant."
+  },
+  {
+    "id": "blendernation-senior-director-vfx-europe-2026",
+    "title": "Senior/Director VFX Artist for Stylized Games",
+    "company": "Unknown (via BlenderNation digest)",
+    "location": "Europe",
+    "url": "https://www.blendernation.com/2026/07/03/blender-jobs-for-july-3-2026/",
+    "first_seen": "2026-07-15",
+    "fit": "high",
+    "status": "skipped",
+    "posting_date": "2026-07-03",
+    "skip_reason": "Senior/Director level - excluded per seniority filter",
+    "requirements": [
+      "Unity3D",
+      "VFX for stylized games",
+      "Senior or Director level"
+    ],
+    "notes": "From BlenderNation weekly jobs digest. Skills match is otherwise strong."
+  },
+  {
+    "id": "volmi-virtuos-senior-ta-ue5-2026",
+    "title": "Senior Technical Artist (Procedural Generation / UE5)",
+    "company": "Volmi (a Virtuos Studio)",
+    "location": "Remote (Kyiv, Ukraine studio)",
+    "url": "https://ingamejob.com/en/away/job/technical-artist-92",
+    "first_seen": "2026-07-15",
+    "fit": "high",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Senior level - excluded per seniority filter",
+    "requirements": [
+      "Unreal Engine 5 procedural generation",
+      "Master material creation, shaders",
+      "AAA game pipeline",
+      "Optimisation"
+    ],
+    "notes": "Strong skills match (UE5, procedural, shaders). Monitor for non-senior openings."
+  },
+  {
+    "id": "artdock-technical-artist-unity-2026",
+    "title": "Technical Artist (Unity | PC & Console)",
+    "company": "ArtDock",
+    "location": "Unknown",
+    "url": "https://ingamejob.com/en/job/technical-artist-unity-pc-console",
+    "first_seen": "2026-07-15",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2026-04-03",
+    "skip_reason": "Posted April 3, 2026 - outside 14-day window",
+    "requirements": [
+      "Unity",
+      "Configuring and integrating 3D and 2D assets",
+      "Asset pipeline"
+    ]
+  },
+  {
+    "id": "turbo-rocket-games-junior-ta-2026",
+    "title": "Junior+ Technical Artist (Asset Integration)",
+    "company": "Turbo Rocket Games",
+    "location": "Remote",
+    "url": "https://ingamejob.com/en/job/junior-technical-artist-asset-integration",
+    "first_seen": "2026-07-15",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2026-03-26",
+    "skip_reason": "Posted March 26, 2026 - outside 14-day window",
+    "requirements": [
+      "Unity and Shiva engine",
+      "Integrating and polishing ready-made assets into production pipeline"
+    ]
+  },
+  {
+    "id": "hypervr-games-3d-ta-2026",
+    "title": "3D Technical Artist (Animation & Game Feel)",
+    "company": "HyperVR Games",
+    "location": "Remote",
+    "url": "https://ingamejob.com/en/job/senior-3d-artist-generalist-1",
+    "first_seen": "2026-07-15",
+    "fit": "medium-high",
+    "status": "skipped",
+    "posting_date": "2026-06-05",
+    "skip_reason": "Posted June 5, 2026 - outside 14-day window (40 days ago)",
+    "requirements": [
+      "Unity engine",
+      "Scene feel and character animation integration",
+      "Technical-artistic balance"
+    ]
+  },
+  {
+    "id": "brown-bag-films-texture-senior-artist-2026",
+    "title": "Texture Artist / Senior Texturing Artist",
+    "company": "Brown Bag Films",
+    "location": "Dublin, Ireland (hybrid, 2 days/week, Smithfield Square)",
+    "url": "https://zerply.com/industry-jobs/Texture-Artist-Brown-bag-films-Dublin-29Fe4qSx",
+    "first_seen": "2026-07-15",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Senior Texturing Artist in title - excluded per seniority filter",
+    "requirements": [
+      "Unreal Engine (required)",
+      "Substance Painter",
+      "Layered shaders (Unreal Engine or Maya)",
+      "Creating shader libraries and look development",
+      "Texture painting and shading",
+      "Optimization and reuse strategies",
+      "Right to work in Ireland required"
+    ],
+    "notes": "12-month FTC. Skills are a strong match. Monitor for non-senior repost."
+  },
+  {
+    "id": "brown-bag-films-qc-operator-2026",
+    "title": "QC Operator",
+    "company": "Brown Bag Films",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://www.brownbagfilms.com/about-us/careers/dublin-jobs",
+    "first_seen": "2026-07-15",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Post-production support/technical role - not a creative or artistic role matching Shem's profile",
+    "requirements": [
+      "Broadcast QC standards",
+      "Technical understanding of post-production workflows",
+      "Familiarity with HD/SD formats and file formats"
+    ]
   }
 ]
