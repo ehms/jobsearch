@@ -589,5 +589,206 @@
       "Technical understanding of post-production workflows",
       "Familiarity with HD/SD formats and file formats"
     ]
+  },
+  {
+    "id": "little-moon-animation-technical-artist-2026",
+    "title": "Technical Artist",
+    "company": "Little Moon Animation",
+    "location": "Dublin, Ireland (on-site)",
+    "url": "https://www.littlemoonanimation.com/jobs",
+    "first_seen": "2026-07-16",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unreal Engine technical pipeline experience",
+      "Tool development and workflow support",
+      "Collaboration with art/engineering teams",
+      "Must be Dublin-based or eligible to work in Dublin"
+    ],
+    "notes": "CG children's animation studio in central Dublin. Also recruiting Unreal CG Supervisor, 3D Generalist, Concept Artist. Apply via jobs@littlemoonanimation.com with portfolio/reel. Exact posting date unverified — could be standing opening. Dublin location is ideal for Shem."
+  },
+  {
+    "id": "little-moon-animation-3d-generalist-2026",
+    "title": "3D Generalist",
+    "company": "Little Moon Animation",
+    "location": "Dublin, Ireland (on-site)",
+    "url": "https://www.littlemoonanimation.com/jobs",
+    "first_seen": "2026-07-16",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "3D modeling, rigging, animation in a CG animation pipeline",
+      "Knowledge of 3D animation workflows",
+      "Strong portfolio demonstrating 3D work",
+      "Must be Dublin-based or eligible to work in Dublin"
+    ],
+    "notes": "Same studio as Technical Artist posting. 3D Generalist is a direct match for Shem's Blender advanced skills and procedural modeling background. Apply via jobs@littlemoonanimation.com."
+  },
+  {
+    "id": "viverse-3d-artist-dublin-2026",
+    "title": "3D Artist",
+    "company": "VIVERSE Limited",
+    "location": "County Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/3d-artist-viverse-limited-at-viverse-3423633712",
+    "first_seen": "2026-07-16",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Old LinkedIn job ID (3423633712 — circa 2022–23); posting date unverifiable and likely stale",
+    "requirements": [
+      "Proficiency in Blender, 3DS Max, or Maya",
+      "3D sculpting, retopology, UV and texturing",
+      "Unreal Engine or Steam Workshop / Source2",
+      "Photorealistic rendering and product animation"
+    ],
+    "notes": "VIVERSE is an HTC metaverse subsidiary. Dublin office. Skills are a good match; revisit if fresher posting appears."
+  },
+  {
+    "id": "egg-post-production-compositor-2026",
+    "title": "Compositor (Junior / Mid-level)",
+    "company": "Egg Post Production & VFX",
+    "location": "Dublin, Ireland",
+    "url": "https://egg.ie/",
+    "first_seen": "2026-07-16",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Nuke compositing required — gap in Shem's primary toolset (Blender-native compositor); posting date unverifiable (content references 2022–23 productions)",
+    "requirements": [
+      "2–3 years compositing experience at a VFX facility using Nuke",
+      "Compositing live action with CG elements",
+      "Multi-channel EXR workflow",
+      "3D space compositing",
+      "ShotGrid experience (beneficial)",
+      "12-month FTC"
+    ],
+    "notes": "BAFTA-nominated Dublin VFX house (Bad Sisters, Dr Who, Good Omens). Apply via vfxjobs@egg.ie. Worth monitoring for compositing roles that accept Blender/Fusion. Studio Meala credit is directly relevant experience."
+  },
+  {
+    "id": "chillhop-music-3d-environment-artist-2026",
+    "title": "3D Environment Modeling Artist (Blender → Three.js)",
+    "company": "Chillhop Music",
+    "location": "Remote (Netherlands-based)",
+    "url": "https://www.artstation.com/jobs/PL5e",
+    "first_seen": "2026-07-16",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Q1–Q2 2026 ramp-up timeline — project window has passed; also requires Three.js integration (skill gap)",
+    "requirements": [
+      "Blender for 3D environment modeling (transform 2D illustrated cityscapes into 3D)",
+      "Three.js integration for interactive web experiences",
+      "Optimized real-time 3D assets",
+      "Remote collaboration"
+    ],
+    "notes": "Chillhop Music (lo-fi hip hop label, 3M+ YT subscribers). Interesting Blender-native scope. Monitor for future contracts."
+  },
+  {
+    "id": "iconem-3d-artist-blender-unreal-2026",
+    "title": "3D Artist — Blender & Unreal (CDD 8 mois)",
+    "company": "Iconem",
+    "location": "Remote / France",
+    "url": "https://www.artstation.com/jobs/Mdvz",
+    "first_seen": "2026-07-16",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Requires fluency in written and spoken French — dealbreaker for Shem (English native only)",
+    "requirements": [
+      "Fluency in French (written and spoken) — required",
+      "Mastery of Blender and Unreal",
+      "8-month fixed-term contract"
+    ],
+    "notes": "Iconem specializes in 3D digitization of cultural heritage sites. Interesting mission but language requirement is a hard block."
+  },
+  {
+    "id": "binance-junior-motion-designer-europe-2026",
+    "title": "Junior Motion Designer — Europe/UAE",
+    "company": "Binance",
+    "location": "Remote (Europe/UAE)",
+    "url": "https://ie.linkedin.com/jobs/view/junior-motion-designer-europe-uae-at-binance-4287506035",
+    "first_seen": "2026-07-16",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Requires bilingual English/Mandarin — dealbreaker for Shem (English native only)",
+    "requirements": [
+      "2+ years motion design experience",
+      "Adobe After Effects, Premiere Pro, Photoshop",
+      "Cinema 4D, Blender, or AI video tools (nice-to-have)",
+      "Bilingual English/Mandarin — required"
+    ],
+    "notes": "Crypto exchange. Motion designer role is adjacent but language requirement is a hard block."
+  },
+  {
+    "id": "3cubed-3d-animator-vr-ireland-2026",
+    "title": "3D Animator — VR Development Studio",
+    "company": "3Cubed Search (client: VR studio)",
+    "location": "Ireland (remote)",
+    "url": "https://remotegamejobs.com/jobs/3cubed-search-3d-animator-vr-development-studio-ireland-remote-job",
+    "first_seen": "2026-07-16",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Confirmed expired as of July 2026",
+    "requirements": [
+      "Realistic human performance animation in VR",
+      "2 years animation experience",
+      "Training provided in proprietary VR animation system"
+    ],
+    "notes": "3Cubed is a female-founded Irish immersive tech recruiter. Monitor for future VR/animation roles via 3cubed.ie."
+  },
+  {
+    "id": "windmill-lane-motion-designer-2021",
+    "title": "Motion Designer (and other WLVFX roles)",
+    "company": "Windmill Lane VFX",
+    "location": "Dublin, Ireland (hybrid/remote-friendly)",
+    "url": "https://www.windmilllane.com/wlvfx-is-hiring/",
+    "first_seen": "2026-07-16",
+    "fit": "high",
+    "status": "skipped",
+    "posting_date": "2021-05",
+    "skip_reason": "Hiring announcement from May 2021 — stale. Other roles mentioned (Senior Nuke Artist, Animator Lead – Senior Level) also senior-excluded",
+    "notes": "Windmill Lane is one of Shem's cold-call targets. WLVFX roles referenced: Motion Designer, FX Artist, CG Artist, Pipeline TD, Senior Nuke Artist, Senior Coordinator, Animator Lead. Monitor their careers page for current openings. Worth a direct outreach."
+  },
+  {
+    "id": "cogs-marvel-3d-artist-motion-graphics-dublin-2026",
+    "title": "3D Artist / Motion Graphics Artist",
+    "company": "Cogs & Marvel",
+    "location": "Dublin, Ireland (HQ)",
+    "url": "https://ie.linkedin.com/jobs/view/3d-artist-motion-graphics-artist-at-cogs-marvel-3166373570",
+    "first_seen": "2026-07-16",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Old LinkedIn job ID (3166373570 — circa 2021–22); posting date unverifiable and likely stale. Also requires Maya, Nuke, Cinema4D as primary tools.",
+    "requirements": [
+      "Maya, Nuke, 3D Studio Max, After Effects, Cinema4D, Unity, Unreal, Autocad, ZBrush",
+      "3D modeling and motion graphics",
+      "Visual storytelling and conceptual thinking",
+      "Collaborative creative environment"
+    ],
+    "notes": "Brand experience agency (retail, luxury, tech) with Dublin HQ + SF/London offices. Interesting sector. Monitor for fresh postings — would suit Shem's technical-creative background."
+  },
+  {
+    "id": "piranha-bar-compositor-vfx-2019",
+    "title": "Compositor & VFX Artist",
+    "company": "Piranha Bar",
+    "location": "Dublin 2, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/compositor-vfx-artist-at-piranha-bar-1506524631",
+    "first_seen": "2026-07-16",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "LinkedIn job ID 1506524631 — circa 2019. Very stale posting.",
+    "requirements": [
+      "Autodesk Flame (preferred) or Nuke Studio",
+      "Live action compositing experience",
+      "Colour correction, green/blue screen, roto, tracking",
+      "High-end 3D animation and VFX compositing"
+    ],
+    "notes": "Piranha Bar is a major Dublin VFX/animation studio (15+ years). Worth monitoring for fresh openings. Studio Meala Disney+ credit is relevant."
   }
 ]
