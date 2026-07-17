@@ -790,5 +790,166 @@
       "High-end 3D animation and VFX compositing"
     ],
     "notes": "Piranha Bar is a major Dublin VFX/animation studio (15+ years). Worth monitoring for fresh openings. Studio Meala Disney+ credit is relevant."
+  },
+  {
+    "id": "windmill-lane-compositor-netflix-2026",
+    "title": "Compositor (all levels)",
+    "company": "Windmill Lane VFX",
+    "location": "Dublin / Fully Remote (EU work eligibility required)",
+    "url": "https://zerply.com/industry-jobs/Compositor-Windmill-Lane-Remote-Work-Dublin-29Fe4dwa",
+    "first_seen": "2026-07-17",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Compositing for high-end stop-motion Netflix feature film",
+      "All experience levels welcome",
+      "EU work eligibility required",
+      "Option to work in-house (Dublin) or fully remote"
+    ],
+    "notes": "Windmill Lane is one of Shem's cold-call targets. Stop-motion Netflix feature — strong fit given Studio Meala Disney+ mid-level compositing credit. 'All levels' is encouraging. Verify toolset requirements directly. Also via studio hiring page: https://www.windmilllane.com/wlvfx-is-hiring/"
+  },
+  {
+    "id": "pixaera-technical-artist-unreal-2026",
+    "title": "Technical Artist (AI + Unreal)",
+    "company": "Pixaera Inc",
+    "location": "Fully Remote (worldwide)",
+    "url": "https://www.linkedin.com/jobs/view/technical-artist-ai-+-unreal-at-pixaera-4318503820",
+    "first_seen": "2026-07-17",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unreal Engine procedural tool and pipeline development",
+      "AI-integrated workflows for high-fidelity XR training environments",
+      "Procedural content generation experience",
+      "XR/VR development background"
+    ],
+    "notes": "Safety training XR platform for frontline workers in high-risk industries. Predicted salary $72K-$108K USD. 25 days holiday. LinkedIn ID 4318503820 (high number suggests 2026). Glassdoor notes '30+ days' — verify freshness before applying. Also at: https://talents.vaia.com/companies/pixaera-inc/technical-artist-ai-unreal-38059146/"
+  },
+  {
+    "id": "giant-animation-fx-artist-2026",
+    "title": "FX Artist (2D & 3D)",
+    "company": "Giant Animation",
+    "location": "Dublin, Ireland (remote flexibility; Irish timezone required)",
+    "url": "https://giantanimation.ie/careers/fx-artists-2d-3d/",
+    "first_seen": "2026-07-17",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "2+ years CG/animation experience",
+      "Stylized 2D and 3D simulation FX (water, smoke, fire, particles, lightning)",
+      "Maya Bifrost, After Effects, Nuke, Arnold",
+      "CG animation studio pipeline experience"
+    ],
+    "notes": "Full-time Dublin studio role. LinkedIn job ID 4091197799. Tools are Maya-centric (partial gap vs Shem's Blender/Unreal setup); FX scope and Studio Meala Disney+ animation credit are relevant qualifiers. Apply via workable.com/giant-animation."
+  },
+  {
+    "id": "black-shamrock-material-texture-artist-2026",
+    "title": "Material and Textures Artist",
+    "company": "Black Shamrock (a Virtuos Studio)",
+    "location": "Dublin, Ireland (on-site / hybrid)",
+    "url": "https://startup.jobs/material-and-texture-artist-black-shamrock-3376247",
+    "first_seen": "2026-07-17",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "2026-07-15",
+    "requirements": [
+      "Strong AAA texture and material pipeline experience",
+      "Unreal Engine proficiency (realistic and stylised content)",
+      "AAA shipped title preferred",
+      "PS5, Xbox Series X and PC platform targets"
+    ],
+    "notes": "Active July 15, 2026. Material/shader creation is a core Shem strength (Infinity 27 bootcamp, procedural workflows, material authoring). Unreal Engine is strong match. Key gap: AAA shipped title preference. Black Shamrock is Ireland's largest AAA studio (Virtuos group)."
+  },
+  {
+    "id": "brown-bag-films-fx-artist-unreal-2026",
+    "title": "FX Artist (Unreal Engine)",
+    "company": "Brown Bag Films (via Milo HR)",
+    "location": "Dublin, Ireland (hybrid, 2 days/week in studio)",
+    "url": "https://www.ziprecruiter.ie/jobs/537276263-fx-artist-unreal-engine-at-milo-hr",
+    "first_seen": "2026-07-17",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "FX asset creation based on Art Director and episodic director briefs",
+      "FX compositing within animation pipeline",
+      "Solid understanding of VFX dynamics, fluids, particles",
+      "Unreal Engine VFX workflows",
+      "Right to work in Ireland required"
+    ],
+    "notes": "12-month FTC. Brown Bag Films is one of Shem's cold-call targets. CAUTION: Brown Bag Facebook post referred to this as 'Senior FX Artist' — verify seniority level before applying. Unreal Engine VFX is a direct skill match. Studio Meala Disney+ compositing credit relevant."
+  },
+  {
+    "id": "brown-bag-films-rigger-2026",
+    "title": "Rigger",
+    "company": "Brown Bag Films (via Milo HR)",
+    "location": "Dublin, Ireland (hybrid, 2 days/week in studio)",
+    "url": "https://www.ziprecruiter.ie/jobs/556803102-rigger-at-milo-hr",
+    "first_seen": "2026-07-17",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "2026-07-10",
+    "requirements": [
+      "Experience as Rigger in broadcast or feature film (required)",
+      "Design/create/test character setups",
+      "Collaborate with animators on motion controls",
+      "Create secondary dynamics systems",
+      "Right to work in Ireland required"
+    ],
+    "notes": "Confirmed posted July 10, 2026 (within 14-day window). 4-month FTC. Shem has Blender Rigify and character rigging knowledge, but this is a specialist rigger role requiring dedicated broadcast/feature film rigging experience. Partial match — rigging skills present but not primary specialty."
+  },
+  {
+    "id": "accenture-ai-creative-technologist-2026",
+    "title": "AI Creative Technologist",
+    "company": "Accenture Song (Ireland)",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://www.accenture.com/ie-en/careers/jobdetails?id=R00126401_en&title=Creative+Technologist",
+    "first_seen": "2026-07-17",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Portfolio of interactive work, AI experiments, and prototypes",
+      "Proficiency with AI creative tools",
+      "Interactive design skills",
+      "Creative technology background"
+    ],
+    "notes": "Accenture Song is the creative arm of Accenture. Predicted salary €50K-€70K. Midweight level. Creative tech skills match Shem's profile well; however Accenture is a large global consultancy — likely large team structure (against Shem's small-crew preference). Also at: https://uk.linkedin.com/jobs/view/creative-technologist-at-accenture-uk-ireland-4069394430"
+  },
+  {
+    "id": "iftn-compositor-4150-2026",
+    "title": "Compositor",
+    "company": "Unknown (IFTN posting #4150)",
+    "location": "Ireland",
+    "url": "https://iftn.ie/jobs/?act1=record&aid=18&force=1&only=1&rid=4150&tpl=jobslist",
+    "first_seen": "2026-07-17",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Full requirements not accessible — page blocked from automated access"
+    ],
+    "notes": "Irish Film & TV Network job board. Record ID 4150 is higher than previously seen #3875, suggesting a more recent posting. Company name, full spec, and deadline need manual browser check at iftn.ie/jobs. Studio Meala Disney+ compositing credit is directly relevant."
+  },
+  {
+    "id": "second-half-games-environment-artist-2026",
+    "title": "3D Environment Artist (Generalist)",
+    "company": "Second Half Games",
+    "location": "Remote (global; EST timezone overlap preferred)",
+    "url": "https://remotegamejobs.com/jobs/second-half-games-3d-environment-artist-generalist-remote-job",
+    "first_seen": "2026-07-17",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Blender (required)",
+      "Build environments, props, terrain from concept sketches and block-ins",
+      "Stylized sci-fi aesthetic",
+      "EST timezone overlap preferred"
+    ],
+    "notes": "Project: MEANWHILE IN SECTOR 80 (stylized sci-fi indie). Small team of 5. 4-month contract, $25-35/hr USD. Blender is a strong skills match. EST timezone requirement (5-6hr difference from Dublin) is a significant constraint — lower priority for this reason."
   }
 ]
