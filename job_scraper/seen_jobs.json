@@ -951,5 +951,176 @@
       "EST timezone overlap preferred"
     ],
     "notes": "Project: MEANWHILE IN SECTOR 80 (stylized sci-fi indie). Small team of 5. 4-month contract, $25-35/hr USD. Blender is a strong skills match. EST timezone requirement (5-6hr difference from Dublin) is a significant constraint — lower priority for this reason."
+  },
+  {
+    "id": "brown-bag-films-pipeline-td-2026",
+    "title": "Unreal Engine Pipeline TD",
+    "company": "Brown Bag Films",
+    "location": "Dublin, Ireland (hybrid, 2 days/week in studio)",
+    "url": "https://www.brownbagfilms.com/careers/dublin",
+    "first_seen": "2026-07-18",
+    "fit": "medium-high",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Technical Director level — de facto senior. Salary €65K-€75K and TD title indicate seniority above mid-level filter.",
+    "requirements": [
+      "Expert Unreal Engine knowledge (materials, lighting, grooms/hair, sequencing, optimization)",
+      "Strong Python skills, Blueprint, MEL",
+      "Tool development for Unreal and Maya",
+      "ShotGrid or Perforce version control",
+      "Right to work in Ireland required"
+    ],
+    "notes": "6-month FTC. Skills match is strong (Unreal, procedural, Python) but 'Pipeline TD' title implies senior-level production experience. Monitor for non-TD pipeline openings."
+  },
+  {
+    "id": "brown-bag-films-lighting-lookdev-td-2026",
+    "title": "Lighting and Look Development TD",
+    "company": "Brown Bag Films",
+    "location": "Dublin, Ireland (hybrid, 2 days/week in studio)",
+    "url": "https://www.brownbagfilms.com/careers/dublin",
+    "first_seen": "2026-07-18",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Technical Director level — de facto senior. Salary €65K-€85K and TD title indicate seniority above mid-level filter.",
+    "requirements": [
+      "Unreal Engine lighting, look development, groom/hair systems",
+      "Unreal-centric technical solutions",
+      "Collaboration with lighting, look development, and groom teams",
+      "Right to work in Ireland required"
+    ],
+    "notes": "6-month FTC. Unreal Engine is a strong match for Shem but 'Lighting TD' requires dedicated look-dev specialisation. Monitor for non-TD openings."
+  },
+  {
+    "id": "the-people-group-graphic-motion-designer-2026",
+    "title": "Graphic & Motion Designer",
+    "company": "The People Group (client: undisclosed global consumer brands co.)",
+    "location": "Dublin South, Ireland (hybrid)",
+    "url": "https://jobs.peoplegroup.ie/job/graphic-and-motion-designer-1243.aspx",
+    "first_seen": "2026-07-18",
+    "fit": "low-medium",
+    "status": "new",
+    "posting_date": "2026-07-13",
+    "requirements": [
+      "Static designs, animations, and video content for marketing team",
+      "Campaigns, product launches, and storytelling visuals",
+      "Print, digital, social, web, and packaging design",
+      "Brand consistency management",
+      "Collaboration with creative and marketing teams"
+    ],
+    "notes": "Posted July 13, 2026 — within 14-day window. Client is a 'growing global business with multiple market-leading brands' (corporate/FMCG context). Role is primarily marketing/brand motion, not technical-creative art. BA Visual Communications is relevant background, but corporate team environment conflicts with Shem's small-crew preference. Apply via The People Group website."
+  },
+  {
+    "id": "massive-black-realtime-vfx-artist-2026",
+    "title": "Realtime VFX Artist (Junior, Middle, Senior)",
+    "company": "Massive Black",
+    "location": "Fully Remote (global — EU likely eligible)",
+    "url": "https://remotegamejobs.com/jobs/massive-black-realtime-vfx-artist-junior-middle-senior-remote-job",
+    "first_seen": "2026-07-18",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Creating bright, dynamic visual effects in Unreal Engine and/or Unity",
+      "Good knowledge of Autodesk packages (3ds Max / Maya)",
+      "Houdini, FumeFX, or other VFX software (optional)",
+      "Solid skills in modelling, UV-mapping, animation in 3Ds Max/Maya/Blender",
+      "Particle systems, shaders, and VFX pipeline knowledge"
+    ],
+    "notes": "Massive Black is a major US art services firm (Amazon, Google, Riot, Sony clients). Remote worldwide. Junior and Middle levels available. Unreal Engine VFX and procedural workflows are strong Shem match; Autodesk-primary toolset is a minor gap (Blender listed as acceptable). Studio Meala Disney+ VFX credit is highly relevant. Apply directly via Massive Black's careers page or through RemoteGameJobs listing."
+  },
+  {
+    "id": "massive-black-environment-prop-artist-2026",
+    "title": "3D Environment and Prop Artist (Junior, Middle, Senior)",
+    "company": "Massive Black",
+    "location": "Fully Remote (global — EU likely eligible)",
+    "url": "https://remotegamejobs.com/jobs/massive-black-3d-environment-and-prop-artist-junior-middle-senior-remote-job",
+    "first_seen": "2026-07-18",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "High-poly sculpting in ZBrush",
+      "Low-poly modeling in 3ds Max / Maya / Blender",
+      "UV unwrapping, texturing in Substance Painter/Designer",
+      "Modular systems for asset creation",
+      "Importing assets and material setup in Unreal Engine / Unity / Lumberyard"
+    ],
+    "notes": "Junior and Middle levels available. Blender and Unreal Engine match Shem's toolset; ZBrush sculpting is a partial gap (Shem has Blender sculpting not ZBrush). Tiles, trims, and modular workflows align with Shem's procedural modeling background. Remote worldwide. Verify posting freshness before applying."
+  },
+  {
+    "id": "lucid-games-vfx-technical-artist-2026",
+    "title": "VFX Technical Artist",
+    "company": "Lucid Games",
+    "location": "Liverpool, UK or Remote (likely UK-based)",
+    "url": "https://remotegamejobs.com/jobs/lucid-games-vfx-technical-artist-remote-job",
+    "first_seen": "2026-07-18",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unreal Engine VFX pipelines (rendering engineers and VFX team collaboration)",
+      "Geometry, full-screen post effects, custom shaders, Niagara graphs",
+      "Staying current on graphics software/hardware trends",
+      "Mentoring team members",
+      "Experience with released games, demos or projects"
+    ],
+    "notes": "Lucid Games is a Tencent/Lightspeed subsidiary based in Liverpool (formerly Sea of Thieves DLC). 'Liverpool or Remote' — likely UK-based remote only; Ireland/EU eligibility unconfirmed. Unreal Engine VFX is a strong skills match. Requires game release credit (partial gap — Shem has Disney+ production credit). Apply at jobs@lucidgames.co.uk with portfolio. Verify EU eligibility before applying."
+  },
+  {
+    "id": "lucid-games-environment-artist-2026",
+    "title": "Environment Artist",
+    "company": "Lucid Games",
+    "location": "Liverpool, UK or Remote (likely UK-based)",
+    "url": "https://remotegamejobs.com/jobs/lucid-games-environment-artist-remote-job",
+    "first_seen": "2026-07-18",
+    "fit": "low-medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Maya or equivalent 3D software (primary DCC)",
+      "ZBrush or equivalent sculpting workflows",
+      "Texture and material creation",
+      "Prior experience working in a games studio as an artist",
+      "Portfolio with released games, demos, or projects"
+    ],
+    "notes": "Lucid Games (Liverpool). 'Liverpool or Remote' — likely UK-based only. Maya-primary toolset is a partial gap vs Shem's Blender background. Requires game studio experience. Apply at jobs@lucidgames.co.uk. Low priority due to UK restriction and game studio experience gap."
+  },
+  {
+    "id": "axis-studios-environment-artist-offsite-2026",
+    "title": "3D Environment Artist (Offsite/Freelance Remote)",
+    "company": "Axis Studios",
+    "location": "Remote (GMT overlap required — UK studio, Glasgow)",
+    "url": "https://axisstudiosgroup.com/careers/jobs/offsite-3d-environment-artist/",
+    "first_seen": "2026-07-18",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Broad background creating hard surface and sculpted environment assets",
+      "Modelling, sculpting, texturing and shading skills",
+      "GMT-overlapping working hours",
+      "Freelance/offsite basis"
+    ],
+    "notes": "Axis Studios (Glasgow, UK) ongoing freelance offsite roster. GMT overlap ideal for Dublin. Listing may be a standing/evergreen opening rather than a specific role. UK studio but freelance contract — EU/Ireland eligibility likely possible. Skills are a general match; tool preference unclear. Contact via Axis Studios careers page. Portfolio-first application."
+  },
+  {
+    "id": "enbarr-vfx-cold-call-2026",
+    "title": "Cold-call target (no public listing)",
+    "company": "Enbarr VFX",
+    "location": "Dublin, Ireland",
+    "url": "https://deadline.com/2026/04/enbarr-ed-bruce-nicholas-murphy-dublin-1236870600/",
+    "first_seen": "2026-07-18",
+    "fit": "high",
+    "status": "skipped",
+    "posting_date": "2026-04-24",
+    "skip_reason": "No public job listing — studio launched April 2026. Cold-call / warm outreach target only.",
+    "requirements": [
+      "High-end VFX: CG environments, aging/de-aging workflows, compositing",
+      "TV drama, feature film, commercials VFX experience",
+      "Part of Dream Machine FX Group (global partner studios)",
+      "Screen Ireland partnership for Irish VFX talent"
+    ],
+    "notes": "Brand new premium Dublin VFX studio launched April 2026, founded by Emmy-winning VFX producer (Game of Thrones, Star Wars: Ahsoka, One Battle After Another) and ECD with 100+ credits (HBO's The Penguin, Shōgun). Partnering with Screen Ireland to nurture Irish digital artists — actively interested in local VFX talent. Strong cold-call target: Studio Meala Disney+ mid-level compositor credit is directly relevant. Reach out via website contact or Screen Ireland connection."
   }
 ]
