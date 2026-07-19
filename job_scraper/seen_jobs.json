@@ -1122,5 +1122,191 @@
       "Screen Ireland partnership for Irish VFX talent"
     ],
     "notes": "Brand new premium Dublin VFX studio launched April 2026, founded by Emmy-winning VFX producer (Game of Thrones, Star Wars: Ahsoka, One Battle After Another) and ECD with 100+ credits (HBO's The Penguin, Shōgun). Partnering with Screen Ireland to nurture Irish digital artists — actively interested in local VFX talent. Strong cold-call target: Studio Meala Disney+ mid-level compositor credit is directly relevant. Reach out via website contact or Screen Ireland connection."
+  },
+  {
+    "id": "kevuru-games-unreal-ta-2026",
+    "title": "Unreal Technical Artist",
+    "company": "Kevuru Games",
+    "location": "Remote (European art production studio)",
+    "url": "https://remotegamejobs.com/jobs/kevuru-games-unreal-technical-artist-remote-job",
+    "first_seen": "2026-07-19",
+    "fit": "medium-high",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Confirmed expired per RemoteGameJobs listing note",
+    "requirements": [
+      "Strong Unreal Engine (Landscape, Lighting, Post-processes, Particle Systems, Physics)",
+      "Materials and shaders in UE",
+      "Basic 3D software: Maya/3D Max/Blender, ZBrush, Substance Painter",
+      "Landscape tools, materials and displacement",
+      "Blueprints, C++/Python (nice-to-have)",
+      "Tool automation scripting (nice-to-have)"
+    ],
+    "notes": "Expired as of search date. Skills would have been a strong match (Unreal, Blender optional, procedural). Monitor Kevuru Games for fresh openings."
+  },
+  {
+    "id": "wilder-world-lighting-vfx-europe-2026",
+    "title": "Lighting/VFX Artist (Remote - Europe)",
+    "company": "Wilder World Inc.",
+    "location": "Remote (Europe-based)",
+    "url": "https://startup.jobs/lighting-vfx-artist-remote-europe-wilder-world-inc-4698769",
+    "first_seen": "2026-07-19",
+    "fit": "medium-high",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Requires mid-to-senior level + minimum 2 shipped AAA 3D game titles — de facto senior and major experience gap",
+    "requirements": [
+      "Mid-to-senior level professional VFX experience in AAA game industry",
+      "Minimum 2 shipped AAA 3D game titles",
+      "Maya, Houdini, or equivalent tools",
+      "Real-time 3D VFX implementation in-game",
+      "VFX optimization within performance budgets",
+      "Collaboration with Art Direction on VFX strategy"
+    ],
+    "notes": "Wilder World building 'Wiami' — first digital city (metaverse/gaming). Strong conceptual match for Shem (VFX, real-time) but AAA shipped title requirement is a hard gap. LinkedIn ID 3897980023 suggests older posting (~2024). Also on ArtStation jobs/62QY."
+  },
+  {
+    "id": "smart-it-frame-3d-ta-2025",
+    "title": "3D Technical Artist (Unreal Engine, Blender, Houdini, Cinema 4D)",
+    "company": "Smart IT Frame LLC",
+    "location": "Cincinnati, Ohio, USA",
+    "url": "https://www.linkedin.com/jobs/view/3d-technical-artist-unreal-engine-blender-houdini-cinema-4d-at-smart-it-frame-llc-4323255267",
+    "first_seen": "2026-07-19",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2025-11-19",
+    "skip_reason": "US-based (Cincinnati) — requires relocation. Posted November 2025 — well outside 14-day window.",
+    "requirements": [
+      "Unreal Engine, Blender, Houdini, Cinema 4D"
+    ],
+    "notes": "Strong skills match on paper but US location and stale posting date make this irrelevant."
+  },
+  {
+    "id": "magic-media-ta-unreal-remote-2026",
+    "title": "Technical Artist (Unreal)",
+    "company": "Magic Media",
+    "location": "Fully Remote",
+    "url": "https://dynamitejobs.com/company/magicmedia/remote-job/technical-artist-unreal",
+    "first_seen": "2026-07-19",
+    "fit": "medium-high",
+    "status": "skipped",
+    "posting_date": "2026-04",
+    "skip_reason": "Posted April 2026 — outside 14-day window. Likely stale.",
+    "requirements": [
+      "Unreal Engine technical art and pipeline development"
+    ],
+    "notes": "Magic Media is a large remote game art outsourcing studio. Skills match is strong but posting is stale. Monitor their careers page for fresh openings."
+  },
+  {
+    "id": "ggpoker-motion-graphic-designer-2026",
+    "title": "Motion Graphic Designer",
+    "company": "GGPoker",
+    "location": "Sandyford, South Dublin (on-site M-F)",
+    "url": "https://www.glassdoor.ie/Job/motion-graphics-designer-jobs-SRCH_IN70_KO0,24.htm",
+    "first_seen": "2026-07-19",
+    "fit": "low",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Adobe After Effects, Premiere Pro, Photoshop, Illustrator (required)",
+      "Cinema 4D (ideal)",
+      "Motion graphics and video editing",
+      "Social media and digital trends knowledge",
+      "Full portfolio of work required"
+    ],
+    "notes": "GGPoker is a global online poker platform. Role is UK-market motion design for brand/social campaigns. On-site 5 days/week Sandyford. No Blender/Unreal. Salary ~€39K-€42K. Low fit: corporate gambling brand, AE-focused, on-site, large team structure. Conflicts with Shem's preference for small technical-creative teams."
+  },
+  {
+    "id": "finfin-play-technical-artist-mobile-2026",
+    "title": "Technical Artist (Mobile Game)",
+    "company": "Finfin Play",
+    "location": "Remote (UK-based studio)",
+    "url": "https://remotegamejobs.com/jobs/finfin-play-technical-artist-mobile-game-remote-job",
+    "first_seen": "2026-07-19",
+    "fit": "low-medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Full requirements not confirmed — mobile game focus (Fashion League)",
+      "Technical art for mobile platform",
+      "Portfolio required"
+    ],
+    "notes": "Finfin Play (England, UK) building Fashion League — free-to-play mobile fashion game. Technical Artist role details unclear from search. Mobile-platform focus is a domain gap for Shem (whose strengths are desktop/Unreal/Blender). Lead Artist role also listed (Lead = skip). Low priority given UK-studio base and mobile domain."
+  },
+  {
+    "id": "iftn-motion-graphics-editor-3979",
+    "title": "Motion Graphics Editor",
+    "company": "Unknown (IFTN posting #3979)",
+    "location": "Ireland",
+    "url": "https://iftn.ie/jobs/?act1=record&aid=18&force=1&only=1&rid=3979&tpl=jobslist",
+    "first_seen": "2026-07-19",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Full requirements not accessible — page blocked from automated access"
+    ],
+    "notes": "Irish Film & TV Network job board. Record ID 3979 is between previously seen #3875 (Designer/3D Artist) and #4150 (Compositor) — posting date likely late June to mid-July 2026. Company name, full spec, and deadline need manual browser check at iftn.ie/jobs. Motion graphics experience is relevant to Shem's background."
+  },
+  {
+    "id": "jam-media-2d-scene-prep-2026",
+    "title": "2D Scene Prep Artist",
+    "company": "Jam Media",
+    "location": "Dublin, Ireland",
+    "url": "https://zerply.com/industry-jobs/2D-Scene-Prep-Artist-Jam-Media-Dublin-29Fe4hq4",
+    "first_seen": "2026-07-19",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "2D-only role — Shem's strengths are 3D/technical. No match.",
+    "requirements": [
+      "2D scene prep for animated production"
+    ]
+  },
+  {
+    "id": "pink-kong-storyboard-artist-2026",
+    "title": "Storyboard Artist",
+    "company": "Pink Kong Studios",
+    "location": "Dublin, Ireland",
+    "url": "https://zerply.com/industry-jobs/Storyboard-Artist-Pink-Kong-Studios-Dublin-29Fe4h6E",
+    "first_seen": "2026-07-19",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Storyboard/2D role — not aligned with Shem's 3D/technical profile.",
+    "requirements": [
+      "Storyboard Artist for TV series, Dublin"
+    ]
+  },
+  {
+    "id": "storytoys-junior-2d-artist-2026",
+    "title": "Junior 2D Artist",
+    "company": "StoryToys",
+    "location": "Dublin, Ireland",
+    "url": "https://zerply.com/industry-jobs/Junior-2D-Artist-StoryToys-Dublin-29Fe4mCI",
+    "first_seen": "2026-07-19",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "2D Adobe Suite role — not aligned with Shem's 3D/technical profile.",
+    "requirements": [
+      "2D art creation using Adobe Suite"
+    ]
+  },
+  {
+    "id": "boulder-media-2d-storyboard-2026",
+    "title": "2D Storyboard Artist",
+    "company": "Boulder Media",
+    "location": "Dublin, Ireland (Remote-friendly)",
+    "url": "https://zerply.com/industry-jobs/2D-Storyboard-Artist-Boulder-Media-Remote-Work-Dublin-29Fe4pdn",
+    "first_seen": "2026-07-19",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "2D storyboard role — not aligned with Shem's 3D/technical profile.",
+    "requirements": [
+      "Storyboard Pro",
+      "2D storyboarding for animation"
+    ]
   }
 ]
