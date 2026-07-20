@@ -1308,5 +1308,216 @@
       "Storyboard Pro",
       "2D storyboarding for animation"
     ]
+  },
+  {
+    "id": "saguni-studio-ta-environment-materials-2026",
+    "title": "Technical Artist — Environment & Materials (Anime ARPG)",
+    "company": "Saguni Studio",
+    "location": "Fully Remote (global)",
+    "url": "https://remotegamejobs.com/jobs/saguni-studio-technical-artist-environment-materials-anime-arpg-remote-job",
+    "first_seen": "2026-07-20",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "~2026-02",
+    "requirements": [
+      "UE5 Material Editor and HLSL",
+      "PBR-compliant material creation for environment assets (props, architecture, terrain)",
+      "Tiling textures, atlases, modular material systems",
+      "Shader profiling and optimisation for PC and mobile",
+      "Establishing material/shader standards and documentation",
+      "Bridges art and engineering — embedded in Art Team"
+    ],
+    "notes": "Saguni Studio building 'Astral Sync' (anime-inspired dark fantasy ARPG). Posting dated ~February 2026 but still listed as 1 of 2 active Saguni jobs as of July 2026. UE5 materials + procedural workflows are a direct match for Shem's Infinity 27 bootcamp skills and Unreal Engine background. Email subject must start with [SSTAMES] to apply. Warning: posting may predate the 14-day cutoff — verify if actively accepting applications."
+  },
+  {
+    "id": "saguni-studio-ta-shaders-2026",
+    "title": "Technical Artist — Shaders (Dark Fantasy Anime ARPG)",
+    "company": "Saguni Studio",
+    "location": "Fully Remote (global)",
+    "url": "https://remotegamejobs.com/jobs/saguni-studio-technical-artist-shaders-dark-fantasy-anime-arpg-remote-job",
+    "first_seen": "2026-07-20",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "~2026-02",
+    "requirements": [
+      "Character shader pipeline in UE5",
+      "HLSL, modular Material Editor system, artist-friendly tools",
+      "PBR-compliant materials for environment assets (expanding scope over time)",
+      "Profiling and optimising shader complexity",
+      "Email subject must start with [SSTACES] to apply"
+    ],
+    "notes": "Saguni Studio (same project as Environment & Materials TA). Character shader focus is less aligned with Shem's profile than the Environment & Materials role. Environment materials scope expands over time. Lower priority than the other Saguni role. Posting ~February 2026 but still active."
+  },
+  {
+    "id": "crows-crows-crows-environment-artist-2026",
+    "title": "3D Environment Artist",
+    "company": "Crows Crows Crows",
+    "location": "Remote, worldwide (UK working hours overlap required: 10:00–16:00)",
+    "url": "https://remotegamejobs.com/jobs/crows-crows-crows-3d-environment-artist-remote-job",
+    "first_seen": "2026-07-20",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Experienced 3D modeller and environment artist",
+      "Modern game engine experience (Unity — assets implemented in Unity)",
+      "Portfolio required",
+      "6-month initial contract",
+      "Prefab structure, naming/folder conventions"
+    ],
+    "notes": "Crows Crows Crows (makers of The Stanley Parable: Ultra Deluxe). Listed as 'expired' on RemoteGameJobs but crowscrowscrows.com/jobs still shows 3D Environment Artist active as of July 2026. Good studio culture fit (small, indie, creative). Key gap: Unity is the engine, not Unreal. Dublin eligible (UK hours from Ireland is seamless). Verify directly at https://crowscrowscrows.com/jobs before applying."
+  },
+  {
+    "id": "verve-live-3d-event-designer-2026",
+    "title": "3D Event Designer",
+    "company": "Verve Live Agency",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://verveliveagency.com/job/3d-event-designer/",
+    "first_seen": "2026-07-20",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "3D design experience, minimum 3-5 years, in events, brand experiences, retail, exhibition spaces",
+      "Primary software: SketchUp, Cinema 4D, Twinmotion (strong rendering)",
+      "VectorWorks, CAD, Adobe Creative Suite advantageous",
+      "Present spatial designs to clients and internal teams"
+    ],
+    "notes": "Verve Live Agency (Dublin HQ; London, Amsterdam, Singapore). Clients include Google, Coca-Cola, TikTok, Diageo. Science Gallery Lifelogging exhibition credit (2014-15) is directly relevant to this experiential/exhibition design role. Software gap: Verve wants Cinema 4D and SketchUp as primaries; Shem's primary is Blender, though Cinema 4D appears in his profile. Confirmed ~10 Verve jobs on Indeed as of July 11, 2026 — posting likely within the 14-day window."
+  },
+  {
+    "id": "black-shamrock-concept-artist-2026",
+    "title": "Concept Artist",
+    "company": "Black Shamrock (a Virtuos Studio)",
+    "location": "Dublin 8, Guinness Enterprise Centre (on-site/hybrid)",
+    "url": "https://startup.jobs/concept-artist-black-shamrock-3447388",
+    "first_seen": "2026-07-20",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "~2026-07",
+    "skip_reason": "Weak fit — Concept Artistry is not Shem's primary discipline. Requires 2+ years professional concept art experience and strong traditional 2D art skills.",
+    "requirements": [
+      "2+ years professional Concept Artist experience",
+      "Strong traditional art: composition, rendering, colour theory, lighting, architecture, anatomy",
+      "Some knowledge of 3D production process; game production a plus"
+    ],
+    "notes": "Active July 2026 alongside the Material & Texture Artist (already tracked). Confirmed 2 Black Shamrock jobs on Indeed as of July 19, 2026."
+  },
+  {
+    "id": "giant-animation-layout-artist-mid-2026",
+    "title": "3D Layout Artist (Mid Level)",
+    "company": "Giant Animation",
+    "location": "Dublin, Ireland (hybrid/remote-flexible; Irish timezone required)",
+    "url": "https://apply.workable.com/giant-animation/j/88C115D81B/apply/",
+    "first_seen": "2026-07-20",
+    "fit": "low-medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Demonstrated experience in 3D/CG Animation Production (series or feature) as previz or layout artist",
+      "Strong knowledge of cinematography, cameras, and lensing",
+      "Proficiency in Maya (primary DCC tool)",
+      "Create proxies, staging, blocking, and camera work from storyboards/animatics"
+    ],
+    "notes": "Giant Animation (Netflix: Kung Fu Panda: Dragon Knight). Also on Zerply: https://zerply.com/industry-jobs/3D-CG-Layout-Artists-Giant-Animation-Remote-Work-Dublin-29Fe4h7D. Different from the already-tracked FX Artist role (id: giant-animation-fx-artist-2026). Key gaps: Maya is primary DCC and role is specifically previz/layout for animation series — not Shem's core strength (real-time viz, VFX compositing, motion design). Visual Communications BA provides some cinematography foundation. Low priority."
+  },
+  {
+    "id": "elephant-goldfish-cold-call-2026",
+    "title": "Cold-call target (no public listing)",
+    "company": "Elephant Goldfish",
+    "location": "Dublin Docklands, Ireland",
+    "url": "https://elephantgoldfish.com",
+    "first_seen": "2026-07-20",
+    "fit": "high",
+    "status": "skipped",
+    "posting_date": "N/A",
+    "skip_reason": "No public job listing — studio launched 2025, actively scaling as of July 2026. Cold-call/warm outreach target only.",
+    "requirements": [
+      "VFX, colour grading, editorial, and audio for film, TV, advertising, animation, and gaming",
+      "High-end VFX for Disney+/HBO/Netflix client targets"
+    ],
+    "notes": "New Dublin VFX studio backed by Molinare Creative Group. Founded by former Windmill Lane Pictures senior executives Deborah Doherty and John Kennedy. Just appointed Des Carey (Lucasfilm, Samsung) as Executive Director, Strategic Growth & Innovation in July 2026 — actively scaling now. Studio Meala Disney+ mid-level compositor credit is a direct match for their target client profile. Small new studio fits Shem's preferred 2-8 person crew environment. Contact: careers@elephantgoldfish.com. Source: https://deadline.com/2026/07/des-carey-elephant-goldfish-lucasfilm-samsung-1236983783/"
+  },
+  {
+    "id": "void-interactive-environment-artist-generic-2026",
+    "title": "Environment Artist (Generic Listing — non-RoN variant)",
+    "company": "VOID Interactive",
+    "location": "Remote — Ireland-primary (FTE); UK/Europe contractor basis",
+    "url": "https://remotegamejobs.com/jobs/void-interactive-environment-artist-remote-job",
+    "first_seen": "2026-07-20",
+    "fit": "high",
+    "status": "skipped",
+    "posting_date": "~2026-04-24",
+    "skip_reason": "Posted April 24, 2026 — outside 14-day window. Distinct URL from the already-tracked 'Ready or Not' variant. Verify directly at https://voidinteractive.net/careers/ before applying.",
+    "requirements": [
+      "In-depth familiarity with Unreal Engine",
+      "Game-ready assets: LODs, texel density, performance budgets",
+      "Autonomous working style",
+      "Ireland-based applicants preferred; EU/UK also considered",
+      "Ideally senior but 'open to exceptional mid-level candidates with strong portfolio'"
+    ],
+    "notes": "Generic VOID Environment Artist listing — separate from the 'Ready or Not' RGJ variant already tracked. Still appearing as active across multiple job boards as of July 2026 despite April post date. 'Open to exceptional mid-level' framing is an explicit opening for Shem."
+  },
+  {
+    "id": "iftn-vfx-producer-4213-2026",
+    "title": "VFX Producer",
+    "company": "Unknown (IFTN posting #4213)",
+    "location": "Ireland",
+    "url": "https://iftn.ie/jobs/?act1=record&aid=18&force=1&only=1&rid=4213&tpl=jobslist",
+    "first_seen": "2026-07-20",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Producer/management role — not an artist position matching Shem's profile.",
+    "requirements": [
+      "Full requirements not accessible — page blocked from automated access"
+    ],
+    "notes": "IFTN record #4213, above the previously seen #4150. VFX Producer title confirmed from search snippet."
+  },
+  {
+    "id": "iftn-ifi-unknown-4227-2026",
+    "title": "Unknown Role",
+    "company": "Unknown / Irish Film Institute (IFTN posting #4227)",
+    "location": "Ireland",
+    "url": "https://www.iftn.ie/jobs/?act1=record&aid=18&rid=4227&only=1&force=1&tpl=jobslist",
+    "first_seen": "2026-07-20",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Context suggests curatorial/admin IFI role — not a creative/technical artist position. Full spec could not be verified.",
+    "requirements": [
+      "Full requirements not accessible — page blocked from automated access"
+    ],
+    "notes": "IFTN record #4227. Search suggests Irish Film Institute curatorial role. Manual verification recommended."
+  },
+  {
+    "id": "iftn-motion-designer-4231-2026",
+    "title": "Motion Designer",
+    "company": "Unknown (IFTN posting #4231)",
+    "location": "Ireland",
+    "url": "https://iftn.ie/jobs/?act1=record&aid=18&force=1&only=1&rid=4231&tpl=jobslist",
+    "first_seen": "2026-07-20",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Full requirements not accessible — page blocked from automated access"
+    ],
+    "notes": "IFTN record #4231 — between #4213 (VFX Producer) and #4251 (Motion Graphics Artist). Motion Designer title is directly relevant to Shem's profile. Company name, full spec, and deadline need manual browser check at iftn.ie/jobs. BA Visual Communications + motion graphics background is strong context."
+  },
+  {
+    "id": "iftn-motion-graphics-artist-4251-2026",
+    "title": "Motion Graphics Artist",
+    "company": "Unknown (IFTN posting #4251)",
+    "location": "Ireland",
+    "url": "https://iftn.ie/jobs/?act1=record&aid=18&force=1&only=1&rid=4251&tpl=jobslist",
+    "first_seen": "2026-07-20",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Full requirements not accessible — page blocked from automated access"
+    ],
+    "notes": "IFTN record #4251 — highest ID seen to date, likely the most recently posted. Motion Graphics Artist is directly relevant to Shem's BA Visual Communications and motion design background. Company name, full spec, and deadline need manual browser check at iftn.ie/jobs. High priority for manual check."
   }
 ]
