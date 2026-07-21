@@ -1519,5 +1519,80 @@
       "Full requirements not accessible — page blocked from automated access"
     ],
     "notes": "IFTN record #4251 — highest ID seen to date, likely the most recently posted. Motion Graphics Artist is directly relevant to Shem's BA Visual Communications and motion design background. Company name, full spec, and deadline need manual browser check at iftn.ie/jobs. High priority for manual check."
+  },
+  {
+    "id": "beffio-realtime-vfx-unreal-2026",
+    "title": "Real-Time VFX Artist — Unreal Engine (Remote/Freelance)",
+    "company": "beffio",
+    "location": "Fully Remote (EU-eligible; Poland-based studio)",
+    "url": "https://www.artstation.com/jobs/VYMo",
+    "first_seen": "2026-07-21",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "UE4/5 Niagara particle system and Cascade",
+      "Shader construction using UE4/5 Material Editor",
+      "Real-time VFX for AAA client game projects",
+      "Strong aesthetic eye and attention to detail",
+      "Ability to take artistic and technical direction"
+    ],
+    "notes": "Beffio is a Polish co-development art studio (AAA clients include EA, Riot, Sony). Remote/freelance worldwide. EU-eligible. Also at careers.beffio.com and skillshot.pl/jobs/33971. Posting date unknown — verify freshness before applying. Gap: AAA gaming focus vs Shem's film/animation background; Studio Meala Disney+ credit is still relevant. Unreal Engine Niagara VFX is a direct match for Shem's procedural/material skills."
+  },
+  {
+    "id": "blue-zoo-blender-environment-prop-2026",
+    "title": "Blender Environment & Prop Artist (Remote/Hybrid)",
+    "company": "Blue Zoo Animation Studio",
+    "location": "Remote/Hybrid (UK-based studio; EU/Ireland eligibility unconfirmed)",
+    "url": "https://careers.blue-zoo.co.uk/vacancies/vacancy-search-results.aspx",
+    "first_seen": "2026-07-21",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Blender (primary DCC for stylised environment and prop assets)",
+      "Create environment and prop assets from concept designs",
+      "Maya and ZBrush (mentioned alongside Blender)",
+      "Collaborative team working and deadline management"
+    ],
+    "notes": "Blue Zoo Animation Studio (Watford, UK — children's animation, CBeebies/Netflix credits). Remote/hybrid option but UK studio — Ireland eligibility unconfirmed (some Blue Zoo variants are UK-regional only). Salary £28.8k–£48k/year. Posting date unknown. Shem's Blender skills are a direct match; stylised animation style is adjacent rather than core territory. Verify Ireland eligibility before applying via careers.blue-zoo.co.uk."
+  },
+  {
+    "id": "black-shamrock-vfx-artist-2025",
+    "title": "VFX Artist",
+    "company": "Black Shamrock (a Virtuos Studio)",
+    "location": "Dublin, Ireland (on-site)",
+    "url": "https://filmlocal.com/job/vfx-artist-new-dublin-black-shamrock-a-virtuos-studio/",
+    "first_seen": "2026-07-21",
+    "fit": "medium-high",
+    "status": "skipped",
+    "posting_date": "2025-03-02",
+    "skip_reason": "Originally posted March 2, 2025 — well outside 14-day window. Also requires '3+ years gaming industry + AAA project' — significant experience gap for Shem.",
+    "requirements": [
+      "3+ years gaming industry experience as VFX Artist on a AAA project",
+      "Niagara particle system (UE5)",
+      "Real-time and software rendering CG VFX",
+      "Maya, After Effects, UE5",
+      "Houdini and Embergen (nice-to-have)"
+    ],
+    "notes": "Separate role from the Black Shamrock AI Technical Animator (already tracked). Still circulating on job boards as of July 2026 but original posting was March 2025. Skills match is strong on paper; AAA gaming experience requirement and stale date are barriers. Monitor for fresh repost."
+  },
+  {
+    "id": "room-8-studio-cinematic-ue-artist-2026",
+    "title": "Cinematic Unreal Engine Artist",
+    "company": "Room 8 Studio",
+    "location": "Remote (Czech Republic, Estonia, Georgia, Latvia, Lithuania, Moldova, Poland, Portugal, Romania, Spain, Turkey)",
+    "url": "https://remotegamejobs.com/jobs/room-8-studio-cinematic-unreal-engine-artist-remote-job",
+    "first_seen": "2026-07-21",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "~2026-05",
+    "skip_reason": "Required languages include Russian and Ukrainian — dealbreaker for Shem (English native only). Ireland not listed as an eligible location.",
+    "requirements": [
+      "UE4/5 shading, lighting, surfacing, cinematic tools, sequencer",
+      "English, Russian, and Ukrainian languages required",
+      "Portfolio demonstrating range of styles"
+    ],
+    "notes": "Room 8 Studio is a large Ukrainian game art outsourcing studio. Cinematic/cutscene UE work is technically aligned with Shem's Unreal background, but Russian/Ukrainian language requirement is a hard dealbreaker."
   }
 ]
