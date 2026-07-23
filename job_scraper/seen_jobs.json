@@ -2017,5 +2017,238 @@
       "Digital FX creation"
     ],
     "notes": "Cartoon Saloon + Mercury Filmworks joint venture. Worth monitoring for future VFX/3D compositor or TD roles."
+  },
+  {
+    "id": "larian-studios-gameplay-vfx-2026",
+    "title": "Gameplay VFX Artist",
+    "company": "Larian Studios",
+    "location": "Dublin, Ireland (on-site)",
+    "url": "https://larian.com/careers",
+    "first_seen": "2026-07-23",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "At least 3-4 years experience as VFX Artist in the video game industry",
+      "At least one shipped console/PC title",
+      "Real-time VFX with realistic style",
+      "Ability to draw, paint, model and animate",
+      "Expertise in creating shaders (node-based material editor)",
+      "Independently creative problem-solver with great attention to detail"
+    ],
+    "notes": "Larian Studios (Baldur's Gate 3 developer) — 3 concurrent VFX openings in Dublin as of July 2026. Gameplay VFX role focuses on spells, environments, and cutscenes. Studio Meala Disney+ compositing credit is the primary bridge to 'shipped title' requirement. Also on gamejobs.co/Gameplay-VFX-Artist-at-Larian-Studios. PRIORITY: apply alongside Cinematics role."
+  },
+  {
+    "id": "larian-studios-vfx-cinematics-2026",
+    "title": "VFX Artist – Cinematics",
+    "company": "Larian Studios",
+    "location": "Dublin, Ireland (on-site)",
+    "url": "https://larian.com/jobs/a2413477-3357-4f3f-9bbd-443598a4fcb0",
+    "first_seen": "2026-07-23",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "At least 3 years experience as VFX Artist in the video game industry",
+      "Experience in modelling and animation",
+      "Expertise in creating shaders (node-based material editor)",
+      "Ability to independently design storyboard VFX",
+      "VFX for cutscenes, environment, gameplay — including textures/materials/shaders"
+    ],
+    "notes": "Larian Studios — Cinematics-focused VFX role. Cutscene VFX maps well to Studio Meala Disney+ compositing background. Requires game industry experience as the key gap. Also on gamejobs.co/VFX-Artist-Cinematics-at-Larian-Studios. Apply simultaneously with Gameplay VFX role."
+  },
+  {
+    "id": "larian-studios-vfx-internship-2026",
+    "title": "VFX Artist Internship",
+    "company": "Larian Studios",
+    "location": "Dublin, Ireland (on-site, 3-month contract)",
+    "url": "https://larian.com/careers/b3920238-e091-4929-b6e7-3a713ad713d2",
+    "first_seen": "2026-07-23",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Strong VFX portfolio — complex real-time VFX, preference for 'Magical VFX'",
+      "Solid understanding of colour, composition and timing",
+      "Variety of styles and types of VFX in portfolio",
+      "Intermediate knowledge of any DCC package",
+      "On-site Dublin required"
+    ],
+    "notes": "3-month contract. No shipped game title required — portfolio-first entry. Shem may be over-qualified for internship level, but it's a direct entry to Larian Dublin and stepping stone to full-time Gameplay VFX or Cinematics roles. Also: VFX Artist Internship — Stage variant listed at larian.com/careers/6bc7f7ca-9771-4400-835e-f5d50b4c0374. Apply only if full roles don't progress — or apply all three simultaneously."
+  },
+  {
+    "id": "roll7-technical-artist-remote-2026",
+    "title": "Technical Artist – Remote Role",
+    "company": "Roll7",
+    "location": "Fully Remote (monthly meetup in central London; travel from Dublin viable)",
+    "url": "https://remotegamejobs.com/jobs/roll7-technical-artist-remote-role-remote-job",
+    "first_seen": "2026-07-23",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unity shaders and graphics tools (primary engine)",
+      "Guide and support Art Team with technical solutions",
+      "Help deliver unique stylised look for new unannounced IP",
+      "Mostly remote (nine out of ten days from home)",
+      "One day a fortnight in London office"
+    ],
+    "notes": "BAFTA-winning OlliOlli studio. Freelance/fixed-term. Primarily remote with London monthly. Key gap: Unity-centric (not Unreal/Blender primary). Monthly London commute from Dublin is short flight — doable. Also at artstation.com/jobs/m9Kb. Equal opportunities employer. Lower priority than Larian roles but worth watching for application alongside."
+  },
+  {
+    "id": "novablocks-3d-artist-remote-2026",
+    "title": "Junior to Mid-Level 3D Artist",
+    "company": "Novablocks",
+    "location": "Fully Remote (Freelance)",
+    "url": "https://www.artstation.com/jobs/kM4m",
+    "first_seen": "2026-07-23",
+    "fit": "low-medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Creating low poly props, characters, and environments",
+      "Freelance basis",
+      "3D modeling skills"
+    ],
+    "notes": "Limited details available from search results. Low-poly scope and junior level suggest a modest rate. Worth investigating directly via ArtStation link to confirm software requirements and EU eligibility. Consider as freelance supplement alongside primary job search."
+  },
+  {
+    "id": "eram-games-3d-artist-remote-2026",
+    "title": "3D Artist",
+    "company": "Eram Games",
+    "location": "Remote (US studio — Los Angeles, CA)",
+    "url": "https://www.artstation.com/jobs/glzo",
+    "first_seen": "2026-07-23",
+    "fit": "low-medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "3D modeling and texturing with thorough understanding of workflows and methods",
+      "Work closely with Art Director on ambitious new narrative action-adventure project",
+      "Viable workflows to create 3D game assets",
+      "Comfort with version control (Perforce, Git)"
+    ],
+    "notes": "Independent action-adventure narrative game studio formed 2020, LA-based. Remote listing but US company — timezone and contract eligibility unconfirmed for Ireland. Worth verifying EU/Ireland eligibility before investing time. Also has a 3D Animator opening at artstation.com/jobs/Lq21."
+  },
+  {
+    "id": "super-spline-studios-junior-animator-2026",
+    "title": "Junior 3D Games Animator – Permanent",
+    "company": "Super Spline Studios",
+    "location": "Remote (Europe; UK studio based in Leamington Spa)",
+    "url": "https://remotegamejobs.com/jobs/super-spline-studios-junior-3d-games-animator-permanent-remote-job",
+    "first_seen": "2026-07-23",
+    "fit": "low-medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Creative spark and passion for learning",
+      "3D games animation",
+      "Showreel required"
+    ],
+    "notes": "UK animation co-development studio (Leamington Spa). Fully remote, EU-eligible. Zero crunch policy, annual profit share, training subsidies. Permanent role. Key gap: animation-specialist focus — Shem's strengths are 3D generalist/technical art, not character animation. Junior level. Apply via email with 'Junior Animator' subject line and showreel. Also recruiting Lead and Freelance animators."
+  },
+  {
+    "id": "iftn-windmill-lane-4115-2026",
+    "title": "Unknown Role (IFTN #4115)",
+    "company": "Windmill Lane",
+    "location": "Dublin, Ireland",
+    "url": "https://iftn.ie/jobs/?act1=record&aid=18&force=1&only=1&rid=4115&tpl=jobslist",
+    "first_seen": "2026-07-23",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Full requirements not accessible — page blocked from automated access"
+    ],
+    "notes": "Irish Film & TV Network record #4115 for Windmill Lane. Role title and requirements need manual browser check at iftn.ie/jobs. Windmill Lane is one of Shem's cold-call targets (wlvfx-is-hiring page lists Motion Designer, CG Artist, FX Artist among open roles). A Compositor role is already tracked at windmill-lane-compositor-netflix-2026. This may be a different or older role."
+  },
+  {
+    "id": "iftn-windmill-lane-pictures-4209-2026",
+    "title": "Unknown Role (IFTN #4209)",
+    "company": "Windmill Lane Pictures",
+    "location": "Dublin, Ireland",
+    "url": "https://iftn.ie/jobs/?act1=record&aid=18&force=1&only=1&rid=4209&tpl=jobslist",
+    "first_seen": "2026-07-23",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Full requirements not accessible — page blocked from automated access"
+    ],
+    "notes": "Irish Film & TV Network record #4209 for Windmill Lane Pictures (the post-production and commercial arm, distinct from WLVFX). Role title and requirements need manual browser check at iftn.ie/jobs. Record #4209 is between the already-tracked #4213 (VFX Producer) and #4150 (Compositor), suggesting a mid-July 2026 posting. Different entity from WLVFX — Windmill Lane Pictures covers commercial, post-production, and music video work."
+  },
+  {
+    "id": "tobspr-games-3d-blender-artist-2026",
+    "title": "3D Blender Artist",
+    "company": "tobspr Games",
+    "location": "Fully Remote",
+    "url": "https://remotegamejobs.com/jobs/tobspr-games-3d-blender-artist-remote-job",
+    "first_seen": "2026-07-23",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Confirmed expired per search results (Shapez 2 released April 2026; modelling work complete)",
+    "requirements": [
+      "3D modelling of Shapez 2 assets in Blender",
+      "Freelance, flexible hours"
+    ],
+    "notes": "tobspr Games (Shapez 2 developer). Blender-first freelance scope would have been a strong match. Monitor for future projects."
+  },
+  {
+    "id": "giant-animation-colour-artist-2026",
+    "title": "Colour Artist",
+    "company": "Giant Animation",
+    "location": "Dublin, Ireland (remote-flexible; Irish timezone required)",
+    "url": "https://apply.workable.com/giant-animation/j/DCD6B0EB6A/apply/",
+    "first_seen": "2026-07-23",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "2D colour design role — creating flat colour paintings, colour scripts, and 2D renderings. Not aligned with Shem's 3D/technical profile.",
+    "requirements": [
+      "Flat colour paintings and 2D renderings for animated projects",
+      "Colour scripts for lighting and texturing department",
+      "Colour boards, colour breakouts, texture callouts",
+      "Presentation materials for creative direction"
+    ],
+    "notes": "Giant Animation full-time (Netflix: Kung Fu Panda: Dragon Knight). LinkedIn job ID 3623329562 — may be an older opening. Shem's art direction background (Science Gallery) is adjacent but the role is 2D colour specialist work."
+  },
+  {
+    "id": "ufx-studios-compositor-brussels-2026",
+    "title": "Compositor (Mid level)",
+    "company": "UFX Studios",
+    "location": "Brussels/Genval, Belgium (on-site)",
+    "url": "https://jobvfx.com/jobs/compositor-brussels-belgium-july-15-2026-ufx-studios/",
+    "first_seen": "2026-07-23",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2026-07-15",
+    "skip_reason": "On-site Brussels/Belgium — requires relocation from Dublin. Dealbreaker per location filter.",
+    "requirements": [
+      "Assemble and finalize VFX shots for film/series (CG elements, live-action plates, FX passes, matte paintings)",
+      "Colour matching, keying, tracking, roto/paint, clean-up, AOV integration",
+      "Nuke compositing (implied by company specialization)",
+      "Freelance contract, start ASAP",
+      "Project up to 60% financed with Belgian incentives"
+    ],
+    "notes": "UFX Studios (Brussels). Posted July 15, 2026 — within 14-day window but on-site Belgium location rules it out. Studio Meala Disney+ compositing background is directly relevant to the role. Monitor if UFX ever posts remote compositor roles. Also: VXF Compositor Mid/Senior role open at ufxstudios.com/job/vxf-compositor-mid-senior/"
+  },
+  {
+    "id": "msg-sphere-studios-ta-2026",
+    "title": "Technical Artist",
+    "company": "MSG Sphere Studios",
+    "location": "Remote (US company — Burbank, CA)",
+    "url": "https://www.artstation.com/jobs/NerD",
+    "first_seen": "2026-07-23",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "US company (Burbank, CA) — remote listing but US-centric timezone and employment structure. EU/Ireland contractor eligibility unconfirmed.",
+    "requirements": [
+      "Push visual quality to the next level with tools and creative assets",
+      "Multi-sensory immersive entertainment content for MSG Sphere venue (Las Vegas)",
+      "Technical Art supporting large-scale immersive venue content"
+    ],
+    "notes": "MSG Sphere Studios creates multi-sensory immersive content for the Las Vegas Sphere dome. Conceptually very aligned with Shem's Unreal Engine immersive experience background but US-based. Monitor if they open EU-specific remote roles in future."
   }
 ]
