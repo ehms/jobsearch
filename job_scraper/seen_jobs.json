@@ -2250,5 +2250,217 @@
       "Technical Art supporting large-scale immersive venue content"
     ],
     "notes": "MSG Sphere Studios creates multi-sensory immersive content for the Las Vegas Sphere dome. Conceptually very aligned with Shem's Unreal Engine immersive experience background but US-based. Monitor if they open EU-specific remote roles in future."
+  },
+  {
+    "id": "beffio-unreal-engine-artist-env-2026",
+    "title": "Unreal Engine Artist / Environment Artist",
+    "company": "beffio",
+    "location": "Fully Remote or On-site (Poland-based studio)",
+    "url": "https://www.artstation.com/jobs/YbXM",
+    "first_seen": "2026-07-24",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Proficiency in Unreal Engine (environment art focus)",
+      "Creating stunning biomes and bringing worlds to life",
+      "Strong 3D art skills in environment creation",
+      "Remote or on-site flexibility"
+    ],
+    "notes": "Separate role from beffio-realtime-vfx-unreal-2026 (VYMo = VFX Artist) and beffio-3d-ta-unity-2026 (ONEJ = Unity3D TA). This role (YbXM) focuses on Unreal Engine environment/biome creation — direct match for Shem's Unreal Engine advanced skills and procedural workflows. beffio is a Polish co-dev studio (EA, Riot, Sony clients). Full requirements blocked via ArtStation 403; verify directly at artstation.com/jobs/YbXM. Also at beffio.com/careers."
+  },
+  {
+    "id": "beffio-3d-ta-unity-2026",
+    "title": "3D Technical Artist (Unity3D, Mid/Senior)",
+    "company": "beffio",
+    "location": "Fully Remote (Poland-based studio)",
+    "url": "https://www.artstation.com/jobs/ONEJ",
+    "first_seen": "2026-07-24",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2025-04",
+    "skip_reason": "Posted April 2025 — outside 14-day window. Unity3D primary (not Unreal/Blender). 5+ years experience required — de facto senior.",
+    "requirements": [
+      "5+ years Technical Artist in gaming or related industries",
+      "Unity3D (Unity 6+, URP, HDRP, SRP) — primary engine",
+      "Unreal Engine experience (occasional, secondary)",
+      "Houdini for procedural generation",
+      "C#, HLSL, Python scripting"
+    ],
+    "notes": "Unity primary role — significant toolset gap vs Shem's Unreal/Blender stack. Senior-level experience expectations (5+ years). Stale posting from April 2025. Also at skillshot.pl/jobs/36366. Monitor beffio careers for Unreal-primary or Blender-primary roles — the YbXM role is the better fit."
+  },
+  {
+    "id": "sketchbook-games-ta-unreal-2026",
+    "title": "Technical Artist / Unreal Developer",
+    "company": "Sketchbook Games",
+    "location": "Remote (UK-ONLY — applicants must be UK-based)",
+    "url": "https://remotegamejobs.com/jobs/sketchbook-games-uk-based-technical-artist-unreal-developer-remote-job",
+    "first_seen": "2026-07-24",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Applicants must be UK-based — explicit requirement due to funding restrictions and monthly London meetups. Not Dublin-eligible.",
+    "requirements": [
+      "Unreal Engine 5 (shipping commercial games as TA with UE5 required)",
+      "3D software: Blender, Maya, 3DS Max",
+      "UK-based only",
+      "6-month freelance contract, full or part-time",
+      "Monthly London co-working day"
+    ],
+    "notes": "BAFTA-winning indie studio. Strong Unreal + Blender skills match, but UK-only restriction is a hard dealbreaker. Monitor for Ireland-eligible variants if funding situation changes."
+  },
+  {
+    "id": "dreamworld-unreal-ta-2026",
+    "title": "Unreal Engine Technical Artist",
+    "company": "DreamWorld",
+    "location": "Redwood City, CA, USA (remote but US-centric)",
+    "url": "https://remotegamejobs.com/jobs/dreamworld-unreal-engine-technical-artist-remote-job",
+    "first_seen": "2026-07-24",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "US company (Redwood City, CA) — EU/Ireland contractor eligibility unconfirmed. US-centric role scope.",
+    "requirements": [
+      "Unreal Engine 5 proficiency",
+      "Performance optimization: Nanite, Lumen, shaders, lighting, VFX",
+      "First Technical Artist hire — own the full art pipeline",
+      "Fast iteration, performance-first mindset"
+    ],
+    "notes": "Y Combinator-backed startup. Conceptually strong Unreal Engine + pipeline match for Shem but US employment structure likely prevents remote-from-Ireland. Monitor if DreamWorld opens EU-eligible roles."
+  },
+  {
+    "id": "hyperhug-3d-env-prop-artist-2026",
+    "title": "3D Environment & Prop Artist",
+    "company": "HyperHug",
+    "location": "Fully Remote (worldwide — Cyprus-based studio)",
+    "url": "https://jobs.ashbyhq.com/hyperhug/bd5519f4-95f9-4c0b-90f2-b191e290b1af",
+    "first_seen": "2026-07-24",
+    "fit": "low-medium",
+    "status": "skipped",
+    "posting_date": "2026-06",
+    "skip_reason": "Posted June 2026 — outside 14-day window (~54 days old). Also mobile survival shooter (Oxide: Survival Island) is a domain gap.",
+    "requirements": [
+      "High-quality 3D environment assets and props from concept to in-game implementation",
+      "Modular asset kits for efficient world building",
+      "Mobile multiplayer survival shooter (Oxide: Survival Island)",
+      "Remote worldwide"
+    ],
+    "notes": "Salary $85K-$105K USD. Fully remote worldwide. Cyprus studio — EU-friendly. Mobile focus is a gap vs Shem's desktop/Unreal/Blender background. Monitor for future openings when posts are fresher."
+  },
+  {
+    "id": "sarepta-studio-junior-ta-ue4-2026",
+    "title": "Junior Technical/VFX Artist (UE4)",
+    "company": "Sarepta Studio",
+    "location": "Hamar, Norway (on-site / hybrid)",
+    "url": "https://remotegamejobs.com/jobs/sarepta-studio-junior-technical-vfx-artist-ue4-remote-job",
+    "first_seen": "2026-07-24",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Confirmed expired. Norway on-site position — not Dublin-eligible remote. Junior level below Shem's experience.",
+    "requirements": [
+      "Unreal Engine 4 (technical VFX context)",
+      "Junior level",
+      "Hamar, Norway on-site/hybrid"
+    ],
+    "notes": "Sarepta Studio (10 person team, Hamar Norway). Small indie studio making atmospheric narrative games. Posting expired. Apply: catharina.bohler@sareptastudio.com for future roles."
+  },
+  {
+    "id": "eu-production-residency-3d-modeler-2026",
+    "title": "3D Modeler – Film Production Residency (60 Vacancies / IMDb Credit)",
+    "company": "EU Production Residency 2026",
+    "location": "Bucharest, Romania (on-site, travel included)",
+    "url": "https://www.artstation.com/jobs/5yVB",
+    "first_seen": "2026-07-24",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "On-site Bucharest, Romania — requires relocation from Dublin. Junior-level residency scope.",
+    "requirements": [
+      "Junior 3D artist for international feature film production",
+      "60 vacancies available",
+      "On-site Bucharest, Romania (travel included)",
+      "IMDb credit on completed feature film",
+      "World Building focus"
+    ],
+    "notes": "High-intensity junior residency program for an international feature film. Strong concept (film credit, collaborative world building) but requires physical presence in Bucharest. Not viable given Shem's Dublin location constraint."
+  },
+  {
+    "id": "ghost-vfx-compositor-zerply-2026",
+    "title": "Compositor",
+    "company": "Ghost VFX",
+    "location": "Copenhagen, Denmark (remote possible)",
+    "url": "https://zerply.com/industry-jobs/Ghost-VFX-Compositor-29Fe1SaP",
+    "first_seen": "2026-07-24",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Nuke compositor primary requirement — significant toolset gap for Shem (Blender/Fusion compositor background). Zerply ID (29Fe1SaP) suggests older posting.",
+    "requirements": [
+      "2+ years VFX production experience using Nuke",
+      "Photo-real / live-action VFX pipeline",
+      "Commercial, TV, or feature film credits"
+    ],
+    "notes": "Ghost VFX (Copenhagen, part of Streamland Media). Remote possible. Studio Meala Disney+ compositing credit is directly relevant, but Nuke proficiency requirement is a key gap. Monitor for Fusion-acceptable or DCC-flexible compositor roles at Ghost VFX."
+  },
+  {
+    "id": "reanimated-digital-environment-artist-2026",
+    "title": "3D Environment Artist – Unannounced MMORPG",
+    "company": "Reanimated Digital",
+    "location": "Fully Remote (worldwide)",
+    "url": "https://remotegamejobs.com/jobs/reanimated-digital-environment-artist-unannounced-game-remote-job",
+    "first_seen": "2026-07-24",
+    "fit": "low-medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Unity engine required. LinkedIn posts for Reanimated Digital suggest posting predates 2024 — likely stale.",
+    "requirements": [
+      "Unity engine for 3D environment art",
+      "High-quality environment assets for MMORPG",
+      "Natural and architectural environment specialization",
+      "International remote studio — timezone flexible"
+    ],
+    "notes": "Reanimated Digital — indie MMORPG studio with secured funding. Unity-centric (not Unreal/Blender-primary). Posting age unclear; company's other Unity Developer posting predates 2024. Low priority."
+  },
+  {
+    "id": "midow-studios-3d-art-generalist-2026",
+    "title": "3D Art Generalist",
+    "company": "Midow Studios",
+    "location": "Fully Remote (EU, CEST±2 timezone — Malta studio)",
+    "url": "https://remotegamejobs.com/jobs/midow-studios-3d-art-generalist-remote-job-6f7c7152-c7fd-439e-aa05-ab955ce3348a",
+    "first_seen": "2026-07-24",
+    "fit": "low-medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Same studio as already-tracked midow-studios-3d-game-artist-2026 (expired). Unity VR game, stylized art, Malta-based. Posting status likely expired alongside the other Midow role.",
+    "requirements": [
+      "Mid to Senior level",
+      "3D modeling, rigging, animation, VFX",
+      "Unity engine (primary)",
+      "VR-ready asset creation",
+      "Stylized 3D art for fantasy magic-themed VR title",
+      "EU timezone (CEST±2)"
+    ],
+    "notes": "Midow Studios (Malta, VR game Discovery of Magic). Salary €25K-€30K. EU-eligible remote. Unity/VR focus is a domain gap vs Shem's Unreal/film pipeline background. Stylized art style also differs from portfolio. Combined with likely stale status, low priority."
+  },
+  {
+    "id": "classdojo-3d-prop-environment-artist-2026",
+    "title": "3D Prop / Environment Artist (Mobile)",
+    "company": "ClassDojo",
+    "location": "Fully Remote (US company — San Francisco)",
+    "url": "https://remotegamejobs.com/jobs/classdojo-3d-prop-environment-artist-mobile-remote-job",
+    "first_seen": "2026-07-24",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Mobile educational game platform (US company). Domain gap: not film/VFX/games; educational tech context. Mobile platform optimization is a gap. Date unclear — may be stale.",
+    "requirements": [
+      "3D modeling, UV mapping, texture painting for mobile",
+      "Game industry experience in 3D art",
+      "Traditional art skills (sketching/drawing)",
+      "Building art pipeline from scratch",
+      "Freelance, ongoing basis"
+    ],
+    "notes": "ClassDojo is an educational technology platform used by 51M+ users. Mobile game scope. Freelance, ongoing. Low creative-tech depth vs Shem's VFX/real-time background. US company may present payment complexity for Irish contractor."
   }
 ]
