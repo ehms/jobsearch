@@ -98,7 +98,7 @@
       "Understanding of Unity pipelines for importing and optimizing 3D assets",
       "Portfolio demonstrating 3D character/environment work"
     ],
-    "notes": "Salary £40K-£45K. Dublin office option. Posted ~3 weeks ago (borderline 14-day window). Unity pipeline is less aligned with Shem's Unreal/Blender background but Maya equivalent acceptable. Character art focus."
+    "notes": "Salary \u00a340K-\u00a345K. Dublin office option. Posted ~3 weeks ago (borderline 14-day window). Unity pipeline is less aligned with Shem's Unreal/Blender background but Maya equivalent acceptable. Character art focus."
   },
   {
     "id": "brown-bag-films-3d-environment-modelling-2026",
@@ -178,7 +178,7 @@
       "Real-time lighting and atmospheric effects",
       "Asset reuse and scene optimization"
     ],
-    "notes": "12-month FTC, €48K-€62K. Skills are a very strong match for Shem apart from seniority. Worth monitoring for non-senior future openings."
+    "notes": "12-month FTC, \u20ac48K-\u20ac62K. Skills are a very strong match for Shem apart from seniority. Worth monitoring for non-senior future openings."
   },
   {
     "id": "larian-studios-vfx-artist-2026",
@@ -266,7 +266,7 @@
       "DCC tools: Blender, Maya, or 3DS Max",
       "Shader development and material creation"
     ],
-    "notes": "€39K-€62K. Skills are close to Shem's profile but years of experience requirement is a barrier. Strong PCG/procedural match conceptually."
+    "notes": "\u20ac39K-\u20ac62K. Skills are close to Shem's profile but years of experience requirement is a barrier. Strong PCG/procedural match conceptually."
   },
   {
     "id": "nightdive-studios-environment-artist-2025",
@@ -606,7 +606,7 @@
       "Collaboration with art/engineering teams",
       "Must be Dublin-based or eligible to work in Dublin"
     ],
-    "notes": "CG children's animation studio in central Dublin. Also recruiting Unreal CG Supervisor, 3D Generalist, Concept Artist. Apply via jobs@littlemoonanimation.com with portfolio/reel. Exact posting date unverified — could be standing opening. Dublin location is ideal for Shem."
+    "notes": "CG children's animation studio in central Dublin. Also recruiting Unreal CG Supervisor, 3D Generalist, Concept Artist. Apply via jobs@littlemoonanimation.com with portfolio/reel. Exact posting date unverified \u2014 could be standing opening. Dublin location is ideal for Shem."
   },
   {
     "id": "little-moon-animation-3d-generalist-2026",
@@ -636,7 +636,7 @@
     "fit": "medium",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "Old LinkedIn job ID (3423633712 — circa 2022–23); posting date unverifiable and likely stale",
+    "skip_reason": "Old LinkedIn job ID (3423633712 \u2014 circa 2022\u201323); posting date unverifiable and likely stale",
     "requirements": [
       "Proficiency in Blender, 3DS Max, or Maya",
       "3D sculpting, retopology, UV and texturing",
@@ -655,9 +655,9 @@
     "fit": "medium",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "Nuke compositing required — gap in Shem's primary toolset (Blender-native compositor); posting date unverifiable (content references 2022–23 productions)",
+    "skip_reason": "Nuke compositing required \u2014 gap in Shem's primary toolset (Blender-native compositor); posting date unverifiable (content references 2022\u201323 productions)",
     "requirements": [
-      "2–3 years compositing experience at a VFX facility using Nuke",
+      "2\u20133 years compositing experience at a VFX facility using Nuke",
       "Compositing live action with CG elements",
       "Multi-channel EXR workflow",
       "3D space compositing",
@@ -668,7 +668,7 @@
   },
   {
     "id": "chillhop-music-3d-environment-artist-2026",
-    "title": "3D Environment Modeling Artist (Blender → Three.js)",
+    "title": "3D Environment Modeling Artist (Blender \u2192 Three.js)",
     "company": "Chillhop Music",
     "location": "Remote (Netherlands-based)",
     "url": "https://www.artstation.com/jobs/PL5e",
@@ -676,7 +676,7 @@
     "fit": "medium",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "Q1–Q2 2026 ramp-up timeline — project window has passed; also requires Three.js integration (skill gap)",
+    "skip_reason": "Q1\u2013Q2 2026 ramp-up timeline \u2014 project window has passed; also requires Three.js integration (skill gap)",
     "requirements": [
       "Blender for 3D environment modeling (transform 2D illustrated cityscapes into 3D)",
       "Three.js integration for interactive web experiences",
@@ -687,7 +687,7 @@
   },
   {
     "id": "iconem-3d-artist-blender-unreal-2026",
-    "title": "3D Artist — Blender & Unreal (CDD 8 mois)",
+    "title": "3D Artist \u2014 Blender & Unreal (CDD 8 mois)",
     "company": "Iconem",
     "location": "Remote / France",
     "url": "https://www.artstation.com/jobs/Mdvz",
@@ -695,9 +695,9 @@
     "fit": "low",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "Requires fluency in written and spoken French — dealbreaker for Shem (English native only)",
+    "skip_reason": "Requires fluency in written and spoken French \u2014 dealbreaker for Shem (English native only)",
     "requirements": [
-      "Fluency in French (written and spoken) — required",
+      "Fluency in French (written and spoken) \u2014 required",
       "Mastery of Blender and Unreal",
       "8-month fixed-term contract"
     ],
@@ -705,7 +705,7 @@
   },
   {
     "id": "binance-junior-motion-designer-europe-2026",
-    "title": "Junior Motion Designer — Europe/UAE",
+    "title": "Junior Motion Designer \u2014 Europe/UAE",
     "company": "Binance",
     "location": "Remote (Europe/UAE)",
     "url": "https://ie.linkedin.com/jobs/view/junior-motion-designer-europe-uae-at-binance-4287506035",
@@ -713,18 +713,18 @@
     "fit": "low",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "Requires bilingual English/Mandarin — dealbreaker for Shem (English native only)",
+    "skip_reason": "Requires bilingual English/Mandarin \u2014 dealbreaker for Shem (English native only)",
     "requirements": [
       "2+ years motion design experience",
       "Adobe After Effects, Premiere Pro, Photoshop",
       "Cinema 4D, Blender, or AI video tools (nice-to-have)",
-      "Bilingual English/Mandarin — required"
+      "Bilingual English/Mandarin \u2014 required"
     ],
     "notes": "Crypto exchange. Motion designer role is adjacent but language requirement is a hard block."
   },
   {
     "id": "3cubed-3d-animator-vr-ireland-2026",
-    "title": "3D Animator — VR Development Studio",
+    "title": "3D Animator \u2014 VR Development Studio",
     "company": "3Cubed Search (client: VR studio)",
     "location": "Ireland (remote)",
     "url": "https://remotegamejobs.com/jobs/3cubed-search-3d-animator-vr-development-studio-ireland-remote-job",
@@ -750,7 +750,7 @@
     "fit": "high",
     "status": "skipped",
     "posting_date": "2021-05",
-    "skip_reason": "Hiring announcement from May 2021 — stale. Other roles mentioned (Senior Nuke Artist, Animator Lead – Senior Level) also senior-excluded",
+    "skip_reason": "Hiring announcement from May 2021 \u2014 stale. Other roles mentioned (Senior Nuke Artist, Animator Lead \u2013 Senior Level) also senior-excluded",
     "notes": "Windmill Lane is one of Shem's cold-call targets. WLVFX roles referenced: Motion Designer, FX Artist, CG Artist, Pipeline TD, Senior Nuke Artist, Senior Coordinator, Animator Lead. Monitor their careers page for current openings. Worth a direct outreach."
   },
   {
@@ -763,14 +763,14 @@
     "fit": "medium",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "Old LinkedIn job ID (3166373570 — circa 2021–22); posting date unverifiable and likely stale. Also requires Maya, Nuke, Cinema4D as primary tools.",
+    "skip_reason": "Old LinkedIn job ID (3166373570 \u2014 circa 2021\u201322); posting date unverifiable and likely stale. Also requires Maya, Nuke, Cinema4D as primary tools.",
     "requirements": [
       "Maya, Nuke, 3D Studio Max, After Effects, Cinema4D, Unity, Unreal, Autocad, ZBrush",
       "3D modeling and motion graphics",
       "Visual storytelling and conceptual thinking",
       "Collaborative creative environment"
     ],
-    "notes": "Brand experience agency (retail, luxury, tech) with Dublin HQ + SF/London offices. Interesting sector. Monitor for fresh postings — would suit Shem's technical-creative background."
+    "notes": "Brand experience agency (retail, luxury, tech) with Dublin HQ + SF/London offices. Interesting sector. Monitor for fresh postings \u2014 would suit Shem's technical-creative background."
   },
   {
     "id": "piranha-bar-compositor-vfx-2019",
@@ -782,7 +782,7 @@
     "fit": "medium",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "LinkedIn job ID 1506524631 — circa 2019. Very stale posting.",
+    "skip_reason": "LinkedIn job ID 1506524631 \u2014 circa 2019. Very stale posting.",
     "requirements": [
       "Autodesk Flame (preferred) or Nuke Studio",
       "Live action compositing experience",
@@ -807,7 +807,7 @@
       "EU work eligibility required",
       "Option to work in-house (Dublin) or fully remote"
     ],
-    "notes": "Windmill Lane is one of Shem's cold-call targets. Stop-motion Netflix feature — strong fit given Studio Meala Disney+ mid-level compositing credit. 'All levels' is encouraging. Verify toolset requirements directly. Also via studio hiring page: https://www.windmilllane.com/wlvfx-is-hiring/"
+    "notes": "Windmill Lane is one of Shem's cold-call targets. Stop-motion Netflix feature \u2014 strong fit given Studio Meala Disney+ mid-level compositing credit. 'All levels' is encouraging. Verify toolset requirements directly. Also via studio hiring page: https://www.windmilllane.com/wlvfx-is-hiring/"
   },
   {
     "id": "pixaera-technical-artist-unreal-2026",
@@ -825,7 +825,7 @@
       "Procedural content generation experience",
       "XR/VR development background"
     ],
-    "notes": "Safety training XR platform for frontline workers in high-risk industries. Predicted salary $72K-$108K USD. 25 days holiday. LinkedIn ID 4318503820 (high number suggests 2026). Glassdoor notes '30+ days' — verify freshness before applying. Also at: https://talents.vaia.com/companies/pixaera-inc/technical-artist-ai-unreal-38059146/"
+    "notes": "Safety training XR platform for frontline workers in high-risk industries. Predicted salary $72K-$108K USD. 25 days holiday. LinkedIn ID 4318503820 (high number suggests 2026). Glassdoor notes '30+ days' \u2014 verify freshness before applying. Also at: https://talents.vaia.com/companies/pixaera-inc/technical-artist-ai-unreal-38059146/"
   },
   {
     "id": "giant-animation-fx-artist-2026",
@@ -880,7 +880,7 @@
       "Unreal Engine VFX workflows",
       "Right to work in Ireland required"
     ],
-    "notes": "12-month FTC. Brown Bag Films is one of Shem's cold-call targets. CAUTION: Brown Bag Facebook post referred to this as 'Senior FX Artist' — verify seniority level before applying. Unreal Engine VFX is a direct skill match. Studio Meala Disney+ compositing credit relevant."
+    "notes": "12-month FTC. Brown Bag Films is one of Shem's cold-call targets. CAUTION: Brown Bag Facebook post referred to this as 'Senior FX Artist' \u2014 verify seniority level before applying. Unreal Engine VFX is a direct skill match. Studio Meala Disney+ compositing credit relevant."
   },
   {
     "id": "brown-bag-films-rigger-2026",
@@ -899,7 +899,7 @@
       "Create secondary dynamics systems",
       "Right to work in Ireland required"
     ],
-    "notes": "Confirmed posted July 10, 2026 (within 14-day window). 4-month FTC. Shem has Blender Rigify and character rigging knowledge, but this is a specialist rigger role requiring dedicated broadcast/feature film rigging experience. Partial match — rigging skills present but not primary specialty."
+    "notes": "Confirmed posted July 10, 2026 (within 14-day window). 4-month FTC. Shem has Blender Rigify and character rigging knowledge, but this is a specialist rigger role requiring dedicated broadcast/feature film rigging experience. Partial match \u2014 rigging skills present but not primary specialty."
   },
   {
     "id": "accenture-ai-creative-technologist-2026",
@@ -917,7 +917,7 @@
       "Interactive design skills",
       "Creative technology background"
     ],
-    "notes": "Accenture Song is the creative arm of Accenture. Predicted salary €50K-€70K. Midweight level. Creative tech skills match Shem's profile well; however Accenture is a large global consultancy — likely large team structure (against Shem's small-crew preference). Also at: https://uk.linkedin.com/jobs/view/creative-technologist-at-accenture-uk-ireland-4069394430"
+    "notes": "Accenture Song is the creative arm of Accenture. Predicted salary \u20ac50K-\u20ac70K. Midweight level. Creative tech skills match Shem's profile well; however Accenture is a large global consultancy \u2014 likely large team structure (against Shem's small-crew preference). Also at: https://uk.linkedin.com/jobs/view/creative-technologist-at-accenture-uk-ireland-4069394430"
   },
   {
     "id": "iftn-compositor-4150-2026",
@@ -930,7 +930,7 @@
     "status": "new",
     "posting_date": "unknown",
     "requirements": [
-      "Full requirements not accessible — page blocked from automated access"
+      "Full requirements not accessible \u2014 page blocked from automated access"
     ],
     "notes": "Irish Film & TV Network job board. Record ID 4150 is higher than previously seen #3875, suggesting a more recent posting. Company name, full spec, and deadline need manual browser check at iftn.ie/jobs. Studio Meala Disney+ compositing credit is directly relevant."
   },
@@ -950,7 +950,7 @@
       "Stylized sci-fi aesthetic",
       "EST timezone overlap preferred"
     ],
-    "notes": "Project: MEANWHILE IN SECTOR 80 (stylized sci-fi indie). Small team of 5. 4-month contract, $25-35/hr USD. Blender is a strong skills match. EST timezone requirement (5-6hr difference from Dublin) is a significant constraint — lower priority for this reason."
+    "notes": "Project: MEANWHILE IN SECTOR 80 (stylized sci-fi indie). Small team of 5. 4-month contract, $25-35/hr USD. Blender is a strong skills match. EST timezone requirement (5-6hr difference from Dublin) is a significant constraint \u2014 lower priority for this reason."
   },
   {
     "id": "brown-bag-films-pipeline-td-2026",
@@ -962,7 +962,7 @@
     "fit": "medium-high",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "Technical Director level — de facto senior. Salary €65K-€75K and TD title indicate seniority above mid-level filter.",
+    "skip_reason": "Technical Director level \u2014 de facto senior. Salary \u20ac65K-\u20ac75K and TD title indicate seniority above mid-level filter.",
     "requirements": [
       "Expert Unreal Engine knowledge (materials, lighting, grooms/hair, sequencing, optimization)",
       "Strong Python skills, Blueprint, MEL",
@@ -982,7 +982,7 @@
     "fit": "medium",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "Technical Director level — de facto senior. Salary €65K-€85K and TD title indicate seniority above mid-level filter.",
+    "skip_reason": "Technical Director level \u2014 de facto senior. Salary \u20ac65K-\u20ac85K and TD title indicate seniority above mid-level filter.",
     "requirements": [
       "Unreal Engine lighting, look development, groom/hair systems",
       "Unreal-centric technical solutions",
@@ -1008,13 +1008,13 @@
       "Brand consistency management",
       "Collaboration with creative and marketing teams"
     ],
-    "notes": "Posted July 13, 2026 — within 14-day window. Client is a 'growing global business with multiple market-leading brands' (corporate/FMCG context). Role is primarily marketing/brand motion, not technical-creative art. BA Visual Communications is relevant background, but corporate team environment conflicts with Shem's small-crew preference. Apply via The People Group website."
+    "notes": "Posted July 13, 2026 \u2014 within 14-day window. Client is a 'growing global business with multiple market-leading brands' (corporate/FMCG context). Role is primarily marketing/brand motion, not technical-creative art. BA Visual Communications is relevant background, but corporate team environment conflicts with Shem's small-crew preference. Apply via The People Group website."
   },
   {
     "id": "massive-black-realtime-vfx-artist-2026",
     "title": "Realtime VFX Artist (Junior, Middle, Senior)",
     "company": "Massive Black",
-    "location": "Fully Remote (global — EU likely eligible)",
+    "location": "Fully Remote (global \u2014 EU likely eligible)",
     "url": "https://remotegamejobs.com/jobs/massive-black-realtime-vfx-artist-junior-middle-senior-remote-job",
     "first_seen": "2026-07-18",
     "fit": "medium-high",
@@ -1033,7 +1033,7 @@
     "id": "massive-black-environment-prop-artist-2026",
     "title": "3D Environment and Prop Artist (Junior, Middle, Senior)",
     "company": "Massive Black",
-    "location": "Fully Remote (global — EU likely eligible)",
+    "location": "Fully Remote (global \u2014 EU likely eligible)",
     "url": "https://remotegamejobs.com/jobs/massive-black-3d-environment-and-prop-artist-junior-middle-senior-remote-job",
     "first_seen": "2026-07-18",
     "fit": "medium",
@@ -1065,7 +1065,7 @@
       "Mentoring team members",
       "Experience with released games, demos or projects"
     ],
-    "notes": "Lucid Games is a Tencent/Lightspeed subsidiary based in Liverpool (formerly Sea of Thieves DLC). 'Liverpool or Remote' — likely UK-based remote only; Ireland/EU eligibility unconfirmed. Unreal Engine VFX is a strong skills match. Requires game release credit (partial gap — Shem has Disney+ production credit). Apply at jobs@lucidgames.co.uk with portfolio. Verify EU eligibility before applying."
+    "notes": "Lucid Games is a Tencent/Lightspeed subsidiary based in Liverpool (formerly Sea of Thieves DLC). 'Liverpool or Remote' \u2014 likely UK-based remote only; Ireland/EU eligibility unconfirmed. Unreal Engine VFX is a strong skills match. Requires game release credit (partial gap \u2014 Shem has Disney+ production credit). Apply at jobs@lucidgames.co.uk with portfolio. Verify EU eligibility before applying."
   },
   {
     "id": "lucid-games-environment-artist-2026",
@@ -1084,13 +1084,13 @@
       "Prior experience working in a games studio as an artist",
       "Portfolio with released games, demos, or projects"
     ],
-    "notes": "Lucid Games (Liverpool). 'Liverpool or Remote' — likely UK-based only. Maya-primary toolset is a partial gap vs Shem's Blender background. Requires game studio experience. Apply at jobs@lucidgames.co.uk. Low priority due to UK restriction and game studio experience gap."
+    "notes": "Lucid Games (Liverpool). 'Liverpool or Remote' \u2014 likely UK-based only. Maya-primary toolset is a partial gap vs Shem's Blender background. Requires game studio experience. Apply at jobs@lucidgames.co.uk. Low priority due to UK restriction and game studio experience gap."
   },
   {
     "id": "axis-studios-environment-artist-offsite-2026",
     "title": "3D Environment Artist (Offsite/Freelance Remote)",
     "company": "Axis Studios",
-    "location": "Remote (GMT overlap required — UK studio, Glasgow)",
+    "location": "Remote (GMT overlap required \u2014 UK studio, Glasgow)",
     "url": "https://axisstudiosgroup.com/careers/jobs/offsite-3d-environment-artist/",
     "first_seen": "2026-07-18",
     "fit": "medium",
@@ -1102,7 +1102,7 @@
       "GMT-overlapping working hours",
       "Freelance/offsite basis"
     ],
-    "notes": "Axis Studios (Glasgow, UK) ongoing freelance offsite roster. GMT overlap ideal for Dublin. Listing may be a standing/evergreen opening rather than a specific role. UK studio but freelance contract — EU/Ireland eligibility likely possible. Skills are a general match; tool preference unclear. Contact via Axis Studios careers page. Portfolio-first application."
+    "notes": "Axis Studios (Glasgow, UK) ongoing freelance offsite roster. GMT overlap ideal for Dublin. Listing may be a standing/evergreen opening rather than a specific role. UK studio but freelance contract \u2014 EU/Ireland eligibility likely possible. Skills are a general match; tool preference unclear. Contact via Axis Studios careers page. Portfolio-first application."
   },
   {
     "id": "enbarr-vfx-cold-call-2026",
@@ -1114,14 +1114,14 @@
     "fit": "high",
     "status": "skipped",
     "posting_date": "2026-04-24",
-    "skip_reason": "No public job listing — studio launched April 2026. Cold-call / warm outreach target only.",
+    "skip_reason": "No public job listing \u2014 studio launched April 2026. Cold-call / warm outreach target only.",
     "requirements": [
       "High-end VFX: CG environments, aging/de-aging workflows, compositing",
       "TV drama, feature film, commercials VFX experience",
       "Part of Dream Machine FX Group (global partner studios)",
       "Screen Ireland partnership for Irish VFX talent"
     ],
-    "notes": "Brand new premium Dublin VFX studio launched April 2026, founded by Emmy-winning VFX producer (Game of Thrones, Star Wars: Ahsoka, One Battle After Another) and ECD with 100+ credits (HBO's The Penguin, Shōgun). Partnering with Screen Ireland to nurture Irish digital artists — actively interested in local VFX talent. Strong cold-call target: Studio Meala Disney+ mid-level compositor credit is directly relevant. Reach out via website contact or Screen Ireland connection."
+    "notes": "Brand new premium Dublin VFX studio launched April 2026, founded by Emmy-winning VFX producer (Game of Thrones, Star Wars: Ahsoka, One Battle After Another) and ECD with 100+ credits (HBO's The Penguin, Sh\u014dgun). Partnering with Screen Ireland to nurture Irish digital artists \u2014 actively interested in local VFX talent. Strong cold-call target: Studio Meala Disney+ mid-level compositor credit is directly relevant. Reach out via website contact or Screen Ireland connection."
   },
   {
     "id": "kevuru-games-unreal-ta-2026",
@@ -1154,7 +1154,7 @@
     "fit": "medium-high",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "Requires mid-to-senior level + minimum 2 shipped AAA 3D game titles — de facto senior and major experience gap",
+    "skip_reason": "Requires mid-to-senior level + minimum 2 shipped AAA 3D game titles \u2014 de facto senior and major experience gap",
     "requirements": [
       "Mid-to-senior level professional VFX experience in AAA game industry",
       "Minimum 2 shipped AAA 3D game titles",
@@ -1163,7 +1163,7 @@
       "VFX optimization within performance budgets",
       "Collaboration with Art Direction on VFX strategy"
     ],
-    "notes": "Wilder World building 'Wiami' — first digital city (metaverse/gaming). Strong conceptual match for Shem (VFX, real-time) but AAA shipped title requirement is a hard gap. LinkedIn ID 3897980023 suggests older posting (~2024). Also on ArtStation jobs/62QY."
+    "notes": "Wilder World building 'Wiami' \u2014 first digital city (metaverse/gaming). Strong conceptual match for Shem (VFX, real-time) but AAA shipped title requirement is a hard gap. LinkedIn ID 3897980023 suggests older posting (~2024). Also on ArtStation jobs/62QY."
   },
   {
     "id": "smart-it-frame-3d-ta-2025",
@@ -1175,7 +1175,7 @@
     "fit": "low",
     "status": "skipped",
     "posting_date": "2025-11-19",
-    "skip_reason": "US-based (Cincinnati) — requires relocation. Posted November 2025 — well outside 14-day window.",
+    "skip_reason": "US-based (Cincinnati) \u2014 requires relocation. Posted November 2025 \u2014 well outside 14-day window.",
     "requirements": [
       "Unreal Engine, Blender, Houdini, Cinema 4D"
     ],
@@ -1191,7 +1191,7 @@
     "fit": "medium-high",
     "status": "skipped",
     "posting_date": "2026-04",
-    "skip_reason": "Posted April 2026 — outside 14-day window. Likely stale.",
+    "skip_reason": "Posted April 2026 \u2014 outside 14-day window. Likely stale.",
     "requirements": [
       "Unreal Engine technical art and pipeline development"
     ],
@@ -1214,7 +1214,7 @@
       "Social media and digital trends knowledge",
       "Full portfolio of work required"
     ],
-    "notes": "GGPoker is a global online poker platform. Role is UK-market motion design for brand/social campaigns. On-site 5 days/week Sandyford. No Blender/Unreal. Salary ~€39K-€42K. Low fit: corporate gambling brand, AE-focused, on-site, large team structure. Conflicts with Shem's preference for small technical-creative teams."
+    "notes": "GGPoker is a global online poker platform. Role is UK-market motion design for brand/social campaigns. On-site 5 days/week Sandyford. No Blender/Unreal. Salary ~\u20ac39K-\u20ac42K. Low fit: corporate gambling brand, AE-focused, on-site, large team structure. Conflicts with Shem's preference for small technical-creative teams."
   },
   {
     "id": "finfin-play-technical-artist-mobile-2026",
@@ -1227,11 +1227,11 @@
     "status": "new",
     "posting_date": "unknown",
     "requirements": [
-      "Full requirements not confirmed — mobile game focus (Fashion League)",
+      "Full requirements not confirmed \u2014 mobile game focus (Fashion League)",
       "Technical art for mobile platform",
       "Portfolio required"
     ],
-    "notes": "Finfin Play (England, UK) building Fashion League — free-to-play mobile fashion game. Technical Artist role details unclear from search. Mobile-platform focus is a domain gap for Shem (whose strengths are desktop/Unreal/Blender). Lead Artist role also listed (Lead = skip). Low priority given UK-studio base and mobile domain."
+    "notes": "Finfin Play (England, UK) building Fashion League \u2014 free-to-play mobile fashion game. Technical Artist role details unclear from search. Mobile-platform focus is a domain gap for Shem (whose strengths are desktop/Unreal/Blender). Lead Artist role also listed (Lead = skip). Low priority given UK-studio base and mobile domain."
   },
   {
     "id": "iftn-motion-graphics-editor-3979",
@@ -1244,9 +1244,9 @@
     "status": "new",
     "posting_date": "unknown",
     "requirements": [
-      "Full requirements not accessible — page blocked from automated access"
+      "Full requirements not accessible \u2014 page blocked from automated access"
     ],
-    "notes": "Irish Film & TV Network job board. Record ID 3979 is between previously seen #3875 (Designer/3D Artist) and #4150 (Compositor) — posting date likely late June to mid-July 2026. Company name, full spec, and deadline need manual browser check at iftn.ie/jobs. Motion graphics experience is relevant to Shem's background."
+    "notes": "Irish Film & TV Network job board. Record ID 3979 is between previously seen #3875 (Designer/3D Artist) and #4150 (Compositor) \u2014 posting date likely late June to mid-July 2026. Company name, full spec, and deadline need manual browser check at iftn.ie/jobs. Motion graphics experience is relevant to Shem's background."
   },
   {
     "id": "jam-media-2d-scene-prep-2026",
@@ -1258,7 +1258,7 @@
     "fit": "low",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "2D-only role — Shem's strengths are 3D/technical. No match.",
+    "skip_reason": "2D-only role \u2014 Shem's strengths are 3D/technical. No match.",
     "requirements": [
       "2D scene prep for animated production"
     ]
@@ -1273,7 +1273,7 @@
     "fit": "low",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "Storyboard/2D role — not aligned with Shem's 3D/technical profile.",
+    "skip_reason": "Storyboard/2D role \u2014 not aligned with Shem's 3D/technical profile.",
     "requirements": [
       "Storyboard Artist for TV series, Dublin"
     ]
@@ -1288,7 +1288,7 @@
     "fit": "low",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "2D Adobe Suite role — not aligned with Shem's 3D/technical profile.",
+    "skip_reason": "2D Adobe Suite role \u2014 not aligned with Shem's 3D/technical profile.",
     "requirements": [
       "2D art creation using Adobe Suite"
     ]
@@ -1303,7 +1303,7 @@
     "fit": "low",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "2D storyboard role — not aligned with Shem's 3D/technical profile.",
+    "skip_reason": "2D storyboard role \u2014 not aligned with Shem's 3D/technical profile.",
     "requirements": [
       "Storyboard Pro",
       "2D storyboarding for animation"
@@ -1311,7 +1311,7 @@
   },
   {
     "id": "saguni-studio-ta-environment-materials-2026",
-    "title": "Technical Artist — Environment & Materials (Anime ARPG)",
+    "title": "Technical Artist \u2014 Environment & Materials (Anime ARPG)",
     "company": "Saguni Studio",
     "location": "Fully Remote (global)",
     "url": "https://remotegamejobs.com/jobs/saguni-studio-technical-artist-environment-materials-anime-arpg-remote-job",
@@ -1325,13 +1325,13 @@
       "Tiling textures, atlases, modular material systems",
       "Shader profiling and optimisation for PC and mobile",
       "Establishing material/shader standards and documentation",
-      "Bridges art and engineering — embedded in Art Team"
+      "Bridges art and engineering \u2014 embedded in Art Team"
     ],
-    "notes": "Saguni Studio building 'Astral Sync' (anime-inspired dark fantasy ARPG). Posting dated ~February 2026 but still listed as 1 of 2 active Saguni jobs as of July 2026. UE5 materials + procedural workflows are a direct match for Shem's Infinity 27 bootcamp skills and Unreal Engine background. Email subject must start with [SSTAMES] to apply. Warning: posting may predate the 14-day cutoff — verify if actively accepting applications."
+    "notes": "Saguni Studio building 'Astral Sync' (anime-inspired dark fantasy ARPG). Posting dated ~February 2026 but still listed as 1 of 2 active Saguni jobs as of July 2026. UE5 materials + procedural workflows are a direct match for Shem's Infinity 27 bootcamp skills and Unreal Engine background. Email subject must start with [SSTAMES] to apply. Warning: posting may predate the 14-day cutoff \u2014 verify if actively accepting applications."
   },
   {
     "id": "saguni-studio-ta-shaders-2026",
-    "title": "Technical Artist — Shaders (Dark Fantasy Anime ARPG)",
+    "title": "Technical Artist \u2014 Shaders (Dark Fantasy Anime ARPG)",
     "company": "Saguni Studio",
     "location": "Fully Remote (global)",
     "url": "https://remotegamejobs.com/jobs/saguni-studio-technical-artist-shaders-dark-fantasy-anime-arpg-remote-job",
@@ -1352,7 +1352,7 @@
     "id": "crows-crows-crows-environment-artist-2026",
     "title": "3D Environment Artist",
     "company": "Crows Crows Crows",
-    "location": "Remote, worldwide (UK working hours overlap required: 10:00–16:00)",
+    "location": "Remote, worldwide (UK working hours overlap required: 10:00\u201316:00)",
     "url": "https://remotegamejobs.com/jobs/crows-crows-crows-3d-environment-artist-remote-job",
     "first_seen": "2026-07-20",
     "fit": "medium",
@@ -1360,7 +1360,7 @@
     "posting_date": "unknown",
     "requirements": [
       "Experienced 3D modeller and environment artist",
-      "Modern game engine experience (Unity — assets implemented in Unity)",
+      "Modern game engine experience (Unity \u2014 assets implemented in Unity)",
       "Portfolio required",
       "6-month initial contract",
       "Prefab structure, naming/folder conventions"
@@ -1383,7 +1383,7 @@
       "VectorWorks, CAD, Adobe Creative Suite advantageous",
       "Present spatial designs to clients and internal teams"
     ],
-    "notes": "Verve Live Agency (Dublin HQ; London, Amsterdam, Singapore). Clients include Google, Coca-Cola, TikTok, Diageo. Science Gallery Lifelogging exhibition credit (2014-15) is directly relevant to this experiential/exhibition design role. Software gap: Verve wants Cinema 4D and SketchUp as primaries; Shem's primary is Blender, though Cinema 4D appears in his profile. Confirmed ~10 Verve jobs on Indeed as of July 11, 2026 — posting likely within the 14-day window."
+    "notes": "Verve Live Agency (Dublin HQ; London, Amsterdam, Singapore). Clients include Google, Coca-Cola, TikTok, Diageo. Science Gallery Lifelogging exhibition credit (2014-15) is directly relevant to this experiential/exhibition design role. Software gap: Verve wants Cinema 4D and SketchUp as primaries; Shem's primary is Blender, though Cinema 4D appears in his profile. Confirmed ~10 Verve jobs on Indeed as of July 11, 2026 \u2014 posting likely within the 14-day window."
   },
   {
     "id": "black-shamrock-concept-artist-2026",
@@ -1395,7 +1395,7 @@
     "fit": "low",
     "status": "skipped",
     "posting_date": "~2026-07",
-    "skip_reason": "Weak fit — Concept Artistry is not Shem's primary discipline. Requires 2+ years professional concept art experience and strong traditional 2D art skills.",
+    "skip_reason": "Weak fit \u2014 Concept Artistry is not Shem's primary discipline. Requires 2+ years professional concept art experience and strong traditional 2D art skills.",
     "requirements": [
       "2+ years professional Concept Artist experience",
       "Strong traditional art: composition, rendering, colour theory, lighting, architecture, anatomy",
@@ -1419,7 +1419,7 @@
       "Proficiency in Maya (primary DCC tool)",
       "Create proxies, staging, blocking, and camera work from storyboards/animatics"
     ],
-    "notes": "Giant Animation (Netflix: Kung Fu Panda: Dragon Knight). Also on Zerply: https://zerply.com/industry-jobs/3D-CG-Layout-Artists-Giant-Animation-Remote-Work-Dublin-29Fe4h7D. Different from the already-tracked FX Artist role (id: giant-animation-fx-artist-2026). Key gaps: Maya is primary DCC and role is specifically previz/layout for animation series — not Shem's core strength (real-time viz, VFX compositing, motion design). Visual Communications BA provides some cinematography foundation. Low priority."
+    "notes": "Giant Animation (Netflix: Kung Fu Panda: Dragon Knight). Also on Zerply: https://zerply.com/industry-jobs/3D-CG-Layout-Artists-Giant-Animation-Remote-Work-Dublin-29Fe4h7D. Different from the already-tracked FX Artist role (id: giant-animation-fx-artist-2026). Key gaps: Maya is primary DCC and role is specifically previz/layout for animation series \u2014 not Shem's core strength (real-time viz, VFX compositing, motion design). Visual Communications BA provides some cinematography foundation. Low priority."
   },
   {
     "id": "elephant-goldfish-cold-call-2026",
@@ -1431,24 +1431,24 @@
     "fit": "high",
     "status": "skipped",
     "posting_date": "N/A",
-    "skip_reason": "No public job listing — studio launched 2025, actively scaling as of July 2026. Cold-call/warm outreach target only.",
+    "skip_reason": "No public job listing \u2014 studio launched 2025, actively scaling as of July 2026. Cold-call/warm outreach target only.",
     "requirements": [
       "VFX, colour grading, editorial, and audio for film, TV, advertising, animation, and gaming",
       "High-end VFX for Disney+/HBO/Netflix client targets"
     ],
-    "notes": "New Dublin VFX studio backed by Molinare Creative Group. Founded by former Windmill Lane Pictures senior executives Deborah Doherty and John Kennedy. Just appointed Des Carey (Lucasfilm, Samsung) as Executive Director, Strategic Growth & Innovation in July 2026 — actively scaling now. Studio Meala Disney+ mid-level compositor credit is a direct match for their target client profile. Small new studio fits Shem's preferred 2-8 person crew environment. Contact: careers@elephantgoldfish.com. Source: https://deadline.com/2026/07/des-carey-elephant-goldfish-lucasfilm-samsung-1236983783/"
+    "notes": "New Dublin VFX studio backed by Molinare Creative Group. Founded by former Windmill Lane Pictures senior executives Deborah Doherty and John Kennedy. Just appointed Des Carey (Lucasfilm, Samsung) as Executive Director, Strategic Growth & Innovation in July 2026 \u2014 actively scaling now. Studio Meala Disney+ mid-level compositor credit is a direct match for their target client profile. Small new studio fits Shem's preferred 2-8 person crew environment. Contact: careers@elephantgoldfish.com. Source: https://deadline.com/2026/07/des-carey-elephant-goldfish-lucasfilm-samsung-1236983783/"
   },
   {
     "id": "void-interactive-environment-artist-generic-2026",
-    "title": "Environment Artist (Generic Listing — non-RoN variant)",
+    "title": "Environment Artist (Generic Listing \u2014 non-RoN variant)",
     "company": "VOID Interactive",
-    "location": "Remote — Ireland-primary (FTE); UK/Europe contractor basis",
+    "location": "Remote \u2014 Ireland-primary (FTE); UK/Europe contractor basis",
     "url": "https://remotegamejobs.com/jobs/void-interactive-environment-artist-remote-job",
     "first_seen": "2026-07-20",
     "fit": "high",
     "status": "skipped",
     "posting_date": "~2026-04-24",
-    "skip_reason": "Posted April 24, 2026 — outside 14-day window. Distinct URL from the already-tracked 'Ready or Not' variant. Verify directly at https://voidinteractive.net/careers/ before applying.",
+    "skip_reason": "Posted April 24, 2026 \u2014 outside 14-day window. Distinct URL from the already-tracked 'Ready or Not' variant. Verify directly at https://voidinteractive.net/careers/ before applying.",
     "requirements": [
       "In-depth familiarity with Unreal Engine",
       "Game-ready assets: LODs, texel density, performance budgets",
@@ -1456,7 +1456,7 @@
       "Ireland-based applicants preferred; EU/UK also considered",
       "Ideally senior but 'open to exceptional mid-level candidates with strong portfolio'"
     ],
-    "notes": "Generic VOID Environment Artist listing — separate from the 'Ready or Not' RGJ variant already tracked. Still appearing as active across multiple job boards as of July 2026 despite April post date. 'Open to exceptional mid-level' framing is an explicit opening for Shem."
+    "notes": "Generic VOID Environment Artist listing \u2014 separate from the 'Ready or Not' RGJ variant already tracked. Still appearing as active across multiple job boards as of July 2026 despite April post date. 'Open to exceptional mid-level' framing is an explicit opening for Shem."
   },
   {
     "id": "iftn-vfx-producer-4213-2026",
@@ -1468,9 +1468,9 @@
     "fit": "low",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "Producer/management role — not an artist position matching Shem's profile.",
+    "skip_reason": "Producer/management role \u2014 not an artist position matching Shem's profile.",
     "requirements": [
-      "Full requirements not accessible — page blocked from automated access"
+      "Full requirements not accessible \u2014 page blocked from automated access"
     ],
     "notes": "IFTN record #4213, above the previously seen #4150. VFX Producer title confirmed from search snippet."
   },
@@ -1484,9 +1484,9 @@
     "fit": "low",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "Context suggests curatorial/admin IFI role — not a creative/technical artist position. Full spec could not be verified.",
+    "skip_reason": "Context suggests curatorial/admin IFI role \u2014 not a creative/technical artist position. Full spec could not be verified.",
     "requirements": [
-      "Full requirements not accessible — page blocked from automated access"
+      "Full requirements not accessible \u2014 page blocked from automated access"
     ],
     "notes": "IFTN record #4227. Search suggests Irish Film Institute curatorial role. Manual verification recommended."
   },
@@ -1501,9 +1501,9 @@
     "status": "new",
     "posting_date": "unknown",
     "requirements": [
-      "Full requirements not accessible — page blocked from automated access"
+      "Full requirements not accessible \u2014 page blocked from automated access"
     ],
-    "notes": "IFTN record #4231 — between #4213 (VFX Producer) and #4251 (Motion Graphics Artist). Motion Designer title is directly relevant to Shem's profile. Company name, full spec, and deadline need manual browser check at iftn.ie/jobs. BA Visual Communications + motion graphics background is strong context."
+    "notes": "IFTN record #4231 \u2014 between #4213 (VFX Producer) and #4251 (Motion Graphics Artist). Motion Designer title is directly relevant to Shem's profile. Company name, full spec, and deadline need manual browser check at iftn.ie/jobs. BA Visual Communications + motion graphics background is strong context."
   },
   {
     "id": "iftn-motion-graphics-artist-4251-2026",
@@ -1516,13 +1516,13 @@
     "status": "new",
     "posting_date": "unknown",
     "requirements": [
-      "Full requirements not accessible — page blocked from automated access"
+      "Full requirements not accessible \u2014 page blocked from automated access"
     ],
-    "notes": "IFTN record #4251 — highest ID seen to date, likely the most recently posted. Motion Graphics Artist is directly relevant to Shem's BA Visual Communications and motion design background. Company name, full spec, and deadline need manual browser check at iftn.ie/jobs. High priority for manual check."
+    "notes": "IFTN record #4251 \u2014 highest ID seen to date, likely the most recently posted. Motion Graphics Artist is directly relevant to Shem's BA Visual Communications and motion design background. Company name, full spec, and deadline need manual browser check at iftn.ie/jobs. High priority for manual check."
   },
   {
     "id": "beffio-realtime-vfx-unreal-2026",
-    "title": "Real-Time VFX Artist — Unreal Engine (Remote/Freelance)",
+    "title": "Real-Time VFX Artist \u2014 Unreal Engine (Remote/Freelance)",
     "company": "beffio",
     "location": "Fully Remote (EU-eligible; Poland-based studio)",
     "url": "https://www.artstation.com/jobs/VYMo",
@@ -1537,7 +1537,7 @@
       "Strong aesthetic eye and attention to detail",
       "Ability to take artistic and technical direction"
     ],
-    "notes": "Beffio is a Polish co-development art studio (AAA clients include EA, Riot, Sony). Remote/freelance worldwide. EU-eligible. Also at careers.beffio.com and skillshot.pl/jobs/33971. Posting date unknown — verify freshness before applying. Gap: AAA gaming focus vs Shem's film/animation background; Studio Meala Disney+ credit is still relevant. Unreal Engine Niagara VFX is a direct match for Shem's procedural/material skills."
+    "notes": "Beffio is a Polish co-development art studio (AAA clients include EA, Riot, Sony). Remote/freelance worldwide. EU-eligible. Also at careers.beffio.com and skillshot.pl/jobs/33971. Posting date unknown \u2014 verify freshness before applying. Gap: AAA gaming focus vs Shem's film/animation background; Studio Meala Disney+ credit is still relevant. Unreal Engine Niagara VFX is a direct match for Shem's procedural/material skills."
   },
   {
     "id": "blue-zoo-blender-environment-prop-2026",
@@ -1555,7 +1555,7 @@
       "Maya and ZBrush (mentioned alongside Blender)",
       "Collaborative team working and deadline management"
     ],
-    "notes": "Blue Zoo Animation Studio (Watford, UK — children's animation, CBeebies/Netflix credits). Remote/hybrid option but UK studio — Ireland eligibility unconfirmed (some Blue Zoo variants are UK-regional only). Salary £28.8k–£48k/year. Posting date unknown. Shem's Blender skills are a direct match; stylised animation style is adjacent rather than core territory. Verify Ireland eligibility before applying via careers.blue-zoo.co.uk."
+    "notes": "Blue Zoo Animation Studio (Watford, UK \u2014 children's animation, CBeebies/Netflix credits). Remote/hybrid option but UK studio \u2014 Ireland eligibility unconfirmed (some Blue Zoo variants are UK-regional only). Salary \u00a328.8k\u2013\u00a348k/year. Posting date unknown. Shem's Blender skills are a direct match; stylised animation style is adjacent rather than core territory. Verify Ireland eligibility before applying via careers.blue-zoo.co.uk."
   },
   {
     "id": "black-shamrock-vfx-artist-2025",
@@ -1567,7 +1567,7 @@
     "fit": "medium-high",
     "status": "skipped",
     "posting_date": "2025-03-02",
-    "skip_reason": "Originally posted March 2, 2025 — well outside 14-day window. Also requires '3+ years gaming industry + AAA project' — significant experience gap for Shem.",
+    "skip_reason": "Originally posted March 2, 2025 \u2014 well outside 14-day window. Also requires '3+ years gaming industry + AAA project' \u2014 significant experience gap for Shem.",
     "requirements": [
       "3+ years gaming industry experience as VFX Artist on a AAA project",
       "Niagara particle system (UE5)",
@@ -1587,7 +1587,7 @@
     "fit": "low",
     "status": "skipped",
     "posting_date": "~2026-05",
-    "skip_reason": "Required languages include Russian and Ukrainian — dealbreaker for Shem (English native only). Ireland not listed as an eligible location.",
+    "skip_reason": "Required languages include Russian and Ukrainian \u2014 dealbreaker for Shem (English native only). Ireland not listed as an eligible location.",
     "requirements": [
       "UE4/5 shading, lighting, surfacing, cinematic tools, sequencer",
       "English, Russian, and Ukrainian languages required",
@@ -1614,7 +1614,7 @@
       "Asset optimisation for real-time rendering",
       "R&D contribution to in-house design tools"
     ],
-    "notes": "Confirmed posted July 17, 2026 — within 14-day window. Application deadline September 14, 2026. NOTIONTHEORY is a US company — confirm EU/Ireland contractor eligibility before applying. Unreal Engine 5 + 3D generalist + shader authoring + tool R&D is a near-perfect match for Shem's INFINITY 27 bootcamp skills and Unreal immersive experience work. Apply via ArtStation."
+    "notes": "Confirmed posted July 17, 2026 \u2014 within 14-day window. Application deadline September 14, 2026. NOTIONTHEORY is a US company \u2014 confirm EU/Ireland contractor eligibility before applying. Unreal Engine 5 + 3D generalist + shader authoring + tool R&D is a near-perfect match for Shem's INFINITY 27 bootcamp skills and Unreal immersive experience work. Apply via ArtStation."
   },
   {
     "id": "virtex-environment-artist-2026",
@@ -1639,7 +1639,7 @@
   },
   {
     "id": "darwin-recruitment-3d-generalist-blender-2026",
-    "title": "3D Generalist — Blender/Unreal Engine (Freelance Remote)",
+    "title": "3D Generalist \u2014 Blender/Unreal Engine (Freelance Remote)",
     "company": "Darwin Recruitment (client undisclosed)",
     "location": "Fully Remote",
     "url": "https://www.darwinrecruitment.com/job/6227652378355-3d-generalist-blender-unreal-engine-remote/",
@@ -1673,13 +1673,13 @@
       "At least one shipped game on PC/Console",
       "Experience creating particle effects, custom shaders, and scripted VFX"
     ],
-    "notes": "Found via larian.com official careers page (not the BuiltIn URL which labeled it 'Senior VFX Artist' in its URL slug). This may be the same role as larian-studios-vfx-artist-2026 — verify both URLs. Larian (Baldur's Gate 3 developer), Dublin on-site. Studio Meala Disney+ compositing work is relevant. Key gap: 'at least one shipped game on PC/Console'. A separate 'Gameplay VFX Artist' requiring 3-4 years game VFX also reportedly open at Larian Dublin."
+    "notes": "Found via larian.com official careers page (not the BuiltIn URL which labeled it 'Senior VFX Artist' in its URL slug). This may be the same role as larian-studios-vfx-artist-2026 \u2014 verify both URLs. Larian (Baldur's Gate 3 developer), Dublin on-site. Studio Meala Disney+ compositing work is relevant. Key gap: 'at least one shipped game on PC/Console'. A separate 'Gameplay VFX Artist' requiring 3-4 years game VFX also reportedly open at Larian Dublin."
   },
   {
     "id": "escape-velocity-associate-ta-2026",
     "title": "Associate Technical Artist",
     "company": "Escape Velocity Entertainment Inc.",
-    "location": "Fully Remote (EU eligible — North America / Canada / Europe)",
+    "location": "Fully Remote (EU eligible \u2014 North America / Canada / Europe)",
     "url": "https://apply.workable.com/escape-velocity-entertainment-inc/j/4CC5CAD993",
     "first_seen": "2026-07-22",
     "fit": "medium-high",
@@ -1693,13 +1693,13 @@
       "Content optimisation, profiling tools (RenderDoc, Unreal Insights)",
       "Artistic and technical background covering multiple disciplines"
     ],
-    "notes": "EU eligible remote. 'Associate' level is below Shem's experience — could work in his favour on competition/salary. Strong match: Unreal PCG, procedural workflows, material authoring, Python all from INFINITY 27 bootcamp. Gap: EVE is a games studio expecting shipped title experience. Consider applying to both this and escape-velocity-technical-artist-2026 simultaneously."
+    "notes": "EU eligible remote. 'Associate' level is below Shem's experience \u2014 could work in his favour on competition/salary. Strong match: Unreal PCG, procedural workflows, material authoring, Python all from INFINITY 27 bootcamp. Gap: EVE is a games studio expecting shipped title experience. Consider applying to both this and escape-velocity-technical-artist-2026 simultaneously."
   },
   {
     "id": "escape-velocity-technical-artist-2026",
     "title": "Technical Artist",
     "company": "Escape Velocity Entertainment Inc.",
-    "location": "Fully Remote (EU eligible — North America / Canada / Europe)",
+    "location": "Fully Remote (EU eligible \u2014 North America / Canada / Europe)",
     "url": "https://builtin.com/job/technical-artist-north-america-europe/2987920",
     "first_seen": "2026-07-22",
     "fit": "medium-high",
@@ -1712,13 +1712,13 @@
       "Strong knowledge of UE material system, PBR workflows, shader optimisation",
       "Substance Designer / Painter, Python or HLSL/GLSL scripting"
     ],
-    "notes": "EU eligible remote. Skills match: PCG, procedural, Unreal materials, Python match Shem's profile. Key gap: 'at least one released title' — Shem has Disney+ production credit but no shipped game. Frame Studio Meala Disney+ and animation studio Unreal immersive work strongly. Apply alongside escape-velocity-associate-ta-2026."
+    "notes": "EU eligible remote. Skills match: PCG, procedural, Unreal materials, Python match Shem's profile. Key gap: 'at least one released title' \u2014 Shem has Disney+ production credit but no shipped game. Frame Studio Meala Disney+ and animation studio Unreal immersive work strongly. Apply alongside escape-velocity-associate-ta-2026."
   },
   {
     "id": "goodgame-studios-motion-designer-3d-2026",
     "title": "Motion Designer and 3D Artist",
     "company": "Goodgame Studios",
-    "location": "Remote (German timezone — compatible with Dublin, UTC+1/+2)",
+    "location": "Remote (German timezone \u2014 compatible with Dublin, UTC+1/+2)",
     "url": "https://goodgamestudios.com/careers/",
     "first_seen": "2026-07-22",
     "fit": "medium-high",
@@ -1768,13 +1768,13 @@
       "Unreal Engine and/or Unity shaders experience",
       "Portfolio demonstrating real-time asset quality"
     ],
-    "notes": "Fully remote. UK-registered company — confirm EU/Ireland contractor eligibility post-Brexit before applying. Second listing also at artstation.com/jobs/vQz4. Shem's Unreal Engine material/shader work from INFINITY 27 bootcamp and animation studio Unreal project are relevant. Role skews toward hard-surface technical art — product viz portfolio (Grundig, vehicles) is directly applicable."
+    "notes": "Fully remote. UK-registered company \u2014 confirm EU/Ireland contractor eligibility post-Brexit before applying. Second listing also at artstation.com/jobs/vQz4. Shem's Unreal Engine material/shader work from INFINITY 27 bootcamp and animation studio Unreal project are relevant. Role skews toward hard-surface technical art \u2014 product viz portfolio (Grundig, vehicles) is directly applicable."
   },
   {
     "id": "axis-digital-productions-3d-animator-2026",
     "title": "Mid Level 3D Animator / Blender Generalist",
     "company": "Axis Digital Productions",
-    "location": "Remote (company appears US/UK-based — confirm EU eligibility)",
+    "location": "Remote (company appears US/UK-based \u2014 confirm EU eligibility)",
     "url": "https://www.artstation.com/jobs/XLqK",
     "first_seen": "2026-07-22",
     "fit": "medium-high",
@@ -1787,13 +1787,13 @@
       "Shader effects and simulations",
       "Test project required to apply"
     ],
-    "notes": "Explicitly mid-level. Blender-first generalist role at a CG/VFX studio working across creative tech, games, aerospace, robotics — matches Shem's sector mix. Animation + lookdev + shaders maps to Blender/Unreal pipeline work. Test-project entry rewards portfolio depth. Verify remote eligibility for Ireland. Note: distinct from Axis Studios (Glasgow) which is already tracked."
+    "notes": "Explicitly mid-level. Blender-first generalist role at a CG/VFX studio working across creative tech, games, aerospace, robotics \u2014 matches Shem's sector mix. Animation + lookdev + shaders maps to Blender/Unreal pipeline work. Test-project entry rewards portfolio depth. Verify remote eligibility for Ireland. Note: distinct from Axis Studios (Glasgow) which is already tracked."
   },
   {
     "id": "naolito-3d-environment-artist-blender-2026",
     "title": "3D Environment Artist (Blender)",
     "company": "Naolito Animation Studio",
-    "location": "Fully Remote (EU-based — company in Spain)",
+    "location": "Fully Remote (EU-based \u2014 company in Spain)",
     "url": "https://www.artstation.com/jobs/L28a",
     "first_seen": "2026-07-22",
     "fit": "medium",
@@ -1805,38 +1805,38 @@
       "Full-time availability",
       "TV show production context"
     ],
-    "notes": "EU company based in Spain — no cross-border employment friction. Naolito is a 12-year-old studio with Disney+ and brand collaboration credits. TV production setting mirrors Shem's Studio Meala Disney+ experience. Gap: stylized cute aesthetic departs from Shem's portfolio — portfolio may need to show stylised 3D work. Experience level not specified."
+    "notes": "EU company based in Spain \u2014 no cross-border employment friction. Naolito is a 12-year-old studio with Disney+ and brand collaboration credits. TV production setting mirrors Shem's Studio Meala Disney+ experience. Gap: stylized cute aesthetic departs from Shem's portfolio \u2014 portfolio may need to show stylised 3D work. Experience level not specified."
   },
   {
     "id": "converts-blender-render-artist-2026",
     "title": "Blender 3D-Render Artist",
     "company": "Converts",
-    "location": "Fully Remote (Germany — EU)",
+    "location": "Fully Remote (Germany \u2014 EU)",
     "url": "https://www.artstation.com/jobs/lQL9",
     "first_seen": "2026-07-22",
     "fit": "medium",
     "status": "new",
     "posting_date": "unknown",
     "requirements": [
-      "Blender (required — primary tool)",
+      "Blender (required \u2014 primary tool)",
       "3D rendering and scene creation",
       "Creating unique visual worlds",
       "Remote team collaboration"
     ],
-    "notes": "German EU company. Blender-only workflow. Render artist scope aligns with Shem's lookdev and material authoring experience. Render/visualization framing suggests product viz or advertising — Shem's Grundig Radio, vehicle, and landscape portfolio pieces are directly applicable. Also has a 3D-Model Artist opening (converts-blender-model-artist-2026). Consider applying to both simultaneously."
+    "notes": "German EU company. Blender-only workflow. Render artist scope aligns with Shem's lookdev and material authoring experience. Render/visualization framing suggests product viz or advertising \u2014 Shem's Grundig Radio, vehicle, and landscape portfolio pieces are directly applicable. Also has a 3D-Model Artist opening (converts-blender-model-artist-2026). Consider applying to both simultaneously."
   },
   {
     "id": "converts-blender-model-artist-2026",
     "title": "Blender 3D-Model Artist",
     "company": "Converts",
-    "location": "Fully Remote (Germany — EU)",
+    "location": "Fully Remote (Germany \u2014 EU)",
     "url": "https://www.artstation.com/jobs/e5kd",
     "first_seen": "2026-07-22",
     "fit": "medium",
     "status": "new",
     "posting_date": "unknown",
     "requirements": [
-      "Blender (required — primary tool)",
+      "Blender (required \u2014 primary tool)",
       "3D modelling",
       "Remote team collaboration"
     ],
@@ -1859,7 +1859,7 @@
       "Custom tool development for asset automation and terrain generation",
       "Open-world / sandbox survival game development background preferred"
     ],
-    "notes": "Project: Solid River (medieval AAA survival with city-building). CAUTION: One aggregator noted possible posting expiry Dec 2025 — verify on Personio directly before applying. Munich hybrid means occasional travel from Dublin. Houdini is a gap (Blender PCG is closer to Shem's background). INFINITY 27 procedural workflows are relevant. PCG/procedural skills match conceptually."
+    "notes": "Project: Solid River (medieval AAA survival with city-building). CAUTION: One aggregator noted possible posting expiry Dec 2025 \u2014 verify on Personio directly before applying. Munich hybrid means occasional travel from Dublin. Houdini is a gap (Blender PCG is closer to Shem's background). INFINITY 27 procedural workflows are relevant. PCG/procedural skills match conceptually."
   },
   {
     "id": "gorilla-design-event-coordinator-2026",
@@ -1880,7 +1880,7 @@
       "Vendor coordination (printers, fabricators)",
       "Multi-project management"
     ],
-    "notes": "Salary €40-45K. Gorilla Design creates experiential events, stage/set design, and installations for corporate and entertainment clients across Ireland. Science Gallery Lifelogging exhibition credit (2014) is directly relevant. Software gap: AutoCAD/SketchUp vs Blender/Cinema 4D — bridgeable. Role includes a production-coordinator dimension. Confirmed in July 2026 Glassdoor/jobs.ie listings."
+    "notes": "Salary \u20ac40-45K. Gorilla Design creates experiential events, stage/set design, and installations for corporate and entertainment clients across Ireland. Science Gallery Lifelogging exhibition credit (2014) is directly relevant. Software gap: AutoCAD/SketchUp vs Blender/Cinema 4D \u2014 bridgeable. Role includes a production-coordinator dimension. Confirmed in July 2026 Glassdoor/jobs.ie listings."
   },
   {
     "id": "verve-marketing-3d-environmental-designer-2026",
@@ -1899,7 +1899,7 @@
       "Spatial concept development and moodboarding",
       "3D visualisations for live events, exhibitions, and immersive installations"
     ],
-    "notes": "CAUTION: Some listings show 'Senior' prefix — verify title before applying. NOTE: May overlap with or be distinct from 'Verve Live Agency' (verve-live-3d-event-designer-2026) — verify if same company. Cinema 4D is in Shem's profile. Spatial/environmental design for brand activations maps to Science Gallery exhibition background. Pull the current listing from Indeed IE to confirm seniority and role details."
+    "notes": "CAUTION: Some listings show 'Senior' prefix \u2014 verify title before applying. NOTE: May overlap with or be distinct from 'Verve Live Agency' (verve-live-3d-event-designer-2026) \u2014 verify if same company. Cinema 4D is in Shem's profile. Spatial/environmental design for brand activations maps to Science Gallery exhibition background. Pull the current listing from Indeed IE to confirm seniority and role details."
   },
   {
     "id": "territory-studio-nuke-compositor-2026",
@@ -1926,13 +1926,13 @@
     "id": "vrtual-x-gmbh-3d-artist-2026",
     "title": "3D Artist (Blender + Unity)",
     "company": "VRtual X GmbH",
-    "location": "Fully Remote (Hamburg, Germany — EU)",
+    "location": "Fully Remote (Hamburg, Germany \u2014 EU)",
     "url": "https://remotegamejobs.com/jobs/vrtual-x-gmbh-3d-artist-remote-job-eb7cd7c2-8892-4cfd-be41-0d5b9b5114e4",
     "first_seen": "2026-07-22",
     "fit": "medium",
     "status": "skipped",
     "posting_date": "~2024-07",
-    "skip_reason": "Likely stale — LinkedIn activity timestamp decodes to approximately July 2024; outside 14-day window",
+    "skip_reason": "Likely stale \u2014 LinkedIn activity timestamp decodes to approximately July 2024; outside 14-day window",
     "requirements": [
       "Blender (required)",
       "Unity (required)",
@@ -1940,7 +1940,7 @@
       "High-performance asset optimisation for mobile VR",
       "Full-time 40hr/week"
     ],
-    "notes": "EU company, strong technical match (Blender, real-time, VR). Verify at VRtual X careers page — if a fresh 2026 posting exists it would be medium-high priority. Main gap: Unity vs Shem's Unreal focus."
+    "notes": "EU company, strong technical match (Blender, real-time, VR). Verify at VRtual X careers page \u2014 if a fresh 2026 posting exists it would be medium-high priority. Main gap: Unity vs Shem's Unreal focus."
   },
   {
     "id": "verda-studios-3d-generalist-2026",
@@ -1984,7 +1984,7 @@
     "id": "metis-creative-3d-generalist-2026",
     "title": "3D Generalist & Animator",
     "company": "Metis Creative",
-    "location": "Remote (Istanbul, Turkey — outside EU)",
+    "location": "Remote (Istanbul, Turkey \u2014 outside EU)",
     "url": "https://www.workwithindies.com/careers/metis-creative-3d-generalist-animator",
     "first_seen": "2026-07-22",
     "fit": "low-medium",
@@ -1998,7 +1998,7 @@
       "NPR experience a plus",
       "Freelance, part-time, or full-time options available"
     ],
-    "notes": "Flexible engagement: freelance, part-time, or full-time. Blender accepted. Character animation-heavy — Shem's strengths are environment/generalist/technical art, not character animation rigs and motion data. Outside EU so payment/contract considerations apply. Consider as a part-time complement only."
+    "notes": "Flexible engagement: freelance, part-time, or full-time. Blender accepted. Character animation-heavy \u2014 Shem's strengths are environment/generalist/technical art, not character animation rigs and motion data. Outside EU so payment/contract considerations apply. Consider as a part-time complement only."
   },
   {
     "id": "lighthouse-studios-compositor-2026",
@@ -2010,7 +2010,7 @@
     "fit": "low",
     "status": "skipped",
     "posting_date": "2026-04-24",
-    "skip_reason": "Posted April 24, 2026 — outside 14-day window. 2D ToonBoom Harmony compositor role — significant mismatch with Shem's 3D VFX compositing background. Kilkenny location requires long commute from Dublin.",
+    "skip_reason": "Posted April 24, 2026 \u2014 outside 14-day window. 2D ToonBoom Harmony compositor role \u2014 significant mismatch with Shem's 3D VFX compositing background. Kilkenny location requires long commute from Dublin.",
     "requirements": [
       "ToonBoom Harmony compositing pipeline",
       "2D hand-drawn animation compositing",
@@ -2036,11 +2036,11 @@
       "Expertise in creating shaders (node-based material editor)",
       "Independently creative problem-solver with great attention to detail"
     ],
-    "notes": "Larian Studios (Baldur's Gate 3 developer) — 3 concurrent VFX openings in Dublin as of July 2026. Gameplay VFX role focuses on spells, environments, and cutscenes. Studio Meala Disney+ compositing credit is the primary bridge to 'shipped title' requirement. Also on gamejobs.co/Gameplay-VFX-Artist-at-Larian-Studios. PRIORITY: apply alongside Cinematics role."
+    "notes": "Larian Studios (Baldur's Gate 3 developer) \u2014 3 concurrent VFX openings in Dublin as of July 2026. Gameplay VFX role focuses on spells, environments, and cutscenes. Studio Meala Disney+ compositing credit is the primary bridge to 'shipped title' requirement. Also on gamejobs.co/Gameplay-VFX-Artist-at-Larian-Studios. PRIORITY: apply alongside Cinematics role."
   },
   {
     "id": "larian-studios-vfx-cinematics-2026",
-    "title": "VFX Artist – Cinematics",
+    "title": "VFX Artist \u2013 Cinematics",
     "company": "Larian Studios",
     "location": "Dublin, Ireland (on-site)",
     "url": "https://larian.com/jobs/a2413477-3357-4f3f-9bbd-443598a4fcb0",
@@ -2053,9 +2053,9 @@
       "Experience in modelling and animation",
       "Expertise in creating shaders (node-based material editor)",
       "Ability to independently design storyboard VFX",
-      "VFX for cutscenes, environment, gameplay — including textures/materials/shaders"
+      "VFX for cutscenes, environment, gameplay \u2014 including textures/materials/shaders"
     ],
-    "notes": "Larian Studios — Cinematics-focused VFX role. Cutscene VFX maps well to Studio Meala Disney+ compositing background. Requires game industry experience as the key gap. Also on gamejobs.co/VFX-Artist-Cinematics-at-Larian-Studios. Apply simultaneously with Gameplay VFX role."
+    "notes": "Larian Studios \u2014 Cinematics-focused VFX role. Cutscene VFX maps well to Studio Meala Disney+ compositing background. Requires game industry experience as the key gap. Also on gamejobs.co/VFX-Artist-Cinematics-at-Larian-Studios. Apply simultaneously with Gameplay VFX role."
   },
   {
     "id": "larian-studios-vfx-internship-2026",
@@ -2068,17 +2068,17 @@
     "status": "new",
     "posting_date": "unknown",
     "requirements": [
-      "Strong VFX portfolio — complex real-time VFX, preference for 'Magical VFX'",
+      "Strong VFX portfolio \u2014 complex real-time VFX, preference for 'Magical VFX'",
       "Solid understanding of colour, composition and timing",
       "Variety of styles and types of VFX in portfolio",
       "Intermediate knowledge of any DCC package",
       "On-site Dublin required"
     ],
-    "notes": "3-month contract. No shipped game title required — portfolio-first entry. Shem may be over-qualified for internship level, but it's a direct entry to Larian Dublin and stepping stone to full-time Gameplay VFX or Cinematics roles. Also: VFX Artist Internship — Stage variant listed at larian.com/careers/6bc7f7ca-9771-4400-835e-f5d50b4c0374. Apply only if full roles don't progress — or apply all three simultaneously."
+    "notes": "3-month contract. No shipped game title required \u2014 portfolio-first entry. Shem may be over-qualified for internship level, but it's a direct entry to Larian Dublin and stepping stone to full-time Gameplay VFX or Cinematics roles. Also: VFX Artist Internship \u2014 Stage variant listed at larian.com/careers/6bc7f7ca-9771-4400-835e-f5d50b4c0374. Apply only if full roles don't progress \u2014 or apply all three simultaneously."
   },
   {
     "id": "roll7-technical-artist-remote-2026",
-    "title": "Technical Artist – Remote Role",
+    "title": "Technical Artist \u2013 Remote Role",
     "company": "Roll7",
     "location": "Fully Remote (monthly meetup in central London; travel from Dublin viable)",
     "url": "https://remotegamejobs.com/jobs/roll7-technical-artist-remote-role-remote-job",
@@ -2093,7 +2093,7 @@
       "Mostly remote (nine out of ten days from home)",
       "One day a fortnight in London office"
     ],
-    "notes": "BAFTA-winning OlliOlli studio. Freelance/fixed-term. Primarily remote with London monthly. Key gap: Unity-centric (not Unreal/Blender primary). Monthly London commute from Dublin is short flight — doable. Also at artstation.com/jobs/m9Kb. Equal opportunities employer. Lower priority than Larian roles but worth watching for application alongside."
+    "notes": "BAFTA-winning OlliOlli studio. Freelance/fixed-term. Primarily remote with London monthly. Key gap: Unity-centric (not Unreal/Blender primary). Monthly London commute from Dublin is short flight \u2014 doable. Also at artstation.com/jobs/m9Kb. Equal opportunities employer. Lower priority than Larian roles but worth watching for application alongside."
   },
   {
     "id": "novablocks-3d-artist-remote-2026",
@@ -2116,7 +2116,7 @@
     "id": "eram-games-3d-artist-remote-2026",
     "title": "3D Artist",
     "company": "Eram Games",
-    "location": "Remote (US studio — Los Angeles, CA)",
+    "location": "Remote (US studio \u2014 Los Angeles, CA)",
     "url": "https://www.artstation.com/jobs/glzo",
     "first_seen": "2026-07-23",
     "fit": "low-medium",
@@ -2128,11 +2128,11 @@
       "Viable workflows to create 3D game assets",
       "Comfort with version control (Perforce, Git)"
     ],
-    "notes": "Independent action-adventure narrative game studio formed 2020, LA-based. Remote listing but US company — timezone and contract eligibility unconfirmed for Ireland. Worth verifying EU/Ireland eligibility before investing time. Also has a 3D Animator opening at artstation.com/jobs/Lq21."
+    "notes": "Independent action-adventure narrative game studio formed 2020, LA-based. Remote listing but US company \u2014 timezone and contract eligibility unconfirmed for Ireland. Worth verifying EU/Ireland eligibility before investing time. Also has a 3D Animator opening at artstation.com/jobs/Lq21."
   },
   {
     "id": "super-spline-studios-junior-animator-2026",
-    "title": "Junior 3D Games Animator – Permanent",
+    "title": "Junior 3D Games Animator \u2013 Permanent",
     "company": "Super Spline Studios",
     "location": "Remote (Europe; UK studio based in Leamington Spa)",
     "url": "https://remotegamejobs.com/jobs/super-spline-studios-junior-3d-games-animator-permanent-remote-job",
@@ -2145,7 +2145,7 @@
       "3D games animation",
       "Showreel required"
     ],
-    "notes": "UK animation co-development studio (Leamington Spa). Fully remote, EU-eligible. Zero crunch policy, annual profit share, training subsidies. Permanent role. Key gap: animation-specialist focus — Shem's strengths are 3D generalist/technical art, not character animation. Junior level. Apply via email with 'Junior Animator' subject line and showreel. Also recruiting Lead and Freelance animators."
+    "notes": "UK animation co-development studio (Leamington Spa). Fully remote, EU-eligible. Zero crunch policy, annual profit share, training subsidies. Permanent role. Key gap: animation-specialist focus \u2014 Shem's strengths are 3D generalist/technical art, not character animation. Junior level. Apply via email with 'Junior Animator' subject line and showreel. Also recruiting Lead and Freelance animators."
   },
   {
     "id": "iftn-windmill-lane-4115-2026",
@@ -2158,7 +2158,7 @@
     "status": "new",
     "posting_date": "unknown",
     "requirements": [
-      "Full requirements not accessible — page blocked from automated access"
+      "Full requirements not accessible \u2014 page blocked from automated access"
     ],
     "notes": "Irish Film & TV Network record #4115 for Windmill Lane. Role title and requirements need manual browser check at iftn.ie/jobs. Windmill Lane is one of Shem's cold-call targets (wlvfx-is-hiring page lists Motion Designer, CG Artist, FX Artist among open roles). A Compositor role is already tracked at windmill-lane-compositor-netflix-2026. This may be a different or older role."
   },
@@ -2173,9 +2173,9 @@
     "status": "new",
     "posting_date": "unknown",
     "requirements": [
-      "Full requirements not accessible — page blocked from automated access"
+      "Full requirements not accessible \u2014 page blocked from automated access"
     ],
-    "notes": "Irish Film & TV Network record #4209 for Windmill Lane Pictures (the post-production and commercial arm, distinct from WLVFX). Role title and requirements need manual browser check at iftn.ie/jobs. Record #4209 is between the already-tracked #4213 (VFX Producer) and #4150 (Compositor), suggesting a mid-July 2026 posting. Different entity from WLVFX — Windmill Lane Pictures covers commercial, post-production, and music video work."
+    "notes": "Irish Film & TV Network record #4209 for Windmill Lane Pictures (the post-production and commercial arm, distinct from WLVFX). Role title and requirements need manual browser check at iftn.ie/jobs. Record #4209 is between the already-tracked #4213 (VFX Producer) and #4150 (Compositor), suggesting a mid-July 2026 posting. Different entity from WLVFX \u2014 Windmill Lane Pictures covers commercial, post-production, and music video work."
   },
   {
     "id": "tobspr-games-3d-blender-artist-2026",
@@ -2204,14 +2204,14 @@
     "fit": "low",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "2D colour design role — creating flat colour paintings, colour scripts, and 2D renderings. Not aligned with Shem's 3D/technical profile.",
+    "skip_reason": "2D colour design role \u2014 creating flat colour paintings, colour scripts, and 2D renderings. Not aligned with Shem's 3D/technical profile.",
     "requirements": [
       "Flat colour paintings and 2D renderings for animated projects",
       "Colour scripts for lighting and texturing department",
       "Colour boards, colour breakouts, texture callouts",
       "Presentation materials for creative direction"
     ],
-    "notes": "Giant Animation full-time (Netflix: Kung Fu Panda: Dragon Knight). LinkedIn job ID 3623329562 — may be an older opening. Shem's art direction background (Science Gallery) is adjacent but the role is 2D colour specialist work."
+    "notes": "Giant Animation full-time (Netflix: Kung Fu Panda: Dragon Knight). LinkedIn job ID 3623329562 \u2014 may be an older opening. Shem's art direction background (Science Gallery) is adjacent but the role is 2D colour specialist work."
   },
   {
     "id": "ufx-studios-compositor-brussels-2026",
@@ -2223,7 +2223,7 @@
     "fit": "medium",
     "status": "skipped",
     "posting_date": "2026-07-15",
-    "skip_reason": "On-site Brussels/Belgium — requires relocation from Dublin. Dealbreaker per location filter.",
+    "skip_reason": "On-site Brussels/Belgium \u2014 requires relocation from Dublin. Dealbreaker per location filter.",
     "requirements": [
       "Assemble and finalize VFX shots for film/series (CG elements, live-action plates, FX passes, matte paintings)",
       "Colour matching, keying, tracking, roto/paint, clean-up, AOV integration",
@@ -2231,19 +2231,19 @@
       "Freelance contract, start ASAP",
       "Project up to 60% financed with Belgian incentives"
     ],
-    "notes": "UFX Studios (Brussels). Posted July 15, 2026 — within 14-day window but on-site Belgium location rules it out. Studio Meala Disney+ compositing background is directly relevant to the role. Monitor if UFX ever posts remote compositor roles. Also: VXF Compositor Mid/Senior role open at ufxstudios.com/job/vxf-compositor-mid-senior/"
+    "notes": "UFX Studios (Brussels). Posted July 15, 2026 \u2014 within 14-day window but on-site Belgium location rules it out. Studio Meala Disney+ compositing background is directly relevant to the role. Monitor if UFX ever posts remote compositor roles. Also: VXF Compositor Mid/Senior role open at ufxstudios.com/job/vxf-compositor-mid-senior/"
   },
   {
     "id": "msg-sphere-studios-ta-2026",
     "title": "Technical Artist",
     "company": "MSG Sphere Studios",
-    "location": "Remote (US company — Burbank, CA)",
+    "location": "Remote (US company \u2014 Burbank, CA)",
     "url": "https://www.artstation.com/jobs/NerD",
     "first_seen": "2026-07-23",
     "fit": "low",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "US company (Burbank, CA) — remote listing but US-centric timezone and employment structure. EU/Ireland contractor eligibility unconfirmed.",
+    "skip_reason": "US company (Burbank, CA) \u2014 remote listing but US-centric timezone and employment structure. EU/Ireland contractor eligibility unconfirmed.",
     "requirements": [
       "Push visual quality to the next level with tools and creative assets",
       "Multi-sensory immersive entertainment content for MSG Sphere venue (Las Vegas)",
@@ -2267,7 +2267,7 @@
       "Strong 3D art skills in environment creation",
       "Remote or on-site flexibility"
     ],
-    "notes": "Separate role from beffio-realtime-vfx-unreal-2026 (VYMo = VFX Artist) and beffio-3d-ta-unity-2026 (ONEJ = Unity3D TA). This role (YbXM) focuses on Unreal Engine environment/biome creation — direct match for Shem's Unreal Engine advanced skills and procedural workflows. beffio is a Polish co-dev studio (EA, Riot, Sony clients). Full requirements blocked via ArtStation 403; verify directly at artstation.com/jobs/YbXM. Also at beffio.com/careers."
+    "notes": "Separate role from beffio-realtime-vfx-unreal-2026 (VYMo = VFX Artist) and beffio-3d-ta-unity-2026 (ONEJ = Unity3D TA). This role (YbXM) focuses on Unreal Engine environment/biome creation \u2014 direct match for Shem's Unreal Engine advanced skills and procedural workflows. beffio is a Polish co-dev studio (EA, Riot, Sony clients). Full requirements blocked via ArtStation 403; verify directly at artstation.com/jobs/YbXM. Also at beffio.com/careers."
   },
   {
     "id": "beffio-3d-ta-unity-2026",
@@ -2279,27 +2279,27 @@
     "fit": "medium",
     "status": "skipped",
     "posting_date": "2025-04",
-    "skip_reason": "Posted April 2025 — outside 14-day window. Unity3D primary (not Unreal/Blender). 5+ years experience required — de facto senior.",
+    "skip_reason": "Posted April 2025 \u2014 outside 14-day window. Unity3D primary (not Unreal/Blender). 5+ years experience required \u2014 de facto senior.",
     "requirements": [
       "5+ years Technical Artist in gaming or related industries",
-      "Unity3D (Unity 6+, URP, HDRP, SRP) — primary engine",
+      "Unity3D (Unity 6+, URP, HDRP, SRP) \u2014 primary engine",
       "Unreal Engine experience (occasional, secondary)",
       "Houdini for procedural generation",
       "C#, HLSL, Python scripting"
     ],
-    "notes": "Unity primary role — significant toolset gap vs Shem's Unreal/Blender stack. Senior-level experience expectations (5+ years). Stale posting from April 2025. Also at skillshot.pl/jobs/36366. Monitor beffio careers for Unreal-primary or Blender-primary roles — the YbXM role is the better fit."
+    "notes": "Unity primary role \u2014 significant toolset gap vs Shem's Unreal/Blender stack. Senior-level experience expectations (5+ years). Stale posting from April 2025. Also at skillshot.pl/jobs/36366. Monitor beffio careers for Unreal-primary or Blender-primary roles \u2014 the YbXM role is the better fit."
   },
   {
     "id": "sketchbook-games-ta-unreal-2026",
     "title": "Technical Artist / Unreal Developer",
     "company": "Sketchbook Games",
-    "location": "Remote (UK-ONLY — applicants must be UK-based)",
+    "location": "Remote (UK-ONLY \u2014 applicants must be UK-based)",
     "url": "https://remotegamejobs.com/jobs/sketchbook-games-uk-based-technical-artist-unreal-developer-remote-job",
     "first_seen": "2026-07-24",
     "fit": "low",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "Applicants must be UK-based — explicit requirement due to funding restrictions and monthly London meetups. Not Dublin-eligible.",
+    "skip_reason": "Applicants must be UK-based \u2014 explicit requirement due to funding restrictions and monthly London meetups. Not Dublin-eligible.",
     "requirements": [
       "Unreal Engine 5 (shipping commercial games as TA with UE5 required)",
       "3D software: Blender, Maya, 3DS Max",
@@ -2319,11 +2319,11 @@
     "fit": "low",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "US company (Redwood City, CA) — EU/Ireland contractor eligibility unconfirmed. US-centric role scope.",
+    "skip_reason": "US company (Redwood City, CA) \u2014 EU/Ireland contractor eligibility unconfirmed. US-centric role scope.",
     "requirements": [
       "Unreal Engine 5 proficiency",
       "Performance optimization: Nanite, Lumen, shaders, lighting, VFX",
-      "First Technical Artist hire — own the full art pipeline",
+      "First Technical Artist hire \u2014 own the full art pipeline",
       "Fast iteration, performance-first mindset"
     ],
     "notes": "Y Combinator-backed startup. Conceptually strong Unreal Engine + pipeline match for Shem but US employment structure likely prevents remote-from-Ireland. Monitor if DreamWorld opens EU-eligible roles."
@@ -2332,20 +2332,20 @@
     "id": "hyperhug-3d-env-prop-artist-2026",
     "title": "3D Environment & Prop Artist",
     "company": "HyperHug",
-    "location": "Fully Remote (worldwide — Cyprus-based studio)",
+    "location": "Fully Remote (worldwide \u2014 Cyprus-based studio)",
     "url": "https://jobs.ashbyhq.com/hyperhug/bd5519f4-95f9-4c0b-90f2-b191e290b1af",
     "first_seen": "2026-07-24",
     "fit": "low-medium",
     "status": "skipped",
     "posting_date": "2026-06",
-    "skip_reason": "Posted June 2026 — outside 14-day window (~54 days old). Also mobile survival shooter (Oxide: Survival Island) is a domain gap.",
+    "skip_reason": "Posted June 2026 \u2014 outside 14-day window (~54 days old). Also mobile survival shooter (Oxide: Survival Island) is a domain gap.",
     "requirements": [
       "High-quality 3D environment assets and props from concept to in-game implementation",
       "Modular asset kits for efficient world building",
       "Mobile multiplayer survival shooter (Oxide: Survival Island)",
       "Remote worldwide"
     ],
-    "notes": "Salary $85K-$105K USD. Fully remote worldwide. Cyprus studio — EU-friendly. Mobile focus is a gap vs Shem's desktop/Unreal/Blender background. Monitor for future openings when posts are fresher."
+    "notes": "Salary $85K-$105K USD. Fully remote worldwide. Cyprus studio \u2014 EU-friendly. Mobile focus is a gap vs Shem's desktop/Unreal/Blender background. Monitor for future openings when posts are fresher."
   },
   {
     "id": "sarepta-studio-junior-ta-ue4-2026",
@@ -2357,7 +2357,7 @@
     "fit": "low",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "Confirmed expired. Norway on-site position — not Dublin-eligible remote. Junior level below Shem's experience.",
+    "skip_reason": "Confirmed expired. Norway on-site position \u2014 not Dublin-eligible remote. Junior level below Shem's experience.",
     "requirements": [
       "Unreal Engine 4 (technical VFX context)",
       "Junior level",
@@ -2367,7 +2367,7 @@
   },
   {
     "id": "eu-production-residency-3d-modeler-2026",
-    "title": "3D Modeler – Film Production Residency (60 Vacancies / IMDb Credit)",
+    "title": "3D Modeler \u2013 Film Production Residency (60 Vacancies / IMDb Credit)",
     "company": "EU Production Residency 2026",
     "location": "Bucharest, Romania (on-site, travel included)",
     "url": "https://www.artstation.com/jobs/5yVB",
@@ -2375,7 +2375,7 @@
     "fit": "low",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "On-site Bucharest, Romania — requires relocation from Dublin. Junior-level residency scope.",
+    "skip_reason": "On-site Bucharest, Romania \u2014 requires relocation from Dublin. Junior-level residency scope.",
     "requirements": [
       "Junior 3D artist for international feature film production",
       "60 vacancies available",
@@ -2395,7 +2395,7 @@
     "fit": "medium",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "Nuke compositor primary requirement — significant toolset gap for Shem (Blender/Fusion compositor background). Zerply ID (29Fe1SaP) suggests older posting.",
+    "skip_reason": "Nuke compositor primary requirement \u2014 significant toolset gap for Shem (Blender/Fusion compositor background). Zerply ID (29Fe1SaP) suggests older posting.",
     "requirements": [
       "2+ years VFX production experience using Nuke",
       "Photo-real / live-action VFX pipeline",
@@ -2405,7 +2405,7 @@
   },
   {
     "id": "reanimated-digital-environment-artist-2026",
-    "title": "3D Environment Artist – Unannounced MMORPG",
+    "title": "3D Environment Artist \u2013 Unannounced MMORPG",
     "company": "Reanimated Digital",
     "location": "Fully Remote (worldwide)",
     "url": "https://remotegamejobs.com/jobs/reanimated-digital-environment-artist-unannounced-game-remote-job",
@@ -2413,20 +2413,20 @@
     "fit": "low-medium",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "Unity engine required. LinkedIn posts for Reanimated Digital suggest posting predates 2024 — likely stale.",
+    "skip_reason": "Unity engine required. LinkedIn posts for Reanimated Digital suggest posting predates 2024 \u2014 likely stale.",
     "requirements": [
       "Unity engine for 3D environment art",
       "High-quality environment assets for MMORPG",
       "Natural and architectural environment specialization",
-      "International remote studio — timezone flexible"
+      "International remote studio \u2014 timezone flexible"
     ],
-    "notes": "Reanimated Digital — indie MMORPG studio with secured funding. Unity-centric (not Unreal/Blender-primary). Posting age unclear; company's other Unity Developer posting predates 2024. Low priority."
+    "notes": "Reanimated Digital \u2014 indie MMORPG studio with secured funding. Unity-centric (not Unreal/Blender-primary). Posting age unclear; company's other Unity Developer posting predates 2024. Low priority."
   },
   {
     "id": "midow-studios-3d-art-generalist-2026",
     "title": "3D Art Generalist",
     "company": "Midow Studios",
-    "location": "Fully Remote (EU, CEST±2 timezone — Malta studio)",
+    "location": "Fully Remote (EU, CEST\u00b12 timezone \u2014 Malta studio)",
     "url": "https://remotegamejobs.com/jobs/midow-studios-3d-art-generalist-remote-job-6f7c7152-c7fd-439e-aa05-ab955ce3348a",
     "first_seen": "2026-07-24",
     "fit": "low-medium",
@@ -2439,21 +2439,21 @@
       "Unity engine (primary)",
       "VR-ready asset creation",
       "Stylized 3D art for fantasy magic-themed VR title",
-      "EU timezone (CEST±2)"
+      "EU timezone (CEST\u00b12)"
     ],
-    "notes": "Midow Studios (Malta, VR game Discovery of Magic). Salary €25K-€30K. EU-eligible remote. Unity/VR focus is a domain gap vs Shem's Unreal/film pipeline background. Stylized art style also differs from portfolio. Combined with likely stale status, low priority."
+    "notes": "Midow Studios (Malta, VR game Discovery of Magic). Salary \u20ac25K-\u20ac30K. EU-eligible remote. Unity/VR focus is a domain gap vs Shem's Unreal/film pipeline background. Stylized art style also differs from portfolio. Combined with likely stale status, low priority."
   },
   {
     "id": "classdojo-3d-prop-environment-artist-2026",
     "title": "3D Prop / Environment Artist (Mobile)",
     "company": "ClassDojo",
-    "location": "Fully Remote (US company — San Francisco)",
+    "location": "Fully Remote (US company \u2014 San Francisco)",
     "url": "https://remotegamejobs.com/jobs/classdojo-3d-prop-environment-artist-mobile-remote-job",
     "first_seen": "2026-07-24",
     "fit": "low",
     "status": "skipped",
     "posting_date": "unknown",
-    "skip_reason": "Mobile educational game platform (US company). Domain gap: not film/VFX/games; educational tech context. Mobile platform optimization is a gap. Date unclear — may be stale.",
+    "skip_reason": "Mobile educational game platform (US company). Domain gap: not film/VFX/games; educational tech context. Mobile platform optimization is a gap. Date unclear \u2014 may be stale.",
     "requirements": [
       "3D modeling, UV mapping, texture painting for mobile",
       "Game industry experience in 3D art",
@@ -2462,5 +2462,191 @@
       "Freelance, ongoing basis"
     ],
     "notes": "ClassDojo is an educational technology platform used by 51M+ users. Mobile game scope. Freelance, ongoing. Low creative-tech depth vs Shem's VFX/real-time background. US company may present payment complexity for Irish contractor."
+  },
+  {
+    "id": "room-8-studio-realtime-vfx-artist-2026",
+    "title": "Realtime VFX Artist (Mid-Senior)",
+    "company": "Room 8 Studio",
+    "location": "Fully Remote (worldwide)",
+    "url": "https://remotegamejobs.com/jobs/room-8-studio-realtime-vfx-artist-mid-senior-remote-job",
+    "first_seen": "2026-07-25",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Creating bright, dynamic visual effects in UE4 or Unity",
+      "Good knowledge of Autodesk packages (3Ds Max / Maya)",
+      "Solid skills in modelling, UV-mapping, animation in 3Ds Max / Maya / Blender",
+      "Creating drawn and procedural textures in Photoshop, Substance Designer",
+      "Particle systems development (Unity 3D / Unreal Engine)",
+      "Houdini, FumeFX, or equivalent VFX software (advantageous)"
+    ],
+    "notes": "Room 8 Studio is an international AAA game art outsourcing company (Activision, Nintendo, Ubisoft, EA, Xbox Game Studios clients). Cyprus-based, fully remote worldwide. Blender is listed as an acceptable 3D software (alongside Maya/3ds Max). Unreal Engine is listed. Mid level is included alongside Senior. Studio Meala Disney+ VFX credit is directly relevant. Posting date unconfirmed \u2014 verify freshness."
+  },
+  {
+    "id": "minimpire-vfx-artist-unreal-2026",
+    "title": "VFX Artist (Remote)",
+    "company": "Minimpire",
+    "location": "Fully Remote (location requirements not confirmed)",
+    "url": "https://www.artstation.com/jobs/e9Qd",
+    "first_seen": "2026-07-25",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Real-time gameplay VFX in Unreal Engine 5",
+      "Stylized / cartoony aesthetic (ARPG with Soulslike combat, open world)",
+      "UE5 particle systems, shaders, and visual effects implementation",
+      "Portfolio demonstrating real-time gameplay VFX"
+    ],
+    "notes": "Minimpire is building a stylized/cartoony action RPG (Soulslike combat, open world) in UE5. Remote position. EU/Ireland eligibility unconfirmed \u2014 needs manual check on ArtStation listing. UE5 real-time VFX is a strong match for Shem (Infinity 27 bootcamp, Unreal Engine Advanced background). Seniority level unclear \u2014 check before applying."
+  },
+  {
+    "id": "bladework-games-environment-artist-2026",
+    "title": "3D Environment Artist (Senior / Mid)",
+    "company": "Bladework Games",
+    "location": "Remote (US-based new studio)",
+    "url": "https://remotegamejobs.com/jobs/bladework-games-3d-environment-artist-senior-mid-remote-job-e0605128-f5c2-4fa1-90fc-371c244806fb",
+    "first_seen": "2026-07-25",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Creating high-quality props and environment assets for cooperative multiplayer ARPG",
+      "Environmental storytelling and contributing to creative direction",
+      "Mid and Senior level candidates considered",
+      "3+ years experience (per Outscal listing)"
+    ],
+    "notes": "Bladework Games is a new remote-first US studio building a cooperative multiplayer ARPG (PC-first). Mid level included alongside Senior. US-based studio \u2014 EU/Ireland eligibility and timezone overlap requirements unconfirmed. Environment art focus aligns with Shem's Blender procedural modeling and asset creation background. Early-stage studio could offer creative ownership. Verify geographic eligibility before applying."
+  },
+  {
+    "id": "saguni-studio-3d-environment-artist-2026",
+    "title": "3D Environment Artist (Dark Fantasy / Anime-Inspired)",
+    "company": "Saguni Studio",
+    "location": "Fully Remote (global)",
+    "url": "https://remotegamejobs.com/jobs/saguni-studio-3d-environment-artist-dark-fantasy-anime-inspired-remote-job",
+    "first_seen": "2026-07-25",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Full requirements not confirmed \u2014 3D environment art for dark fantasy anime ARPG",
+      "Building immersive environments for Astral Sync"
+    ],
+    "notes": "Third open role from Saguni Studio (previously tracked: Technical Artist \u2014 Environment & Materials, Technical Artist \u2014 Shaders). Same project: Astral Sync (dark fantasy anime ARPG). Posting date and toolset requirements unconfirmed \u2014 the other Saguni roles were dated ~Feb 2026 and listed as still active in July. Check posting freshness. Blender may be acceptable given studio's other listings. Environment art aligns with Shem's procedural modeling background."
+  },
+  {
+    "id": "mudtek-vfx-artist-unity-2026",
+    "title": "VFX Artist (Unity / Shader Graph)",
+    "company": "Mudtek",
+    "location": "Fully Remote",
+    "url": "https://remotegamejobs.com/jobs/mudtek-vfx-artist-unity-shader-graph-remote-job",
+    "first_seen": "2026-07-25",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Unity Shader Graph focus for 2D top-down RPG \u2014 domain mismatch. Senior-level role (owns entire look and feel of magic VFX). Profit-sharing compensation model suggests indie/early-stage with uncertain pay.",
+    "requirements": [
+      "Unity and Shader Graph VFX creation",
+      "Building spell VFX for 2D top-down RPG (Dimraeth)",
+      "Working directly inside spell code files",
+      "Senior-level ownership of visual effects direction"
+    ],
+    "notes": "Mudtek building Dimraeth (2D multiplayer RPG, early access 2026). Unity/Shader Graph primary. 2D game context. Shem's strengths are Unreal/Blender/3D real-time \u2014 not a match."
+  },
+  {
+    "id": "rebellion-junior-vfx-artist-uk-2026",
+    "title": "Junior VFX Artist (UK-based, Remote/Flexible)",
+    "company": "Rebellion",
+    "location": "UK (Oxford HQ, hybrid preferred)",
+    "url": "https://www.artstation.com/jobs/OelB",
+    "first_seen": "2026-07-25",
+    "fit": "low-medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "UK-based role \u2014 Oxford office hybrid strongly preferred. Ireland/remote eligibility unclear for non-UK applicants. Large AAA studio (conflicts with Shem's small-crew preference).",
+    "requirements": [
+      "Real-time VFX portfolio (clear, well-timed, visually compelling effects)",
+      "Blender, Photoshop, Substance, After Effects",
+      "Game jam, mod, or professional project experience",
+      "Junior level (graduate/early career)"
+    ],
+    "notes": "Rebellion is a major UK AAA studio (Strange Brigade, Sniper Elite, Strange Brigade). Junior level is ok. Blender is listed as a valid tool \u2014 skills match. However UK-Oxford hybrid requirement is a near-dealbreaker from Dublin. Large team structure conflicts with Shem's preference. Also at: https://apply.workable.com/rebellion/j/68F15D5433/"
+  },
+  {
+    "id": "ci-games-lead-vfx-artist-2026",
+    "title": "Lead VFX Artist (Remote - Europe)",
+    "company": "CI Games",
+    "location": "Remote (Europe)",
+    "url": "https://remotegamejobs.com/jobs/ci-games-lead-vfx-artist-remote-job",
+    "first_seen": "2026-07-25",
+    "fit": "medium-high",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Lead level \u2014 excluded per seniority filter. Also requires 5+ years experience as real-time VFX Artist.",
+    "requirements": [
+      "At least 5 years experience as real-time VFX Artist for AA+ games",
+      "Leadership role experience preferred",
+      "Unreal Engine and Niagara (strong proficiency)",
+      "Houdini, Embergen, Photoshop, Substance Designer",
+      "Cross-discipline collaboration (Lords of the Fallen)"
+    ],
+    "notes": "CI Games (Lords of the Fallen, Sniper Ghost Warrior). Remote Europe \u2014 Ireland eligible. Skills match is strong conceptually (UE5, VFX) but Lead title and 5+ years requirement make this out of scope. Monitor CI Games for mid-level VFX openings."
+  },
+  {
+    "id": "wilder-world-environment-artist-europe-2026",
+    "title": "Mid to Senior Environment Artist (Remote - Europe)",
+    "company": "Wilder World Inc.",
+    "location": "Remote (Europe)",
+    "url": "https://www.artstation.com/jobs/aa7y",
+    "first_seen": "2026-07-25",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Requires minimum 5 years experience \u2014 de facto senior. Role is primary lead for all environments, clearly above mid-level scope.",
+    "requirements": [
+      "Minimum 5 years experience developing game art",
+      "Photo-realistic 3D environment design (Futuristic style)",
+      "Unreal Engine 5 (Wilder World is UE5-based)",
+      "Shaders, pipeline and workflow proficiency",
+      "Multi-timezone collaboration"
+    ],
+    "notes": "Wilder World (photorealistic metaverse on Ethereum + UE5). Europe-remote. Previously tracked the Lighting/VFX Artist role (wilder-world-lighting-vfx-europe-2026). This is a separate Environment Artist role, but 5-year minimum puts it out of scope."
+  },
+  {
+    "id": "void-interactive-capture-artist-2026",
+    "title": "Capture Artist / Video Editor (Ready or Not)",
+    "company": "VOID Interactive",
+    "location": "Ireland (fully remote, full-time employee) / Europe (contractor)",
+    "url": "https://remotegamejobs.com/jobs/void-interactive-capture-artist-video-editor-ready-or-not-remote-job",
+    "first_seen": "2026-07-25",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Capture artist / video editor role \u2014 not aligned with Shem's 3D art, technical art, or VFX profile.",
+    "requirements": [
+      "In-game video capture and editing for Ready or Not",
+      "Video editing and post-production skills",
+      "Gaming/trailer content creation"
+    ],
+    "notes": "VOID Interactive (Cold-call target). This is a different role from the VFX Artist and Environment Artist positions previously tracked. Video editor/capture scope is not Shem's strength \u2014 skip. Monitor VOID for technical art or VFX openings."
+  },
+  {
+    "id": "accenture-motion-designer-level9-2026",
+    "title": "Motion Designer (Level 9)",
+    "company": "Accenture",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://en.wizbii.com/company/accenture/job/motion-designer-level-9",
+    "first_seen": "2026-07-25",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Adobe After Effects / Flash / Illustrator-only role \u2014 no Blender, Unreal Engine, or technical art component. Large global consultancy conflicts with Shem's small-crew preference. Already tracking Accenture Creative Technologist (accenture-ai-creative-technologist-2026).",
+    "requirements": [
+      "After Effects, Illustrator, Flash, Core Composer, Origami",
+      "Motion design for digital/customer experience projects",
+      "Expert understanding of motion design trends"
+    ],
+    "notes": "Accenture Song Dublin. Motion Designer Level 9 (mid-level at Accenture). Role is AE/motion-only without technical-creative depth. Large team structure is a dealbreaker for Shem."
   }
 ]
