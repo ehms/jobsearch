@@ -2648,5 +2648,131 @@
       "Expert understanding of motion design trends"
     ],
     "notes": "Accenture Song Dublin. Motion Designer Level 9 (mid-level at Accenture). Role is AE/motion-only without technical-creative depth. Large team structure is a dealbreaker for Shem."
+  },
+  {
+    "id": "elephant-goldfish-compositor-public-2026",
+    "title": "Compositor (Mid/Senior)",
+    "company": "Elephant Goldfish",
+    "location": "Dublin, Ireland (on-site or hybrid)",
+    "url": "https://www.elephantgoldfish.com/join-us/",
+    "first_seen": "2026-07-26",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "2026-07",
+    "requirements": [
+      "Compositing experience in film/TV/commercial VFX",
+      "Proficiency in Nuke (likely — verify on page)",
+      "Ability to work within a small studio team",
+      "Strong understanding of CG integration and colour science"
+    ],
+    "notes": "Previously tracked as cold-call target only. Now has a public compositor listing at elephantgoldfish.com/join-us/. Small Dublin VFX studio — matches Shem's small-crew preference. Studio Meala Disney+ mid-level compositor credit is directly relevant. Key gap to verify: Nuke vs Shem's Blender/Fusion compositing background. Contact: careers@elephantgoldfish.com. HIGH PRIORITY — apply ASAP."
+  },
+  {
+    "id": "beffio-3d-artist-mid-senior-2026",
+    "title": "3D Artist (Mid/Senior)",
+    "company": "Beffio",
+    "location": "Remote (worldwide)",
+    "url": "https://www.artstation.com/jobs/mQkP",
+    "first_seen": "2026-07-26",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2026-07",
+    "skip_reason": "Requires 5+ years professional experience — de facto senior level. Seniority filter: exclude roles above mid-level.",
+    "requirements": [
+      "5+ years professional 3D art experience",
+      "Unreal Engine environment art",
+      "High-poly and low-poly asset creation",
+      "PBR texturing and material creation"
+    ],
+    "notes": "Beffio (previously tracked: beffio-unreal-environment-biome-artist-2026). This '3D Artist Mid/Senior' listing requires 5+ years — crosses seniority threshold. Skill match is strong (Unreal, environments, procedural) but filtered out on experience requirement. Already tracking beffio Unreal Engine Environment/Biome Artist separately."
+  },
+  {
+    "id": "running-with-scissors-3d-artist-2026",
+    "title": "3D Artist",
+    "company": "Running With Scissors",
+    "location": "Remote (worldwide)",
+    "url": "https://www.remotegamejobs.com/jobs/running-with-scissors-3d-artist",
+    "first_seen": "2026-07-26",
+    "fit": "low",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "3D modeling and texturing for games",
+      "Indie game art experience",
+      "Character and environment art"
+    ],
+    "notes": "Postal series developer. Shoestring indie budget — low priority. Posting date unknown, may be stale. Skills match (3D art, games) but culture fit questionable (mature/edgy IP, small indie). Low fit score due to budget constraints and posting date uncertainty."
+  },
+  {
+    "id": "material10-vfx-artist-2026",
+    "title": "VFX Artist",
+    "company": "Material10",
+    "location": "Remote (worldwide)",
+    "url": "https://www.remotegamejobs.com/jobs/material10-vfx-artist",
+    "first_seen": "2026-07-26",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-07",
+    "skip_reason": "Requires AAA shipped title experience (hard requirement gap). Blockchain/token compensation model. Low culture fit.",
+    "requirements": [
+      "AAA shipped game VFX experience required",
+      "Unreal Engine VFX / particle systems",
+      "Blockchain gaming platform context"
+    ],
+    "notes": "Material10 — blockchain gaming studio. AAA shipped title is a hard requirement Shem cannot meet. Token/crypto compensation is a red flag. Unreal VFX skills match but context and requirements are a poor fit overall."
+  },
+  {
+    "id": "unfold-games-3d-environment-artist-2026",
+    "title": "3D Environment Artist",
+    "company": "Unfold Games",
+    "location": "Remote",
+    "url": "https://www.remotegamejobs.com/jobs/unfold-games-3d-environment-artist",
+    "first_seen": "2026-07-26",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Listing expired / no longer accepting applications.",
+    "requirements": [
+      "3D environment art for games",
+      "Unreal Engine or similar real-time engine",
+      "Procedural modeling"
+    ],
+    "notes": "Unfold Games environment artist role. Expired listing — confirmed closed on remotegamejobs.com. Skills would have been a good match (environment art, Unreal, procedural) but position is no longer active."
+  },
+  {
+    "id": "goldfire-studios-3d-env-prop-2026",
+    "title": "3D Environment & Prop Artist",
+    "company": "GoldFire Studios",
+    "location": "Remote (worldwide)",
+    "url": "https://www.remotegamejobs.com/jobs/goldfire-studios-3d-environment-prop-artist",
+    "first_seen": "2026-07-26",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Listing closed — no longer accepting applications.",
+    "requirements": [
+      "3D environment and prop modeling",
+      "Game art pipeline experience",
+      "Texturing and material creation"
+    ],
+    "notes": "GoldFire Studios 3D Environment & Prop Artist. Listing confirmed closed. Skills are relevant (environment/prop modeling) but position is no longer active. Monitor for future openings."
+  },
+  {
+    "id": "beffio-lead-ta-unity-2026",
+    "title": "Lead Technical Artist",
+    "company": "Beffio",
+    "location": "Remote (worldwide)",
+    "url": "https://www.artstation.com/jobs/wmXk",
+    "first_seen": "2026-07-26",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-07",
+    "skip_reason": "Lead level — above mid-level seniority filter. Unity primary (not Unreal/Blender). Already tracking two other Beffio roles.",
+    "requirements": [
+      "Lead Technical Artist experience",
+      "Unity shader and tool development",
+      "Team leadership and pipeline ownership"
+    ],
+    "notes": "Beffio Lead Technical Artist (ArtStation jobs/wmXk). Filtered: Lead title exceeds seniority ceiling. Unity-primary pipeline is not Shem's strongest stack (Blender/Unreal). Already tracking beffio-unreal-environment-biome-artist-2026 and beffio-3d-artist-mid-senior-2026."
   }
 ]
