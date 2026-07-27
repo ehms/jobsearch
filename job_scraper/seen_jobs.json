@@ -2774,5 +2774,188 @@
       "Team leadership and pipeline ownership"
     ],
     "notes": "Beffio Lead Technical Artist (ArtStation jobs/wmXk). Filtered: Lead title exceeds seniority ceiling. Unity-primary pipeline is not Shem's strongest stack (Blender/Unreal). Already tracking beffio-unreal-environment-biome-artist-2026 and beffio-3d-artist-mid-senior-2026."
+  },
+  {
+    "id": "little-moon-animation-generalist-td-2026",
+    "title": "Generalist TD",
+    "company": "Little Moon Animation",
+    "location": "Dublin, Ireland (on-site, full-time)",
+    "url": "https://www.littlemoonanimation.com/jobs",
+    "first_seen": "2026-07-27",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Thorough understanding of art and animation pipelines in general",
+      "Deep knowledge of content creation pipeline in Unreal Engine",
+      "Tool development and workflow support for Unreal-based animated series pipeline",
+      "Collaboration with art and animation teams",
+      "Must be Dublin-based or eligible to work in Dublin"
+    ],
+    "notes": "Little Moon Animation is one of the first studios in Europe to produce broadcast CG animated series using Unreal Engine 5 (UE5). 'Generalist TD' is a new opening alongside previously tracked Technical Artist and 3D Generalist roles. Strong pipeline + Unreal Engine alignment with Shem's INFINITY 27 bootcamp and animation studio Unreal work. Apply via jobs@littlemoonanimation.com. Posting date unverified — likely active as studio is actively scaling."
+  },
+  {
+    "id": "little-moon-animation-lighting-artist-ue5-2026",
+    "title": "Lighting Artist (UE5)",
+    "company": "Little Moon Animation",
+    "location": "Dublin, Ireland (on-site, full-time)",
+    "url": "https://www.littlemoonanimation.com/jobs",
+    "first_seen": "2026-07-27",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Thorough understanding of lighting techniques in Unreal Engine (UE5)",
+      "Strong creative eye for cinematic/broadcast lighting",
+      "Collaboration with art team on Unreal-based animated series",
+      "Must be Dublin-based or eligible to work in Dublin"
+    ],
+    "notes": "Third active opening at Little Moon Animation alongside Generalist TD and previously tracked Technical Artist and 3D Generalist roles. UE5 lighting aligns with Shem's Unreal Engine advanced background, though lighting/lookdev is not his primary specialty. INFINITY 27 material authoring and rendering background is adjacent. Dublin on-site. Apply via jobs@littlemoonanimation.com."
+  },
+  {
+    "id": "lunacy-studios-vfx-artist-2026",
+    "title": "VFX Artist (Remote — 3-month contract)",
+    "company": "Lunacy Studios",
+    "location": "Fully Remote (UTC-7 to UTC+1 — Dublin UTC+1 is included)",
+    "url": "https://remotegamejobs.com/jobs/lunacy-studios-vfx-artist-remote-job",
+    "first_seen": "2026-07-27",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "~2026-07",
+    "requirements": [
+      "Experience creating and editing Visual Effects in Unreal Engine",
+      "Strong creative and technical background",
+      "Create, implement, and polish VFX for environments and characters",
+      "In-engine VFX development in Unreal",
+      "Mid-level preferred (studio budget consideration)"
+    ],
+    "notes": "Lunacy Studios — indie game studio building a narrative-driven 3rd-person 3D puzzle adventure game set in the Islamic Golden Age. No crunch, no egos, globally distributed team. 3-month (12 week) full-time contract. UTC+1 timezone compatibility is excellent for Dublin. 'Mid-level artist' stated preference aligns directly with Shem's profile. Studio Meala Disney+ VFX compositing credit and Unreal Engine advanced skills are directly relevant. Apply via lunacystudios.com/careers/. Also on workwithindies.com."
+  },
+  {
+    "id": "lunacy-studios-lighting-artist-ue55-2026",
+    "title": "Lighting Artist (UE 5.5)",
+    "company": "Lunacy Studios",
+    "location": "Fully Remote",
+    "url": "https://remotegamejobs.com/jobs/lunacy-studios-lighting-artist-ue-5-5-remote-job",
+    "first_seen": "2026-07-27",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "~2026-07",
+    "requirements": [
+      "Cinematic eye for realtime lighting in Unreal Engine 5.5",
+      "Set up, implement, and polish cinematic lighting for interior and exterior game environments",
+      "Collaborate with Art Director on visual direction and concepts",
+      "Highlight gameplay-important aspects in collaboration with level designers",
+      "Author post-processing effects"
+    ],
+    "notes": "Same studio as lunacy-studios-vfx-artist-2026 — Lunacy indie puzzle adventure (narrative-driven, Islamic Golden Age). No crunch, globally distributed remote studio. UE5.5 lighting is adjacent to Shem's Unreal Engine background (material authoring, rendering) rather than a primary strength. Apply via lunacystudios.com/careers/. Lower priority than the VFX Artist role but same studio — consider bundled application."
+  },
+  {
+    "id": "lunacy-studios-senior-ta-ue5-vfx-2026",
+    "title": "Senior Technical Artist (UE5, VFX)",
+    "company": "Lunacy Studios",
+    "location": "Fully Remote (UTC-7 to UTC+3)",
+    "url": "https://remotegamejobs.com/jobs/lunacy-studios-senior-technical-artist-ue5-vfx-remote-job",
+    "first_seen": "2026-07-27",
+    "fit": "high",
+    "status": "skipped",
+    "posting_date": "2026-07-03",
+    "skip_reason": "Confirmed closed as of search date. Also Senior level — excluded per seniority filter.",
+    "requirements": [
+      "Unreal Engine 5.7 and 5.8 features",
+      "Own full art pipeline as first technical art hire",
+      "Senior-level ownership of technical art direction"
+    ],
+    "notes": "Posted July 3, 2026 but confirmed closed by search results. Senior title also exceeds mid-level seniority filter. Skills match would have been strong (Unreal PCG, VFX, pipeline). Monitor Lunacy Studios for future mid-level TA openings."
+  },
+  {
+    "id": "faber-courtial-technical-artist-2026",
+    "title": "Unreal Technical Artist (m/w/d)",
+    "company": "Faber Courtial GbR",
+    "location": "Darmstadt, Germany (on-site, near Frankfurt/Main)",
+    "url": "https://www.artstation.com/jobs/qr4Q",
+    "first_seen": "2026-07-27",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "On-site Darmstadt, Germany — requires relocation from Dublin. Dealbreaker per location filter.",
+    "requirements": [
+      "Confident working in Unreal Engine and DCC applications such as Blender",
+      "Experience with 3ds Max (plus)",
+      "Troubleshooting and resolving technical issues in Unreal production process",
+      "Strong problem-solving skills"
+    ],
+    "notes": "Faber Courtial is a global pioneer in XR and Germany's leading VFX studio (20+ years). Broadcasting, exhibitions, high-end animations. Contact: mc@faber-courtial.de. Strong skills match (Unreal, Blender) but on-site Germany location is a hard dealbreaker. Monitor for remote-eligible future openings."
+  },
+  {
+    "id": "heromation-environment-artist-unreal-2026",
+    "title": "Environment Artist (Unreal)",
+    "company": "HEROmation",
+    "location": "Remote",
+    "url": "https://remotegamejobs.com/jobs/heromation-environment-artist-feb-july-remote-job",
+    "first_seen": "2026-07-27",
+    "fit": "low-medium",
+    "status": "skipped",
+    "posting_date": "~2024",
+    "skip_reason": "Confirmed expired — The Phoenix Gene (the associated game project) was released late 2024. Posting is stale.",
+    "requirements": [
+      "Unreal Engine 4.27 (Quest platform)",
+      "Landscapes, buildings, lighting, texturing, instancing",
+      "Mobile VR optimization"
+    ],
+    "notes": "HEROmation (VR/XR indie studio) develops stories and worlds for Meta Quest. Posting title includes 'feb-july' slug suggesting a February-July range for a project now completed. Company has other remote openings (Game Designer, Blueprint Generalist, Unity Effects Artist) — monitor for fresh Unreal-focused roles."
+  },
+  {
+    "id": "beyond-creative-unreal-artist-uefn-2026",
+    "title": "Unreal Engine Artist (UEFN / Fortnite Creative)",
+    "company": "Beyond Creative Limited",
+    "location": "Fully Remote (worldwide)",
+    "url": "https://www.artstation.com/jobs/XOyX",
+    "first_seen": "2026-07-27",
+    "fit": "low-medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Fortnite Creative (UEFN) is a highly specialized sub-platform — not aligned with Shem's film, animation, or technical art background. Brand activation / game design context.",
+    "requirements": [
+      "UEFN (Unreal Engine for Fortnite) experience",
+      "Bring brand experiences and maps into Fortnite Creative",
+      "Competitive salary, lunches, travel opportunities"
+    ],
+    "notes": "Beyond Creative is an award-winning Fortnite Creative agency working with major brands. UEFN is technically Unreal Engine but the use case (brand activations in Fortnite) is quite removed from Shem's VFX, animation, and procedural art background. Portfolio would be a poor fit for this context. Lower priority despite strong Unreal fundamentals. beyondcreative.gg/careers for details."
+  },
+  {
+    "id": "screen-training-vfx-traineeship-sept-2026",
+    "title": "Animation, VFX & Games Graduate Traineeship 2026",
+    "company": "Screen Training Ireland / Cultural & Creative Industries Skillnet",
+    "location": "Republic of Ireland (remote-eligible during placement; must be Ireland-based)",
+    "url": "https://www.creativeskillnet.ie/course/animation-vfx-and-games-traineeship-2026-call-for-applications/",
+    "first_seen": "2026-07-27",
+    "fit": "low-medium",
+    "status": "skipped",
+    "posting_date": "2026",
+    "skip_reason": "Application deadline was June 30, 2026 — already passed. Traineeship level likely below Shem's 10+ years of experience.",
+    "requirements": [
+      "Graduate level (Animation, VFX, or Games background)",
+      "Republic of Ireland residency required for placement duration",
+      "11-week placement from August 31, 2026"
+    ],
+    "notes": "Screen Training Ireland / Animation Skillnet 11-week traineeship programme (running since 2016). 90%+ of participants gain further industry work. Applications closed June 30; candidates notified by July 28. Placement with Irish animation/VFX studios. Too junior for Shem's experience level but a useful monitor for future cohorts."
+  },
+  {
+    "id": "aardman-compositor-motion-designer-2026",
+    "title": "Compositor / Motion Designer",
+    "company": "Aardman",
+    "location": "Bristol, United Kingdom",
+    "url": "https://jobvfx.com/jobs/compositor-motion-designer-bristol-united-kingdom-england-july-6-2026-aardman/",
+    "first_seen": "2026-07-27",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2026-07-06",
+    "skip_reason": "Application deadline July 10, 2026 — already closed. Bristol UK location would require relocation.",
+    "requirements": [
+      "Compositing and motion design for animation production",
+      "Aardman studio pipeline experience"
+    ],
+    "notes": "Aardman (Wallace & Gromit, Shaun the Sheep — BAFTA/Oscar winning studio). Compositor/Motion Designer role combining both skills — a direct match for Shem's Studio Meala compositing credit and BA Visual Comms motion design background. Application closed July 10. Monitor Aardman for future remote-eligible or Irish-timezone openings."
   }
 ]
