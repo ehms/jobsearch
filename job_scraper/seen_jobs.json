@@ -2957,5 +2957,173 @@
       "Aardman studio pipeline experience"
     ],
     "notes": "Aardman (Wallace & Gromit, Shaun the Sheep — BAFTA/Oscar winning studio). Compositor/Motion Designer role combining both skills — a direct match for Shem's Studio Meala compositing credit and BA Visual Comms motion design background. Application closed July 10. Monitor Aardman for future remote-eligible or Irish-timezone openings."
+  },
+  {
+    "id": "arkwiz-ue5-technical-artist-generalist-2026",
+    "title": "Unreal Engine Technical Artist / Generalist (Contract/Full-time)",
+    "company": "Arkwiz (project: Geos)",
+    "location": "Remote (EU preferred)",
+    "url": "https://forums.unrealengine.com/t/paid-unreal-engine-technical-artist-generalist-contract-full-time-remote-eu-preferred/2738213",
+    "first_seen": "2026-07-28",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "2026-07-25",
+    "requirements": [
+      "Unreal Engine 5 (Nanite, Lumen, PCG)",
+      "GIS data pipeline: Houdini PCG → UE5 workflow",
+      "Cesium for Unreal integration",
+      "AWS infrastructure familiarity",
+      "Technical Artist / Generalist background",
+      "EU timezone preferred",
+      "Contract or full-time"
+    ],
+    "notes": "Norwegian startup building 'Geos' — a GIS-to-real-time-3D pipeline using Houdini PCG, UE5 Nanite/Lumen/PCG, Cesium, and AWS. Posted ~July 25 via Epic Developer Community Forums. EU preferred strongly aligns with Dublin-based remote eligibility. Direct match for Shem's INFINITY 27 UE5 procedural TA bootcamp (PCG, material authoring, optimization) and Animation Studio immersive 3D Unreal experience. Houdini is a gap but PCG in UE5 is a bridge skill. HIGH fit — priority application."
+  },
+  {
+    "id": "legion-studio-technical-artist-covenant-2026",
+    "title": "Technical Artist (Mid-Lead) — 'Covenant' RPG",
+    "company": "Legion Studio",
+    "location": "Remote (contract)",
+    "url": "https://legionstudio.dev/post/technical-artist-remote-full-time-contract",
+    "first_seen": "2026-07-28",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "2026-07",
+    "requirements": [
+      "Unreal Engine (Material Graphs, shader performance)",
+      "Tool development for art pipeline",
+      "Dark fantasy RPG project ('Covenant')",
+      "Remote contract position",
+      "Mid-Lead level (ambiguous seniority)"
+    ],
+    "notes": "Legion Studio hiring for 'Covenant', a dark fantasy RPG. Role involves Unreal Engine materials/shaders and pipeline tool development — strong match for Shem's TA bootcamp (UE5 procedural workflows, material authoring) and Animation Studio tool-set work. 'Mid-Lead' title is ambiguous — may be excluded by senior filter depending on their definition. Could not fetch page directly (403). Solid secondary candidate behind Arkwiz."
+  },
+  {
+    "id": "rte-graphic-designer-2026",
+    "title": "Graphic Designer (Motion / Digital Design)",
+    "company": "RTÉ",
+    "location": "Dublin (on-site), Ireland",
+    "url": "https://www.rte.ie/about/en/jobs/",
+    "first_seen": "2026-07-28",
+    "fit": "low-medium",
+    "status": "new",
+    "posting_date": "2026-07",
+    "requirements": [
+      "Adobe Creative Suite (Photoshop, Illustrator, After Effects)",
+      "Motion graphics and digital design",
+      "Broadcast design experience",
+      "6-month contract",
+      "Salary: €56,822–€72,886"
+    ],
+    "notes": "RTÉ (national broadcaster) graphic designer contract. URGENT: application deadline July 30, 2026 (48 hours from discovery). 6-month contract. BA Visual Comms + Science Gallery motion graphics background is directly relevant. However role is Adobe-suite centric — Blender and Unreal Engine are not required. Low-medium fit due to limited technical-3D component. Shem could apply if RTÉ name/broadcast credit is strategically interesting, but not a core-strength match."
+  },
+  {
+    "id": "deca-games-technical-artist-2026",
+    "title": "Technical Artist (m/f/d)",
+    "company": "DECA Games",
+    "location": "Remote worldwide (CET timezone)",
+    "url": "https://remotegamejobs.com/jobs/deca-technical-artist-m-f-d-remote-job",
+    "first_seen": "2026-07-28",
+    "fit": "low-medium",
+    "status": "new",
+    "posting_date": "2026-07",
+    "requirements": [
+      "Unity (primary engine — not UE5)",
+      "Maya",
+      "Python scripting",
+      "4+ years experience",
+      "2-3 years VFX in games",
+      "Embracer Group subsidiary",
+      "CET timezone"
+    ],
+    "notes": "DECA Games (Embracer Group subsidiary) remote TA role. Unity-centric stack is a significant gap vs Shem's Blender/UE5 background, though Python scripting is shared. 4+ years required, 2-3 years VFX in games — experience level matches. CET timezone is EU-compatible. Low-medium: technically eligible but would need Unity ramp-up time. Could not fetch directly (403)."
+  },
+  {
+    "id": "mega-cat-studios-vfx-game-artist-2026",
+    "title": "VFX Game Artist",
+    "company": "Mega Cat Studios",
+    "location": "Remote (US studio)",
+    "url": "https://remotegamejobs.com/jobs/mega-cat-studios-vfx-game-artist-remote-job",
+    "first_seen": "2026-07-28",
+    "fit": "low-medium",
+    "status": "new",
+    "posting_date": "2026-07",
+    "requirements": [
+      "Unity 2D/3D VFX",
+      "Game VFX pipelines",
+      "US-based indie studio"
+    ],
+    "notes": "Mega Cat Studios indie US game studio. Unity 2D/3D VFX role. EU timezone eligibility unconfirmed — US studio posting. Unity is a gap (Shem's engine experience is Blender/UE5). VFX background from Studio Meala is relevant but game VFX is different from compositing. Lower priority due to US timezone concern and Unity stack."
+  },
+  {
+    "id": "mega-cat-studios-technical-artist-2026",
+    "title": "Technical Artist",
+    "company": "Mega Cat Studios",
+    "location": "Remote (US studio)",
+    "url": "https://remotegamejobs.com/jobs/mega-cat-studios-technical-artist-remote-job",
+    "first_seen": "2026-07-28",
+    "fit": "low",
+    "status": "new",
+    "posting_date": "2026-07",
+    "requirements": [
+      "Unity preferred",
+      "Game art pipeline",
+      "US indie studio"
+    ],
+    "notes": "Second Mega Cat Studios role (TA). Unity-preferred and US indie context means both timezone and engine stack are likely mismatches. Logging for completeness but lower priority than the VFX Game Artist role from the same company."
+  },
+  {
+    "id": "playrix-junior-vfx-artist-2026",
+    "title": "Junior VFX Artist",
+    "company": "Playrix",
+    "location": "Remote worldwide (Dublin HQ)",
+    "url": "https://playrix.com/job/open/animation-vfx/junior-vfx-artist",
+    "first_seen": "2026-07-28",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-06-30",
+    "skip_reason": "Posted June 30 — 28 days ago, outside the 14-day freshness window. Junior level is below Shem's mid-level experience. Mobile/Unity VFX stack.",
+    "requirements": [
+      "Junior VFX (entry level)",
+      "Unity mobile games",
+      "Playrix mobile studio"
+    ],
+    "notes": "Playrix has Dublin HQ but this role is remote worldwide. Junior level and Unity mobile stack make it a poor fit even if it were fresh. Stale posting."
+  },
+  {
+    "id": "planet-x-fx-unreal-artist-2026",
+    "title": "Unreal Artists (mid/senior)",
+    "company": "Planet X FX BV / Planet X STORM",
+    "location": "Netherlands (virtual production)",
+    "url": "https://www.artstation.com/jobs/gl9o",
+    "first_seen": "2026-07-28",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-07",
+    "skip_reason": "Netherlands on-site or Netherlands-based remote requirement — not compatible with Dublin-only constraint. Company merged with STORM in June 2026. Role includes 'senior' tier.",
+    "requirements": [
+      "Unreal Engine (virtual production)",
+      "Mid or senior level",
+      "Netherlands-based"
+    ],
+    "notes": "Planet X FX (merged with STORM June 2026) virtual production studio. Unreal Engine match is strong but Netherlands location is a blocker. ArtStation posting could not be fetched (403). Skipped on location grounds."
+  },
+  {
+    "id": "deca-games-junior-technical-artist-2026",
+    "title": "Junior Technical Artist - Mobile Games (m/f/d)",
+    "company": "DECA Games",
+    "location": "Remote worldwide (CET timezone)",
+    "url": "https://remotegamejobs.com/jobs/deca-junior-technical-artist-mobile-games-m-f-d-remote-job",
+    "first_seen": "2026-07-28",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-07",
+    "skip_reason": "Junior level — below Shem's mid-level experience. Also the same Unity/mobile stack concern as the mid-level DECA TA role.",
+    "requirements": [
+      "Junior Technical Artist",
+      "Unity mobile",
+      "CET timezone"
+    ],
+    "notes": "Second DECA Games posting — Junior TA for mobile. Skipped: junior level is below Shem's experience, and Unity/mobile stack is not a strong match."
   }
 ]
