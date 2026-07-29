@@ -3125,5 +3125,81 @@
       "CET timezone"
     ],
     "notes": "Second DECA Games posting — Junior TA for mobile. Skipped: junior level is below Shem's experience, and Unity/mobile stack is not a strong match."
+  },
+  {
+    "id": "little-moon-animation-previs-layout-2026",
+    "title": "Previs & Layout Artist",
+    "company": "Little Moon Animation",
+    "location": "Dublin, Ireland (on-site)",
+    "url": "https://animationandvfxjobs.com/previs-layout-artist-required-at-little-moon-animation-dublin/",
+    "first_seen": "2026-07-29",
+    "fit": "low-medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "2+ years professional previs/layout experience",
+      "Unreal Engine (required)",
+      "Camera blocking and staging",
+      "Animatics from storyboards",
+      "Dublin-based or willing to relocate to Dublin"
+    ],
+    "notes": "Same studio as previously tracked Little Moon Technical Artist and 3D Generalist roles. Unreal Engine is a match; previs/layout specialism (cameras, blocking, staging, animatics from storyboards) is more specialized than Shem's generalist/technical art background. Low-medium fit: Unreal Engine match but lacks dedicated previs/layout credits. Apply via jobs@littlemoonanimation.com."
+  },
+  {
+    "id": "sparx-virtuos-senior-ta-dublin-2026",
+    "title": "Senior Technical Artist",
+    "company": "Sparx (A Virtuos Studio)",
+    "location": "Dublin, Ireland",
+    "url": "https://www.gamesjobsdirect.com/job/sparx-a-virtuos-studio/senior-technical-artist/336380",
+    "first_seen": "2026-07-29",
+    "fit": "medium-high",
+    "status": "skipped",
+    "posting_date": "2026-05-27",
+    "skip_reason": "Senior level — excluded per seniority filter. Also posted May 27, 2026 — 63 days ago, well outside the 14-day freshness window.",
+    "requirements": [
+      "Senior Technical Artist",
+      "Games pipeline (Unreal/Unity)",
+      "Dublin on-site",
+      "Virtuos/Sparx Dublin studio"
+    ],
+    "notes": "Sparx (Virtuos subsidiary) Dublin office. Skills alignment is strong (games technical art, Unreal), but Senior seniority and stale posting date both disqualify. Worth monitoring for a mid-level opening at this studio."
+  },
+  {
+    "id": "electrify-video-partners-motion-designer-emea-2026",
+    "title": "2D Motion Designer / Short-Form Editor (fern & Simpli EMEA)",
+    "company": "Electrify Video Partners",
+    "location": "Remote EU/UK",
+    "url": "https://join.com/companies/electrify/14264208-2d-motion-designer-youtube-channel-fern-and-simplicissimus",
+    "first_seen": "2026-07-29",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-07",
+    "skip_reason": "2D-only motion design for YouTube channels; no 3D or technical component. Short-form content format conflicts with Shem's preference for depth over breadth. Not a creative-technical role.",
+    "requirements": [
+      "2D motion design",
+      "After Effects / Premiere",
+      "Short-form YouTube content",
+      "Remote EU/UK"
+    ],
+    "notes": "Electrify Video Partners (fern & Simpli EMEA). Fully 2D YouTube-focused role. No Blender/Unreal/3D component. Misaligned with Shem's technical-creative skillset and work style preferences."
+  },
+  {
+    "id": "evil-eye-pictures-unreal-ta-2026",
+    "title": "Unreal Technical Artist",
+    "company": "Evil Eye Pictures",
+    "location": "Remote (US company — Emeryville, CA)",
+    "url": "https://animationandvfxjobs.com/evil-eye-pictures-is-hiring-unreal-technical-artist/",
+    "first_seen": "2026-07-29",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-06-05",
+    "skip_reason": "US company (Emeryville, CA) — remote but US-centric employment structure. EU/Ireland contractor eligibility unconfirmed. Posted June 5, 2026 — 54 days ago, well outside the 14-day freshness window. Maya-primary stack vs Shem's Blender background.",
+    "requirements": [
+      "Unreal Engine (advanced)",
+      "Maya (primary DCC — gap for Shem)",
+      "ZBrush/Mudbox",
+      "US-based virtual studio"
+    ],
+    "notes": "Evil Eye Pictures is a California-based virtual production studio. Unreal Engine is a match but Maya is required as primary DCC (Shem uses Blender). Stale posting (June 5) and US employment structure both disqualify. Skipped on multiple grounds."
   }
 ]
