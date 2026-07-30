@@ -3201,5 +3201,153 @@
       "US-based virtual studio"
     ],
     "notes": "Evil Eye Pictures is a California-based virtual production studio. Unreal Engine is a match but Maya is required as primary DCC (Shem uses Blender). Stale posting (June 5) and US employment structure both disqualify. Skipped on multiple grounds."
+  },
+  {
+    "id": "void-interactive-lighting-artist-ready-or-not-2026",
+    "title": "Lighting Artist - Ready or Not",
+    "company": "VOID Interactive",
+    "location": "Ireland (full-time employee) / Europe (contractor, fully remote)",
+    "url": "https://remotegamejobs.com/jobs/void-interactive-lighting-artist-ready-or-not-remote-job",
+    "first_seen": "2026-07-30",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Proficient in Unreal Engine 4.27 including extensive experience using swarm baked lighting setups",
+      "Expert level of understanding of performance optimisations from a lighting perspective",
+      "Strong portfolio showcasing lighting techniques, composition, and mood-setting",
+      "Passion for gaming with a keen eye for detail",
+      "Understanding of how lighting contributes to gameplay immersion",
+      "Excellent communication and collaboration skills",
+      "Ability to work independently in a fully remote environment"
+    ],
+    "notes": "VOID Interactive is one of Shem's cold-call targets. Fully remote — Ireland residents hired as full-time employees, non-Ireland hired as contractors. Primary consideration given to Ireland-based candidates. Specialist lighting artist role — not Shem's primary strength (his core is technical art / procedural / material authoring), but VOID is a top target and Unreal Engine is a direct match. Lighting via UE and the INFINITY 27 material/rendering bootcamp provide adjacent foundation. Portfolio would need lighting-focused work to compete. Also listed at: remotegamejobs.com/jobs/void-interactive-lighting-artist-remote-job"
+  },
+  {
+    "id": "geotech-bv-ue-motion-designer-2026",
+    "title": "Unreal Engine Motion Designer",
+    "company": "GeoTech BV",
+    "location": "Fully Remote (worldwide — Amsterdam/LA offices, 16+ countries)",
+    "url": "https://www.artstation.com/jobs/w7E6",
+    "first_seen": "2026-07-30",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unreal Engine Motion Design experience",
+      "Designing and optimizing assets for broadcasting/media entertainment software",
+      "Top-notch visual quality and performance",
+      "Receiving feedback from top creative talent in the production industry"
+    ],
+    "notes": "GeoTech BV (founded 2018, 28-40+ person fully remote team across 16 countries, Amsterdam/LA offices). Company specializes in cutting-edge Unreal Engine tools for Movies and Broadcasting markets — project Aurora is Unreal Engine content packaging and deployment for broadcast. Strong fit for Shem's UE5 advanced skills and motion design background (BA Visual Comms, Science Gallery motion graphics). Broadcasting sector is adjacent to his animation/VFX work. Full spec blocked via ArtStation 403 — verify at geotech.one or artstation.com/jobs/w7E6 directly. Also see geotech-bv-ue-motion-graphics-designer-2026 (artstation.com/jobs/9YzB) — may be same role posted twice."
+  },
+  {
+    "id": "geotech-bv-ue-motion-graphics-designer-2026",
+    "title": "Unreal Engine Motion Graphics Designer",
+    "company": "GeoTech BV",
+    "location": "Fully Remote (worldwide — Amsterdam/LA offices, 16+ countries)",
+    "url": "https://www.artstation.com/jobs/9YzB",
+    "first_seen": "2026-07-30",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unreal Engine motion graphics design",
+      "Broadcasting and media entertainment context",
+      "Visual quality optimization for software deployment"
+    ],
+    "notes": "Second GeoTech BV role on ArtStation (9YzB) — may overlap with or be distinct from the Motion Designer role (w7E6). Full spec blocked via ArtStation 403. Same company and context as geotech-bv-ue-motion-designer-2026. Worth checking both listings and contacting GeoTech directly via geotech.one. Broadcasting/movies UE tooling is a strong creative-technical match for Shem."
+  },
+  {
+    "id": "iftn-motion-graphics-artist-4251-2026",
+    "title": "Motion Graphics Artist",
+    "company": "Unknown (IFTN posting #4251)",
+    "location": "Ireland",
+    "url": "http://www.iftn.ie/jobs/?act1=record&aid=18&rid=4251&only=1&force=1&tpl=jobslist",
+    "first_seen": "2026-07-30",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Full requirements not accessible — page blocked from automated access"
+    ],
+    "notes": "Irish Film & TV Network job board. Record ID 4251 is higher than any previously tracked IFTN posting (3875, 3979, 4150 — the latter tracked July 17), suggesting a recent posting date. Motion graphics experience is directly relevant to Shem's BA Visual Communications background, Science Gallery motion graphics work, and Animation Studio Unreal immersive experience. Company name, full spec, and deadline need manual browser check at iftn.ie/jobs."
+  },
+  {
+    "id": "r16-interactive-vfx-artist-2026",
+    "title": "Visual Effects Artist",
+    "company": "R16 Interactive",
+    "location": "Remote (US studio — EU/Ireland eligibility unconfirmed)",
+    "url": "https://www.workwithindies.com/careers/r16-interactive-visual-effects-artist",
+    "first_seen": "2026-07-30",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Real-time particle systems, shaders, and environmental effects in Niagara or similar UE tools",
+      "VFX that reinforces gameplay clarity and narrative tone",
+      "Performance optimization of effects",
+      "Specialist who values collaboration; not siloed into narrow task lanes",
+      "Clear vision for style, clarity, and performance"
+    ],
+    "notes": "R16 Interactive (Red Sixteen) building 'Tale's Edge' — gritty action-adventure RPG, dark reimagined Grimm's fairy tales setting. Lean indie team with AA ambitions. Unreal/Niagara VFX is a direct match for Shem's procedural/technical background and Studio Meala Disney+ VFX credit. US studio (r16.com) — remote work for EU/Ireland not explicitly confirmed. Verify timezone and contractor eligibility before applying. Also at mediabistro.com/jobs/1457892388. Small team of specialists aligns well with Shem's small-crew preference."
+  },
+  {
+    "id": "table-knight-games-vfx-artist-2026",
+    "title": "VFX Artist (Freelance)",
+    "company": "Table Knight Games",
+    "location": "Fully Remote (EU-eligible — globally distributed team: N/S America, Europe, Middle East)",
+    "url": "https://www.workwithindies.com/careers/table-knight-games-vfx-artist",
+    "first_seen": "2026-07-30",
+    "fit": "low-medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "VFX for magic gameplay and elemental action effects",
+      "Supporting environmental VFX",
+      "Unity engine",
+      "Stylized art direction (cartoon/comic book aesthetic)",
+      "Freelance contract"
+    ],
+    "notes": "Table Knight Games building 'UnderMire' (co-op roguelite adventure, Unity engine, stylized cartoon/comic aesthetic). Fully remote, globally distributed team — EU explicitly included. Freelance contract. Unity is not Shem's primary engine (Blender/UE5 is core); however stylized VFX and small remote team are both good cultural fits. Lower priority due to Unity stack and indie freelance scope, but EU eligibility confirmed and fit with Shem's collaborative style."
+  },
+  {
+    "id": "brown-bag-films-previz-asset-modeller-2026",
+    "title": "Previz Asset Modeller",
+    "company": "Brown Bag Films",
+    "location": "Dublin, Ireland (hybrid, 2 days/week in studio)",
+    "url": "https://festybay.com/brown-bag-films-hiring-previz-asset-modeller-dublin/",
+    "first_seen": "2026-07-30",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2026-04-17",
+    "skip_reason": "Posted April 17, 2026 — 104 days old, well outside the 14-day freshness window. Also Maya-expert requirement is a significant toolset gap vs Shem's Blender background.",
+    "requirements": [
+      "Maya (expert level — primary DCC)",
+      "ZBrush (strong sculpting skills for organic elements)",
+      "Unreal Engine (working knowledge for asset integration)",
+      "SpeedTree (desirable — procedural vegetation)",
+      "Photoshop (quick textures and reference sheets)",
+      "Proven track record as Previz Artist/Modeller in broadcast TV or feature film"
+    ],
+    "notes": "Brown Bag Films Dublin (Smithfield). Role is pivotal in early 3D pipeline — building previz props, sets, and environments for directors to block scenes before high-res assets are created. Unreal Engine is a working-knowledge match; Maya-expert is a gap (Shem uses Blender). BA Visual Comms background is adjacent. Stale posting (April 17) is the primary disqualifier. Monitor Brown Bag Films for fresh Blender-compatible or Unreal-primary openings."
+  },
+  {
+    "id": "wickworks-vfx-technical-artist-2026",
+    "title": "VFX & Technical Artist",
+    "company": "Wickworks",
+    "location": "Remote",
+    "url": "https://www.workwithindies.com/careers/wickworks-vfx-technical-artist",
+    "first_seen": "2026-07-30",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Godot engine — not aligned with Shem's Unreal/Blender stack. Very small budget (~$15k remaining for VFX, split into 2-3 contracts). Poor engine match and limited compensation scope.",
+    "requirements": [
+      "VFX in Godot engine",
+      "Technical art for indie game",
+      "Freelance contract (~$15k total VFX budget split across 2-3 contracts)"
+    ],
+    "notes": "Wickworks building 'Lancer Tactics' — a Lancer TTRPG adaptation in Godot. Small indie game with limited remaining VFX budget (~$15k for 5-6 months work to end of year). Godot is not Shem's toolset (Blender/UE5 are primary). Very low priority on engine, budget, and scope grounds."
   }
 ]
