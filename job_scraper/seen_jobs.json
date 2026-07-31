@@ -3349,5 +3349,177 @@
       "Freelance contract (~$15k total VFX budget split across 2-3 contracts)"
     ],
     "notes": "Wickworks building 'Lancer Tactics' — a Lancer TTRPG adaptation in Godot. Small indie game with limited remaining VFX budget (~$15k for 5-6 months work to end of year). Godot is not Shem's toolset (Blender/UE5 are primary). Very low priority on engine, budget, and scope grounds."
+  },
+  {
+    "id": "thera-bytes-technical-artist-3d-generalist-2026",
+    "title": "Technical Artist / 3D Generalist",
+    "company": "Thera Bytes",
+    "location": "Remote (Munich-based indie studio)",
+    "url": "https://www.workwithindies.com/careers/thera-bytes-technical-artist-3d-generalist",
+    "first_seen": "2026-07-31",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unreal Engine 5 (first-person tactical co-op game, realistic military setting)",
+      "Blender, ZBrush, Substance Painter (or similar DCC tools)",
+      "Strong sense of form, light, anatomy, and world-building",
+      "Self-organised with strong communication and cross-discipline feedback skills",
+      "High focus on art and tech-art production; strong game design sensibility"
+    ],
+    "notes": "Thera Bytes indie studio building a first-person tactical co-op game in Unreal Engine 5 with realistic military/simulation focus. Remote position. Equity opportunity available (mid-term option to acquire company equity). No shipped commercial game requirement explicitly stated. Apply via hiring@therabytes.de. Also on polycount.com and blenderartists.org forums. UE5 + Blender stack is a strong direct match for Shem's technical art profile and INFINITY 27 bootcamp background."
+  },
+  {
+    "id": "naolito-3d-environment-artist-blender-2026",
+    "title": "3D Environment Artist (Remote) (Blender)",
+    "company": "Naolito",
+    "location": "Remote (full-time)",
+    "url": "https://www.artstation.com/jobs/L28a",
+    "first_seen": "2026-07-31",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Blender as primary 3D tool (environment modeling)",
+      "Full-time remote position",
+      "TV show development ('The Cute Side of Life' — stylized character-driven animated series)"
+    ],
+    "notes": "Naolito is developing 'The Cute Side of Life', a stylized animated TV show featuring their established character brand. Blender-native environment artist role — full-time remote. Posting date unconfirmed (ArtStation job ID L28a; blocked from direct fetch). Fit is medium: Blender advanced skills match, but stylized/cute aesthetic and TV animation pipeline differs from Shem's VFX and technical art background. Good fit for Blender skills showcase; lower fit for technical-art procedural workflow emphasis. Verify posting freshness and full requirements at artstation.com/jobs/L28a directly."
+  },
+  {
+    "id": "ride-the-lion-mid-senior-ta-ue4-2026",
+    "title": "Mid-Senior Technical Artist (UE4)",
+    "company": "Ride the Lion Studios",
+    "location": "Fully Remote (contractor, EU timezone preferred)",
+    "url": "https://www.workwithindies.com/careers/ride-the-lion-studios-mid-senior-technical-artist-ue4",
+    "first_seen": "2026-07-31",
+    "fit": "medium-high",
+    "status": "skipped",
+    "posting_date": "2026-07",
+    "skip_reason": "Title contains 'Senior' — excluded per seniority filter. Also requires shipped commercial game experience (gap for Shem).",
+    "requirements": [
+      "Unreal Engine 4 technical art (VFX, particle effects, or fort construction gameplay systems)",
+      "High-quality combat particle effects and visual effects for surreal environments",
+      "Shipped commercial game(s) experience strongly preferred (Steam, console, or equivalent)",
+      "Strong portfolio mandatory",
+      "Contractor, EU timezone preferred",
+      "Contract: August 2026 to April 2027 (possibility of full-time on next project)"
+    ],
+    "notes": "Ride the Lion Studios building a surreal tactical game with energy fields, psychic landscapes, fort construction. 8-9 month contract with full-time possibility. EU timezone preferred — Dublin is compatible. Skills are strong match (UE VFX, procedural) but title has 'Senior' and shipped-game requirement is a barrier. Worth monitoring for a mid-level repost or in future if Shem has a shipped game credit."
+  },
+  {
+    "id": "tobspr-games-3d-blender-artist-2026",
+    "title": "3D Blender Artist (Freelance)",
+    "company": "tobspr Games",
+    "location": "Remote (worldwide, flexible timezone)",
+    "url": "https://www.workwithindies.com/careers/tobspr-games-3d-blender-artist",
+    "first_seen": "2026-07-31",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Confirmed expired as of July 2026 search.",
+    "requirements": [
+      "3D modeling of Shapez 2 assets in Blender",
+      "Flexible hours freelance",
+      "Small paid test task (1-2 hours)"
+    ],
+    "notes": "tobspr Games (indie studio, Tobias Springer, founded 2018) — Shapez 2 factory game. Blender modelling role, flexible worldwide remote freelance. Expired as of current search. Also at artstation.com/jobs/8Y91 and remotegamejobs.com. Monitor tobspr for future openings — Blender-native and indie team style matches Shem's profile."
+  },
+  {
+    "id": "saguni-studio-unreal-cinematic-artist-2026",
+    "title": "Unreal Cinematic Artist (Freelance)",
+    "company": "Saguni Studio",
+    "location": "Fully Remote",
+    "url": "https://remotegamejobs.com/jobs/saguni-studio-unreal-cinematic-artist-remote-job",
+    "first_seen": "2026-07-31",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "~2026-07",
+    "skip_reason": "Confirmed expired — posting was for a Gamescom August 2026 demo deadline, which has now passed.",
+    "requirements": [
+      "Unreal Engine Sequencer / Level Sequence cinematics",
+      "Camera language, shot composition, expressive direction",
+      "DCC-first animation workflow (Maya or Blender)",
+      "Close collaboration with Cinematic Director and Lead Animator",
+      "Stylized anime action RPG (PC + Mobile, crossplay)"
+    ],
+    "notes": "Saguni Studio building a stylized anime action RPG. Cinematic artist freelance for a Gamescom demo. Role has expired. Also has a 'Cinematic Animation Artist' companion posting (remotegamejobs.com/jobs/saguni-studio-cinematic-animation-artist-remote-job) which may still be active — verify separately if interested. Blender animation workflow is directly relevant."
+  },
+  {
+    "id": "sketchbook-games-uk-ta-unreal-2026",
+    "title": "Technical Artist / Unreal Developer (UK-based remote)",
+    "company": "Sketchbook Games",
+    "location": "Remote — UK only (London monthly meetup)",
+    "url": "https://www.workwithindies.com/careers/sketchbook-games-technical-artist-unreal-developer",
+    "first_seen": "2026-07-31",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2026-07",
+    "skip_reason": "UK-based only — funding restrictions require UK residency. Not eligible for Ireland/EU applicants.",
+    "requirements": [
+      "Unreal Engine 5 (required — shipping commercial games as TA with UE5)",
+      "3D software: Blender, Maya, or 3DS Max",
+      "Shipped one or more commercial games as a Technical Artist (excluding itch.io-only)",
+      "GMT/BST timezone, own hardware capable of running UE5",
+      "One day/month co-working in London"
+    ],
+    "notes": "Sketchbook Games UK indie studio. Strong skills match (UE5 + Blender) but hard location restriction: must be UK-based due to funding restrictions. Dublin/Ireland applicants are ineligible. Also at remotegamejobs.com and gamejobs.co. Skills and scope are otherwise a good fit — monitor for any EU-eligible open posting in future."
+  },
+  {
+    "id": "applebomb-games-3d-artist-animator-2026",
+    "title": "3D Artist & Animator (Unreal)",
+    "company": "AppleBomb Games",
+    "location": "Fully Remote (worldwide)",
+    "url": "https://www.workwithindies.com/careers/applebomb-games-3d-artist-animator-unreal",
+    "first_seen": "2026-07-31",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-07",
+    "skip_reason": "Very limited budget ($3,500 fixed for ~2 months), low-poly cartoon style, and indie scope not aligned with Shem's technical portfolio or career level.",
+    "requirements": [
+      "3D modeling, rigging, and animation of low-poly cartoony characters",
+      "Blender and/or Maya, Unreal Engine",
+      "Work fast, independently, with good humour",
+      "Bonus: low-poly charm, creature animation, VFX experience"
+    ],
+    "notes": "AppleBomb Games developing 'Mark the Headless Chicken' — chaotic stealth platformer (PC). $3,500 fixed budget, approximately 2 months work. Low-poly cartoony art style is far from Shem's realistic procedural/VFX portfolio. Budget and scope are too limited for mid-level professional engagement."
+  },
+  {
+    "id": "beffio-realtime-vfx-artist-unreal-2026",
+    "title": "Real-Time VFX Artist — Unreal Engine (Remote/Freelance)",
+    "company": "beffio studios",
+    "location": "Fully Remote (Poland-based studio, worldwide freelance)",
+    "url": "https://www.artstation.com/jobs/VYMo",
+    "first_seen": "2026-07-31",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2024-03",
+    "skip_reason": "Originally posted March 2024 — well outside 14-day freshness window. Likely a standing/evergreen posting.",
+    "requirements": [
+      "Unreal Engine 4/5 Niagara system and Cascade VFX",
+      "Shader construction using UE4/5 material editor",
+      "Real-time constraints, performance-focused VFX",
+      "AAA game projects (NA, EU, APAC clients)",
+      "Strong communication and team integration"
+    ],
+    "notes": "beffio is a Polish creative tech studio delivering real-time 3D for advertising, automotive, gaming, AI, and film. Unreal Engine VFX is a direct match for Shem's skills. Apply via careers.beffio.com/jobs/2004058. If posting is still active (verify), skills match would be high — Unreal Engine VFX, material authoring, performance optimization align with INFINITY 27 bootcamp output. Also on skillshot.pl and festybay."
+  },
+  {
+    "id": "playrix-principal-vfx-artist-2026",
+    "title": "Principal VFX Artist",
+    "company": "Playrix",
+    "location": "Remote worldwide (Dublin HQ)",
+    "url": "https://playrix.com/job/open/animation-vfx/principal-vfx-artist",
+    "first_seen": "2026-07-31",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Principal level — excluded per seniority filter. Also Unity/mobile stack.",
+    "requirements": [
+      "Principal VFX (leadership/expert level)",
+      "Unity mobile game VFX",
+      "Playrix mobile studio"
+    ],
+    "notes": "Playrix has Junior, Senior, and Principal VFX Artist roles open. All are either below mid-level (Junior) or above (Senior/Principal), or on Unity mobile stack. Monitor for a mid-level non-mobile Unreal/Blender VFX opening at Playrix. Dublin HQ but team is globally remote."
   }
 ]
