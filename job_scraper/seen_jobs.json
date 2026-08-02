@@ -3663,5 +3663,326 @@
       "Python scripting, pipeline integration"
     ],
     "notes": "Co.Society is a creative-tech agency building immersive XR and spatial computing experiences. Gaussian Splatting Technical Artist is a genuinely interesting fit \u2014 procedural/technical focus, novel rendering (NeRF/3DGS), Unreal integration. Posted June 19 puts it just outside the 14-day window. If this role is still open when rechecked, upgrade to medium-high and flag for application. Check co.society/careers after Aug 1 to see if still listed."
+  },
+  {
+    "id": "ci-games-vfx-artist-remote-europe-2026",
+    "title": "VFX Artist",
+    "company": "CI Games",
+    "location": "Remote (Europe)",
+    "url": "https://remotegamejobs.com/jobs/ci-games-vfx-artist-remote-job",
+    "first_seen": "2026-08-02",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "skip_reason": null,
+    "requirements": [
+      "2+ years professional real-time VFX for AA+ games",
+      "Unreal Engine + Niagara (required)",
+      "Houdini, Embergen, Photoshop, Substance Designer"
+    ],
+    "notes": "CI Games (Lords of the Fallen, Sniper Ghost Warrior series). Ireland confirmed eligible per Jobera.com listing. Main gap: requires AA+ game VFX credit \u2014 Shem has Disney+ compositing (Studio Meala) which is high-end but not game VFX. Unreal Engine strength is directly relevant. Worth applying with a strong cover letter emphasising real-time Unreal work. Also listed at: https://jobera.com/remote-job/vfx-artist-ci-games-remote-europe/"
+  },
+  {
+    "id": "saguni-studio-ta-environment-materials-anime-arpg-2026",
+    "title": "Technical Artist: Environment & Materials",
+    "company": "Saguni Studio",
+    "location": "Remote (worldwide)",
+    "url": "https://remotegamejobs.com/jobs/saguni-studio-technical-artist-environment-materials-anime-arpg-remote-job",
+    "first_seen": "2026-08-02",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "skip_reason": null,
+    "requirements": [
+      "Deep expertise in material creation and shader development in UE5",
+      "Environment technology and art pipeline in Unreal Engine 5",
+      "Anime ARPG aesthetic (Astral Sync universe)"
+    ],
+    "notes": "Saguni Studio indie ARPG (Astral Sync). Role focuses on UE5 environment materials and shaders \u2014 strong match with Shem's material/shader authoring from Technical Art Bootcamp and Blender/UE5 pipeline experience. Partial style mismatch: anime aesthetic vs Shem's realistic/VFX portfolio, but core technical requirements align well. One of 2 currently active Saguni postings (distinct from expired Cinematic Artist and 3D Environment Artist roles)."
+  },
+  {
+    "id": "minimpire-vfx-artist-ue5-remote-2026",
+    "title": "VFX Artist",
+    "company": "Minimpire",
+    "location": "Remote (worldwide)",
+    "url": "https://www.artstation.com/jobs/e9Qd",
+    "first_seen": "2026-08-02",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "skip_reason": null,
+    "requirements": [
+      "UE5 real-time gameplay VFX",
+      "Stylized/cartoony action RPG with Soulslike combat",
+      "Open world game VFX"
+    ],
+    "notes": "Minimpire indie studio. ArtStation job listing appears active. Verify EU/Ireland contractor eligibility before applying \u2014 listing says worldwide but contractor tax situation for Ireland not confirmed. Stylized/cartoony aesthetic is a partial portfolio mismatch (Shem's work is more realistic/VFX). UE5 real-time skills directly relevant. Check posting freshness \u2014 date unknown."
+  },
+  {
+    "id": "saguni-studio-ta-shaders-dark-fantasy-2026",
+    "title": "Technical Artist: Shaders (Dark Fantasy Anime ARPG)",
+    "company": "Saguni Studio",
+    "location": "Remote (worldwide)",
+    "url": "https://remotegamejobs.com/jobs/saguni-studio-technical-artist-shaders-dark-fantasy-anime-arpg-remote-job",
+    "first_seen": "2026-08-02",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Part-time scope; highly specialized anime CEL-shading style not in Shem's portfolio.",
+    "requirements": [
+      "Anime CEL-shading specialist",
+      "Character shader pipeline in UE5",
+      "Part-time engagement"
+    ],
+    "notes": "Second active Saguni posting (distinct from TA: Environment & Materials). Part-time, highly specialized anime shading niche. Shem's shading work is more realistic/procedural. Skipped."
+  },
+  {
+    "id": "turn-me-up-games-ta-2026",
+    "title": "Technical Artist",
+    "company": "Turn Me Up Games",
+    "location": "Remote",
+    "url": "https://www.workwithindies.com/careers/turn-me-up-games-technical-artist",
+    "first_seen": "2026-08-02",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2025-06-25",
+    "skip_reason": "Posted June 25, 2025 \u2014 over a year old, well outside 14-day freshness window.",
+    "requirements": [],
+    "notes": "Stale posting. Workwithindies.com listing confirmed date June 25, 2025. Would otherwise be worth reviewing."
+  },
+  {
+    "id": "studio-hoiho-3d-environment-artist-2026",
+    "title": "3D Environment Artist",
+    "company": "Studio Hoiho",
+    "location": "Copenhagen, Denmark (remote possible)",
+    "url": "https://www.workwithindies.com/careers/studio-hoiho-3d-environment-artist",
+    "first_seen": "2026-08-02",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2025-03-10",
+    "skip_reason": "Posted ~March 10, 2025 \u2014 well outside 14-day freshness window. Copenhagen studio.",
+    "requirements": [],
+    "notes": "Tweet/post timestamp decoded to approximately March 10, 2025. Stale. Copenhagen-based studio also outside Shem's no-relocation constraint if on-site."
+  },
+  {
+    "id": "saguni-studio-3d-environment-artist-dark-fantasy-2026",
+    "title": "3D Environment Artist (Dark Fantasy/Anime-Inspired)",
+    "company": "Saguni Studio",
+    "location": "Remote (worldwide)",
+    "url": "https://remotegamejobs.com/jobs/saguni-studio-3d-environment-artist-dark-fantasy-anime-inspired-remote-job",
+    "first_seen": "2026-08-02",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Confirmed expired per search results.",
+    "requirements": [],
+    "notes": "Distinct from the active Saguni TA: Environment & Materials role. This 3D Environment Artist posting confirmed expired. Saguni also had a Cinematic Artist role (expired for Gamescom deadline) \u2014 all separate from the 2 currently active TA roles."
+  },
+  {
+    "id": "room-8-studio-cinematic-ue-artist-2026",
+    "title": "Cinematic Unreal Engine Artist",
+    "company": "Room 8 Studio",
+    "location": "Remote (Eastern Europe)",
+    "url": "https://remotegamejobs.com/jobs/room-8-studio-cinematic-unreal-engine-artist-remote-job",
+    "first_seen": "2026-08-02",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-05-06",
+    "skip_reason": "Posted May 6, 2026 \u2014 outside 14-day window. Ireland NOT in eligible countries list.",
+    "requirements": [
+      "Cinematic sequences in Unreal Engine",
+      "Sequencer, cinematography, lighting"
+    ],
+    "notes": "Eligible countries confirmed: Czech Republic, Estonia, Georgia, Latvia, Lithuania, Moldova, Poland, Portugal, Romania, Spain, Turkey. Ireland not listed. Double disqualified: stale posting + not eligible country."
+  },
+  {
+    "id": "seismic-squirrel-unity-vfx-artist-2026",
+    "title": "Unity VFX Artist",
+    "company": "Seismic Squirrel",
+    "location": "Remote (Americas timezone)",
+    "url": "https://remotegamejobs.com/jobs/seismic-squirrel-unity-vfx-artist-remote-remote-job",
+    "first_seen": "2026-08-02",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Requires Americas timezone. Confirmed expired.",
+    "requirements": [
+      "Unity VFX Graph or Shader Graph",
+      "Americas timezone required"
+    ],
+    "notes": "Americas timezone requirement rules out Dublin/EU. Also confirmed expired. Unity engine vs Shem's UE5/Blender stack."
+  },
+  {
+    "id": "kiagu-studios-vfx-artist-dark-fantasy-arpg-2026",
+    "title": "VFX Artist (Dark Fantasy Anime ARPG)",
+    "company": "Kiagu Studios",
+    "location": "Remote",
+    "url": "https://remotegamejobs.com/jobs/kiagu-studios-vfx-artist-dark-fantasy-anime-arpg-remote-job",
+    "first_seen": "2026-08-02",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2026-05-27",
+    "skip_reason": "Posted ~May 27, 2026 (67 days ago) \u2014 outside 14-day window. Description indicates Senior-level scope.",
+    "requirements": [
+      "VFX for anime-style dark fantasy ARPG",
+      "Implied senior-level experience"
+    ],
+    "notes": "Stale posting + senior-level scope. Double disqualified."
+  },
+  {
+    "id": "kiagu-studios-technical-shader-artist-dark-fantasy-2026",
+    "title": "Technical Shader Artist (Dark Fantasy Anime ARPG)",
+    "company": "Kiagu Studios",
+    "location": "Remote",
+    "url": "https://remotegamejobs.com/jobs/kiagu-studios-technical-shader-artist-dark-fantasy-anime-arpg-remote-job",
+    "first_seen": "2026-08-02",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-05-27",
+    "skip_reason": "Posted ~May 2026 \u2014 outside 14-day window. Highly specialized anime shader niche.",
+    "requirements": [
+      "Anime CEL-shading in UE5",
+      "Toon shader pipeline"
+    ],
+    "notes": "Stale + niche anime shading style. Shem's shading work is realistic/procedural."
+  },
+  {
+    "id": "mudtek-vfx-artist-unity-shader-graph-2026",
+    "title": "VFX Artist (Unity/Shader Graph)",
+    "company": "Mudtek",
+    "location": "Remote",
+    "url": "https://remotegamejobs.com/jobs/mudtek-vfx-artist-unity-shader-graph-remote-job",
+    "first_seen": "2026-08-02",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Unity engine (not Shem's primary stack \u2014 Blender/UE5 are core).",
+    "requirements": [
+      "Unity VFX Graph",
+      "Shader Graph",
+      "Unity game VFX"
+    ],
+    "notes": "Unity-only role. Shem's real-time skills are Unreal Engine / Niagara. Shader Graph knowledge transfers conceptually but Unity VFX Graph experience is required."
+  },
+  {
+    "id": "made-on-earth-games-2d-vfx-artist-2026",
+    "title": "2D VFX Artist",
+    "company": "Made on Earth Games",
+    "location": "Remote",
+    "url": "https://remotegamejobs.com/jobs/made-on-earth-games-2d-vfx-artist-remote-job",
+    "first_seen": "2026-08-02",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "2D VFX only \u2014 not aligned with Shem's 3D/technical art profile.",
+    "requirements": [
+      "2D VFX animation",
+      "Spine or similar 2D tool"
+    ],
+    "notes": "2D VFX role. Shem's expertise is 3D compositing, Unreal/Blender real-time VFX, and technical art. Clear profile mismatch."
+  },
+  {
+    "id": "bladework-games-3d-environment-artist-senior-mid-2026",
+    "title": "3D Environment Artist (Senior/Mid)",
+    "company": "Bladework Games",
+    "location": "Remote (US-centric)",
+    "url": "https://remotegamejobs.com/jobs/bladework-games-3d-environment-artist-senior-mid-remote-job-e0605128-f5c2-4fa1-90fc-371c244806fb",
+    "first_seen": "2026-08-02",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Senior in title \u2014 excluded per seniority filter. US-based studio with unclear EU/Ireland remote eligibility.",
+    "requirements": [
+      "Senior or mid-level 3D environment artist",
+      "Game environment art pipeline"
+    ],
+    "notes": "Double disqualified: Senior in title + US company with unclear Ireland eligibility."
+  },
+  {
+    "id": "beffio-unreal-environment-artist-2026",
+    "title": "Unreal Engine Artist / Environment Artist",
+    "company": "beffio",
+    "location": "Remote or on-site (Poland)",
+    "url": "https://www.artstation.com/jobs/YbXM",
+    "first_seen": "2026-08-02",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Poland studio; primarily Poland-centric remote/on-site role; Ireland remote eligibility not confirmed; posting date unknown.",
+    "requirements": [
+      "Unreal Engine environment art",
+      "Asset optimization",
+      "Material creation"
+    ],
+    "notes": "beffio is a Polish studio (skillshot.pl/jobs/27827 also lists it). Remote or on-site in Poland. Ireland contractor eligibility not confirmed. Strong skill match otherwise (UE5 environment, materials). Could revisit if Poland remote confirmed open to EU-wide."
+  },
+  {
+    "id": "white-lotus-interactive-indie-tech-artist-environment-2026",
+    "title": "Indie Tech Artist (Environment)",
+    "company": "White Lotus Interactive",
+    "location": "Remote (US \u2014 Mesa, AZ)",
+    "url": "https://www.workwithindies.com/careers/white-lotus-interactive-indie-tech-artist-environment",
+    "first_seen": "2026-08-02",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Mesa, AZ USA-based company; posting date unknown; atmospheric adventure game not technical art/VFX primary focus.",
+    "requirements": [
+      "Environment technical art for atmospheric adventure game"
+    ],
+    "notes": "US company. Ireland eligibility not established. Posting date unknown \u2014 could predate 14-day window."
+  },
+  {
+    "id": "ci-games-lead-vfx-artist-remote-2026",
+    "title": "Lead VFX Artist",
+    "company": "CI Games",
+    "location": "Remote (Europe)",
+    "url": "https://remotegamejobs.com/jobs/ci-games-lead-vfx-artist-remote-job",
+    "first_seen": "2026-08-02",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2025-04-08",
+    "skip_reason": "Lead level \u2014 excluded per seniority filter. Also posted April 8, 2025 \u2014 stale.",
+    "requirements": [
+      "Lead VFX Artist for AA+ games",
+      "Team leadership, VFX direction"
+    ],
+    "notes": "Double disqualified: Lead seniority + stale posting (April 2025). Distinct from the VFX Artist (non-lead) role at CI Games which is added as new."
+  },
+  {
+    "id": "ci-games-senior-vfx-artist-remote-2026",
+    "title": "Senior VFX Artist",
+    "company": "CI Games",
+    "location": "Remote (Europe)",
+    "url": "https://remotegamejobs.com/jobs/ci-games-senior-vfx-artist-remote-job",
+    "first_seen": "2026-08-02",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Senior level \u2014 excluded per seniority filter.",
+    "requirements": [
+      "Senior VFX Artist for AA+ games",
+      "5+ years game VFX"
+    ],
+    "notes": "Excluded per seniority filter. Distinct from the mid-level VFX Artist role at CI Games which is added as new."
+  },
+  {
+    "id": "daily-madness-productions-2026",
+    "title": "Various Production Roles (2D Animation)",
+    "company": "Daily Madness Productions",
+    "location": "Unknown",
+    "url": "https://animationandvfxjobs.com/daily-madness-is-hiring-for-various-production-roles/",
+    "first_seen": "2026-08-02",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "2D animation studio (ToonBoom); roles are 2D animators, storyboard artists, 2D riggers, production coordinators \u2014 not aligned with Shem's 3D/technical art profile.",
+    "requirements": [
+      "2D animation (ToonBoom Harmony)",
+      "Storyboard artist",
+      "2D rigging",
+      "Production coordination"
+    ],
+    "notes": "Daily Madness Productions is a 2D animation studio. None of the open roles match Shem's 3D/technical art/compositing profile."
   }
 ]
