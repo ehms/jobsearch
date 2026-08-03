@@ -3984,5 +3984,113 @@
       "Production coordination"
     ],
     "notes": "Daily Madness Productions is a 2D animation studio. None of the open roles match Shem's 3D/technical art/compositing profile."
+  },
+  {
+    "id": "fmp-studio-3d-artist-motion-designer-2026",
+    "title": "3D Artist / Motion Designer",
+    "company": "FMP.studio GmbH & Co. KG",
+    "location": "Heidelberg, Germany (remote/Homeoffice possible)",
+    "url": "https://www.artstation.com/jobs/b7Mg",
+    "first_seen": "2026-08-03",
+    "fit": "medium-low",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Excellent knowledge of Cinema 4D and Octane Renderer (primary tools)",
+      "3D animations for national and international clients",
+      "VR, AR, XR applications and showcases",
+      "Virtual Production in Unreal Engine (Europe's largest LED studio)",
+      "2D/3D animations, video production and editing, VFX and post-production",
+      "Good English language skills"
+    ],
+    "notes": "Creative studio in Heidelberg working on animated and interactive 3D content, VR/AR/XR, and virtual productions. Remote/Homeoffice possible. Key tool gap: primary requirement is Cinema 4D + Octane (Shem is Blender-primary; Cinema 4D is listed as secondary). Unreal Engine virtual production is a strong match. Remote EU working from Ireland is legally viable. Posting date unknown \u2014 verify freshness before applying. Apply: jobs@fmp.studio with portfolio samples. Alt URL: https://www.fmp.studio/jobs__3dartist.html"
+  },
+  {
+    "id": "fmp-studio-creative-technologist-developer-2026",
+    "title": "Creative Technologist / Developer",
+    "company": "FMP.studio GmbH & Co. KG",
+    "location": "Heidelberg, Germany (remote/Homeoffice possible)",
+    "url": "https://fmp.studio/jobs__developer.html",
+    "first_seen": "2026-08-03",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Creative technology development (WebGL, interactive, XR likely)",
+      "Work on 3D animations, VR/AR/XR, virtual productions",
+      "Technical + creative hybrid role"
+    ],
+    "notes": "Same studio as 3D Artist role. Creative Technologist/Developer posting at FMP.studio \u2014 full requirements not fetchable (403). Studio works on VR/AR/XR, interactive 3D, virtual production. Shem's Python, JavaScript, Three.js, Blender scripting, and Unreal experience could align well. This role is potentially a better fit than the 3D Artist role as it bridges creative and technical without the Cinema 4D constraint. Posting date unknown \u2014 verify freshness. Apply: jobs@fmp.studio."
+  },
+  {
+    "id": "laixr-lumc-technical-3d-artist-2026",
+    "title": "Technical 3D Artist (Unreal Engine / Blender / XR Simulation)",
+    "company": "LAIXR at LUMC",
+    "location": "Remote, Netherlands",
+    "url": "https://ingamejob.com/en/job/technical-3d-artist-unreal-engine-blender-xr-simulation",
+    "first_seen": "2026-08-03",
+    "fit": "medium-high",
+    "status": "skipped",
+    "posting_date": "2026-05-20",
+    "skip_reason": "Confirmed archived/expired on ingamejob.com. Posted May 20, 2026 \u2014 outside 14-day window.",
+    "requirements": [
+      "Unreal Engine and Blender (primary tools \u2014 strong Shem match)",
+      "XR simulation environments",
+      "Real-time asset integration and optimization"
+    ],
+    "notes": "LUMC (Leiden University Medical Centre) XR lab. Skills match is excellent (Blender + Unreal + XR). Expired. Monitor LAIXR/LUMC for future openings."
+  },
+  {
+    "id": "homa-3d-technical-artist-all-in-hole-2026",
+    "title": "3D Technical Artist \u2014 Casual Games (All in Hole)",
+    "company": "Homa Games",
+    "location": "Fully Remote (global)",
+    "url": "https://startup.jobs/3d-technical-artist-casual-games-all-in-hole-homa-6155092",
+    "first_seen": "2026-08-03",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Unity engine (engine mismatch \u2014 Shem's strengths are Unreal/Blender). Casual mobile game studio. Role may also be senior-adjacent ('Senior Technical Artist' listed on The Org). Posting date unknown, likely expired.",
+    "requirements": [
+      "Unity engine (primary \u2014 required)",
+      "3D asset integration and visual quality within Unity",
+      "Art Director and small team collaboration",
+      "Mobile casual game aesthetics"
+    ],
+    "notes": "Homa is a mobile game publisher (1.8B downloads). All in Hole is their top-50 grossing casual game. Unity-focused, mobile, cartoonish aesthetic. Not aligned with Shem's Unreal/Blender/VFX profile. Multiple job listing variants suggest partial role expiry."
+  },
+  {
+    "id": "keywords-studios-vfx-artist-europe-2026",
+    "title": "VFX Artist (Europe)",
+    "company": "Keywords Studios",
+    "location": "Remote (Europe)",
+    "url": "https://startup.jobs/vfx-artist-europe-keywords-studios-4600375",
+    "first_seen": "2026-08-03",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Senior/Lead level requirement (5+ years AAA game experience) \u2014 excluded per seniority filter.",
+    "requirements": [
+      "5+ years AAA game VFX experience",
+      "Houdini, Substance Designer, Unreal Engine",
+      "Senior/Lead level"
+    ],
+    "notes": "Keywords Studios is one of the largest game services firms globally. Ireland office (Dublin) \u2014 would be local. Skills otherwise align well (Unreal, VFX). Monitor for mid-level openings."
+  },
+  {
+    "id": "iftn-vfx-coordinator-4048-2026",
+    "title": "VFX Coordinator",
+    "company": "Unknown (IFTN posting #4048)",
+    "location": "Ireland",
+    "url": "https://www.iftn.ie/jobs/?act1=record&aid=18&rid=4048&only=1&force=1&tpl=jobslist",
+    "first_seen": "2026-08-03",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "VFX production coordination role \u2014 not a creative or technical art role. Does not match Shem's artistic/technical profile.",
+    "requirements": [
+      "Full requirements not accessible \u2014 page blocked from automated access"
+    ],
+    "notes": "IFTN record ID 4048. VFX Coordinator typically manages production scheduling, budgets, and vendor relationships rather than creating visual effects. Not relevant to Shem's skills. Record ID 4048 falls between previously seen records #3979 and #4115."
   }
 ]
