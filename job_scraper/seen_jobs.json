@@ -4092,5 +4092,85 @@
       "Full requirements not accessible \u2014 page blocked from automated access"
     ],
     "notes": "IFTN record ID 4048. VFX Coordinator typically manages production scheduling, budgets, and vendor relationships rather than creating visual effects. Not relevant to Shem's skills. Record ID 4048 falls between previously seen records #3979 and #4115."
+  },
+  {
+    "id": "newcode-ai-motion-designer-2026",
+    "title": "Motion Designer",
+    "company": "Newcode.ai",
+    "location": "Dublin, Ireland (on-site or hybrid)",
+    "url": "https://apply.workable.com/newcode/j/5204D8FCCB",
+    "first_seen": "2026-08-04",
+    "fit": "low-medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Motion assets for product launches, campaigns, social media, ads, explainers",
+      "Blender and After Effects mentioned as tools",
+      "Visual design foundation — typography, composition, rhythm, pacing",
+      "Define scalable motion system for brand across product, marketing, sales",
+      "Build reusable templates and motion toolkits",
+      "Explore AI tools for creative workflows"
+    ],
+    "notes": "Newcode.ai is a legal AI/tech SaaS startup building tools for legal professionals. Motion Designer role is brand/marketing focused — not technical art or VFX. BA Visual Communications is relevant but the corporate legal-tech environment and brand-motion scope diverge from Shem's technical-creative VFX/3D profile. Blender listed as a tool (positive signal). Large SaaS team structure likely conflicts with Shem's small-crew preference. Worth reviewing if Shem wants to consider brand motion designer roles, but not a priority over VFX/technical art applications."
+  },
+  {
+    "id": "pwc-motion-graphic-designer-2026",
+    "title": "Motion and Digital Graphic Designer",
+    "company": "PwC Ireland",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://ie.bebee.com/job/6b92831b25dc44a184fbcf79fc0b6d4a",
+    "first_seen": "2026-08-04",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Large corporate consultancy (Big 4) — large siloed team structure conflicts with Shem's small-crew preference. Role is purely brand/marketing motion design (After Effects, Photoshop, social media, print) with no 3D, VFX, or Blender component.",
+    "requirements": [
+      "Adobe Creative Suite — After Effects primary",
+      "Motion graphics for campaigns, digital platforms, social media",
+      "Brand consistency across print, digital, social, web, packaging",
+      "2-4 years professional graphic design experience"
+    ],
+    "notes": "PwC Ireland Clients and Markets team. Corporate brand design role. No technical-creative art or 3D/VFX skills involved. Deal-breaker: large corporate team structure. Low priority."
+  },
+  {
+    "id": "elevenlabs-motion-designer-2026",
+    "title": "Motion Designer",
+    "company": "ElevenLabs",
+    "location": "Remote (global — Ireland listed as eligible)",
+    "url": "https://elevenlabs.io/careers/d6ce93b1-b4c9-40a6-afb5-fcc4570c610d/motion-designer",
+    "first_seen": "2026-08-04",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-02-07",
+    "skip_reason": "Posted February 7, 2026 — confirmed outside 14-day window (6 months old). Also low fit: product motion design for AI startup (After Effects, Figma primary; Blender/C4D are bonus only). 5+ years in product-setting requirement.",
+    "requirements": [
+      "5+ years motion design in a product/tech setting",
+      "Mastery of After Effects and Figma",
+      "Self-directed, autonomous working style",
+      "Blender, Cinema 4D (bonus only)",
+      "Collaboration with Video, Comms, Design teams"
+    ],
+    "notes": "ElevenLabs is the leading AI voice/audio platform. Motion Designer role is product/brand oriented — After Effects and Figma primary. 3D tools (Blender, Cinema 4D) listed only as bonuses. Stale posting from February 2026. Skills diverge from Shem's VFX/3D/Unreal profile. Low priority."
+  },
+  {
+    "id": "dreamfeel-low-poly-3d-artist-2026",
+    "title": "Low Poly 3D Artist",
+    "company": "Dreamfeel",
+    "location": "Remote (Dreamfeel is a Dublin-based indie games studio)",
+    "url": "https://remotegamejobs.com/jobs/dreamfeel-low-poly-3d-artist-remote-job",
+    "first_seen": "2026-08-04",
+    "fit": "low-medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Breadth of experience in 3D art, particularly environments",
+      "Keen to experiment with a range of styles and processes",
+      "Experience in asset creation for real-time rendering",
+      "Experience with texturing and lighting",
+      "Experience working with game engines",
+      "Ability to work remotely, familiar with Discord for project management",
+      "Characters and objects experience (a plus)"
+    ],
+    "notes": "Dreamfeel is a very small Dublin indie games studio (made 'If Found...' for PC/Mac/iOS/Switch — narrative game about memory and identity). They welcome diverse identities and value inclusive team culture. Low poly / narrative aesthetic is a significant stylistic departure from Shem's high-fidelity procedural/VFX work. Small crew (matches Shem's preference). Posting date unconfirmed — verify whether live before pursuing. Low priority given stylistic mismatch, but worth a look if Shem is open to indie narrative games."
   }
 ]
