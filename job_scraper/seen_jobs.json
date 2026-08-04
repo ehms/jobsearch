@@ -4172,5 +4172,84 @@
       "Characters and objects experience (a plus)"
     ],
     "notes": "Dreamfeel is a very small Dublin indie games studio (made 'If Found...' for PC/Mac/iOS/Switch — narrative game about memory and identity). They welcome diverse identities and value inclusive team culture. Low poly / narrative aesthetic is a significant stylistic departure from Shem's high-fidelity procedural/VFX work. Small crew (matches Shem's preference). Posting date unconfirmed — verify whether live before pursuing. Low priority given stylistic mismatch, but worth a look if Shem is open to indie narrative games."
+  },
+  {
+    "id": "parts-and-labor-games-technical-artist-2026",
+    "title": "Technical Artist",
+    "company": "Parts and Labor Games",
+    "location": "Remote — EU timezones preferred (contract)",
+    "url": "https://remotegamejobs.com/jobs/parts-and-labor-games-technical-artist-remote-job",
+    "first_seen": "2026-08-04",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "~2026-07 (mid-2026 per company social post; 1 active job confirmed on RemoteGameJobs company page)",
+    "requirements": [
+      "Build master materials and material instances in Unreal Engine",
+      "Optimize assets, shaders, and textures for real-time performance",
+      "Own environment assets end-to-end — fully self-sufficient",
+      "Modern environment art pipeline knowledge",
+      "Portfolio showing Unreal materials and in-engine work",
+      "Environment artist experience is a massive plus",
+      "EU timezone preferred"
+    ],
+    "notes": "Parts and Labor Games is a small indie studio making a roguelike TCG. Contract role, EUR 4,000–5,000/month. Self-sufficient Tech Artist owning environment assets end-to-end maps directly to Shem's Unreal Engine (advanced), procedural workflows, material/shader authoring, and asset optimization background. Small team culture matches Shem's preference. Apply via info@partsandlaborgames.com with resume and portfolio showing Unreal materials and in-engine work. PRIORITY: verify active and apply promptly."
+  },
+  {
+    "id": "cyber-manatee-gmbh-environment-artist-2026",
+    "title": "3D Environment Artist",
+    "company": "Cyber Manatee GmbH",
+    "location": "Remote (or optional 2 days/week Cologne, Germany office)",
+    "url": "https://remotegamejobs.com/jobs/cyber-manatee-gmbh-3d-environment-artist-m-f-remote-job",
+    "first_seen": "2026-08-04",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown — LinkedIn post ID suggests early 2023; may be stale. Verify at cyber-manatee.com before applying.",
+    "requirements": [
+      "3D modelling and texturing (Speedtree, Blender, Substance)",
+      "Unreal Engine (Editor, Material Editor)",
+      "Vegetation, hard surface props, sculpting, texturing, level art",
+      "Remote-first with optional Cologne office"
+    ],
+    "notes": "Cyber Manatee is a small indie studio (Cologne, Germany) making a first-person mystery-thriller set in 1980s German hinterland. Blender + Unreal + Substance is Shem's exact stack. Small team with real ownership ('have impact on how things are done'). CAUTION: LinkedIn post referencing this listing appears to be from early 2023 — posting may be old or re-listed. Check cyber-manatee.com directly to verify whether role is currently active before investing in application. If live, this is a strong match: small creative team, procedural modeling, narrative-driven game."
+  },
+  {
+    "id": "jam-media-compositor-beddybyes-2025",
+    "title": "Compositor (for BeddyByes)",
+    "company": "JAM Media",
+    "location": "Dublin, Ireland",
+    "url": "https://animationireland.com/job/jam-media-hiring-compositor-for-beddybyes/",
+    "first_seen": "2026-08-04",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2025-03-05",
+    "skip_reason": "Posting from March 2025 — 17 months old, outside 14-day window. Likely filled. BeddyByes has Disney Branded TV deal (Oct 2025) so production ongoing — worth direct outreach to JAM Media rather than applying via old link.",
+    "requirements": [
+      "CG animation compositing",
+      "Understanding of 3D animation and lighting pipeline",
+      "Composition, colour, light and shadow judgment",
+      "Combine rendered CG layers, effects, graphics",
+      "Meet production deadlines"
+    ],
+    "notes": "JAM Media is a Dublin animation studio. BeddyByes is their preschool animated series that got a Disney Branded TV deal in October 2025 — production likely still ongoing, compositor demand may recur. Studio Meala Disney+ compositing credit is directly analogous. Recommend: send a speculative/cold application to JAM Media referencing the BeddyByes Disney production rather than using the old posting link. Track at jammedia.com."
+  },
+  {
+    "id": "brown-bag-films-fx-artist-cg-animation-2026",
+    "title": "FX Artist (CG Animation)",
+    "company": "Brown Bag Films",
+    "location": "Dublin, Ireland (on-site, contract)",
+    "url": "https://www.brownbagfilms.com/about-us/careers/dublin-jobs",
+    "first_seen": "2026-08-04",
+    "fit": "low-medium",
+    "status": "skipped",
+    "posting_date": "2026-05-27",
+    "skip_reason": "Posted May 27, 2026 — outside 14-day window (69 days ago). Also requires Houdini/Maya for CG simulation FX — key tool gap for Shem (Blender-primary). Different from the previously tracked 'FX Artist (Unreal Engine)' role via Milo HR.",
+    "requirements": [
+      "FX simulation for CG animation production",
+      "Houdini and/or Maya (industry standard for animation FX)",
+      "3D animation pipeline knowledge",
+      "Portfolio demonstrating effects work",
+      "IFTN.ie listing rid=3310"
+    ],
+    "notes": "Separate from the Unreal Engine FX Artist (Milo HR VN1894) previously tracked. This role is traditional CG animation FX (Houdini/Maya simulations). Outside 14-day window and Houdini is a tool gap. Brown Bag Films is still a cold-call target — direct outreach remains recommended."
   }
 ]
