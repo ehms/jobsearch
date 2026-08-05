@@ -4251,5 +4251,44 @@
       "IFTN.ie listing rid=3310"
     ],
     "notes": "Separate from the Unreal Engine FX Artist (Milo HR VN1894) previously tracked. This role is traditional CG animation FX (Houdini/Maya simulations). Outside 14-day window and Houdini is a tool gap. Brown Bag Films is still a cold-call target — direct outreach remains recommended."
+  },
+  {
+    "id": "dreamscreator-vfx-3d-generalist-remote-2025",
+    "title": "3D Generalist & VFX Artists (multiple roles)",
+    "company": "Dreamscreator VFX and Animation Studio",
+    "location": "Fully Remote (Global) — India-based studio",
+    "url": "https://animationandvfxjobs.com/3d-generalist-vfx-artists-required-at-dreamscreator-vfx/",
+    "first_seen": "2026-08-05",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2025-12-11",
+    "skip_reason": "Posted December 11, 2025 — outside 14-day window. India-based studio; pay rates reflect Indian market (₹9–18 lakh/year), not competitive for Dublin-based remote worker. Multiple roles: FX Artist, 3D Modeler, Lookdev, Rigging, Character Animator.",
+    "requirements": [
+      "6 months – 10 years of experience",
+      "Maya, 3Ds Max, Blender, ZBrush, Character Creator, Unreal Engine, or Unity 3D",
+      "FX Artists: particles, dust, explosions, destruction",
+      "Full-time remote only (no freelance/part-time)"
+    ],
+    "notes": "India-based VFX/animation studio (Director: Ashish Singh). Skills match is strong on paper (Blender, UE optional) but market rates and timezone fit are concerns for an Irish-based candidate. Not worth pursuing. Monitor if company establishes EU pay rates."
+  },
+  {
+    "id": "statement-vfx-unreal-artist-barcelona-2024",
+    "title": "Unreal Engine Artist",
+    "company": "Statement VFX",
+    "location": "Barcelona, Spain",
+    "url": "https://animationandvfxjobs.com/unreal-engine-artist-required-at-statement-vfx-barcelona/",
+    "first_seen": "2026-08-05",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2024-08-24",
+    "skip_reason": "Posted August 24, 2024 — nearly 2 years old, well outside 14-day window. Barcelona-based (potential relocation requirement). Requires 4+ years UE experience.",
+    "requirements": [
+      "4+ years experience with Unreal Engine",
+      "Strong knowledge of 3D asset creation in Maya",
+      "Character/camera animation and game/VFX pipelines",
+      "UE4 workflows: lighting, particle systems, post-processes, material setup, optimization",
+      "Houdini Engine connection with UE (plus)"
+    ],
+    "notes": "Statement VFX is a Barcelona-based real-time VFX studio. Role is stale (August 2024) and likely filled. Monitor for fresh postings if they expand to remote EU. Skills match would be strong if a new posting appeared."
   }
 ]
