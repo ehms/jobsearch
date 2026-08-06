@@ -4290,5 +4290,218 @@
       "Houdini Engine connection with UE (plus)"
     ],
     "notes": "Statement VFX is a Barcelona-based real-time VFX studio. Role is stale (August 2024) and likely filled. Monitor for fresh postings if they expand to remote EU. Skills match would be strong if a new posting appeared."
+  },
+  {
+    "id": "black-shamrock-vfx-artist-2026-fresh",
+    "title": "VFX Artist",
+    "company": "Black Shamrock (a Virtuos Studio)",
+    "location": "Dublin, Ireland (on-site / hybrid)",
+    "url": "https://filmlocal.com/job/vfx-artist-new-dublin-black-shamrock-a-virtuos-studio/",
+    "first_seen": "2026-08-06",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Real-time VFX in Unreal Engine (AAA PS5/Xbox Series X/PC platforms)",
+      "Strong visual effects portfolio",
+      "AAA shipped title preferred",
+      "Collaboration with art and engineering departments"
+    ],
+    "notes": "FilmLocal 'New' tag suggests a fresh August 2026 posting. May be a re-listing of the 2025 role already tracked as `black-shamrock-vfx-artist-2025` — verify against that entry before applying. Ireland's largest AAA studio (Virtuos group). Unreal Engine VFX is a direct Shem skill match; AAA shipped title is a partial gap. Verify freshness and confirm it is a new/distinct posting before preparing application."
+  },
+  {
+    "id": "idt-corporation-graphic-motion-designer-2026",
+    "title": "Graphic and Motion Designer",
+    "company": "IDT Corporation",
+    "location": "Remote (Ireland)",
+    "url": "https://builtindublin.ie/job/graphic-and-motion-designer/6192859",
+    "first_seen": "2026-08-06",
+    "fit": "low-medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Adobe Creative Suite: Photoshop, Figma, After Effects",
+      "Strong motion design principles",
+      "Excellent photo retouching skills",
+      "Portfolio showcasing graphic design, photo editing, and animation skills",
+      "Create explainer videos, social media content, marketing materials",
+      "Adhere to brand guidelines"
+    ],
+    "notes": "IDT Corporation is a NYSE-listed global telecom/fintech company (1800+ employees, BOSS Revolution prepaid calling/money transfer). Role is remote from Ireland. Concerns: 2D-only (no 3D/Blender/Unreal requirements); large corporate environment conflicts with Shem's small-crew preference; marketing/brand motion rather than technical-creative work. BA Visual Communications background is relevant. Low priority — consider only if higher-fit roles are not progressing. Posting date unverified."
+  },
+  {
+    "id": "edge-world-studios-3d-generalists-ta-2026",
+    "title": "3D Generalists / Technical Artists",
+    "company": "Edge of the World Studios",
+    "location": "Remote (global; Saudi Arabia HQ)",
+    "url": "https://remotegamejobs.com/jobs/edge-of-the-world-studios-3d-generalists-technical-artists-remote-job-daa40953-dd87-4bf2-ba35-94059f03254d",
+    "first_seen": "2026-08-06",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Blender (core DCC tool; other DCCs welcome)",
+      "Claymation/stylized 3D assets (clay-based meshes or stylized sculpts)",
+      "Unity workflow: integrate assets via materials, prefabs, and shaders",
+      "3D modeling and asset optimization for real-time game engine",
+      "Collaboration with small game design team"
+    ],
+    "notes": "Project: Halima — 2.5D narrative puzzle-platformer with claymation aesthetic, Arabian folklore setting. Different role/URL from existing `edge-world-studios-environment-artist-2026` entry. Studio HQ in Saudi Arabia; global remote-first team (no EU restrictions found). 6+ simultaneous open roles suggests active 2026 hiring phase. Blender is a strong match; Unity (not Unreal) is a gap. Claymation/stylized aesthetic is narrower than Shem's photorealistic/procedural portfolio. Posting date unverified — email hello@eotwstudios.com to confirm role is still open before investing in application."
+  },
+  {
+    "id": "larian-studios-senior-vfx-artist-2026",
+    "title": "Senior VFX Artist",
+    "company": "Larian Studios",
+    "location": "Dublin, Ireland (on-site)",
+    "url": "https://jobs.lever.co/larian/8f149862-e4b7-4ece-b431-cc3378c3867e",
+    "first_seen": "2026-08-06",
+    "fit": "medium-high",
+    "status": "skipped",
+    "posting_date": "~2026-07-23",
+    "skip_reason": "Senior level — excluded per seniority filter",
+    "requirements": [
+      "Shipped game on PC/Console (VFX or related role)",
+      "Strong real-time VFX portfolio",
+      "Blender accepted as DCC tool",
+      "On-site Dublin required"
+    ],
+    "notes": "Posted ~July 23, 2026 ('14 days ago' per Glassdoor/BuiltIn snippet as of Aug 6). Confirmed fresh posting via Lever ATS. Skills are a strong match for Shem (Blender, real-time VFX, Dublin location). Monitor for a non-senior VFX Artist opening at Larian."
+  },
+  {
+    "id": "void-interactive-lead-character-artist-europe-2026",
+    "title": "Lead Character Artist - Ready or Not (Europe)",
+    "company": "VOID Interactive",
+    "location": "Europe (fully remote)",
+    "url": "https://remotegamejobs.com/jobs/void-interactive-lead-character-artist-ready-or-not-remote-job-b7ed3802-cd14-4e6a-a839-c085d70096bd",
+    "first_seen": "2026-08-06",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Lead level — excluded per seniority filter",
+    "notes": "VOID Interactive (Ready or Not). Lead character art role, EU remote. Monitor for non-lead character/environment art openings."
+  },
+  {
+    "id": "void-interactive-lead-character-ta-2026",
+    "title": "Lead Character Technical Artist - Ready or Not",
+    "company": "VOID Interactive",
+    "location": "Remote",
+    "url": "https://remotegamejobs.com/jobs/void-interactive-lead-character-technical-artist-remote-job",
+    "first_seen": "2026-08-06",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Lead level — excluded per seniority filter",
+    "notes": "VOID Interactive (Ready or Not). Lead Character Technical Artist. Monitor for non-lead technical art openings."
+  },
+  {
+    "id": "worlds-3d-generalist-2026",
+    "title": "3D Generalist",
+    "company": "Worlds",
+    "location": "Remote (global)",
+    "url": "https://remotegamejobs.com/jobs/worlds-3d-generalist-remote-job",
+    "first_seen": "2026-08-06",
+    "fit": "medium-high",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Confirmed expired per multiple aggregators",
+    "requirements": [
+      "3+ years as 3D Generalist in gaming (at least one shipped PC/console title)",
+      "Blender or Maya (modeling, texturing, animation, UV mapping)",
+      "UE5 implementation and PBR materials",
+      "Game dev pipeline and asset optimization"
+    ],
+    "notes": "Worlds is a remote-first studio backed by Griffin Gaming Partners, founded by Epic Games veterans. Blender + UE5 is a strong Shem skills match; mid-level scope. Monitor for fresh re-listing. Expired as of August 2026."
+  },
+  {
+    "id": "double-dusk-founding-artist-3d-2026",
+    "title": "Founding Artist (3D)",
+    "company": "Double Dusk",
+    "location": "Remote",
+    "url": "https://remotegamejobs.com/jobs/double-dusk-founding-artist-3d-remote-job",
+    "first_seen": "2026-08-06",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "~2024",
+    "skip_reason": "Expired (likely 2024 posting); explicitly requires senior/lead artist background — excluded per seniority filter",
+    "notes": "Small remote indie studio making cooperative games in UE5. Despite 'Founding Artist' title, role explicitly requires 3+ years as senior or lead artist. Listing confirmed closed (0 active jobs for Double Dusk on RemoteGameJobs)."
+  },
+  {
+    "id": "starloop-studios-vfx-artist-freelance-2026",
+    "title": "VFX Artist (Freelance)",
+    "company": "Starloop Studios",
+    "location": "Remote",
+    "url": "https://remotegamejobs.com/jobs/starloop-studios-vfx-artist-freelance-remote-job",
+    "first_seen": "2026-08-06",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Confirmed expired; web/HTML5 VFX role (three.js, WebGL, HTML5) — poor match for Shem's 3D/Unreal/compositing profile. Spanish bilingual preferred.",
+    "notes": "Starloop Studios is part of Magic Media group. Role focuses on HTML5/WebGL/three.js interactive VFX, not game art or 3D VFX. Not relevant to Shem's skillset."
+  },
+  {
+    "id": "fruity-systems-unity-vfx-artist-2022",
+    "title": "Unity Technical/VFX Artist",
+    "company": "Fruity Systems",
+    "location": "Remote (UK-based)",
+    "url": "https://remotegamejobs.com/jobs/fruity-systems-unity-technical-vfx-artist-indie-vr-game-developer-remote-job",
+    "first_seen": "2026-08-06",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2022-10-03",
+    "skip_reason": "Posted October 3, 2022 — 4-year-old ghost listing, closed October 21, 2022. Archive only.",
+    "notes": "Fruity Systems (UK indie VR studio, Space Salvage project). Ghost listing appearing in search results; the job closed in 2022."
+  },
+  {
+    "id": "keywords-studios-env-lighting-asia-2026",
+    "title": "Environment Artist (Lighting)",
+    "company": "Keywords Studios",
+    "location": "Malaysia / Indonesia / Singapore",
+    "url": "https://gamejobs.co/Environment-Artist-Lighting-at-Keyword-Studios",
+    "first_seen": "2026-08-06",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "SE Asia only — requires local working rights for Singapore, Malaysia, or Indonesia; no EU/Ireland eligibility",
+    "notes": "Keywords Studios (global games outsourcer). Environment Artist (Lighting) role is in Southeast Asia only. Not relevant for Shem. Separate senior lighting artist role exists in Dublin but is senior-level."
+  },
+  {
+    "id": "2k-technical-art-graduate-dublin-2026",
+    "title": "Technical Art Graduate Program (21-month)",
+    "company": "2K Early Careers",
+    "location": "Dublin, Ireland",
+    "url": "https://job-boards.greenhouse.io/2kearlycareers/jobs/7532845003",
+    "first_seen": "2026-08-06",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2025-12",
+    "skip_reason": "Graduate/entry-level program; cohort intake started July 2026 — listing almost certainly closed. Also requires Maya proficiency as primary DCC (Blender gap). Not mid-level.",
+    "requirements": [
+      "2:1 or above degree in Technical Art, Game Dev, Computer Graphics or related field",
+      "Graduated within 2 years of July 2026",
+      "Basic scripting: Python, C++ or C#",
+      "3D software proficiency (Maya specified)",
+      "Understanding of asset pipelines, rigging, animation or modeling"
+    ],
+    "notes": "21-month program July 2026–March 2028. Rotations across 2K AAA studios (Hangar 13, HB Studios, Visual Concepts, Firaxis, Gearbox). Strong concept but not applicable — entry-level and intake started. Monitor 2K Dublin for mid-level Technical Artist openings."
+  },
+  {
+    "id": "2k-senior-technical-artist-dublin-2026",
+    "title": "Senior Technical Artist",
+    "company": "2K",
+    "location": "Dublin, Ireland",
+    "url": "https://builtindublin.ie/job/senior-technical-artist/6304344",
+    "first_seen": "2026-08-06",
+    "fit": "medium-high",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Senior level — excluded per seniority filter",
+    "requirements": [
+      "PBR workflows",
+      "Unreal Engine",
+      "Maya",
+      "Substance Painter/Designer",
+      "Strong technical art portfolio"
+    ],
+    "notes": "2K is a major AAA publisher with a Dublin office. Senior Technical Artist role — skills match is strong (Unreal, PBR). Monitor for non-senior openings. Also on Greenhouse: https://job-boards.greenhouse.io/2k/jobs/6586176003"
   }
 ]
