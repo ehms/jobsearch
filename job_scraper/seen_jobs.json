@@ -4503,5 +4503,107 @@
       "Strong technical art portfolio"
     ],
     "notes": "2K is a major AAA publisher with a Dublin office. Senior Technical Artist role — skills match is strong (Unreal, PBR). Monitor for non-senior openings. Also on Greenhouse: https://job-boards.greenhouse.io/2k/jobs/6586176003"
+  },
+  {
+    "id": "bitwise-alchemy-technical-artist-rendering-2026",
+    "title": "Technical Artist — Rendering",
+    "company": "Bitwise Alchemy",
+    "location": "Remote (US/Canada FTE; worldwide contract eligible)",
+    "url": "https://remotegamejobs.com/jobs/bitwise-alchemy-technical-artist-rendering-remote-job",
+    "first_seen": "2026-08-07",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unreal Engine 4/5 (shaders, materials, VFX, static/runtime lighting)",
+      "Shipped AAA titles (preferred)",
+      "Console experience",
+      "Shader/material development (Substance, HLSL, in-engine editors)",
+      "VFX development",
+      "Performance and optimization"
+    ],
+    "notes": "Bitwise Alchemy is a consulting studio (AAA industry). Role: making things pretty and fast — rendering quality + runtime performance. FTE is US/Canada only; worldwide contract available (Ireland eligible as contractor). Generous salary, flexible hours, no crunch. Key gap: AAA shipped title preferred but not hard-required. Also on ArtStation: https://www.artstation.com/jobs/yr9P and AnimationAndVFXJobs: https://animationandvfxjobs.com/technical-artist-required-at-bitwise-alchemy-remote/"
+  },
+  {
+    "id": "vivid-games-senior-technical-artist-2026",
+    "title": "Senior Technical Artist",
+    "company": "Vivid Games S.A.",
+    "location": "Remote (Poland-based studio; Bydgoszcz / Warsaw)",
+    "url": "https://remotegamejobs.com/jobs/vivid-games-technical-artist-remote-job",
+    "first_seen": "2026-08-07",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Senior level — excluded per seniority filter",
+    "requirements": [
+      "Senior Technical Artist experience",
+      "Unreal Engine (materials, shaders, lighting)",
+      "Unity game engine pipelines",
+      "Real Boxing 3 production context",
+      "Polish B2B contract (14–18k PLN/month)"
+    ],
+    "notes": "Vivid Games is a Polish mobile/console game developer. Real Boxing franchise. Senior level, Polish contractor rate. Skills match is solid but seniority filter applies."
+  },
+  {
+    "id": "lai-games-technical-artist-vr-2026",
+    "title": "Technical Artist (VR Game)",
+    "company": "LAI Games",
+    "location": "Remote (Texas/Singapore HQ — eligibility unclear)",
+    "url": "https://remotegamejobs.com/jobs/lai-games-technical-artist-remote-job",
+    "first_seen": "2026-08-07",
+    "fit": "low-medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Posting appears expired; company HQ is Texas/Singapore — EU eligibility unconfirmed. Unity-only (gap vs Shem's Unreal/Blender background).",
+    "requirements": [
+      "Deep Unity game engine experience",
+      "VR game development",
+      "3D rendering principles and/or shader authoring",
+      "Animation rigging toolsets and workflows",
+      "Substance Designer and Painter",
+      "Art pipeline development"
+    ],
+    "notes": "LAI Games is a Texas-based VR arcade/amusement game company. Remote posting on RemoteGameJobs but appears expired. Unity-exclusive focus is a partial skills gap for Shem (no Unreal or Blender mentioned)."
+  },
+  {
+    "id": "pixelmatic-vfx-ta-unity-2026",
+    "title": "VFX Technical Artist (Unity)",
+    "company": "Pixelmatic",
+    "location": "Remote (Hong Kong studio)",
+    "url": "https://remotegamejobs.com/jobs/pixelmatic-vfx-technical-artist-unity-remote-job",
+    "first_seen": "2026-08-07",
+    "fit": "low-medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Senior requirements: 6+ years + 2 shipped titles. Unity/HDRP focus (Shem's primary stack is Unreal/Blender). Hong Kong studio, remote worldwide but timezone may be difficult.",
+    "requirements": [
+      "6+ years experience in similar role",
+      "2+ shipped game titles",
+      "Unity and HDRP pipelines",
+      "VFX/shaders/lighting in Unity",
+      "Art pipeline development",
+      "Team technical guidance"
+    ],
+    "notes": "Pixelmatic (Hong Kong) building open-world space MMO (Infinite Fleet). Remote worldwide. 6 years + 2 titles = de facto senior. Unity-HDRP is a skills gap vs Shem's Unreal/Blender strengths. Monitor for non-senior openings if Shem gains Unity experience."
+  },
+  {
+    "id": "voxel-studio-creative-technologist-uk-2026",
+    "title": "Creative Technologist (Interactive & AI Systems)",
+    "company": "Voxel Studio",
+    "location": "UK (speculative / always-open enquiry — not an active listing)",
+    "url": "https://www.voxelstudio.co.uk/careers/creative-technologist-interactive-ai",
+    "first_seen": "2026-08-07",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Not an active job listing — Voxel Studio states they are NOT running a traditional hiring cycle for this role; it is a speculative/always-open enquiry page.",
+    "requirements": [
+      "Bridging creative design and technical delivery",
+      "Interactive systems, real-time environments, emerging tools",
+      "Software, hardware, and AI integration",
+      "Tool agility and system thinking",
+      "Practical deployment and maintenance of interactive systems"
+    ],
+    "notes": "Voxel Studio is a UK-based experiential creative technology agency. This page is a standing enquiry (not an active hire). Strong conceptual fit with Shem's technical-creative profile, real-time skills, and interest in immersive experiences. Worth a speculative outreach via their careers contact page. Also listed via interactiveimmersive.io aggregator."
   }
 ]
