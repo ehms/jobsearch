@@ -4605,5 +4605,56 @@
       "Practical deployment and maintenance of interactive systems"
     ],
     "notes": "Voxel Studio is a UK-based experiential creative technology agency. This page is a standing enquiry (not an active hire). Strong conceptual fit with Shem's technical-creative profile, real-time skills, and interest in immersive experiences. Worth a speculative outreach via their careers contact page. Also listed via interactiveimmersive.io aggregator."
+  },
+  {
+    "id": "tiny-ark-vfx-generalist-iftn-4232-2026",
+    "title": "VFX Generalist",
+    "company": "Tiny Ark",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://www.iftn.ie/jobs/filmtvjob/?act1=record&aid=18&rid=4232&only=1&force=1&tpl=jobslist",
+    "first_seen": "2026-08-08",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown — IFTN record 4232 (above 4150 tracked July 17; likely July–August 2026)",
+    "requirements": [
+      "Full requirements not accessible — page requires IFTN manual browser visit",
+      "Experienced VFX Generalist (from search snippet)",
+      "Dublin hybrid studio role"
+    ],
+    "notes": "Tiny Ark is a Dublin-based independent creative production company (commercial/editorial/brand content, 24 staff, €5M revenue). Founded 2011 by Nathan Reilly, Alex Delap, Richard Childs. Small studio (matches Shem's small-crew preference). IFTN record 4232 is higher than 4150 (Compositor, tracked July 17) and 4239 (Post Production Producer) — likely posted within the last 14 days. VFX Generalist scope spans modeling, compositing, and motion graphics for commercials/brand clients. Studio Meala Disney+ compositing credit is directly relevant. Tool requirements unknown — likely After Effects / Nuke based (commercial context). PRIORITY: visit iftn.ie directly to confirm requirements and seniority before applying."
+  },
+  {
+    "id": "iftn-post-production-producer-4239-2026",
+    "title": "Post Production Producer",
+    "company": "Unknown (IFTN posting #4239)",
+    "location": "Ireland",
+    "url": "https://www.iftn.ie/jobs/?act1=record&aid=18&rid=4239&only=1&force=1&tpl=jobslist",
+    "first_seen": "2026-08-08",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Post Production Producer is a production management/coordination role — not a creative or technical art role. Does not match Shem's artist/technical profile.",
+    "requirements": [
+      "Full requirements not accessible — page blocked from automated access"
+    ],
+    "notes": "IFTN record 4239, between VFX Generalist #4232 (Tiny Ark) and previous tracking. Production management role — outside Shem's target creative/technical art direction."
+  },
+  {
+    "id": "milk-vfx-dublin-cold-call-2026",
+    "title": "Cold-call target (no public listing)",
+    "company": "Milk VFX",
+    "location": "Dublin 2, Ireland (Georgian buildings, Dublin's VFX golden triangle)",
+    "url": "https://www.milk-vfx.com",
+    "first_seen": "2026-08-08",
+    "fit": "high",
+    "status": "skipped",
+    "posting_date": "N/A — no public listing found",
+    "skip_reason": "No current public job listing — cold-call / warm outreach target only.",
+    "requirements": [
+      "High-end VFX for NBC drama and film (Surviving Earth — prehistoric creatures/environments)",
+      "Compositing, environment VFX, character CG",
+      "VFX for TV drama and feature film"
+    ],
+    "notes": "Milk VFX is a BAFTA-winning UK VFX studio (Jurassic World, Dr Who, Foundation, Sex Education) that opened its Dublin studio in 2024 in Dublin 2. Creative head Donal Nolan leads the team. Currently producing VFX for NBC series Surviving Earth (co-produced by Loud Minds/Universal Television Alternative Studio, creative director Tim Haines — Walking With Dinosaurs creator). Strong cold-call target: Studio Meala Disney+ mid-level compositor credit is directly relevant; prehistoric creatures/environments scope aligns with high-end CG compositing. Outreach angle: compositing for drama + interest in the Surviving Earth project type."
   }
 ]
