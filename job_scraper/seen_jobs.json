@@ -4697,5 +4697,134 @@
     ],
     "skip_reason": "Internship role — too junior for Shem's mid-level professional experience. Posting may also be stale (one variant removed June 2025; second variant 6bc7f7ca active status unclear).",
     "notes": "Larian Studios Dublin internship (different from the Senior VFX Artist at Larian already in seen_jobs). Two URLs: b3920238 (original) and 6bc7f7ca ('Stage'/French variant). 3-month contract, Dublin on-site. Real-time VFX + Blender eligibility are good signals; internship level is the deal-breaker. Watch Larian Dublin for mid-level VFX roles."
+  },
+  {
+    "id": "scopely-vfx-lighting-artist-unannounced-2026",
+    "title": "VFX & Lighting Artist - Unannounced Project",
+    "company": "Scopely",
+    "location": "UK / Ireland / Spain / Portugal (remote) or Barcelona (hybrid)",
+    "url": "https://www.artstation.com/jobs/zD8J",
+    "first_seen": "2026-08-10",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Real-time VFX and lighting in game development (Unity engine)",
+      "VFX principles, physical shaders, and lighting theory",
+      "Houdini and Maya proficiency",
+      "Real-time lighting workflows (baked and real-time)",
+      "Digital content creation tools (Maya, Photoshop, Substance)",
+      "Asset management tools (Git & Perforce)"
+    ],
+    "notes": "Same unannounced Strategy/MMO project (early dev) as scopely-technical-artist-unannounced-2026 and scopely-senior-vfx-artist-unannounced-2026. This appears to be a non-senior VFX/lighting role. Ireland-eligible. Key tool gap: role uses Unity + Maya + Houdini vs Shem's Blender/Unreal stack. Physical shader and lighting work aligns with Shem's material/shader expertise from Infinity 27 bootcamp. Studio Meala Disney+ VFX credit is relevant."
+  },
+  {
+    "id": "rebellion-junior-vfx-artist-uk-2026",
+    "title": "Junior VFX Artist - UK Based - Remote/Flexible",
+    "company": "Rebellion",
+    "location": "UK-based remote/flexible (studios: Oxford, Runcorn, Warwick)",
+    "url": "https://www.artstation.com/jobs/OelB",
+    "first_seen": "2026-08-10",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Junior VFX artist joining established VFX Team",
+      "Work across unannounced projects in development",
+      "Real-time VFX development experience",
+      "Source control familiarity (bonus)",
+      "Game jam, mod, internship, or professional project portfolio"
+    ],
+    "notes": "Rebellion is a 30-year-old UK games studio. Remote/flexible with UK-based studios — Ireland eligibility unconfirmed; 'UK-based' may require UK right-to-work. Junior level is below Shem's mid-level experience (potential underpay). Also apply via workable.com/rebellion/j/68F15D5433/. Watch for mid-level VFX openings at Rebellion."
+  },
+  {
+    "id": "rebellion-generalist-3d-artist-uk-2026",
+    "title": "Generalist 3D Artist - UK Based - Remote/Flexible",
+    "company": "Rebellion",
+    "location": "UK-based remote/flexible (studios: Oxford, Runcorn, Warwick)",
+    "url": "https://gamejobs.co/Generalist-3D-Artist-Hybrid-Flexible-at-Rebellion",
+    "first_seen": "2026-08-10",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Experienced 3D generalist for current IPs and unannounced new IP",
+      "Creating levels, characters, and weapons across multiple projects",
+      "3D modelling, hi-res sculpting, baking textures",
+      "Material/shader setup in real-time render engine",
+      "Art asset oversight with outsource art teams"
+    ],
+    "notes": "Rebellion UK studios (Oxford/Runcorn/Warwick) with remote/flexible option — Ireland eligibility not confirmed; 'UK-based' language may require UK right-to-work or residency. Broad 3D generalist scope matches Shem's Blender/procedural background well. Competitive salary, unspecified. Monitor for confirmed EU-eligible remote posting."
+  },
+  {
+    "id": "lucid-reality-labs-ta-3d-generalist-2026",
+    "title": "Technical Artist / 3D Generalist",
+    "company": "Lucid Reality Labs",
+    "location": "Remote (global, flexible hours)",
+    "url": "https://ingamejob.com/en/job/technical-artist-3d-generalist",
+    "first_seen": "2026-08-10",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2026-07-16",
+    "skip_reason": "Posted July 16, 2026 — outside 14-day window (25 days ago). Unity-centric role also a tool gap for Shem's Unreal/Blender background.",
+    "requirements": [
+      "Strong 3D software proficiency: Blender, Maya, or similar (modeling, texturing, UV)",
+      "Unity Engine and rendering pipeline knowledge",
+      "Custom shader creation in Unity (C# scripting)",
+      "Character pipeline: rigging, skinning, animation setup",
+      "Mobile VR performance optimization"
+    ],
+    "notes": "Lucid Reality Labs is an XR/AI studio for healthcare and industrial training (Unity platform). Award-winning, Poland/remote HQ. Blender explicitly listed — strong DCC match. Unity vs Shem's Unreal background is the main tool gap. Posted 2026-07-16; monitor for fresh repost."
+  },
+  {
+    "id": "void-interactive-gameplay-animator-2026",
+    "title": "Gameplay Animator",
+    "company": "VOID Interactive",
+    "location": "Remote (Ireland = full-time employee; outside Ireland = contractor)",
+    "url": "https://remotegamejobs.com/jobs/void-interactive-gameplay-animator-remote-job",
+    "first_seen": "2026-08-10",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Gameplay animation specialist role — not aligned with Shem's technical art / procedural / VFX strengths. Animation is not a primary skill.",
+    "requirements": [
+      "First-person animation (weapons, gadgets, player interactions)",
+      "Hand animation for tactical FPS feel and responsiveness",
+      "Close collaboration with animators, designers, programmers"
+    ],
+    "notes": "VOID Interactive (Ready or Not). Ireland residents offered FTE; outside Ireland = contractor. Animator-specialist focus is a clear mismatch for Shem's profile. See other VOID Interactive roles already tracked (Technical Artist, Environment Artist, VFX Artist) which are better fits."
+  },
+  {
+    "id": "keelworks-shading-vfx-artist-ue4-2026",
+    "title": "Shading & VFX Artist (UE4)",
+    "company": "KeelWorks",
+    "location": "Remote (or Edinburgh & Lothians, Scotland)",
+    "url": "https://remotegamejobs.com/jobs/keelworks-shading-vfx-artist-ue4-remote-job",
+    "first_seen": "2026-08-10",
+    "fit": "medium-high",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Confirmed expired — KeelWorks has no current job openings as of August 2026 per search results.",
+    "requirements": [
+      "Realistic and stylised VFX in UE4 (fire, smoke, explosions, dust, water, debris)",
+      "UE4 materials and VFX (Cascade and Niagara particle systems)",
+      "Complex material shaders for organic and hard surfaces",
+      "Simulation software: Houdini, Phoenix FD, or FumeFX",
+      "Flexible with different software tools"
+    ],
+    "notes": "KeelWorks is a small Edinburgh studio (games, 3D animation, VFX). Strong Unreal Engine VFX match for Shem; simulation tools (Houdini, Phoenix FD) are a partial gap. Listed as remote-eligible. Monitor KeelWorks careers page at keelworks.co.uk for future openings."
+  },
+  {
+    "id": "blendernation-aug7-2026-digest",
+    "title": "BlenderNation Blender Jobs — August 7, 2026 digest",
+    "company": "Various (BlenderNation weekly digest)",
+    "location": "Various",
+    "url": "https://www.blendernation.com/2026/08/07/blender-jobs-for-august-7-2026/",
+    "first_seen": "2026-08-10",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-08-07",
+    "skip_reason": "Digest contained only small freelance gigs (Stylized Mountains/Cliff Environment, 90-second 360° VR animation, 3D Hair Artist) — not studio roles suitable for Shem.",
+    "notes": "BlenderNation weekly digest August 7, 2026. Domain blocked in this session; contents assessed via WebSearch snippet only. Monitor the August 14 digest for better matches."
   }
 ]
