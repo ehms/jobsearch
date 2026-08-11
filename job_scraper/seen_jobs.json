@@ -4826,5 +4826,55 @@
     "posting_date": "2026-08-07",
     "skip_reason": "Digest contained only small freelance gigs (Stylized Mountains/Cliff Environment, 90-second 360° VR animation, 3D Hair Artist) — not studio roles suitable for Shem.",
     "notes": "BlenderNation weekly digest August 7, 2026. Domain blocked in this session; contents assessed via WebSearch snippet only. Monitor the August 14 digest for better matches."
+  },
+  {
+    "id": "tripledot-studios-3d-artist-2026",
+    "title": "3D Artist",
+    "company": "Tripledot Studios",
+    "location": "London, UK (Hybrid, 3 days/week in office)",
+    "url": "https://hitmarker.net/jobs/tripledot-studios-3d-artist-1921939",
+    "first_seen": "2026-08-11",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "London-based studio with no Dublin office — requires 3 days/week in office (Tues/Weds + 1 day). Shem cannot relocate. Also large mobile gaming company (2,500+ employees globally, offices: London/Warsaw/Barcelona/Jakarta) conflicts with small-crew preference.",
+    "requirements": [
+      "3D environment props and assets for live game",
+      "Blender, 3D Studio Max, Maya, or Softimage",
+      "Hybrid 3 days/week in London office",
+      "Mobile game focus"
+    ],
+    "notes": "Tripledot Studios is one of the world's largest independent mobile games companies. Role involves creating 3D environment props and assets for a live game. Good tool match (Blender accepted) but London-only and large-company culture disqualify. 20 days fully remote/year, daily breakfast and lunch provided."
+  },
+  {
+    "id": "deep-north-studios-vfx-niagara-2026",
+    "title": "Unreal VFX Niagara Artist",
+    "company": "Deep North Studios",
+    "location": "United States (two LinkedIn postings)",
+    "url": "https://www.linkedin.com/jobs/view/unreal-vfx-niagara-artist-at-deep-north-studios-4169920377",
+    "first_seen": "2026-08-11",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "US-based studio per LinkedIn ('United States') — Shem cannot relocate from Dublin. Skills match (UE5 Niagara VFX) is otherwise strong.",
+    "requirements": [
+      "Unreal Engine 5 Niagara particle systems",
+      "Real-time VFX for games",
+      "US location (LinkedIn ID 4078287368 and 4169920377)"
+    ],
+    "notes": "Two LinkedIn postings found (IDs 4078287368 and 4169920377 — higher number is more recent). US-based. Strong skills match on VFX/Niagara/UE5 but location is a hard block."
+  },
+  {
+    "id": "blendernation-jul31-2026-digest",
+    "title": "BlenderNation Jobs Digest — July 31, 2026",
+    "company": "BlenderNation (aggregate digest)",
+    "location": "Various",
+    "url": "https://www.blendernation.com/2026/07/31/blender-jobs-for-july-31-2026/",
+    "first_seen": "2026-08-11",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-07-31",
+    "skip_reason": "Digest page inaccessible (domain blocked by network egress proxy). Search snippet indicates only a small freelance camera-animation Blender job — no qualifying roles matching Shem's profile. Standard digest aggregated from Blender Artists, ArtStation, 3djobs.xyz.",
+    "requirements": []
   }
 ]
