@@ -4876,5 +4876,119 @@
     "posting_date": "2026-07-31",
     "skip_reason": "Digest page inaccessible (domain blocked by network egress proxy). Search snippet indicates only a small freelance camera-animation Blender job — no qualifying roles matching Shem's profile. Standard digest aggregated from Blender Artists, ArtStation, 3djobs.xyz.",
     "requirements": []
+  },
+  {
+    "id": "brown-bag-films-3d-animator-2026",
+    "title": "3D Animator (Contract)",
+    "company": "Brown Bag Films",
+    "location": "Dublin, Ireland (hybrid, 2 days/week in studio)",
+    "url": "https://visualartists.ie/job-vacancy-3d-animator-contract-with-brown-bag-films/",
+    "first_seen": "2026-08-12",
+    "fit": "low-medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "3+ years CG animation experience",
+      "Works closely with Director on high-standard animation for broadcast",
+      "Collaborates with Rigging team on rig troubleshooting",
+      "Strong communication skills; takes notes and direction under tight deadlines",
+      "Right to work in Ireland required"
+    ],
+    "notes": "6-month fixed-term contract. Brown Bag Films is one of Shem's cold-call targets. Role is Maya-centric (BBF uses Maya as primary DCC). Shem's animation work is Blender-based and not his primary specialty; this is a specialist broadcast CG animator position. Studio Meala compositing credit is more relevant experience than animation for this particular role."
+  },
+  {
+    "id": "ign-solutions-vfx-artist-unity-mobile-2026",
+    "title": "VFX Artist (Unity, Mobile)",
+    "company": "IGN Solutions",
+    "location": "Fully Remote (worldwide)",
+    "url": "https://ingamejob.com/en/job/vfx-artist-unity-mobile",
+    "first_seen": "2026-08-12",
+    "fit": "low",
+    "status": "new",
+    "posting_date": "2026-07-29",
+    "requirements": [
+      "2+ years real-time VFX experience in Unity (mobile projects)",
+      "Unity Particle System (Shuriken): sub-emitters, trails, custom data, noise/velocity modules",
+      "Shader Graph for URP: custom shaders (dissolve, distortion, flipbook, vertex animation, soft particles)",
+      "Mobile render budget profiling (Frame Debugger, Unity Profiler)",
+      "VFX texture authoring: Photoshop/Krita plus simulation tool (EmberGen, Houdini, Substance Designer)",
+      "Stylized graphics and matching existing art style",
+      "Portfolio with in-game real-time effects required"
+    ],
+    "notes": "IGN Solutions (Ukraine-based studio). Posted July 29, 2026 on ingamejob.com. First dedicated VFX artist on project — owns full effects pipeline (weapons, hero abilities, station construction, UI). Tech stack: Unity 6, URP, Shader Graph. Nice-to-have: HLSL basics, Blender for VFX meshes. Low fit: Shem's VFX experience is Blender/Unreal in film/broadcast/XR context, not Unity mobile. Significant skill gap in Unity mobile VFX pipeline."
+  },
+  {
+    "id": "giant-squid-vfx-artist-2026",
+    "title": "VFX Artist",
+    "company": "Giant Squid",
+    "location": "Fully Remote (PST timezone, within 3h preferred)",
+    "url": "https://remotegamejobs.com/jobs/giant-squid-vfx-artist-giant-squid-remote-job",
+    "first_seen": "2026-08-12",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "PST timezone overlap required (within 3 hours of Pacific Time). Dublin is UTC+1/BST — 8-9 hours ahead of PST. Timezone difference is a hard dealbreaker.",
+    "requirements": [
+      "UE5 Niagara visual effects implementation",
+      "3D modeling software experience",
+      "VFX textures in Photoshop or Substance Designer",
+      "At least 1 shipped title as VFX artist, technical artist, or equivalent",
+      "Node-based scripting for VFX integration in gameplay and cinematics"
+    ],
+    "notes": "Giant Squid (ABZÛ, The Pathless, Sword of the Sea). Small award-winning team. Contract. Game: Sword of the Sea. Stylized VFX, UE5 Niagara — strong skills match for Shem. Only blocker is PST timezone; studio explicitly requires candidates within 3 hours of Pacific Time. Monitor for future EU-timezone openings."
+  },
+  {
+    "id": "outfit7-vfx-artist-2026",
+    "title": "VFX Artist",
+    "company": "Outfit7 Limited",
+    "location": "Limassol, Cyprus (company HQ; remote policy unknown)",
+    "url": "https://www.artstation.com/jobs/a4me",
+    "first_seen": "2026-08-12",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Mobile game VFX focus (Outfit7 makes 'My Talking Tom' franchise — Unity-based mobile pipeline). Significant domain gap for Shem whose strength is Unreal/Blender/film-broadcast VFX. Company HQ Cyprus; remote policy unknown. Low priority.",
+    "requirements": [
+      "Produce visual effects and textures",
+      "Game development experience",
+      "Collaborate on FX art direction in games"
+    ],
+    "notes": "Outfit7 is the maker of 'My Talking Tom' franchise (10B+ downloads, 7 global studios). Full requirements inaccessible (ArtStation domain blocked). Likely Unity mobile pipeline. Low fit for Shem given mobile-game domain mismatch."
+  },
+  {
+    "id": "vriday-studio-unity-vfx-artist-2026",
+    "title": "Unity VFX Artist",
+    "company": "Vriday Studio",
+    "location": "Fully Remote (worldwide, no location restrictions)",
+    "url": "https://remotegamejobs.com/jobs/vriday-studio-unity-vfx-artist-remote-job",
+    "first_seen": "2026-08-12",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Unity-based mobile A-RPG VFX (Project: SEED) — Unity mobile pipeline is outside Shem's primary skill domain (Unreal/Blender/film-broadcast). Low fit due to mobile domain mismatch.",
+    "requirements": [
+      "Create in-game visual effects for mobile Unity A-RPG",
+      "Work collaboratively with game designers and engineers",
+      "Define consistent VFX style with art team",
+      "Optimize VFX assets for mobile hardware"
+    ],
+    "notes": "Vriday Studio building Project: SEED (3D A-RPG, mobile, Unity 6). Fully remote, no set work hours, international team. No deadline stated. Low priority due to Unity/mobile VFX mismatch with Shem's Blender/Unreal background."
+  },
+  {
+    "id": "mainframe-lead-environment-artist-2026",
+    "title": "Lead Environment Artist",
+    "company": "Mainframe Studios",
+    "location": "Fully Remote",
+    "url": "https://remotegamejobs.com/jobs/mainframe-lead-environment-artist-remote-job",
+    "first_seen": "2026-08-12",
+    "fit": "high",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Lead level — excluded per seniority filter.",
+    "requirements": [
+      "Lead-level environment artist experience",
+      "Leadership in environment art across a game project"
+    ],
+    "notes": "Mainframe Studios (Canada-based, Transformers: Reactivate). Fully remote. Lead = excluded per Shem's mid-level filter. Monitor for non-Lead environment artist openings."
   }
 ]
