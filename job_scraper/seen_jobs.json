@@ -5014,5 +5014,24 @@
     "posting_date": "2026-07-04",
     "requirements": "Must be US-authorized and live in or relocate to NYC",
     "skip_reason": "NYC relocation required \u2014 hard dealbreaker (Shem is Dublin-based, no relocation)."
+  },
+  {
+    "id": "algorithm-compositor-dublin-2026",
+    "title": "Compositor",
+    "company": "Algorithm",
+    "location": "Fully Remote (Dublin-based production, Irish hours overlap required)",
+    "url": "https://animationireland.com/job/algorithm-hiring-compositor/",
+    "first_seen": "2026-08-14",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Compositing raw CG renders from ingestion to final delivery",
+      "Integrating 2D effects and transitions in collaboration with Motion Graphics Artist",
+      "Applying effects and transitions; delivering colour-graded output for Full Dome projection",
+      "Overlap with Irish working hours (GMT/IST) required",
+      "Prior dome or wide-format compositing experience NOT required"
+    ],
+    "notes": "Algorithm is a Dublin-based creative production studio making immersive media for hemispherical Full Dome projection. Contract through early November 2026, immediate start. Fully remote. Apply: jobs@algorithm.ie. Source: Animation Ireland job board."
   }
 ]
