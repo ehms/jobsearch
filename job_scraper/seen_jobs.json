@@ -5001,7 +5001,8 @@
     "status": "skipped",
     "posting_date": "unknown",
     "requirements": "Blender/Cinema4D/Maya experience, physical computing (LIDAR, depth cameras, Arduino), TouchDesigner-adjacent, 5+ years, agency/studio experience preferred",
-    "skip_reason": "US-only timezone \u2014 requires Pacific/Mountain time. Dublin is UTC+1, 8-9 hours ahead. Hard dealbreaker."
+    "skip_reason": "US-only timezone \u2014 requires Pacific/Mountain time. Dublin is UTC+1, 8-9 hours ahead. Hard dealbreaker.",
+    "id": "hovercraft-creative-technologist-freelance-2026"
   },
   {
     "title": "Creative Technologist",
@@ -5013,7 +5014,8 @@
     "status": "skipped",
     "posting_date": "2026-07-04",
     "requirements": "Must be US-authorized and live in or relocate to NYC",
-    "skip_reason": "NYC relocation required \u2014 hard dealbreaker (Shem is Dublin-based, no relocation)."
+    "skip_reason": "NYC relocation required \u2014 hard dealbreaker (Shem is Dublin-based, no relocation).",
+    "id": "gallagher-design-creative-technologist-nyc-2026"
   },
   {
     "id": "algorithm-compositor-dublin-2026",
@@ -5033,5 +5035,88 @@
       "Prior dome or wide-format compositing experience NOT required"
     ],
     "notes": "Algorithm is a Dublin-based creative production studio making immersive media for hemispherical Full Dome projection. Contract through early November 2026, immediate start. Fully remote. Apply: jobs@algorithm.ie. Source: Animation Ireland job board."
+  },
+  {
+    "id": "algorithm-cg-generalist-dublin-2026",
+    "title": "CG Generalist (Surfacing / Look Dev / Rendering)",
+    "company": "Algorithm",
+    "location": "Fully Remote (Dublin-based production, Irish hours required)",
+    "url": "https://animationireland.com/job/algorithm-hiring-cg-generalist/",
+    "first_seen": "2026-08-15",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Surfacing, look development, and rendering specialisation",
+      "CG generalist skills \u2013 able to contribute across the pipeline when needed",
+      "Self-directed and reliable in a remote environment",
+      "Able to take direction and adapt to evolving production needs",
+      "Overlap with Irish working hours (GMT/IST)"
+    ],
+    "notes": "Algorithm is a Dublin-based creative production studio making immersive media for hemispherical Full Dome projection. Contract through early November 2026, immediate start. Fully remote. Apply: jobs@algorithm.ie. Source: Animation Ireland job board. Separate listing from the compositor role also posted by Algorithm (already tracked)."
+  },
+  {
+    "id": "blendernation-aug14-2026-digest",
+    "title": "Blender Jobs for August 14, 2026 (Digest)",
+    "company": "BlenderNation (various)",
+    "location": "Various",
+    "url": "https://www.blendernation.com/2026/08/14/blender-jobs-for-august-14-2026/",
+    "first_seen": "2026-08-15",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-08-14",
+    "requirements": [],
+    "skip_reason": "Weekly digest aggregated from Blender Artists, ArtStation, 3djobs.xyz. Listings are primarily freelance/commission gigs (Robot Character Design, VR 3D Rigged Player Model). No actionable full-time roles identified."
+  },
+  {
+    "id": "nae-dev-open-world-env-artist-2026",
+    "title": "Open World Environment Artist \u2013 Stylized Survival Game",
+    "company": "Nae Dev",
+    "location": "Remote (no restriction listed)",
+    "url": "https://remotegamejobs.com/jobs/nae-dev-open-world-environment-artist-stylized-survival-game-remote-job",
+    "first_seen": "2026-08-15",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "UE5 environment art: set dressing, foliage tools, heightmap tools, materials",
+      "Nice to have: Perforce, AI asset cleanup, asset optimization, stylized art, PCG",
+      "Portfolio required"
+    ],
+    "notes": "Nae Dev is a Patreon-backed solo developer making an M-rated stylized survival game (floating islands, multiple biomes). Freelance/part-time, ongoing. UE5.7. Low studio stability but strong Unreal Engine skills match. Apply: jobs@naedev.com. Source: RemoteGameJobs.com."
+  },
+  {
+    "id": "uni-dreams-technical-artist-unity-2026",
+    "title": "Technical Artist (Unity)",
+    "company": "Uni Dreams",
+    "location": "Remote",
+    "url": "https://www.workwithindies.com/careers/uni-dreams-technical-artist-unity",
+    "first_seen": "2026-08-15",
+    "fit": "medium-low",
+    "status": "new",
+    "posting_date": "2026-08-10",
+    "requirements": [
+      "Unity engine \u2013 custom shaders, VFX systems, asset optimization",
+      "Bridge gap between art and engineering",
+      "Dynamic VFX created from scratch"
+    ],
+    "notes": "Posted August 10, 2026 on Work with Indies. Unity-based \u2013 adjacent to Shem's Unreal/Blender skills. Technical art skills (shaders, VFX, optimization) transfer across engines. Source: workwithindies.com."
+  },
+  {
+    "id": "midow-studios-3d-game-artist-2026",
+    "title": "3D Game Artist",
+    "company": "Midow Studios",
+    "location": "Remote (Malta-based company)",
+    "url": "https://remotegamejobs.com/jobs/midow-studios-3d-game-artist-remote-job",
+    "first_seen": "2026-08-15",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Stylized 3D assets (characters, props, environments), hand-painted textures",
+      "Unity game engine, VR-ready assets",
+      "Rigging and animation"
+    ],
+    "skip_reason": "Unity-based stylized VR game. Hand-painted textures not Shem's primary strength. Refreshed version of previously seen Midow Studios listing \u2013 same company, same project (Discovery of Magic)."
   }
 ]
