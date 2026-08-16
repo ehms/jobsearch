@@ -5118,5 +5118,176 @@
       "Rigging and animation"
     ],
     "skip_reason": "Unity-based stylized VR game. Hand-painted textures not Shem's primary strength. Refreshed version of previously seen Midow Studios listing \u2013 same company, same project (Discovery of Magic)."
+  },
+  {
+    "id": "escape-velocity-associate-vfx-2026",
+    "title": "Associate VFX Artist \u2014 North America / Canada / Europe (Fully Remote)",
+    "company": "Escape Velocity Entertainment Inc.",
+    "location": "Fully remote \u2014 North America, Canada, Europe",
+    "url": "https://builtin.com/job/associate-vfx-artist-north-america-canada-europe-fully-remote/3350159",
+    "first_seen": "2026-08-16",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "2026-08-15",
+    "requirements": [
+      "Proficiency in Unreal Niagara/Blueprint, Substance Designer, Maya, 3ds Max, Embergen and/or Houdini",
+      "Autodesk Flow Production Tracking and Confluence",
+      "Strong artistic skills and understanding of traditional art and animation principles",
+      "Knowledge of node-based shaders, animation, and particle systems",
+      "Basic 3D modeling/animation skills for building prototype assets",
+      "AAA VFX design and implementation for gameplay and art direction",
+      "Working closely with art/animation/design/programming teams"
+    ],
+    "notes": "Posted ~23 hours ago (Aug 15 2026). Associate level = entry/junior, but EU remote eligible. Escape Velocity already has 2 open roles tracked (Jul 22). Maya/3ds Max dominant \u2014 not Blender. Gameplay VFX focus (not compositing/post). Good EVE studio tracking opportunity."
+  },
+  {
+    "id": "escape-velocity-outsourcing-ta-2026",
+    "title": "Outsourcing Technical Artist \u2014 Materials \u2014 North America / Canada / Europe (Fully Remote)",
+    "company": "Escape Velocity Entertainment Inc.",
+    "location": "Fully remote \u2014 North America, Canada, Europe",
+    "url": "https://builtin.com/job/outsourcing-technical-artist-north-america-canada-europe-fully-remote/7612507",
+    "first_seen": "2026-08-16",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "2026-07-18",
+    "requirements": [
+      "3+ years of experience in Technical Art or Material/Shader Art role",
+      "At least one released title on current or previous console generation (gen8/gen9), preferably AAA",
+      "Unreal Engine material system \u2014 advanced materials and shaders",
+      "Deep understanding of PBR workflows, surface response, and lighting fundamentals",
+      "Complex shader optimization for real-time performance",
+      "Substance Designer/Painter, Photoshop or similar texturing tools",
+      "Reusable material functions and dynamic systems for environments, characters, VFX"
+    ],
+    "notes": "Missed in previous runs (posted July 18 \u2014 pre-dates the first EVE entries Jul 22). Still listed and open. Materials/shaders focus aligns strongly with Shem's procedural material skills. 3+ years = mid-level. Outsourcing management component \u2014 reviews external vendor work, not purely hands-on creation. Glassdoor ID: JV_1009930332450."
+  },
+  {
+    "id": "userwise-services-technical-artist-2026",
+    "title": "Technical Artist (Remote EU)",
+    "company": "UserWise Services",
+    "location": "Fully remote \u2014 EU (Poland, Romania, Serbia, Spain, Portugal, Turkey and more)",
+    "url": "https://apply.workable.com/userwise-services/j/6D1DEC2324/",
+    "first_seen": "2026-08-16",
+    "fit": "medium-low",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Expertise in creating, optimizing, and maintaining real-time VFX (Shuriken, VFX Graph) for mobile",
+      "Strong programming/scripting skills (C#, Python) for editor tools and custom art pipelines",
+      "Writing and optimizing custom shaders (HLSL/GLSL or visual node-based editors)",
+      "Mobile performance budget adherence",
+      "Stylized complex effects for mobile devices",
+      "Unity focus (not Unreal Engine)"
+    ],
+    "notes": "Mobile F2P game based on globally recognized IP. Unity stack (Shuriken, VFX Graph) rather than Blender/Unreal \u2014 not Shem's primary tools. Startup early-stage feel ('one of the first core team members'). EU remote open to all EU countries. Low-medium fit overall."
+  },
+  {
+    "id": "minimpire-vfx-artist-2026",
+    "title": "VFX Artist \u2014 Stylized Action RPG (Remote)",
+    "company": "Minimpire",
+    "location": "Remote (EU eligibility unconfirmed \u2014 artstation.com listing only)",
+    "url": "https://www.artstation.com/jobs/e9Qd",
+    "first_seen": "2026-08-16",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unreal Engine 5 Niagara particle system",
+      "Real-time gameplay VFX (explosions, combat, environmental effects)",
+      "Stylized/cartoony art style for soulslike action RPG open world",
+      "Collaboration with skills team, design team, and art team"
+    ],
+    "notes": "Stylized cartoony soulslike ARPG in UE5 \u2014 aesthetically interesting. VFX skill set aligns (Studio Meala VFX credit; Unreal Engine). EU eligibility not confirmed \u2014 ArtStation listing only. Posting date unknown. Gameplay VFX (not compositing/post-production). Artstation blocked in this session \u2014 manual check recommended."
+  },
+  {
+    "id": "escape-velocity-outsourcing-vfx-2026",
+    "title": "Outsourcing VFX Artist \u2014 North America / Canada / Europe (Fully Remote)",
+    "company": "Escape Velocity Entertainment Inc.",
+    "location": "Fully remote \u2014 North America, Canada, Europe",
+    "url": "https://uk.linkedin.com/jobs/view/outsourcing-vfx-artist-north-america-canada-europe-fully-remote-at-escape-velocity-entertainment-4039042967",
+    "first_seen": "2026-08-16",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Work with External Vendors on Skins and Cosmetics VFX",
+      "Unreal Niagara/Blueprint, Substance Designer, Maya, 3ds Max, Embergen/Houdini",
+      "Provide feedback and guide outsourcing teams",
+      "Autodesk Flow Production Tracking, Confluence"
+    ],
+    "skip_reason": "Outsourcing management/QA role \u2014 directing external vendors on cosmetics, not hands-on VFX creation. Doesn't leverage Shem's compositing/production background. Primarily a coordination role."
+  },
+  {
+    "id": "side-inc-tech-vfx-talent-pool-eu-2026",
+    "title": "Tech & VFX Artist \u2014 Talent Pool (EU)",
+    "company": "Side Inc.",
+    "location": "EU \u2014 talent pool for future co-development projects",
+    "url": "https://apply.workable.com/sideinc/j/2D57843ECA/",
+    "first_seen": "2026-08-16",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Shipped title (PC, console, mobile, VR/AR)",
+      "Python, MEL, or MaxScript scripting and tools development",
+      "Shaders and rendering pipelines (Unreal Engine or Unity)",
+      "3D modeling tools: Maya, Blender, Substance Painter, ZBrush",
+      "Experience with multidisciplinary teams"
+    ],
+    "skip_reason": "Talent pool listing \u2014 not an immediate open position. Skills match is good (Python, Unreal, Blender listed). Worth applying to for future opportunities but not urgent. Revisit if no other immediate leads."
+  },
+  {
+    "id": "ea-maxis-technical-artist-sims-2023",
+    "title": "Technical Artist \u2014 Maxis (The Sims)",
+    "company": "Electronic Arts / Maxis Studios",
+    "location": "Remote \u2014 Europe (Ireland, UK, Germany, Finland, Romania, Sweden)",
+    "url": "https://ea.gr8people.com/jobs/179560/technical-artist-maxis-the-sims",
+    "first_seen": "2026-08-16",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2023-10-24",
+    "requirements": [
+      "5+ years of experience writing tools to aid artist workflows",
+      "Maya specifically (not Blender)",
+      "Python & MEL scripting",
+      "3+ years Perforce or similar version control",
+      "Collaboration with TA partners across EA (large studio structure)"
+    ],
+    "skip_reason": "Stale 2023 posting (October 24, 2023). EA = large siloed studio (deal-breaker). Maya-centric role (not Blender). 5+ years tools experience = senior-level. Not worth applying."
+  },
+  {
+    "id": "heromation-environment-artist-quest-2024",
+    "title": "Environment Artist (Unreal 4.27, VR/Quest)",
+    "company": "HEROmation",
+    "location": "Remote (worldwide)",
+    "url": "https://remotegamejobs.com/jobs/heromation-environment-artist-feb-july-remote-job",
+    "first_seen": "2026-08-16",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unreal 4.27 for Quest platform",
+      "Low poly environment art",
+      "Story-based action-adventure game (The Phoenix Gene)"
+    ],
+    "skip_reason": "Expired posting \u2014 project was releasing late 2024. Quest-era UE4 focus. Not a current opportunity."
+  },
+  {
+    "id": "msg-sphere-studios-technical-artist-2022",
+    "title": "Technical Artist (Remote)",
+    "company": "MSG Sphere Studios",
+    "location": "Remote (primarily US/North America, possible Europe)",
+    "url": "https://www.artstation.com/jobs/NerD",
+    "first_seen": "2026-08-16",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unreal Engine or Unity fundamentals",
+      "Computer science foundations",
+      "Tools development and creative asset creation",
+      "Madison Square Garden immersive entertainment venue work"
+    ],
+    "skip_reason": "Posting age uncertain \u2014 MSG Sphere Studio SIGGRAPH 2022 references suggest likely old listing. Large entertainment conglomerate (MSG). ArtStation blocked \u2014 cannot verify current status. Primarily US-focused venue entertainment context."
   }
 ]
