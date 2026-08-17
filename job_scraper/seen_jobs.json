@@ -5289,5 +5289,167 @@
       "Madison Square Garden immersive entertainment venue work"
     ],
     "skip_reason": "Posting age uncertain \u2014 MSG Sphere Studio SIGGRAPH 2022 references suggest likely old listing. Large entertainment conglomerate (MSG). ArtStation blocked \u2014 cannot verify current status. Primarily US-focused venue entertainment context."
+  },
+  {
+    "id": "arkwiz-ue-technical-artist-generalist-eu-2026",
+    "title": "UE Technical Artist / Generalist",
+    "company": "Arkwiz",
+    "location": "Remote EU (Norway-based startup)",
+    "url": "https://www.arkwiz.no/joinus",
+    "first_seen": "2026-08-17",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Houdini procedural generation",
+      "UE5 (Nanite, Lumen, World Partition, PCG, Cesium)",
+      "GPU PCG and JSON-driven generative content at runtime",
+      "WebRTC/AWS streaming pipeline",
+      "UE5 performance optimisation",
+      "GIS data to photorealistic 3D environments"
+    ],
+    "notes": "Rolling admissions through August 2026. Contract leading to full-time. Mid-to-senior preferred, juniors may apply. Also posted at Unreal Engine forums."
+  },
+  {
+    "id": "unit9-creative-unreal-developer-2026",
+    "title": "Creative Unreal Developer",
+    "company": "UNIT9",
+    "location": "Remote / Hybrid (offices: London, Berlin, LA, NYC)",
+    "url": "https://www.unit9.com/job/creative-unreal-developer",
+    "first_seen": "2026-08-17",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "2\u20135 years Unreal Engine experience",
+      "VR/AR/immersive XR experience",
+      "Prototyping tech solutions including merging live camera streams with BIM models",
+      "Strong 3D maths",
+      "Scripting, game assets, performance profiling and optimisation",
+      "Bachelor's in CS or related (preferred)"
+    ],
+    "notes": "CAUTION: possibly expired per at least one search result. Verify at unit9.com before applying. UNIT9 is a world-class creative production studio (film, VR, AR, installations)."
+  },
+  {
+    "id": "black-shamrock-technical-animator-dublin-2026",
+    "title": "Technical Animator",
+    "company": "Black Shamrock / Virtuos",
+    "location": "Dublin, Ireland",
+    "url": "https://gamejobs.co/Technical-Animator-at-Virtuos",
+    "first_seen": "2026-08-17",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Creating real-time animation systems",
+      "Bridging traditional animation and AI-driven systems",
+      "Collaboration with AI teams",
+      "Supporting rigging and animation workflows"
+    ],
+    "notes": "Black Shamrock is Ireland's largest AAA game studio. Rigging experience (Blender Rigify) is relevant. AI-animation integration is an emerging area."
+  },
+  {
+    "id": "we-are-social-motion-designer-2026",
+    "title": "Motion Designer",
+    "company": "We Are Social",
+    "location": "Unknown / EU (verify before applying)",
+    "url": "https://apply.workable.com/we-are-social-1/j/E3FCBECDC5",
+    "first_seen": "2026-08-17",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Connecting strategy and visual output",
+      "Delivering design and motion solutions for global social-first campaigns"
+    ],
+    "notes": "Workable site inaccessible for direct fetch. Confirm location, remote eligibility, and whether role is still open before applying. We Are Social is a global social media / creative agency."
+  },
+  {
+    "id": "accenture-creative-technologist-ireland-2026",
+    "title": "Creative Technologist",
+    "company": "Accenture",
+    "location": "Ireland / Dublin",
+    "url": "https://uk.linkedin.com/jobs/view/creative-technologist-at-accenture-uk-ireland-4069394430",
+    "first_seen": "2026-08-17",
+    "fit": "low",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Adobe Creative Suite",
+      "AI tools",
+      "Figma",
+      "UX/UI"
+    ],
+    "notes": "Corporate consulting environment. Low creative component vs Shem's profile. Included for completeness.",
+    "skip_reason": "Low creative component; corporate consulting context not aligned with Shem's profile"
+  },
+  {
+    "id": "icon-plc-3d-generalist-dublin-2026",
+    "title": "3D Generalist (Fixed-Term Contract)",
+    "company": "ICON Plc / Firecrest",
+    "location": "Dublin or Limerick, Ireland (on-site)",
+    "url": "https://careers.iconplc.com/job/3d-generalist-fixed-term-contract-in-various-jid-16815",
+    "first_seen": "2026-08-17",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "3D animation for clinical trials",
+      "Modelling, animation, lighting, texturing, compositing",
+      "6-12 month fixed term contract"
+    ],
+    "skip_reason": "Medical animation niche; sector mismatch with Shem's creative-technical profile"
+  },
+  {
+    "id": "stratosphere-games-3d-artist-remote-eu-2026",
+    "title": "3D Artist",
+    "company": "Stratosphere Games GmbH",
+    "location": "Remote EU (Berlin-based studio)",
+    "url": "https://himalayas.app/companies/stratosphere-games-gmbh/jobs/3d-artist",
+    "first_seen": "2026-08-17",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "3+ years as 3D Artist",
+      "Blender, 3DS Max, Photoshop, Substance Painter, Unity",
+      "Mobile games (AAA mobile context)",
+      "PBR, polycount management"
+    ],
+    "skip_reason": "Mobile games focus; low fit vs Shem's VFX/motion design/real-time creative-tech background"
+  },
+  {
+    "id": "volmi-virtuos-senior-technical-artist-pcg-2026",
+    "title": "Senior Technical Artist (Procedural Generation, UE5)",
+    "company": "Volmi / Virtuos",
+    "location": "Remote EU",
+    "url": "https://uk.jooble.org/jdp/153925199165692159",
+    "first_seen": "2026-08-17",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "UE4/UE5 with deep art/rendering pipeline understanding",
+      "Shader optimisation in UE5.x",
+      "Performance optimisation techniques",
+      "VFX software (Embergen or Unreal Niagara)"
+    ],
+    "skip_reason": "Senior level \u2014 filtered per profile rules (mid-level only)"
+  },
+  {
+    "id": "blueflag-senior-interactive-motion-designer-2026",
+    "title": "Senior Interactive Motion Designer (Rive)",
+    "company": "BlueFlag LLP",
+    "location": "Contract / EU",
+    "url": "https://apply.workable.com/blueflag/j/432893A225/",
+    "first_seen": "2026-08-17",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Interactive experiences using Rive and web animation",
+      "Scalable, resolution-independent motion systems"
+    ],
+    "skip_reason": "Senior level \u2014 filtered per profile rules (mid-level only)"
   }
 ]
