@@ -5565,5 +5565,27 @@
       "Scheduling, tracking, admin"
     ],
     "skip_reason": "Admin/production management role \u2014 no technical or creative art component. Kilkenny location (not viable commute from Dublin). Outside target direction."
+  },
+  {
+    "id": "virtuos-environment-artist-1yr-2026",
+    "title": "Environment Artist (1 Year Contract)",
+    "company": "Virtuos",
+    "location": "Europe (TBC \u2014 Virtuos has offices in Dublin/Black Shamrock, Paris, Belfast)",
+    "url": "https://www.gamesjobsdirect.com/job/virtuos/environment-artist-1-year-contract/355633",
+    "first_seen": "2026-08-20",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Create game art assets to quality under supervision in production",
+      "Deliver work to timely manner to project specifications and art style requirements",
+      "Blender (preferred)",
+      "Unreal Engine (preferred)",
+      "Substance Painter / Designer proficiency",
+      "Texturing tools knowledge",
+      "Game environment art pipelines",
+      "Good communication and English skills"
+    ],
+    "notes": "1-year contract. Virtuos is parent of Black Shamrock (Dublin), Sparx* and Volmi (Eastern Europe), and has offices in Paris and Belfast. Location for this specific role not confirmed \u2014 verify before applying. Mid-level implied ('create game art assets under supervision'). Strong skill match: Blender + Unreal + Substance are all core Shem skills. GamesDirect listing #355633."
   }
 ]
