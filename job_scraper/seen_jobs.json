@@ -5587,5 +5587,61 @@
       "Good communication and English skills"
     ],
     "notes": "1-year contract. Virtuos is parent of Black Shamrock (Dublin), Sparx* and Volmi (Eastern Europe), and has offices in Paris and Belfast. Location for this specific role not confirmed \u2014 verify before applying. Mid-level implied ('create game art assets under supervision'). Strong skill match: Blender + Unreal + Substance are all core Shem skills. GamesDirect listing #355633."
+  },
+  {
+    "title": "Motion Graphics Designer",
+    "company": "Brandtech+",
+    "location": "Remote (worldwide)",
+    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/8023825",
+    "first_seen": "2026-08-21",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-04 (approx)",
+    "requirements": [
+      "After Effects",
+      "Premiere Pro",
+      "motion graphics",
+      "CGI",
+      "AI tools",
+      "digital content"
+    ],
+    "skip_reason": "Tool mismatch \u2014 Adobe stack only, no Blender/Unreal/3D; marketing/brand motion role not technical creative; ~4 months old, likely stale"
+  },
+  {
+    "title": "Motion Creative Designer (I-Gaming)",
+    "company": "Betsson Group",
+    "location": "Malta / Buenos Aires (hybrid)",
+    "url": "https://job-boards.greenhouse.io/betsson/jobs/7811387",
+    "first_seen": "2026-08-21",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026 (exact date unknown)",
+    "requirements": [
+      "After Effects",
+      "Premiere Pro",
+      "Photoshop",
+      "Illustrator",
+      "motion graphics",
+      "animation",
+      "video editing",
+      "AI tools"
+    ],
+    "skip_reason": "Location: Malta/Buenos Aires \u2014 not Dublin/remote-EU eligible; i-gaming marketing role; Adobe-only stack, not Shem's primary tools"
+  },
+  {
+    "title": "Background Artist",
+    "company": "Pink Kong Studios",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://zerply.com/industry-jobs/Background-Artist-Pink-Kong-Studios-Dublin-29Fe4h71",
+    "first_seen": "2026-08-21",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026 (exact date unknown)",
+    "requirements": [
+      "2D background art",
+      "animation",
+      "TV series"
+    ],
+    "skip_reason": "2D background art role \u2014 no 3D/technical component; not Shem's skills area"
   }
 ]
