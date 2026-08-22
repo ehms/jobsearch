@@ -5643,5 +5643,59 @@
       "TV series"
     ],
     "skip_reason": "2D background art role \u2014 no 3D/technical component; not Shem's skills area"
+  },
+  {
+    "id": "rockfish-games-3d-environment-artist-2026",
+    "title": "3D Environment Artist",
+    "company": "ROCKFISH Games",
+    "location": "Hamburg, Germany (EU remote possible for right candidate)",
+    "url": "https://www.artstation.com/jobs/MdXk",
+    "first_seen": "2026-08-22",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Proficiency in Maya, ZBrush, 3dsMax, Blender, Substance Painter",
+      "World Machine / Gaea for environment generation",
+      "Unreal Engine experience",
+      "Procedural modeling and environment art",
+      "Asset optimization for real-time engines"
+    ],
+    "notes": "ROCKFISH Games (Hamburg) received \u20ac8M German federal funding for new Everspace game \u2014 actively expanding. EU remote considered for strong candidates. Skills match is excellent (Blender + UE + procedural). Worth applying with portfolio emphasis on environment/procedural work. Seniority: mid-level (not lead/senior title on listing)."
+  },
+  {
+    "id": "3d-cityscapes-3d-modeler-unreal-2026",
+    "title": "3D Modeler - Unreal Engine",
+    "company": "3D Cityscapes Inc.",
+    "location": "Remote (global; Canadian company)",
+    "url": "https://www.artstation.com/jobs/1AX3",
+    "first_seen": "2026-08-22",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unreal Engine proficiency",
+      "Architectural / proptech 3D visualization",
+      "3D modeling for digital twins, smart buildings, real estate",
+      "3DS Max or Maya experience likely"
+    ],
+    "notes": "Canadian proptech startup doing digital twin / smart building visualization. Fully remote, global team. Unreal Engine skills match well but sector (proptech/real estate) is a departure from Shem's creative/VFX background. Medium fit \u2014 worth a look if other options are limited."
+  },
+  {
+    "id": "technicolor-creative-studios-technical-artist-games-2026",
+    "title": "Technical Artist - Games",
+    "company": "Technicolor Creative Studios",
+    "location": "Unknown",
+    "url": "https://www.artstation.com/jobs/mL5n",
+    "first_seen": "2026-08-22",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "3D Assets and Animation pipeline (AAA games)",
+      "Custom tool scripting",
+      "Asset optimization"
+    ],
+    "skip_reason": "Technicolor Creative Studios ceased operations on 24 February 2025. Job listing is stale/archived \u2014 company no longer exists."
   }
 ]
