@@ -5697,5 +5697,116 @@
       "Asset optimization"
     ],
     "skip_reason": "Technicolor Creative Studios ceased operations on 24 February 2025. Job listing is stale/archived \u2014 company no longer exists."
+  },
+  {
+    "id": "moetion-films-technical-director-2026",
+    "title": "Technical Director",
+    "company": "Moetion Films",
+    "location": "Galway, Ireland (likely hybrid/on-site)",
+    "url": "https://animationireland.com/job/moetion-films-are-hiring-a-technical-director/",
+    "first_seen": "2026-08-23",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "2026 (exact date unknown)",
+    "requirements": [
+      "Technical Director (animation pipeline)",
+      "3D animation support",
+      "Pipeline tools",
+      "Ireland-based animation studio"
+    ],
+    "notes": "Moetion Films is Galway-based award-winning animation studio. 'Technical Director' in animation is typically mid-level (pipeline/tools support, not executive). Galway location could be deal-breaker if on-site required. Needs manual verification of seniority level and remote policy."
+  },
+  {
+    "id": "piomotion-dmcc-3d-generalist-ue-specialist-2026",
+    "title": "3D Generalist & Unreal Engine Specialist",
+    "company": "Piomotion DMCC",
+    "location": "Dubai, UAE (unclear if remote available)",
+    "url": "https://www.artstation.com/jobs/X5db",
+    "first_seen": "2026-08-23",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026 (exact date unknown)",
+    "requirements": [
+      "Unreal Engine (cinematic creation)",
+      "3D generalist skills",
+      "Animation pipeline",
+      "Strong technical background"
+    ],
+    "skip_reason": "DMCC (Dubai Multi Commodities Centre) company - location appears to be Dubai, UAE. Likely on-site role; relocation from Dublin would be required. Deal-breaker."
+  },
+  {
+    "id": "piomotion-dmcc-senior-ta-ue-generalist-2026",
+    "title": "Senior Technical Artist & UE Generalist",
+    "company": "Piomotion DMCC",
+    "location": "Dubai, UAE",
+    "url": "https://www.artstation.com/jobs/ymm6",
+    "first_seen": "2026-08-23",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026 (exact date unknown)",
+    "requirements": [
+      "5+ years Unreal Engine",
+      "MetaHuman expertise",
+      "Motion capture systems",
+      "High-end rendering",
+      "Blueprints"
+    ],
+    "skip_reason": "Senior level + Dubai location = two deal-breakers."
+  },
+  {
+    "id": "creatives-in-the-attic-3d-generalists-2026",
+    "title": "3D Generalists",
+    "company": "Creatives In The Attic",
+    "location": "UK (remote possible)",
+    "url": "https://www.artstation.com/jobs/lkrq",
+    "first_seen": "2026-08-23",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026 (exact date unknown)",
+    "requirements": [
+      "Game-ready 3D models and materials",
+      "Characters, creatures, props, environments",
+      "Unity/Unreal experience",
+      "Multiple released titles (preferred)",
+      "Animation skills (preferred)"
+    ],
+    "skip_reason": "UK-based studio. Requires portfolio of 'multiple released titles' \u2014 Shem has no shipped game titles. Games-focused portfolio gap is a significant fit issue."
+  },
+  {
+    "id": "sponsee-studios-3d-blender-artist-2026",
+    "title": "3D Blender Artist",
+    "company": "Sponsee Studios",
+    "location": "Remote (Singapore company)",
+    "url": "https://remotegamejobs.com/jobs/sponsee-studios-3d-blender-artist-remote-job-sponsee-studios-singapore-company-remote-job",
+    "first_seen": "2026-08-23",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026 (exact date unknown)",
+    "requirements": [
+      "Blender (texturing, modeling, lighting, compositing, animation)",
+      "After Effects",
+      "Character animation",
+      "Rigging"
+    ],
+    "skip_reason": "Posting confirmed expired as of search date."
+  },
+  {
+    "id": "jp-morgan-creative-technologist-2026",
+    "title": "Creative Technologist",
+    "company": "J.P. Morgan",
+    "location": "Remote / multiple locations",
+    "url": "https://www.indeed.com/q-creative-technologist-l-remote-jobs.html",
+    "first_seen": "2026-08-23",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026 (exact date unknown)",
+    "requirements": [
+      "Reusable standards and templates",
+      "Email and digital communications",
+      "Equity compensation content",
+      "Figma",
+      "Cross-team collaboration"
+    ],
+    "skip_reason": "Large global financial institution (deal-breaker: large siloed team). Role focuses on internal digital comms/templates for equity compensation \u2014 not creative/3D work aligned with Shem's profile."
   }
 ]
