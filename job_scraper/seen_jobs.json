@@ -5697,5 +5697,24 @@
       "Asset optimization"
     ],
     "skip_reason": "Technicolor Creative Studios ceased operations on 24 February 2025. Job listing is stale/archived \u2014 company no longer exists."
+  },
+  {
+    "id": "replika-motion-designer-remote-2026",
+    "title": "Motion Designer",
+    "company": "Replika",
+    "location": "Remote (EU-accessible, including Ireland)",
+    "url": "https://careers.replika.com/jobs/6721091-motion-designer-remote",
+    "first_seen": "2026-08-25",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026 (date unknown)",
+    "requirements": [
+      "UX motion design for mobile and web apps",
+      "Rebuild UX motion system across mobile/web",
+      "Consumer app motion design experience",
+      "Likely: After Effects, Rive, Figma, Lottie",
+      "Polished consumer-product experience"
+    ],
+    "skip_reason": "UX/product motion design focus, not 3D/VFX/broadcast motion. AI companion app context (not a studio or creative agency). Shem\u2019s background is 3D, VFX compositing, and broadcast motion graphics \u2014 not mobile UX motion systems. Significant skills gap in consumer product design."
   }
 ]
