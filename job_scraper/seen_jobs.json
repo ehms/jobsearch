@@ -5716,5 +5716,23 @@
       "Polished consumer-product experience"
     ],
     "skip_reason": "UX/product motion design focus, not 3D/VFX/broadcast motion. AI companion app context (not a studio or creative agency). Shem\u2019s background is 3D, VFX compositing, and broadcast motion graphics \u2014 not mobile UX motion systems. Significant skills gap in consumer product design."
+  },
+  {
+    "id": "softgames-technical-artist-ai-focus-remote-2026",
+    "title": "Technical Artist (AI Focus)",
+    "company": "SOFTGAMES",
+    "location": "Fully Remote (Berlin-based company)",
+    "url": "https://hitmarker.net/jobs/softgames-technical-artist-ai-focus-fully-remote-3019913",
+    "first_seen": "2026-08-26",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "5+ years experience as Technical Artist in gaming industry",
+      "AI-driven art production pipelines",
+      "Generative AI tools: Layer AI, Scenario, Midjourney, Stable Diffusion, FLUX, ComfyUI",
+      "Optimize art workflows for mobile/live games"
+    ],
+    "skip_reason": "5+ years gaming industry requirement exceeds mid-level target. AI generative art pipeline focus (not 3D/VFX/compositing). Mobile/casual games sector misaligns with Shem's target sectors. Low fit across skills, seniority, and sector."
   }
 ]
