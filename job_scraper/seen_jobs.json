@@ -5734,5 +5734,113 @@
       "Optimize art workflows for mobile/live games"
     ],
     "skip_reason": "5+ years gaming industry requirement exceeds mid-level target. AI generative art pipeline focus (not 3D/VFX/compositing). Mobile/casual games sector misaligns with Shem's target sectors. Low fit across skills, seniority, and sector."
+  },
+  {
+    "id": "rebellion-technical-pipeline-artist-oxford-2026",
+    "title": "Technical Pipeline Artist",
+    "company": "Rebellion",
+    "location": "Oxford, UK (on-site preferred, no remote)",
+    "url": "https://hitmarker.net/jobs/rebellion-technical-pipeline-artist-1716519",
+    "first_seen": "2026-08-27",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "3D software (Maya, Blender, 3DS Max)",
+      "Pipeline and optimization tool design/implementation",
+      "Runtime performance costs and asset optimisation",
+      "Machine learning and AI for development pipeline",
+      "Oxford HQ attendance expected"
+    ],
+    "skip_reason": "Oxford, UK on-site role \u2014 Rebellion believes in face-to-face collaboration at HQ. No meaningful remote option. Requires relocation from Dublin."
+  },
+  {
+    "id": "blizzard-compositor-3d-generalist-cinematics-temp-2026",
+    "title": "Compositor / 3D Generalist \u2013 Temp (SFD / Cinematics)",
+    "company": "Blizzard Entertainment",
+    "location": "Irvine, California, USA",
+    "url": "https://careers.blizzard.com/gb/en/job/R022619/Compositor-3D-Generalist-Temp-SFD-Cinematics",
+    "first_seen": "2026-08-27",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "2.5D / compositing for game cinematics (SFD)",
+      "VFX compositing and 3D generalist skills",
+      "US work authorization likely required"
+    ],
+    "skip_reason": "US-based (Irvine, CA). Not remote EU eligible. Requires US work authorization. Deal-breaker: requires relocation from Dublin."
+  },
+  {
+    "id": "laireon-games-3d-generalist-artist-uk-only-2026",
+    "title": "3D Generalist Artist",
+    "company": "Laireon Games",
+    "location": "Remote (UK only due to funding)",
+    "url": "https://remotegamejobs.com/jobs/laireon-games-3d-generalist-artist-remote-job",
+    "first_seen": "2026-08-27",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "PBR workflow experience",
+      "Basic animation skills (bonus)",
+      "UK residency required due to funding structure",
+      "Freelance, part-time (2 full weeks/month), up to 4 months"
+    ],
+    "skip_reason": "UK-only eligibility due to funding structure \u2014 applicants must be based at a UK address. Shem is Ireland-based. Not eligible."
+  },
+  {
+    "id": "sega-hardlight-3d-artist-12-month-contract-2026",
+    "title": "3D Artist \u2013 12 Month Contract",
+    "company": "SEGA HARDlight (Sega Europe)",
+    "location": "Remote or Guildford, UK studio",
+    "url": "https://jobs.jobvite.com/sega-europe-limited/job/ocfzifw2",
+    "first_seen": "2026-08-27",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Experienced 3D prop / environment artist",
+      "Stylized gameplay asset and environment prop creation",
+      "Mobile game optimization (polygons, textures)",
+      "Day rate contract \u2014 submit day rate and availability"
+    ],
+    "skip_reason": "Mobile game prop art focus misaligns with Shem's VFX/procedural/broadcast background. UK-centric studio (Guildford). Stylized mobile asset pipeline is a poor match for Shem's Unreal/Blender/VFX skillset."
+  },
+  {
+    "id": "edge-of-the-world-3d-generalists-ta-claymation-2026",
+    "title": "3D Generalists / Technical Artists",
+    "company": "Edge of the World Studios",
+    "location": "Remote (Riyadh HQ, GMT+3)",
+    "url": "https://remotegamejobs.com/jobs/edge-of-the-world-studios-3d-generalists-technical-artists-remote-job-daa40953-dd87-4bf2-ba35-94059f03254d",
+    "first_seen": "2026-08-27",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Blender (or other 3D software)",
+      "Claymation-style 3D assets (clay-based meshes or stylized sculpts)",
+      "Unity integration (materials, prefabs, shaders)",
+      "GMT+3 timezone alignment preferred"
+    ],
+    "skip_reason": "Unity-based pipeline (not Unreal). Claymation-specific art style is a niche mismatch for Shem's procedural/VFX/photorealistic work. Riyadh HQ with GMT+3 timezone creates scheduling friction. New URL variant of existing Edge of the World entry but with Unity/claymation focus."
+  },
+  {
+    "id": "bleap-ai-motion-designer-freelance-remote-2026",
+    "title": "AI Motion Designer (Freelance)",
+    "company": "Bleap",
+    "location": "Remote (global)",
+    "url": "https://www.bleap.finance/en-us/about/careers/ai-motion-designer-freelance",
+    "first_seen": "2026-08-27",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-08-26",
+    "requirements": [
+      "AI-powered video tools for social-native content",
+      "3D clips for crypto/fintech product education",
+      "Social media content creation",
+      "Crypto/DeFi domain familiarity helpful"
+    ],
+    "skip_reason": "Crypto/fintech sector mismatch. AI video tool focus (not traditional 3D/VFX). Social-native content creation differs from Shem's broadcast/VFX/procedural background. Not a creative tech or studio environment."
   }
 ]
