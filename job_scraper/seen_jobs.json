@@ -5842,5 +5842,44 @@
       "Crypto/DeFi domain familiarity helpful"
     ],
     "skip_reason": "Crypto/fintech sector mismatch. AI video tool focus (not traditional 3D/VFX). Social-native content creation differs from Shem's broadcast/VFX/procedural background. Not a creative tech or studio environment."
+  },
+  {
+    "id": "dice-technical-artist-runtime-dublin-2026",
+    "title": "Technical Artist (Runtime)",
+    "company": "DICE",
+    "location": "Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/technical-artist-runtime-at-dice-3892703642",
+    "first_seen": "2026-08-28",
+    "fit": "high",
+    "status": "to_apply",
+    "posting_date": "2026-08-26",
+    "requirements": [
+      "Runtime technical art (rendering, shaders, materials, performance optimization)",
+      "Game engine experience (Frostbite or Unreal equivalent)",
+      "Python scripting and pipeline tooling",
+      "Procedural content generation tools",
+      "Optimization and profiling of real-time assets",
+      "Collaboration with engineers and artists"
+    ],
+    "notes": "DICE (EA Digital Illusions CE or Irish DICE entity) listed as Dublin, Ireland. Technical Artist (Runtime) role \u2014 runtime rendering, shaders, materials. Listed as posted 2 days ago (approx. 2026-08-26). Shem's Unreal Engine + procedural workflows + Python scripting are a strong match for runtime TA work. Full requirements not verifiable (LinkedIn blocked) but EA/DICE runtime TA roles typically require 3\u20135+ years. Worth applying given Dublin location and strong skill alignment. Monitor for seniority clarification. Also check EA Careers site for cross-reference."
+  },
+  {
+    "id": "sketchbook-games-3d-environment-generalist-2026",
+    "title": "3D Environment Artist / Generalist",
+    "company": "Sketchbook Games",
+    "location": "Remote (UK residence required)",
+    "url": "https://remotegamejobs.com/jobs/sketchbook-games-3d-environment-artist-generalist-remote-job",
+    "first_seen": "2026-08-28",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unreal Engine 5",
+      "3D environment/world building",
+      "Hard surface and organic modelling",
+      "11-month freelance contract"
+    ],
+    "skip_reason": "UK residence required \u2014 Dublin-based applicants ineligible. Different posting from previously seen Sketchbook Games Technical Artist (Unreal Developer) roles (also UK-only). Strong skills match but location restriction is a hard block.",
+    "notes": "Sketchbook Games UK indie studio. Third Sketchbook posting encountered \u2014 all UK-only. Strong Unreal/3D skill alignment but all blocked by UK residency requirement."
   }
 ]
