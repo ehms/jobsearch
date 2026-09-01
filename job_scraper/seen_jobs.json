@@ -6063,5 +6063,259 @@
       "Remote-first collaboration (Discord, async tools)"
     ],
     "notes": "Small studio of 5 people (no-crunch, people-first) working on MEANWHILE IN SECTOR 80 (sci-fi). Blender-first pipeline is a strong match. $25-35/hr USD, 4-month contract with extension. Key concern: EST timezone team \u2014 Dublin is UTC+1, significant overlap challenge. Not an Irish/EU studio so no EU employment protections. Worth evaluating for contract flexibility but timezone is a real barrier."
+  },
+  {
+    "id": "beyond-creative-technical-artist-generalist-vfx-2026",
+    "title": "Technical Artist (Generalist w/ VFX & Animation)",
+    "company": "Beyond Creative Limited",
+    "location": "Remote (details unconfirmed \u2014 ArtStation proxy-blocked)",
+    "url": "https://www.artstation.com/jobs/B2bv",
+    "first_seen": "2026-09-01",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "VFX and animation generalist skills",
+      "Unreal Engine (Fortnite Creative platform)",
+      "Technical art pipeline / generalist workflows"
+    ],
+    "notes": "Beyond Creative Limited is a Fortnite Creative studio (branded experiences in UEFN since 2020). Tech artist generalist + VFX role. ArtStation site blocked; full details not fetchable. Check artstation.com/jobs/c/beyond-creative-limited for more. Good match for Shem's Unreal + procedural + VFX background."
+  },
+  {
+    "id": "doggett-group-motion-designer-2026",
+    "title": "Motion Designer / Graphic Designer",
+    "company": "Doggett Group (Stray Dog studio)",
+    "location": "Dublin 12 (Harold's Cross, on-site)",
+    "url": "https://www.glassdoor.ie/Job/dublin-graphic-design-jobs-SRCH_IL.0,6_IC2739035_KO7,21.htm",
+    "first_seen": "2026-09-01",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Strong portfolio of animation and motion design",
+      "Motion graphics / animation production",
+      "Graphic design skills"
+    ],
+    "notes": "Doggett Group design studio (Stray Dog), Dublin 12 on-site. Traditional agency motion/graphic design. Apply: hr@doggettgroup.ie with CV, portfolio, short cover letter. More After Effects / print-focused than Shem's 3D/procedural stack; worth assessing if traditional motion work is acceptable."
+  },
+  {
+    "id": "curiomatic-3d-artist-remote-2026",
+    "title": "3D Artist",
+    "company": "Curiomatic",
+    "location": "Remote (global)",
+    "url": "https://www.workwithindies.com/careers/curiomatic-3d-artist",
+    "first_seen": "2026-09-01",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Mastery of 3D modeling packages such as Autodesk Maya and/or Blender",
+      "3D sculpting programs such as ZBrush",
+      "Substance Painter / Designer",
+      "Environment art techniques",
+      "Love of stylized artwork/games",
+      "Self-directed, team-player, weekly check-ins"
+    ],
+    "notes": "Part-time contract, remote. Indie game studio with stylized art direction. Blender match is strong. ZBrush sculpting not a core Shem skill. Posted 'within last 40 days' per workwithindies (July\u2013Aug 2026). Low-commitment entry point into games sector. Also hiring Unity Lighting Artist and 3D Animator."
+  },
+  {
+    "id": "void-interactive-vehicle-prop-artist-unannounced-2026",
+    "title": "Vehicle/Prop Artist (Unannounced Project)",
+    "company": "VOID Interactive",
+    "location": "Remote (fully remote, global)",
+    "url": "https://ie.indeed.com/q-void-interactive-l-dublin,-county-dublin-jobs.html",
+    "first_seen": "2026-09-01",
+    "fit": "low-medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "2\u20133 years professional experience as a 3D or Prop Artist",
+      "At least 1 year focused specifically on vehicle modelling or hard-surface mechanical assets",
+      "Unreal Engine experience required",
+      "Strong hard-surface modelling portfolio"
+    ],
+    "notes": "Void Interactive is on Shem's cold-call targets list. This role is for an unannounced project (different from existing Ready or Not roles). Main gap: specialized vehicle/mechanical modeling focus \u2014 Shem has general 3D/procedural but not vehicle-specific portfolio. Worth monitoring; could strengthen case with hard-surface examples."
+  },
+  {
+    "id": "eleventh-hour-games-vfx-artist-last-epoch-2026",
+    "title": "VFX Artist (Last Epoch)",
+    "company": "Eleventh Hour Games",
+    "location": "Fully remote (core hours 10am\u20135pm CT \u2014 challenging from Ireland)",
+    "url": "https://www.artstation.com/jobs/av95",
+    "first_seen": "2026-09-01",
+    "fit": "low-medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "High proficiency with Unity and Shuriken particles",
+      "Photoshop, Krita, or Substance Designer (texture creation)",
+      "Moderate proficiency in Maya or Blender",
+      "2+ years VFX experience in professional game development",
+      "Available 10am\u20135pm Central Time (core hours)"
+    ],
+    "notes": "Fully remote indie studio (Last Epoch ARPG). Unity-first (not Unreal) is a gap for Shem. Core hours 10am\u20135pm CT = 4\u201311pm Ireland \u2014 manageable but non-ideal. Also listed on remotegamejobs.com. Low-medium fit due to timezone and Unity focus."
+  },
+  {
+    "id": "jpmorgan-creative-technologist-ireland-2026",
+    "title": "Creative Technologist Sr Associate",
+    "company": "JPMorgan Chase",
+    "location": "Ireland (Dublin office)",
+    "url": "https://www.glassdoor.ie/Job/ireland-ux-designer-jobs-SRCH_IL.0,7_IN70_KO8,19.htm",
+    "first_seen": "2026-09-01",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-08-26",
+    "requirements": [
+      "Email design and production (HTML/CSS for email)",
+      "Stakeholder management",
+      "Digital communications / participant lifecycle templates"
+    ],
+    "skip_reason": "Email/HTML communications design role \u2014 not a creative-technical 3D/VFX role. Despite the 'Creative Technologist' title, the work is corporate email template design (participant lifecycle, email campaigns). Deal-breaker: no 3D, motion, or Unreal/Blender component.",
+    "notes": "Posted ~6 days ago (Aug 26, 2026). Confirmed skip."
+  },
+  {
+    "id": "arrowhead-game-studios-vfx-artist-stockholm-2026",
+    "title": "VFX Artist",
+    "company": "Arrowhead Game Studios",
+    "location": "Stockholm, Sweden (relocation required)",
+    "url": "https://www.artstation.com/jobs/aaOK",
+    "first_seen": "2026-09-01",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "~5 years VFX experience in games industry",
+      "2D textures (Photoshop), particle editors",
+      "Node-based material system",
+      "Houdini or FumeFX (nice-to-have)"
+    ],
+    "skip_reason": "Stockholm on-site role \u2014 relocation required. Shem cannot relocate from Dublin.",
+    "notes": "Arrowhead Game Studios (Helldivers 2 dev). Role in Stockholm. Relocation aid offered but Shem's constraint is Dublin-only."
+  },
+  {
+    "id": "afterthought-llc-vfx-artist-usa-expired-2025",
+    "title": "[Remote] VFX Artist",
+    "company": "Afterthought LLC",
+    "location": "USA (Front Royal, VA \u2014 US applicants only)",
+    "url": "https://www.artstation.com/jobs/XrLX",
+    "first_seen": "2026-09-01",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2025-03-22",
+    "requirements": [],
+    "skip_reason": "Expired May 2025. US-only applicants. Outside both date window and geographic scope.",
+    "notes": "Old listing appearing in search results. Application deadline was May 6, 2025."
+  },
+  {
+    "id": "creatives-in-the-attic-3d-generalists-uk-2026",
+    "title": "3D Generalists",
+    "company": "Creatives In The Attic",
+    "location": "Great Britain (UK \u2014 remote but GBR right to work required)",
+    "url": "https://www.artstation.com/jobs/lkrq",
+    "first_seen": "2026-09-01",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-02-25",
+    "requirements": [
+      "3D modeling: game-ready models, characters, props, environments",
+      "Unity/Unreal (preferred)",
+      "Animation skills preferred"
+    ],
+    "skip_reason": "Closed March 12, 2026. Requires right to work in Great Britain (not Ireland).",
+    "notes": "Freelance telecommute but UK work authorization required and listing closed."
+  },
+  {
+    "id": "axis-animation-houdini-vfx-artists-2026",
+    "title": "Houdini Generalists and VFX Artists",
+    "company": "Axis Animation",
+    "location": "Glasgow, UK (remote options unclear)",
+    "url": "https://www.artstation.com/jobs/pm2d",
+    "first_seen": "2026-09-01",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Broad knowledge of entire 3D Pipeline",
+      "Houdini expertise (core requirement)",
+      "Game cinematics and commercial project experience"
+    ],
+    "skip_reason": "Requires Houdini \u2014 not in Shem's current tech stack. Axis Animation is a Glasgow studio; role scope unclear for remote EU.",
+    "notes": "Axis Animation is well-known for game cinematics. Houdini is a hard requirement. Worth noting as aspirational pipeline development goal (if Shem ever picks up Houdini)."
+  },
+  {
+    "id": "golden-hind-games-hard-surface-ships-2026",
+    "title": "3D Hard Surface Artist (Modular Ships)",
+    "company": "Golden Hind Games",
+    "location": "Remote (anywhere)",
+    "url": "https://www.workwithindies.com/careers/golden-hind-games-3d-hard-surface-artist-modular-ships",
+    "first_seen": "2026-09-01",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-08-26",
+    "requirements": [
+      "Blender (very good)",
+      "Substance Painter / Designer",
+      "Hard surface modelling: mid-poly ships, trim sheets, tileable textures, LODs",
+      "Unity HDRP experience",
+      "PBR, UV, normals, model optimization"
+    ],
+    "skip_reason": "Listed as closed on workwithindies. Highly specialized in ship/naval modular modeling \u2014 Shem's Blender skills are procedural/environment focused, not ship/vehicle hard surface.",
+    "notes": "Blender requirement matches Shem; skill gap is ship/naval specialization and Unity HDRP. Posted Aug 26 but closed almost immediately."
+  },
+  {
+    "id": "overfull-games-environment-artist-2026",
+    "title": "3D Environment Artist",
+    "company": "Overfull Games",
+    "location": "Remote (anywhere), $30\u2013$40/hr",
+    "url": "https://www.workwithindies.com/careers/overfull-games-3d-environment-artist",
+    "first_seen": "2026-09-01",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-08-10",
+    "requirements": [],
+    "skip_reason": "Closed on workwithindies.",
+    "notes": "Freelance, $30\u2013$40/hr, anywhere remote. Closed before today's search."
+  },
+  {
+    "id": "shishi-studios-environment-artist-quebec-2026",
+    "title": "3D Environment Artist",
+    "company": "Shishi Studios",
+    "location": "Quebec, Remote",
+    "url": "https://www.workwithindies.com/careers/shishi-studios-3d-environment-artist-artiste-d-environnements-3d",
+    "first_seen": "2026-09-01",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-01-27",
+    "requirements": [],
+    "skip_reason": "Closed. Quebec-based studio, January 2026 posting \u2014 outside 14-day window and closed.",
+    "notes": "French-language studio based in Quebec. Listed on workwithindies as closed."
+  },
+  {
+    "id": "panna-cotta-software-environment-artist-canada-2026",
+    "title": "3D Environment Artist",
+    "company": "Panna Cotta Software",
+    "location": "Canada, Remote",
+    "url": "https://www.workwithindies.com/careers/panna-cotta-software-3d-environment-artist",
+    "first_seen": "2026-09-01",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-08-26",
+    "requirements": [],
+    "skip_reason": "Closed. Canada-based studio; listed as closed on workwithindies.",
+    "notes": "Freelance, posted Aug 26 but closed immediately on workwithindies."
+  },
+  {
+    "id": "wilder-world-lighting-vfx-artstation-duplicate-2026",
+    "title": "Lighting/VFX Artist (Remote - Europe) [ArtStation duplicate]",
+    "company": "Wilder World",
+    "location": "Remote \u2014 Europe",
+    "url": "https://www.artstation.com/jobs/62QY",
+    "first_seen": "2026-09-01",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [],
+    "skip_reason": "Duplicate of existing seen entry (startup.jobs URL first seen 2026-07-19). Same role, different job board URL.",
+    "notes": "Already tracked as id wilder-world-lighting-vfx-europe-2026 from startup.jobs listing."
   }
 ]
