@@ -6317,5 +6317,82 @@
     "requirements": [],
     "skip_reason": "Duplicate of existing seen entry (startup.jobs URL first seen 2026-07-19). Same role, different job board URL.",
     "notes": "Already tracked as id wilder-world-lighting-vfx-europe-2026 from startup.jobs listing."
+  },
+  {
+    "id": "workvivo-zoom-creative-designer-graphic-motion-2026",
+    "title": "Creative Designer (Graphic and Motion), Workvivo",
+    "company": "Zoom / Workvivo",
+    "location": "Dublin, Ireland",
+    "url": "https://themuse.com/jobs/zoom/creative-designer-graphic-and-motion-workvivo",
+    "first_seen": "2026-09-02",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "3+ years professional design experience (print and digital media)",
+      "Motion design and storyboarding experience",
+      "Creating customised brand assets: posters, video, banners, infographics",
+      "Animated narratives, animated assets",
+      "Customising enterprise customer environments to brand guidelines"
+    ],
+    "notes": "Workvivo is Zoom's employee engagement platform, Dublin-based. Role creates branded motion/graphic content for enterprise clients. Shem's BA Visual Communications and Science Gallery motion design background match requirements. Day-to-day is 2D/brand comms work. Verify posting is still active before applying."
+  },
+  {
+    "id": "hedgehogs-vs-foxes-motion-graphic-designer-2026",
+    "title": "Motion Graphic Designer & Video",
+    "company": "Hedgehogs vs Foxes",
+    "location": "Dublin, Ireland",
+    "url": "https://ie.indeed.com/cmp/Hedgehogs-Vs-Foxes-1",
+    "first_seen": "2026-09-02",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "~2026-08-26",
+    "requirements": [
+      "Adobe Premiere",
+      "Adobe After Effects",
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Motion graphics: animated titles, transitions, explainer graphics, social content",
+      "Graphic design: pitch decks, proposals, marketing materials"
+    ],
+    "notes": "Dublin video production agency (brand videos, advertising, animation, social). Role is 2D motion graphics + video. Salary ~EUR50K. Small team, 87% Glassdoor recommendation rate. BA Visual Comms and Science Gallery background directly relevant. No 3D component."
+  },
+  {
+    "id": "storytoys-unity-technical-artist-2026",
+    "title": "Unity Technical Artist (12-month FTC)",
+    "company": "Storytoys",
+    "location": "Dublin, Ireland (remote/hybrid, UK eligible)",
+    "url": "https://jobs.workable.com/view/nCMLWCwUMyKj4JeTRcBEca/remote-unity-technical-artist-in-dublin-at-storytoys",
+    "first_seen": "2026-09-02",
+    "fit": "low-medium",
+    "status": "skipped",
+    "posting_date": "~2026-08-12",
+    "requirements": [
+      "3-5 years experience as Unity Technical Artist",
+      "Unity rendering pipeline, HLSL shaders, material setup",
+      "Maya (modelling, texturing, rigging, animation)",
+      "C#, Python scripting",
+      "Substance Painter",
+      "Mobile game pipeline experience"
+    ],
+    "skip_reason": "Unity + Maya focused (Shem uses Unreal + Blender). Children's mobile games context doesn't match creative-technical direction. 12-month FTC limits stability."
+  },
+  {
+    "id": "vela-games-senior-technical-artist-2026",
+    "title": "Senior Technical Artist",
+    "company": "Vela Games",
+    "location": "Dublin, Ireland",
+    "url": "https://www.glassdoor.ie/job-listing/senior-technical-artist-vela-games-JV_IC2739035_KO0,23_KE24,34.htm?jl=4124289742",
+    "first_seen": "2026-09-02",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Expert-level Unreal Engine",
+      "VFX or lighting experience",
+      "Tool development for content teams"
+    ],
+    "skip_reason": "Senior role. Track Vela Games for future mid-level openings.",
+    "notes": "Vela Games is a strong Dublin game studio. Unreal stack aligns with Shem's skills. Watch for mid-level Technical Artist or VFX Artist openings."
   }
 ]
