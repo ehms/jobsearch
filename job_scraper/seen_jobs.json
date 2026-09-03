@@ -6394,5 +6394,62 @@
     ],
     "skip_reason": "Senior role. Track Vela Games for future mid-level openings.",
     "notes": "Vela Games is a strong Dublin game studio. Unreal stack aligns with Shem's skills. Watch for mid-level Technical Artist or VFX Artist openings."
+  },
+  {
+    "id": "egg-vfx-visual-effects-artist-2026",
+    "title": "Visual Effects Artist",
+    "company": "EGG Post Production & VFX",
+    "location": "Dublin, Ireland",
+    "url": "https://egg.ie/",
+    "first_seen": "2026-09-03",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "~2026-08-31",
+    "requirements": [
+      "VFX compositing/generalist experience at a VFX facility",
+      "Live action integration with CG elements",
+      "EU work eligibility required",
+      "Ireland-based or willing to relocate",
+      "Show reel and experience breakdown required"
+    ],
+    "notes": "EGG Post Production & VFX is a Dublin VFX studio \u2014 IFTA Winner 2023, BAFTA Nominee 2022. Credits include 'The Woman King', 'Good Omens 2', 'Evil Dead Rise'. Full-service 70+ artist studio. New posting ~Aug 31. Unlike their Compositor role (Nuke-primary, already tracked and skipped), the 'Visual Effects Artist' title may indicate a broader or different VFX function. Requirements not fully verifiable (LinkedIn blocked, egg.ie blocked). Apply: vfxjobs@egg.ie. Fit assessment: medium \u2014 Shem's Blender compositing + VFX background relevant but traditional VFX studios often require Nuke. Worth contacting to understand tool expectations."
+  },
+  {
+    "id": "egg-cg-generalist-aug2026",
+    "title": "CG Generalist",
+    "company": "EGG Post Production & VFX",
+    "location": "Dublin, Ireland",
+    "url": "https://egg.ie/",
+    "first_seen": "2026-09-03",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "~2026-08-31",
+    "requirements": [
+      "Broad knowledge of VFX CG pipeline (modelling, texturing, lighting, rendering)",
+      "Strong all-rounder across multiple 3D disciplines",
+      "Generalist who can learn on the job and deliver to high standard",
+      "EU work eligibility and Ireland-based required",
+      "Show reel required"
+    ],
+    "notes": "EGG Post Production & VFX \u2014 IFTA Winner 2023, BAFTA Nominee 2022. CG Generalist role across film/TV VFX pipeline. Distinct from their Compositor role (Nuke, already tracked). CG Generalist is a strong fit direction: Shem's advanced Blender skills (modelling, procedural, materials, shading, lighting), VFX compositing background from Studio Meala/Disney+, and broad 3D pipeline knowledge are all applicable. Key unknown: whether Houdini or Maya fluency is required \u2014 traditional VFX studios often prefer these over Blender. Apply: vfxjobs@egg.ie. This is the more compelling of the two EGG new roles."
+  },
+  {
+    "id": "innovision-media-3d-artist-sligo-2026",
+    "title": "3D Artist / Graphic Design",
+    "company": "Innovision Media Limited",
+    "location": "Strandhill, County Sligo, Ireland (on-site required)",
+    "url": "https://www.innovision.ie/careers",
+    "first_seen": "2026-09-03",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "~2026-09-01",
+    "requirements": [
+      "AutoCAD 2D/3D, Autodesk 3DS Max, Trimble Sketchup, Revit",
+      "Architectural and engineering CAD drawings interpretation",
+      "Photomontages and verified views for renewable energy/infrastructure",
+      "On-site only \u2014 Strandhill, Sligo",
+      "Full Irish driver's licence preferred"
+    ],
+    "skip_reason": "On-site Sligo (not Dublin, no remote option). Engineering/infrastructure visualisation domain (AutoCAD/3DS Max/Revit stack). Wrong domain and wrong location for Shem's profile."
   }
 ]
