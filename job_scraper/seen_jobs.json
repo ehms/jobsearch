@@ -6539,5 +6539,116 @@
       "Corporate professional services context"
     ],
     "skip_reason": "Senior level (deal-breaker per search criteria). Large corporate professional services environment - not aligned to Shem's preference for small, skilled creative teams. Salary €37K estimated (Glassdoor) is very low for a senior role. Not a target sector."
+  },
+  {
+    "id": "spectarium-environment-artist-remote-eu-2026",
+    "title": "Environment Artist",
+    "company": "Spectarium Games",
+    "location": "Remote (Europe or similar timezones)",
+    "url": "https://apply.workable.com/spectarium/j/08A7E3C6AA/",
+    "first_seen": "2026-09-05",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Environment art for stylized fantasy action RPG",
+      "Remote Europe eligibility",
+      "Bring immersive game world environments to life"
+    ],
+    "notes": "Spectarium Games is a Finnish remote-first studio (34 employees, €5M seed funded 2023). Building 'Myths', a stylized fantasy cross-platform action RPG. Team from EA, Epic Games, Riot Games, Square Enix. All roles remote in Europe or similar timezones. Full toolset not confirmed (workable.com blocked) — likely Unreal Engine given game type. Posting date unknown (active in August-September 2026 search results). Also listed at https://www.artstation.com/jobs/7OKK. Verify posting is still open and check experience level before applying."
+  },
+  {
+    "id": "new-world-interactive-env-ta-remote-2026",
+    "title": "Environment Technical Artist",
+    "company": "New World Interactive",
+    "location": "Remote (US-based studio, Denver CO)",
+    "url": "https://remotegamejobs.com/jobs/new-world-interactive-environment-technical-artist-remote-job",
+    "first_seen": "2026-09-05",
+    "fit": "low-medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "3+ years experience",
+      "Unreal Engine (primary)",
+      "Python scripting and tool development",
+      "Optimization and performance profiling",
+      "Material/shader knowledge",
+      "Bridge role between art and programming teams",
+      "Bonus: Blender, Houdini, Substance Suite, C++, level design background"
+    ],
+    "notes": "New World Interactive (Insurgency/Sandstorm franchise), headquartered in Denver, Colorado. Bridge role: implement optimizations, integrate technical art features, create technical documentation, support art team. Blender is listed as a bonus skill — direct match for Shem. Core concern: US-based studio; 'remote' listing doesn't specify EU eligibility; Dublin (GMT+1) vs Mountain Time (UTC-7) = 7-8 hour gap. Posting date unknown. Verify EU-remote eligibility before applying."
+  },
+  {
+    "id": "bunchonereds-3d-artist-env-map-sep2026",
+    "title": "3D Artist (Environment & Map Design)",
+    "company": "Bunch'o'Nerds",
+    "location": "Remote (CET ±4 hours preferred)",
+    "url": "https://www.workwithindies.com/careers/bunch-o-nerds-3d-artist-environment-map-design",
+    "first_seen": "2026-09-05",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-08-03",
+    "requirements": [
+      "Mid-senior level environment art and/or level design",
+      "3D modeling, texturing, and optimizing environment assets",
+      "Designing and building game maps/levels (Unity)",
+      "CET ±4 hours timezone preferred",
+      "Stylized fantasy game world"
+    ],
+    "skip_reason": "Posted August 3, 2026 — outside 14-day window. Posting reported as closed per search result. Unity-focused (not Blender/Unreal primary). Mid-senior scope matches, but timing and closed status disqualify."
+  },
+  {
+    "id": "callistemon-games-games-artist-aug2026",
+    "title": "Games Artist (Junior)",
+    "company": "Callistemon Games",
+    "location": "Remote (Australia only)",
+    "url": "https://www.artstation.com/jobs/Ojdk",
+    "first_seen": "2026-09-05",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-07-01",
+    "requirements": [
+      "Strong 2D digital art skills",
+      "Some 3D capability (simple elements in Unity)",
+      "Australia-based remote",
+      "$90K AUD + 5% equity"
+    ],
+    "skip_reason": "Australia-only remote — Shem based in Dublin, Ireland (no relocation). 2D art focus, not Blender/Unreal 3D. Junior/early-career scope. Already expired per search snippets."
+  },
+  {
+    "id": "sad-owl-studios-senior-3d-env-artist-sep2026",
+    "title": "Senior 3D Environment Artist",
+    "company": "Sad Owl Studios",
+    "location": "Remote (anywhere)",
+    "url": "https://www.workwithindies.com/careers/sad-owl-studios-senior-3d-environment-artist",
+    "first_seen": "2026-09-05",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-09-01",
+    "requirements": [
+      "Senior-level 3D environment art",
+      "Contract basis",
+      "Remote anywhere"
+    ],
+    "skip_reason": "Senior level — deal-breaker per search filter. Posted September 1, 2026 (within window) but seniority requirement disqualifies."
+  },
+  {
+    "id": "addclear-3d-generalist-jun2026",
+    "title": "3D Generalist",
+    "company": "AddClear",
+    "location": "Remote (anywhere)",
+    "url": "https://hitmarker.net/jobs/addclear-3d-generalist-1721073",
+    "first_seen": "2026-09-05",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-06-20",
+    "requirements": [
+      "Junior (1-2 years experience)",
+      "3D animation, modeling, rigging, textures, lighting",
+      "Unreal Engine 5",
+      "Starting June 20, 2026",
+      "Pay TBD after interview"
+    ],
+    "skip_reason": "Posted June 20, 2026 — far outside 14-day window. Junior/entry-level scope does not match Shem's experience. Indie startup in very early development, pay TBD (red flag). AddClear is looking for a junior 3D animator, not a mid-level technical artist."
   }
 ]
