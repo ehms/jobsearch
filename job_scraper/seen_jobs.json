@@ -6685,5 +6685,43 @@
       "Animation, modeling, texturing and FX support"
     ],
     "skip_reason": "Canada residency required \u2014 not EU/Ireland eligible"
+  },
+  {
+    "id": "bunsen-2d-3d-motion-designer-contract-2026",
+    "title": "2D/3D Motion Designer (Contract)",
+    "company": "Bunsen",
+    "location": "Remote-first (US company; EU/Ireland eligibility unverified)",
+    "url": "https://jobs.polymer.co/bunsen/40847",
+    "first_seen": "2026-09-07",
+    "fit": "medium-low",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "2D and 3D motion design \u2014 concepting, storyboards, style frames",
+      "Collaboration with Creative Director and Design Leads",
+      "Translating scientific/technical concepts into visual narratives (biopharma, aerospace, manufacturing clients)",
+      "Elevating brand stories through motion design",
+      "Strong portfolio of motion work across 2D and 3D"
+    ],
+    "notes": "Bunsen creates brands, websites, and decks for frontier industries (biopharma, aerospace, manufacturing). Part-time contract ~10-20 hrs/week. Remote-first. Fit is medium-low: part-time, US-based company, scientific niche. Motion design and 3D skills are relevant. EU timezone/eligibility NOT confirmed \u2014 proxy blocked job page. Apply via jobs.polymer.co.",
+    "skip_reason": null
+  },
+  {
+    "id": "itch-io-unreal-ta-part-time-sep2026",
+    "title": "[PAID] Technical Artist (Unreal Engine) \u2014 Part Time",
+    "company": "Unknown indie studio",
+    "location": "Unknown (remote likely)",
+    "url": "https://itch.io/t/6892469/paidunreal-technical-artist-part-time-10-20hweek",
+    "first_seen": "2026-09-07",
+    "fit": "low-medium",
+    "status": "skipped",
+    "posting_date": "~2026-09-04",
+    "requirements": [
+      "Unreal Engine technical art (materials, shaders, optimization)",
+      "Part-time commitment (~10-20 hrs/week)",
+      "Likely indie game project scope"
+    ],
+    "notes": "Found via web search snippet \u2014 posted ~3 days ago (around Sept 4). Part-time 10-20h/week indie project on itch.io. Job page blocked by proxy so company name, location, pay, and full requirements are unknown. Skipped for now due to insufficient info and part-time/indie nature.",
+    "skip_reason": "Proxy-blocked page; insufficient info to assess EU eligibility, company, pay, or project scope. Part-time indie role, lower priority."
   }
 ]
