@@ -6723,5 +6723,127 @@
     ],
     "notes": "Found via web search snippet \u2014 posted ~3 days ago (around Sept 4). Part-time 10-20h/week indie project on itch.io. Job page blocked by proxy so company name, location, pay, and full requirements are unknown. Skipped for now due to insufficient info and part-time/indie nature.",
     "skip_reason": "Proxy-blocked page; insufficient info to assess EU eligibility, company, pay, or project scope. Part-time indie role, lower priority."
+  },
+  {
+    "title": "Mid/Snr Technical Artist",
+    "company": "Kluge Interactive",
+    "location": "Fully Remote (Global)",
+    "url": "https://www.workwithindies.com/careers/kluge-interactive-mid-snr-technical-artist",
+    "first_seen": "2026-09-08",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Technical art pipelines for VR/AR games",
+      "Real-time 3D art (Unreal Engine focus)",
+      "Shaders, VFX, rendering techniques",
+      "Fully remote, globally distributed team",
+      "VR/AR creative technology studio (Synth Riders)"
+    ],
+    "notes": "Posting date uncertain - verify before applying. Kluge is a VR/AR-first creative studio (Synth Riders). High alignment with real-time pipelines and immersive experience work."
+  },
+  {
+    "title": "Unreal Engine Generalist",
+    "company": "ABIBOO Studio",
+    "location": "Fully Remote",
+    "url": "https://cgconnect.chaos.com/jobs/3ab97f7e-fully-remote-unreal-engine-generalist",
+    "first_seen": "2026-09-08",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "2-5 years UE5 experience",
+      "Blueprints, materials, textures, shaders",
+      "Ambient effects, level design",
+      "3D asset management, optimization, LODs",
+      "Hyper-realistic arch-viz visualizations",
+      "English or Spanish fluency"
+    ],
+    "notes": "Architectural visualization firm (award-winning, clients: Louis Vuitton, Brookfield). Fully remote. UE5 generalist role \u2014 good match for Shem's Unreal skills. Arch-viz adjacent to portfolio work. Posting date unknown."
+  },
+  {
+    "title": "Mid-Senior 3D Generalist",
+    "company": "Neon Badger",
+    "location": "Remote (Sydney-preferred)",
+    "url": "https://www.workwithindies.com/careers/neon-badger-mid-senior-3d-generalist",
+    "first_seen": "2026-09-08",
+    "fit": "low-medium",
+    "status": "skipped",
+    "posting_date": "2026-09-04",
+    "requirements": [
+      "3D generalist across animation, environments, lighting",
+      "Unreal Engine experience",
+      "3-4 week contract starting ASAP",
+      "Remote but Sydney-preferred"
+    ],
+    "skip_reason": "Very short contract (3-4 weeks), Australia timezone (Sydney-preferred), poor fit for Dublin-based remote working."
+  },
+  {
+    "title": "Houdini FX Artist",
+    "company": "DexMob",
+    "location": "Fully Remote",
+    "url": "https://www.artstation.com/jobs/2rNd",
+    "first_seen": "2026-09-08",
+    "fit": "low-medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Houdini FX TD work",
+      "VFX-heavy film (video game franchise IP)",
+      "Fully remote team",
+      "4-6 week contract ASAP"
+    ],
+    "skip_reason": "Houdini not in Shem's skill set. Very short contract. Primary tool mismatch."
+  },
+  {
+    "title": "Technical Artist Mentor",
+    "company": "Gen Eight Games",
+    "location": "Remote (Canada-based)",
+    "url": "https://www.workwithindies.com/careers/gen-eight-games-technical-artist-mentor",
+    "first_seen": "2026-09-08",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "5+ years technical art experience",
+      "Unity rendering pipeline (not Unreal)",
+      "Mentorship/teaching role",
+      "Part-time contract",
+      "Canada-based studio"
+    ],
+    "skip_reason": "Unity-focused (not Unreal/Blender), mentoring rather than creative output, Canadian timezone, low alignment with Shem's skills and career direction."
+  },
+  {
+    "title": "Technical Artist",
+    "company": "League of Geeks",
+    "location": "Melbourne, Australia (hybrid from Oct 2026)",
+    "url": "https://www.workwithindies.com/careers/league-of-geeks-technical-artist",
+    "first_seen": "2026-09-08",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Real-time graphics, shaders, VFX, rendering",
+      "Melbourne studio hybrid (3 days from Oct 2026)",
+      "Passion for VR/AR and real-time tech"
+    ],
+    "skip_reason": "Requires presence in Melbourne Australia studio from October 2026. Relocation deal-breaker."
+  },
+  {
+    "title": "Unreal Engine Developer (Generalist/Narrative)",
+    "company": "Tigerroll Studios",
+    "location": "Remote (UK-preferred)",
+    "url": "https://remotegamejobs.com/jobs/tigerroll-studios-remote-unreal-engine-developer-generalist-narrative-remote-job",
+    "first_seen": "2026-09-08",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unreal Engine Blueprints, Sequencer",
+      "Narrative/dialogue systems",
+      "UK-preferred timezone",
+      "Co-op dungeon adventure RPG"
+    ],
+    "skip_reason": "Posting appears expired. Primarily a programmer/narrative developer role, not technical art."
   }
 ]
