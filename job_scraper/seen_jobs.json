@@ -5462,7 +5462,8 @@
     "status": "skipped",
     "posting_date": "2026-08",
     "requirements": "compositing, 3D vs 2D approach evaluation, production pipeline design, scripting/workflow automation",
-    "skip_reason": "Supervisor title \u2014 above mid-level target; senior-ish leadership role"
+    "skip_reason": "Supervisor title \u2014 above mid-level target; senior-ish leadership role",
+    "id": "algorithm-digital-imaging-supervisor-2026"
   },
   {
     "title": "Lecturer in Computer Animation",
@@ -5474,7 +5475,8 @@
     "status": "skipped",
     "posting_date": "2026-08",
     "requirements": "3D Modelling, Character Animation, VFX, Game Art, Motion Graphics, Real-Time Rendering (UE/Unity), teaching, curriculum development",
-    "skip_reason": "Academic role; Dundalk location (80km from Dublin, not viable commute); outside target sector"
+    "skip_reason": "Academic role; Dundalk location (80km from Dublin, not viable commute); outside target sector",
+    "id": "dkit-lecturer-computer-animation-2026"
   },
   {
     "title": "VFX Artist (Unreal Engine 4)",
@@ -5486,7 +5488,8 @@
     "status": "skipped",
     "posting_date": "unknown",
     "requirements": "VFX Artist, Unreal Engine 4, particle systems, stylized visual effects, game development",
-    "skip_reason": "Berlin-based studio; UE4 (older engine); posting date unknown/potentially stale; EU remote unclear"
+    "skip_reason": "Berlin-based studio; UE4 (older engine); posting date unknown/potentially stale; EU remote unclear",
+    "id": "point-blank-games-vfx-artist-ue4-2026"
   },
   {
     "title": "3D Animator (Blender)",
@@ -5498,7 +5501,8 @@
     "status": "skipped",
     "posting_date": "2026-04-21",
     "requirements": "Blender, NLA animation, character animation, game development",
-    "skip_reason": "Adult content industry (adult visual novels) \u2014 auto-filter; posting also older than 14 days"
+    "skip_reason": "Adult content industry (adult visual novels) \u2014 auto-filter; posting also older than 14 days",
+    "id": "octo-games-3d-animator-blender-2026"
   },
   {
     "title": "Technical Director",
@@ -5516,7 +5520,8 @@
       "Pipeline support (secondary)",
       "Dublin working hours overlap required"
     ],
-    "skip_reason": "Tool mismatch \u2014 Maya/Redshift specialist role; Shem's primary toolkit is Blender/Unreal. Rendering/lighting technician focus rather than creative-technical generalist."
+    "skip_reason": "Tool mismatch \u2014 Maya/Redshift specialist role; Shem's primary toolkit is Blender/Unreal. Rendering/lighting technician focus rather than creative-technical generalist.",
+    "id": "algorithm-technical-director-2026"
   },
   {
     "title": "3D Artist [remote]",
@@ -5533,7 +5538,8 @@
       "Unreal Engine 4 (UE4), Blueprints",
       "Shaders and lighting effects"
     ],
-    "skip_reason": "Likely duplicate/variant of existing 'Real-Time 3D Artist' listing (4V1b, first seen 2026-07-22). UE4 (older engine). No clear EU remote confirmation. Near-identical requirements."
+    "skip_reason": "Likely duplicate/variant of existing 'Real-Time 3D Artist' listing (4V1b, first seen 2026-07-22). UE4 (older engine). No clear EU remote confirmation. Near-identical requirements.",
+    "id": "neutral-digital-3d-artist-remote-2026"
   },
   {
     "title": "2D Background Artist",
@@ -5548,7 +5554,8 @@
       "2D background art for animation",
       "Animation production experience"
     ],
-    "skip_reason": "2D background art only \u2014 no 3D, technical art, or motion graphics component. Outside Shem's core direction."
+    "skip_reason": "2D background art only \u2014 no 3D, technical art, or motion graphics component. Outside Shem's core direction.",
+    "id": "boulder-media-2d-background-artist-2026"
   },
   {
     "title": "Production Coordinator",
@@ -5564,7 +5571,8 @@
       "Animation studio experience",
       "Scheduling, tracking, admin"
     ],
-    "skip_reason": "Admin/production management role \u2014 no technical or creative art component. Kilkenny location (not viable commute from Dublin). Outside target direction."
+    "skip_reason": "Admin/production management role \u2014 no technical or creative art component. Kilkenny location (not viable commute from Dublin). Outside target direction.",
+    "id": "lighthouse-studios-production-coordinator-2026"
   },
   {
     "id": "virtuos-environment-artist-1yr-2026",
@@ -5605,7 +5613,8 @@
       "AI tools",
       "digital content"
     ],
-    "skip_reason": "Tool mismatch \u2014 Adobe stack only, no Blender/Unreal/3D; marketing/brand motion role not technical creative; ~4 months old, likely stale"
+    "skip_reason": "Tool mismatch \u2014 Adobe stack only, no Blender/Unreal/3D; marketing/brand motion role not technical creative; ~4 months old, likely stale",
+    "id": "brandtech-motion-graphics-designer-2026"
   },
   {
     "title": "Motion Creative Designer (I-Gaming)",
@@ -5626,7 +5635,8 @@
       "video editing",
       "AI tools"
     ],
-    "skip_reason": "Location: Malta/Buenos Aires \u2014 not Dublin/remote-EU eligible; i-gaming marketing role; Adobe-only stack, not Shem's primary tools"
+    "skip_reason": "Location: Malta/Buenos Aires \u2014 not Dublin/remote-EU eligible; i-gaming marketing role; Adobe-only stack, not Shem's primary tools",
+    "id": "betsson-motion-creative-designer-igaming-2026"
   },
   {
     "title": "Background Artist",
@@ -5642,7 +5652,8 @@
       "animation",
       "TV series"
     ],
-    "skip_reason": "2D background art role \u2014 no 3D/technical component; not Shem's skills area"
+    "skip_reason": "2D background art role \u2014 no 3D/technical component; not Shem's skills area",
+    "id": "pink-kong-studios-background-artist-2026"
   },
   {
     "id": "rockfish-games-3d-environment-artist-2026",
@@ -6740,7 +6751,8 @@
       "Fully remote, globally distributed team",
       "VR/AR creative technology studio (Synth Riders)"
     ],
-    "notes": "Posting date uncertain - verify before applying. Kluge is a VR/AR-first creative studio (Synth Riders). High alignment with real-time pipelines and immersive experience work."
+    "notes": "Posting date uncertain - verify before applying. Kluge is a VR/AR-first creative studio (Synth Riders). High alignment with real-time pipelines and immersive experience work.",
+    "id": "kluge-interactive-mid-snr-ta-2026"
   },
   {
     "title": "Unreal Engine Generalist",
@@ -6759,7 +6771,8 @@
       "Hyper-realistic arch-viz visualizations",
       "English or Spanish fluency"
     ],
-    "notes": "Architectural visualization firm (award-winning, clients: Louis Vuitton, Brookfield). Fully remote. UE5 generalist role \u2014 good match for Shem's Unreal skills. Arch-viz adjacent to portfolio work. Posting date unknown."
+    "notes": "Architectural visualization firm (award-winning, clients: Louis Vuitton, Brookfield). Fully remote. UE5 generalist role \u2014 good match for Shem's Unreal skills. Arch-viz adjacent to portfolio work. Posting date unknown.",
+    "id": "abiboo-studio-unreal-generalist-2026"
   },
   {
     "title": "Mid-Senior 3D Generalist",
@@ -6776,7 +6789,8 @@
       "3-4 week contract starting ASAP",
       "Remote but Sydney-preferred"
     ],
-    "skip_reason": "Very short contract (3-4 weeks), Australia timezone (Sydney-preferred), poor fit for Dublin-based remote working."
+    "skip_reason": "Very short contract (3-4 weeks), Australia timezone (Sydney-preferred), poor fit for Dublin-based remote working.",
+    "id": "neon-badger-mid-senior-3d-generalist-2026"
   },
   {
     "title": "Houdini FX Artist",
@@ -6793,7 +6807,8 @@
       "Fully remote team",
       "4-6 week contract ASAP"
     ],
-    "skip_reason": "Houdini not in Shem's skill set. Very short contract. Primary tool mismatch."
+    "skip_reason": "Houdini not in Shem's skill set. Very short contract. Primary tool mismatch.",
+    "id": "dexmob-houdini-fx-artist-2026"
   },
   {
     "title": "Technical Artist Mentor",
@@ -6811,7 +6826,8 @@
       "Part-time contract",
       "Canada-based studio"
     ],
-    "skip_reason": "Unity-focused (not Unreal/Blender), mentoring rather than creative output, Canadian timezone, low alignment with Shem's skills and career direction."
+    "skip_reason": "Unity-focused (not Unreal/Blender), mentoring rather than creative output, Canadian timezone, low alignment with Shem's skills and career direction.",
+    "id": "gen-eight-games-ta-mentor-canada-2026"
   },
   {
     "title": "Technical Artist",
@@ -6827,7 +6843,8 @@
       "Melbourne studio hybrid (3 days from Oct 2026)",
       "Passion for VR/AR and real-time tech"
     ],
-    "skip_reason": "Requires presence in Melbourne Australia studio from October 2026. Relocation deal-breaker."
+    "skip_reason": "Requires presence in Melbourne Australia studio from October 2026. Relocation deal-breaker.",
+    "id": "league-of-geeks-ta-melbourne-2026"
   },
   {
     "title": "Unreal Engine Developer (Generalist/Narrative)",
@@ -6844,6 +6861,25 @@
       "UK-preferred timezone",
       "Co-op dungeon adventure RPG"
     ],
-    "skip_reason": "Posting appears expired. Primarily a programmer/narrative developer role, not technical art."
+    "skip_reason": "Posting appears expired. Primarily a programmer/narrative developer role, not technical art.",
+    "id": "tigerroll-studios-ue-developer-2026"
+  },
+  {
+    "id": "datascope-junior-ui-ta-remote-eu-expired-2026",
+    "title": "Junior UI Technical Artist (Fully Remote UK/EU)",
+    "company": "Datascope Recruitment",
+    "location": "Fully Remote (UK/EU)",
+    "url": "https://remotegamejobs.com/jobs/datascope-recruitment-junior-ui-technical-artist-fully-remote-uk-eu-30k-40k-remote-job",
+    "first_seen": "2026-09-09",
+    "fit": "low-medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "UI integration between art and programming",
+      "Hybrid art/programming role",
+      "Salary: \u20ac30k\u2013\u20ac40k",
+      "UK/EU remote"
+    ],
+    "skip_reason": "Posting confirmed expired by search results. Low-medium fit \u2014 UI-specific TA role, not core technical art/3D."
   }
 ]
