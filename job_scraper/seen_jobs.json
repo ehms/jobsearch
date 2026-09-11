@@ -6881,5 +6881,172 @@
       "UK/EU remote"
     ],
     "skip_reason": "Posting confirmed expired by search results. Low-medium fit \u2014 UI-specific TA role, not core technical art/3D."
+  },
+  {
+    "id": "void-interactive-vfx-artist-ready-or-not-europe-2026",
+    "title": "VFX Artist - Ready or Not (Europe)",
+    "company": "VOID Interactive",
+    "location": "Fully Remote (Europe, contractor)",
+    "url": "https://remotegamejobs.com/jobs/void-interactive-vfx-artist-ready-or-not-europe-remote-job",
+    "first_seen": "2026-09-11",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Crafting high-quality visual effects to enhance gameplay (Ready or Not FPS)",
+      "Unreal Engine and industry-standard VFX tools",
+      "Strong artistic skills: detail, color, composition",
+      "Particle systems, shaders, lighting techniques",
+      "Collaboration with artists, designers, programmers",
+      "European time zones",
+      "Fully remote contractor position"
+    ],
+    "notes": "Contractor/EU variant of the Ireland employee version (already in seen_jobs as void-interactive-vfx-artist-ready-or-not-ireland-2026). VOID Interactive is one of Shem's cold-call targets. Disney+ Studio Meala compositor credit is strong evidence for VFX art skills. Shem is in Ireland so could also apply to the Ireland (employee) version."
+  },
+  {
+    "id": "milo-hr-online-compositor-dublin-expired-2026",
+    "title": "Online Compositor",
+    "company": "milo HR",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://www.ziprecruiter.ie/jobs/525039014-online-compositor-at-milo-hr",
+    "first_seen": "2026-09-11",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2026-04-24",
+    "requirements": [
+      "High-quality compositing, VFX, clean-up, rotoscoping, paint work",
+      "Collaboration with Production and Post Production teams",
+      "Nuke, DaVinci Resolve/Fusion, Photoshop",
+      "Unreal Engine compositing pipeline knowledge"
+    ],
+    "skip_reason": "Likely expired \u2014 posted April 24, 2026 as an 8-week fixed-term contract; would have concluded by July 2026. Medium fit (compositing credit from Studio Meala); worth monitoring milo HR for future openings."
+  },
+  {
+    "id": "montreal-art-studios-freelance-compositor-2026",
+    "title": "Freelance Compositor",
+    "company": "Montreal Art Studios",
+    "location": "Remote (Canada-focused)",
+    "url": "https://www.artstation.com/jobs/2a18",
+    "first_seen": "2026-09-11",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Compositing (freelance, remote)",
+      "Montreal-based studio"
+    ],
+    "skip_reason": "Montreal studio \u2014 Canada timezone likely required. Low fit for EU/Dublin-based remote application."
+  },
+  {
+    "id": "speedway-games-3d-vehicle-artist-2026",
+    "title": "3D Vehicle Artist",
+    "company": "Speedway Games",
+    "location": "Remote",
+    "url": "https://remotegamejobs.com/jobs/speedway-games-3d-vehicle-artist-remote-job",
+    "first_seen": "2026-09-11",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Specialist vehicle art creation",
+      "Hard-surface vehicle modeling"
+    ],
+    "skip_reason": "Vehicle art specialist role \u2014 significant skill gap, Shem's portfolio is environments/procedural/motion, not vehicle modeling."
+  },
+  {
+    "id": "plumeria-studio-3d-environment-artist-2026",
+    "title": "3D Environment Artist",
+    "company": "Plumeria Studio",
+    "location": "Remote (Anywhere)",
+    "url": "https://www.workwithindies.com/careers/plumeria-studio-3d-environment-artist",
+    "first_seen": "2026-09-11",
+    "fit": "low-medium",
+    "status": "skipped",
+    "posting_date": "2026-06-12",
+    "requirements": [
+      "Freelance task-based compensation",
+      "Remote anywhere"
+    ],
+    "skip_reason": "Posted June 2026 as freelance/task-based \u2014 likely filled or expired. Couldn't verify active status (site blocked). Low priority follow-up."
+  },
+  {
+    "id": "servellina-unity-technical-artist-2026",
+    "title": "Unity Technical Artist (3D Environment)",
+    "company": "Servellina",
+    "location": "Remote",
+    "url": "https://www.workwithindies.com/careers/servellina-unity-technical-artist-3d-environment",
+    "first_seen": "2026-09-11",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unity game engine (JRPG project)",
+      "3D environment integration in Unity"
+    ],
+    "skip_reason": "Unity-only role (not Blender/Unreal). JRPG project \u2014 tool mismatch with Shem's core stack."
+  },
+  {
+    "id": "void-interactive-lead-character-artist-europe-2026",
+    "title": "Lead Character Artist - Ready or Not (Europe)",
+    "company": "VOID Interactive",
+    "location": "Fully Remote (Europe)",
+    "url": "https://remotegamejobs.com/jobs/void-interactive-lead-character-artist-ready-or-not-europe-remote-job-596215e6-4531-4407-bcdf-e69d8ae20d9c",
+    "first_seen": "2026-09-11",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Lead-level character art (Lead title)",
+      "Character art direction and team leadership"
+    ],
+    "skip_reason": "Lead role \u2014 seniority deal-breaker. Also character art specialism, not Shem's primary strength."
+  },
+  {
+    "id": "milo-hr-online-editor-dublin-2026",
+    "title": "Online Editor",
+    "company": "milo HR",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://www.ziprecruiter.ie/jobs/542536783-online-editor-at-milo-hr",
+    "first_seen": "2026-09-11",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Online editing / finishing (DaVinci Resolve, Autodesk Flame)",
+      "Post-production finishing workflow"
+    ],
+    "skip_reason": "Online editing / finishing role \u2014 not visual/creative art. Tool set (Flame, Resolve) and workflow mismatch."
+  },
+  {
+    "id": "milo-hr-post-production-coordinator-dublin-2026",
+    "title": "Post Production Coordinator",
+    "company": "milo HR",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://www.ziprecruiter.ie/jobs/556125842-post-production-coordinator-at-milo-hr",
+    "first_seen": "2026-09-11",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Production coordination / admin",
+      "Post-production workflow management"
+    ],
+    "skip_reason": "Coordinator/admin role \u2014 deal-breaker. No creative or technical art component."
+  },
+  {
+    "id": "brown-bag-films-production-coordinator-dublin-2026",
+    "title": "Production Coordinator",
+    "company": "Brown Bag Films",
+    "location": "Dublin, Ireland",
+    "url": "https://jobvfx.com/jobs/production-coordinator-dublin-ireland-july-28-2026-brown-bag-films/",
+    "first_seen": "2026-09-11",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-07-28",
+    "requirements": [
+      "Production coordination (animation/VFX studio)",
+      "Project tracking, scheduling, admin"
+    ],
+    "skip_reason": "Coordinator/admin role \u2014 deal-breaker. Brown Bag Films is a relevant studio but this is not a creative or technical art position."
   }
 ]
