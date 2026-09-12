@@ -7048,5 +7048,59 @@
       "Project tracking, scheduling, admin"
     ],
     "skip_reason": "Coordinator/admin role \u2014 deal-breaker. Brown Bag Films is a relevant studio but this is not a creative or technical art position."
+  },
+  {
+    "id": "blue-pixie-studio-3d-artist-remote-2026",
+    "title": "3D Artist (Stylized, Toy-Inspired)",
+    "company": "Blue Pixie Studio",
+    "location": "Remote (worldwide)",
+    "url": "https://www.artstation.com/jobs/4doz",
+    "first_seen": "2026-09-12",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "High-quality game-ready 3D asset creation",
+      "Stylized / toy-inspired visual style",
+      "Character and prop modeling",
+      "Strong creative judgement for cute/playful aesthetics"
+    ],
+    "notes": "Small newly-funded indie studio building a cute life-sim game. 2-year full-time contract at \u00a335,000/year (approx \u20ac41k). Fully remote. Listing has persisted for some time (originally at \u00a330k) - currently updated to \u00a335k suggesting still active. Good fit for small team/depth preference, but very specific toy-inspired style not in Shem's current portfolio."
+  },
+  {
+    "id": "ragnarok-games-sa-3d-character-artist-remote-2026",
+    "title": "3D Character Artist",
+    "company": "Ragnarok Games SA",
+    "location": "Remote (Italy-based company, CET timezone)",
+    "url": "https://remotegamejobs.com/jobs/ragnarok-games-sa-3d-character-artist-remote-job",
+    "first_seen": "2026-09-12",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "2026-08-01",
+    "requirements": [
+      "3D character modeling (mid/senior, 4-5 years gaming industry minimum)",
+      "Character rigging and animations",
+      "Skins and recolors",
+      "Integration of external vendor characters",
+      "CET/CEST timezone"
+    ],
+    "notes": "Freelance full-time position, \u20ac2,500-2,800 gross/month, expected start August/September 2026. Italy-based company (good for CET timezone/Dublin). Character modeling focus - Shem's Blender Rigify and character modeling skills are relevant but stated 4-5 years gaming minimum may be slightly over Shem's gaming industry experience. Still worth evaluating."
+  },
+  {
+    "id": "piomotion-dmcc-senior-technical-artist-ue-2026",
+    "title": "Senior Technical Artist & UE Generalist",
+    "company": "Piomotion DMCC",
+    "location": "Remote",
+    "url": "https://www.artstation.com/jobs/ymm6",
+    "first_seen": "2026-09-12",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Senior-level technical art",
+      "Unreal Engine generalist",
+      "Metahumans, motion capture systems"
+    ],
+    "skip_reason": "Senior title - excluded by seniority filter. Also Metahuman/mocap focus is a narrow specialization not central to Shem's background."
   }
 ]
