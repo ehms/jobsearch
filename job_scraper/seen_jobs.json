@@ -7102,5 +7102,194 @@
       "Metahumans, motion capture systems"
     ],
     "skip_reason": "Senior title - excluded by seniority filter. Also Metahuman/mocap focus is a narrow specialization not central to Shem's background."
+  },
+  {
+    "id": "frontier-developments-vfx-artist-cambridge-2026",
+    "title": "VFX Artist",
+    "company": "Frontier Developments",
+    "location": "Cambridge, UK (hybrid min 3 days/week in studio)",
+    "url": "https://jobs.eu.lever.co/frontier/e69f5e7f-67b6-4c33-a203-d6c6c190be9e",
+    "first_seen": "2026-09-13",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Previous VFX Artist experience or strong portfolio",
+      "Deep understanding of VFX principles: gameplay, shape, timing, motion, contrast, colour",
+      "Proficiency in Maya, Photoshop, After Effects, Houdini",
+      "Awareness of memory and performance considerations",
+      "Full in-studio or hybrid (min 3 days/week in Cambridge)"
+    ],
+    "skip_reason": "Requires relocation to Cambridge, UK (hybrid minimum 3 days/week in studio). Shem is not available for relocation."
+  },
+  {
+    "id": "prolific-academic-environment-artist-lille-2026",
+    "title": "Game Development / Environment Artist (Freelance Remote)",
+    "company": "Prolific Academic Ltd",
+    "location": "Lille, France (Freelance Remote)",
+    "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4875783101",
+    "first_seen": "2026-09-13",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "3D Artist / Environment Artist skills",
+      "Experience creating computer generated scenes and assets",
+      "Game development context",
+      "Freelance / contractor basis"
+    ],
+    "notes": "Part of Prolific Academic's academic research network using game development tasks. Freelance remote. Multiple similar postings across various EU cities. Verify remote eligibility for Ireland-based applicants."
+  },
+  {
+    "id": "wilder-world-unreal-3d-generalist-ta-2026",
+    "title": "Unreal 3D Generalist / Technical Artist",
+    "company": "Wilder World Inc.",
+    "location": "Remote (worldwide)",
+    "url": "https://startup.jobs/unreal-3d-generalist-technical-artist-wilder-world-inc-3957454",
+    "first_seen": "2026-09-13",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "5+ years experience creating environments in shipped games or products",
+      "Fluency with at least one 3D DCC tool: Maya/Houdini (ideally more)",
+      "Create, modify and optimize 3D models for game-ready assets",
+      "Create and optimize shaders in Unreal Engine",
+      "Create and assemble cinematics in Unreal Engine",
+      "Understanding of game creation tools and production methods"
+    ],
+    "notes": "Web3 / blockchain gaming company (Wilder World metaverse). Fully remote. 5+ years shipped games requirement is aspirational for Shem; Unreal + procedural workflows are strong matches. Also on Workable: https://apply.workable.com/wilder-world/j/A9716D2DC2/"
+  },
+  {
+    "id": "magic-media-mid-unreal-vfx-artist-2026",
+    "title": "Mid Unreal Real-Time VFX Artist",
+    "company": "Magic Media",
+    "location": "Remote (worldwide)",
+    "url": "https://startup.jobs/mid-unreal-real-time-vfx-artist-magic-media-4136117",
+    "first_seen": "2026-09-13",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Expert level experience with Unreal Engine",
+      "High level of knowledge in PopcornFX",
+      "Highly skilled with Photoshop, Substance, or other texture authoring tools",
+      "3D software: Blender, Maya, 3DS Max, or Houdini for mesh creation",
+      "Deep knowledge in animation and art sense (colour, shape, ratio, timing)",
+      "Ability to independently and creatively solve VFX technical issues",
+      "Portfolio or reel showcasing VFX"
+    ],
+    "notes": "Mid-level, fully remote worldwide. Game VFX outsourcing studio. Strong Unreal match. Gap: PopcornFX (particle tool) not in Shem's toolkit. Shem's Disney+ compositing credit may bridge film-to-game gap. Not require shipped AAA explicitly."
+  },
+  {
+    "id": "magic-media-realtime-game-vfx-artist-2026",
+    "title": "Real Time Game VFX Artist",
+    "company": "Magic Media",
+    "location": "Remote (worldwide)",
+    "url": "https://startup.jobs/real-time-game-vfx-artist-magic-media-8669389",
+    "first_seen": "2026-09-13",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "At least 2 years experience in videogame industry",
+      "Fluent work on particles and visual effects for 3D and 2D games in Unity or Unreal",
+      "Highly skilled with Photoshop, Substance Designer, Maya or 3DS Max",
+      "Communication and collaboration skills",
+      "Basic programming skills in C# or blueprints (nice-to-have)"
+    ],
+    "notes": "Different/newer version of Magic Media VFX role. Remote worldwide. Requires 2+ years game industry specifically \u2014 lower bar than the Mid Unreal version. Unreal or Unity. Studio covers wide range of projects and styles."
+  },
+  {
+    "id": "ptw-game-vfx-artist-2026",
+    "title": "Game VFX Artist",
+    "company": "Pole To Win International (PTW)",
+    "location": "Remote (worldwide, various studio offices)",
+    "url": "https://startup.jobs/game-vfx-artist-ptw-6044122",
+    "first_seen": "2026-09-13",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Experienced VFX Artist with balance of technical and artistic skills",
+      "Passion for VFX: gameplay, combat, environmental atmospherics, destruction",
+      "Real-time game engine experience",
+      "Creating explosions, fire, smoke, water, magical effects",
+      "Optimizing VFX for performance",
+      "Minimum 1 shipped AAA game (implied from senior variants)"
+    ],
+    "notes": "Global games outsourcing company, 40+ studios worldwide. Remote. Gap: AAA shipped game requirement. PTW often has rolling submissions. Benefits include health insurance, transport (suggests office location somewhere). Verify remote eligibility."
+  },
+  {
+    "id": "gameloft-vfx-artist-unreal-sofia-2026",
+    "title": "VFX Artist (Unreal Engine)",
+    "company": "Gameloft",
+    "location": "Sofia, Bulgaria (on-site)",
+    "url": "https://startup.jobs/vfx-artist-unreal-engine-gameloft-7700551",
+    "first_seen": "2026-09-13",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unreal Engine VFX experience",
+      "3D tools: 3ds Max, Blender, or Maya (nice-to-have)"
+    ],
+    "skip_reason": "Located in Sofia, Bulgaria on-site. Requires relocation. Shem not available for relocation from Dublin."
+  },
+  {
+    "id": "journee-technical-artist-berlin-remote-2026",
+    "title": "Technical Artist (Berlin/Remote)",
+    "company": "JOURNEE - The Metaverse Company",
+    "location": "Berlin / Remote",
+    "url": "https://startup.jobs/technical-artist-berlin-remote-m-f-d-journee-the-metaverse-company-2126118",
+    "first_seen": "2026-09-13",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Experience with C++, Unreal Engine 4, source control, multiplayer concepts",
+      "WebRTC experience desired",
+      "Ability to write code",
+      "Combine materials, effects and UE4 Blueprints for complex worlds",
+      "Developer who also knows world/environment creation"
+    ],
+    "skip_reason": "Developer-first role (C++, WebRTC, multiplayer) not matching Shem's creative-technical artist profile. Berlin primary location. Metaverse tech company, not creative studio."
+  },
+  {
+    "id": "hangar13-technical-artist-shaders-brno-2026",
+    "title": "Technical Artist - Shaders",
+    "company": "Hangar 13",
+    "location": "Brno or Prague, Czech Republic (on-site)",
+    "url": "https://boards.greenhouse.io/hangar13/jobs/4344828003",
+    "first_seen": "2026-09-13",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Real-time shader creation for advanced in-house game engine",
+      "Work with Art, Design, VFX, Animation teams",
+      "HLSL, Unreal Engine material graph",
+      "On-site in Brno or Prague"
+    ],
+    "skip_reason": "On-site in Czech Republic (Brno/Prague). Requires relocation from Dublin."
+  },
+  {
+    "id": "playstation-global-vfx-artist-games-2026",
+    "title": "VFX Artist (Games)",
+    "company": "PlayStation Global / Sony Interactive Entertainment",
+    "location": "Unknown (possibly UK or Europe, may include remote)",
+    "url": "https://boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/4241957004",
+    "first_seen": "2026-09-13",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Strong reel demonstrating proficiency in VFX",
+      "Extensive Unreal Engine 5 (Niagara, materials, blueprint authoring)",
+      "Previous experience creating real-time VFX for shipped game titles",
+      "Strong understanding of game performance, profiling, optimization",
+      "Particle systems, shader development"
+    ],
+    "notes": "PlayStation Global Greenhouse posting \u2014 could be Black Shamrock Dublin (Ireland), PlayStation Studios Europe, or another location. URL is NOT the same as previously seen Black Shamrock listings. Worth investigating to confirm location eligibility. Strong Unreal/Niagara requirement."
   }
 ]
