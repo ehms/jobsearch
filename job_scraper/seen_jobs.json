@@ -7405,5 +7405,72 @@
       "Substance Painter / Substance Designer likely"
     ],
     "notes": "Companion role to Kluge Technical Artist and VFX Artist postings. Texturing is adjacent to Shem's Blender skills but not a core strength. VR gaming context. Zerply listing."
+  },
+  {
+    "id": "magic-media-middle-3d-generalist-artist-2026",
+    "title": "Middle 3D Generalist Artist",
+    "company": "Magic Media",
+    "location": "Remote EU (worldwide)",
+    "url": "https://www.designremotejobs.com/job/magic-media-middle-3d-generalist-artist-remote-eu",
+    "first_seen": "2026-09-16",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "2026-09-10",
+    "requirements": [
+      "3+ years experience in games (various 3D asset types)",
+      "Standard 3D packages: 3Ds Max, Maya, Blender",
+      "Knowledge of Unity and/or Unreal Engine assets integration",
+      "Character and environment prop creation",
+      "Texturing: Substance Painter, Photoshop or similar",
+      "Art creation pipelines, asset exporting, process automation",
+      "Proficient in illumination and RT rendering",
+      "Ability to follow specific pipelines with autonomy",
+      "Can assist junior artists when needed"
+    ],
+    "notes": "Mid-level games generalist. Posted Sept 10, 2026. Magic Media has consistent remote EU hiring (already tracking Technical Artist Unreal, Mid VFX Artist, Real-Time Game VFX). Fit is medium \u2014 generalist role matches Shem's Blender + 3D skills, but focus is on game asset creation pipeline rather than motion design/procedural art. Also listed on glassdoor.be. URL may redirect; also try startup.jobs/mid-3d-generalist-artist-magic-media-3993846."
+  },
+  {
+    "id": "larian-studios-technical-artist-pipeline-tools-2026",
+    "title": "Technical Artist - Pipeline & Tools",
+    "company": "Larian Studios",
+    "location": "Multi-studio (Gent/Barcelona/Dublin/Guildford/KL/Quebec/Warsaw) \u2014 location unconfirmed",
+    "url": "https://jobs.lever.co/larian/1dc05a1f-50ad-419b-8772-d2c4bd5cad57",
+    "first_seen": "2026-09-16",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Design and develop shaders, scripting, advanced pipelines",
+      "Technical documentation writing and maintenance",
+      "Collaboration with artists and programmers",
+      "Mentoring junior team members",
+      "High-level coding languages: Python, C# (code architecture)",
+      "Shader development, strong PBR pipeline understanding",
+      "HLSL knowledge",
+      "Experience with Maya, Houdini, Substance Designer and Painter",
+      "Knowledge of procedural content creation",
+      "Understanding of digital art content creation pipeline (high/low-poly, baking, texturing, level building)"
+    ],
+    "notes": "Technical Artist Pipeline & Tools at Larian Studios. Seniority unclear \u2014 separate 'Senior Technical Artist - Pipeline' listing exists (d1a2322b). Location uncertain: Larian's Dublin studio is a storytelling/cinematics studio; pipeline TA more likely in Gent. Cannot confirm Dublin eligibility without direct access (larian.com, jobs.lever.co, larian.com/careers/1dc05a1f both blocked). Medium fit: good technical depth match (Python, procedural, shaders) but Blender not primary tool (Houdini/Maya focus), and location unknown. Needs manual verification."
+  },
+  {
+    "id": "technical-3d-visualisation-designer-galway-2026",
+    "title": "Technical 3D Visualisation Designer",
+    "company": "Unknown (construction/engineering company, Galway)",
+    "location": "Galway, Ireland (split: site + Galway HQ)",
+    "url": "https://www.glassdoor.ie/Job/ireland-3d-designer-jobs-SRCH_IL.0,7_IN70_KO8,19.htm",
+    "first_seen": "2026-09-16",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown (September 2026)",
+    "requirements": [
+      "Minimum 5 years experience in 3D visual communication, arch-viz, gaming or similar",
+      "3D models to technical standard, as-built model processing",
+      "Turning construction methods into rendered imagery, animations, interactive experiences",
+      "Working directly with engineers and site crews",
+      "Construction/engineering sector context"
+    ],
+    "skip_reason": "Location deal-breaker \u2014 Galway Head Office + site visits required, not Dublin. Wrong sector (construction engineering). 5 years minimum experience threshold.",
+    "notes": "Glassdoor listing from September 2026. Company not named in search results. Role is visualization for construction/engineering planning, not creative tech or VFX/motion design."
   }
 ]
