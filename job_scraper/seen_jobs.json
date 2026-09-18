@@ -7472,5 +7472,22 @@
     ],
     "skip_reason": "Location deal-breaker \u2014 Galway Head Office + site visits required, not Dublin. Wrong sector (construction engineering). 5 years minimum experience threshold.",
     "notes": "Glassdoor listing from September 2026. Company not named in search results. Role is visualization for construction/engineering planning, not creative tech or VFX/motion design."
+  },
+  {
+    "id": "iconographics-mid-level-3d-generalist-artist-2026",
+    "title": "Mid-Level 3D Generalist Artist",
+    "company": "Iconographics - Visualization for Litigation",
+    "location": "United States (not Ireland-eligible)",
+    "url": "https://www.linkedin.com/jobs/view/mid-level-3d-generalist-artist-at-iconographics-visualization-for-litigation-4423977428",
+    "first_seen": "2026-09-18",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "3D modeling and texturing for litigation visualization",
+      "Blender or similar DCC software",
+      "2-3+ years experience as 3D generalist"
+    ],
+    "skip_reason": "US-based litigation visualization company (trial graphics for legal cases). Not Ireland/EU remote eligible. Role requires US work authorization."
   }
 ]
