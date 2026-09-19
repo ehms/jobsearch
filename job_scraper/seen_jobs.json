@@ -7489,5 +7489,44 @@
       "2-3+ years experience as 3D generalist"
     ],
     "skip_reason": "US-based litigation visualization company (trial graphics for legal cases). Not Ireland/EU remote eligible. Role requires US work authorization."
+  },
+  {
+    "id": "jam-media-cg-lighting-artist-nova-jones-2026",
+    "title": "CG Lighting Artist",
+    "company": "JAM Media",
+    "location": "Dublin, Ireland",
+    "url": "https://animationireland.com/page/49/?post_type=job_listing",
+    "first_seen": "2026-09-19",
+    "fit": "low-medium",
+    "status": "skipped",
+    "posting_date": "unknown (September 2026, possibly earlier)",
+    "requirements": [
+      "CG Lighting for live-action/CGI hybrid TV production (Nova Jones)",
+      "Eye for detail; hard-working and driven",
+      "Right to work in Ireland (likely required)",
+      "Experience in CG lighting and rendering"
+    ],
+    "skip_reason": "CG Lighting is a specialized discipline not in Shem primary skill set. Compositing background (Studio Meala) is adjacent but lighting is a distinct role. Posting date uncertain \u2014 may be older content resurfacing. Flagged for manual verification.",
+    "notes": "Appeared in animationireland.com search snippet. JAM Media is known for 2D animation (Peppa Pig, BeddyByes) but Nova Jones is a live-action/CGI hybrid, making compositing-adjacent skills more relevant. However seniority, team size and exact requirements not confirmed."
+  },
+  {
+    "id": "eneba-motion-designer-performance-marketing-2026",
+    "title": "Motion Designer (Performance Marketing)",
+    "company": "Eneba",
+    "location": "Remote EU / Lithuania",
+    "url": "https://jobs.eu.lever.co/eneba/9c2389b5-fe5d-42d7-9c10-fce8ef8ab360",
+    "first_seen": "2026-09-19",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown (September 2026)",
+    "requirements": [
+      "3+ years in video editing or motion design",
+      "Proficiency in Adobe tools (After Effects), Blender, Cinema 4D, Illustrator",
+      "AI tools (Midjourney)",
+      "Portfolio of video editing and motion design",
+      "Performance marketing ads focus"
+    ],
+    "skip_reason": "Performance marketing advertising focus does not align with Shem creative-technical VFX/3D/motion profile. Role is centered on producing performance ads and marketing videos \u2014 not creative-technical art production. Lithuania/remote EU eligibility is fine but the role type is a poor fit. Tool overlap (Blender, C4D, AE) is positive but insufficient.",
+    "notes": "Eneba is a gaming marketplace (not a games studio). This role is within the marketing team, creating ad content. Shem deal-breakers include roles without meaningful technical-creative component. Also requires experience with AI generative tools for localization."
   }
 ]
