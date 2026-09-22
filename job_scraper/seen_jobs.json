@@ -7567,5 +7567,91 @@
       "all levels junior-senior accepted"
     ],
     "notes": "Maere Studios award-winning VFX/animation studio (Annecy 2025 winner, 4 Emmy nominations). Currently in production on 'The Turning Door' animated fantasy (Alicia Vikander, Jamie Dornan, Bill Nighy). Looking for range of levels from junior to senior. Posting date unknown - same Zerply ID batch as 3D Generalist (29Fe4e2k), likely same hiring round. Apply: info@maerestudios.com. LinkedIn: https://www.linkedin.com/jobs/view/character-animator-blender-at-maere-studios-4340956144. CAUTION: Zerply shutting down Sept 28 2026 \u2014 use direct email or LinkedIn URL."
+  },
+  {
+    "id": "wonderbrains-generalist-ta-playable-ads-2026",
+    "title": "Generalist Technical Artist - Playable Ads",
+    "company": "WonderBrains Recruiting Agency (client undisclosed)",
+    "location": "Remote, worldwide",
+    "url": "https://djinni.co/jobs/835156-generalist-technical-artist/",
+    "first_seen": "2026-09-22",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "2026-08-31",
+    "requirements": [
+      "3+ years experience as Generalist Technical Artist",
+      "Blender: model editing/cleanup, asset optimization, materials, lighting, scaling, pivot setup, export to GLB",
+      "Create and optimize 2D/3D assets for playable ads using Blender, Photoshop, After Effects",
+      "HTML5 playable ads development pipeline",
+      "JavaScript/TypeScript: gameplay behavior, timing, pacing, player feedback",
+      "AI tools, agentic workflows, AI coding assistants",
+      "Mobile optimization and lightweight playable ad performance",
+      "Game feel, UI animations, VFX, gameplay feedback",
+      "Experience creating mobile game animations"
+    ],
+    "notes": "WonderBrains is a recruitment agency for remote tech jobs. Role focuses on HTML5 playable ads for mobile gaming campaigns. Blender + JS skills match but domain is mobile game ads, not VFX/film/motion design. Also see Djinni #826574 (GenAI variant) and freehire.me listing. Posted Aug 31, updated Sep 1, 2026."
+  },
+  {
+    "id": "wonderbrains-generalist-ta-playables-genai-2026",
+    "title": "Generalist Technical Artist (Playables) - Future of Game Ads with GenAI",
+    "company": "WonderBrains agency (client undisclosed)",
+    "location": "Remote, worldwide",
+    "url": "https://djinni.co/jobs/826574-generalist-technical-artist-playables-who-wou/",
+    "first_seen": "2026-09-22",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Build, iterate, and polish HTML5 playable ads (gameplay, visuals, interaction)",
+      "Blender for asset creation and optimization",
+      "JavaScript/TypeScript for gameplay behavior",
+      "AI/GenAI tools and agentic workflows",
+      "Strong game design intuition",
+      "Mobile game animations, UI animations, VFX, gameplay feedback",
+      "Mobile optimization"
+    ],
+    "notes": "GenAI-focused variant of the Playable Ads TA role. Company is building a cutting-edge GenAI product for game ad production leveraging genetic ML models. Very similar requirements to #835156. Domain is mobile game advertising automation."
+  },
+  {
+    "id": "wonderbrains-motion-designer-tech-artist-game-ads-2026",
+    "title": "Motion Designer / Tech Artist - Future of Game Industry Ads",
+    "company": "WonderBrains agency (client undisclosed)",
+    "location": "Remote, worldwide",
+    "url": "https://freehire.me/jobs/motion-designer-tech-artist-who-would-shape-the-future-of-game-industry-ads-wonderbrains-agency-zivohozh",
+    "first_seen": "2026-09-22",
+    "fit": "low",
+    "status": "new",
+    "posting_date": "2026-08-31",
+    "requirements": [
+      "Motion graphics and video ads for gaming campaigns (leaderboards, tournaments, promotional content)",
+      "After Effects: visually compelling video ads",
+      "Unity: duplicate and emulate game's development environment",
+      "Social media ads: Meta/TikTok/YouTube performance focus",
+      "2 years experience",
+      "AI/GenAI tools"
+    ],
+    "notes": "After Effects + Unity focus (not Blender/Unreal). Video game ad production for social media platforms. Motion design skills are relevant but tool stack and domain (performance gaming video ads) is a significant departure from Shem's VFX/motion/Unreal direction. Low fit due to tool mismatch.",
+    "skip_reason": "Low fit: primary tools After Effects/Unity (not Shem's core stack), domain is social media game ads not VFX/motion design/technical art"
+  },
+  {
+    "id": "arkwiz-unreal-ta-generalist-norway-2026",
+    "title": "Unreal Engine Technical Artist / Generalist",
+    "company": "Arkwiz",
+    "location": "Remote, EU preferred (Norway startup)",
+    "url": "https://forums.unrealengine.com/t/paid-unreal-engine-technical-artist-generalist-contract-full-time-remote-eu-preferred/2738213",
+    "first_seen": "2026-09-22",
+    "fit": "high",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unreal Engine 5 (Nanite, Lumen, World Partition, PCG, Cesium georeferencing)",
+      "Houdini (procedural generation)",
+      "GIS data pipeline integration",
+      "Real-time 3D spatial visualization",
+      "AWS GameLift Streams / WebRTC familiarity",
+      "Mid to senior level preferred (junior may apply)",
+      "Contract \u2192 full-time, or freelance at your rate"
+    ],
+    "skip_reason": "EXPIRED: hiring process ended August 2026 per company's own posting. Norwegian startup Geos platform (GIS \u2192 UE5 photorealistic environments). High fit skills but role is closed."
   }
 ]
