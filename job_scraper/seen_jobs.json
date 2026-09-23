@@ -7653,5 +7653,45 @@
       "Contract \u2192 full-time, or freelance at your rate"
     ],
     "skip_reason": "EXPIRED: hiring process ended August 2026 per company's own posting. Norwegian startup Geos platform (GIS \u2192 UE5 photorealistic environments). High fit skills but role is closed."
+  },
+  {
+    "id": "void-interactive-associate-cinematic-animator-2026",
+    "title": "Associate Cinematic Animator",
+    "company": "VOID Interactive",
+    "location": "Fully remote (Ireland = full-time employee; outside Ireland = contractor)",
+    "url": "https://voidinteractive.net/careers/",
+    "first_seen": "2026-09-23",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "2026-09-10",
+    "requirements": [
+      "1+ years professional production experience or equivalent (internships/relevant projects)",
+      "Strong knowledge of Autodesk Maya \u2014 animation layers and Graph Editor",
+      "Understanding of realistic body mechanics, timing, and movement",
+      "Familiarity with cinematography principles and visual language",
+      "Unreal Engine: Sequencer, animation montages, animation layers, cinematic plug-ins",
+      "Character body and facial performance",
+      "Ability to work independently in collaborative remote environment",
+      "Assist with motion capture shoots (occasional)"
+    ],
+    "notes": "VOID Interactive (Ready or Not, 13M+ copies sold) is one of Shem's cold-call targets. Ireland residents offered FTE; elsewhere = contractor. Posted September 10, 2026 \u2014 within 14-day window. Associate/entry level (1+ yr exp). Key gap: strong Maya required (Shem uses Blender); animation-specialist focus. Unreal Engine Sequencer and cinematic experience are strong matches. Shem has Disney+ compositing credit but limited dedicated character animation background. Medium fit overall \u2014 worth monitoring but not a priority application unless other options thin out. Apply via voidinteractive.net/careers."
+  },
+  {
+    "id": "jam-media-3d-animator-beddybyes-2026",
+    "title": "3D Animator \u2014 BeddyByes (Season 2 production)",
+    "company": "JAM Media",
+    "location": "Belfast, Northern Ireland (JAM Media Belfast studio)",
+    "url": "https://www.jammedia.com/careers/3d-animator-beddybyes/",
+    "first_seen": "2026-09-23",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Good understanding of technical aspects of Maya software and animation production",
+      "Strong knowledge of animation fundamentals: walk cycles, lip sync, acting, character timing",
+      "Understanding of the 3D animation process"
+    ],
+    "skip_reason": "Low fit: requires Maya (Shem uses Blender), animation-specialist focus vs. Shem's technical art/compositing background, Belfast location (not Dublin). JAM Media compositor role (jam-media-compositor-beddybyes-2025) already tracked separately.",
+    "notes": "JAM Media BeddyByes Season 2 commissioned by BBC & RT\u00c9, announced September 21, 2026. Production underway in Dublin and Belfast, delivery autumn 2027. This 3D Animator role is ongoing/recurring as production scales. Maya required throughout \u2014 fundamental mismatch for Shem. Cold email to JAM Media referencing BeddyByes production and Shem's compositing/Disney+ credit (per existing jam-media-compositor-beddybyes-2025 note) remains the better angle."
   }
 ]
