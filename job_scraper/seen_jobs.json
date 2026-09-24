@@ -7693,5 +7693,65 @@
     ],
     "skip_reason": "Low fit: requires Maya (Shem uses Blender), animation-specialist focus vs. Shem's technical art/compositing background, Belfast location (not Dublin). JAM Media compositor role (jam-media-compositor-beddybyes-2025) already tracked separately.",
     "notes": "JAM Media BeddyByes Season 2 commissioned by BBC & RT\u00c9, announced September 21, 2026. Production underway in Dublin and Belfast, delivery autumn 2027. This 3D Animator role is ongoing/recurring as production scales. Maya required throughout \u2014 fundamental mismatch for Shem. Cold email to JAM Media referencing BeddyByes production and Shem's compositing/Disney+ credit (per existing jam-media-compositor-beddybyes-2025 note) remains the better angle."
+  },
+  {
+    "id": "applegreen-motion-design-lead-2026",
+    "title": "Motion Design Lead",
+    "company": "Applegreen Stores",
+    "location": "Dublin (on-site, Applegreen HQ)",
+    "url": "https://applegreen-stores.rezoomo.com",
+    "first_seen": "2026-09-24",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Adobe After Effects (expert level)",
+      "Adobe Creative Suite",
+      "Cinema 4D",
+      "Adobe Premiere",
+      "AI tools",
+      "Brand motion / motion graphics across retail and digital channels",
+      "Video editing for campaigns, product launches, social content",
+      "Managing/briefing freelance motion specialists"
+    ],
+    "skip_reason": "Title contains 'Lead' \u2014 excluded per seniority filter. Also: After Effects primary (not Blender/Unreal); brand/retail scope (not technical-creative); large corporate chain conflicts with small-crew preference.",
+    "notes": "Applegreen is a large Irish petrol station/roadside retail chain. Role is brand/marketing motion design, not technical art or VFX. Cinema 4D is a positive signal but overall scope is corporate brand motion with Lead seniority. Full posting: search 'Applegreen Motion Design Lead' on Indeed.ie or visit applegreen-stores.rezoomo.com."
+  },
+  {
+    "id": "hivemind-freelance-environment-artist-2026",
+    "title": "[Freelance] Experienced Environment Artist (Unreal Engine)",
+    "company": "Hivemind (hivemind3d)",
+    "location": "Remote / freelance (location not confirmed; worldwide likely)",
+    "url": "https://www.artstation.com/jobs/V6EP",
+    "first_seen": "2026-09-24",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Strong portfolio of environment art in Unreal Engine 5",
+      "Model, texture, and light 3D assets: landscapes, architecture, props, foliage",
+      "Optimize environments for performance (modular workflows)",
+      "Proficiency in Maya, 3ds Max, or Blender",
+      "Work on modular scenes/props for games, cinematics, marketplace-ready packs",
+      "Implement environmental storytelling elements"
+    ],
+    "notes": "Hivemind is a creative studio producing high-quality 3D environments for Unreal Engine, Unity, and marketplaces (Fab, Unreal Marketplace). Freelance/remote. Blender explicitly accepted \u2014 strong DCC match. Unreal Engine environment art is a direct skill match. Games/marketplace focus (not film/broadcast) is an adjacent domain for Shem. ArtStation proxy-blocked \u2014 visit artstation.com/jobs/V6EP directly. Also see Hivemind prop artist (artstation.com/jobs/lkJX) and junior cleanup (artstation.com/jobs/qXVk) as context."
+  },
+  {
+    "id": "exalted-sandbox-blender-environment-artist-2026",
+    "title": "Blender Environment Artist",
+    "company": "Exalted Sandbox (Babylon.js platform)",
+    "location": "Remote (location not confirmed)",
+    "url": "https://www.blendernation.com/2026/09/18/blender-jobs-for-september-18-2026/",
+    "first_seen": "2026-09-24",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "2026-09-18",
+    "requirements": [
+      "Blender environment art",
+      "Real-time / browser-based 3D (Babylon.js / Three.js context)",
+      "Asset optimization for web/real-time environments"
+    ],
+    "notes": "Listed on BlenderNation September 18, 2026 job digest. Exalted Sandbox uses Babylon.js (browser-based real-time 3D) \u2014 interesting intersection of Shem's Blender skills + JavaScript background. Paid role. Posting originated from ArtStation or 3djobs.xyz (proxy-blocked). Full requirements unknown \u2014 visit the BlenderNation page or search 'Exalted Sandbox Blender Environment Artist' to find original listing. Medium fit: strong Blender match, adjacent domain (web/interactive 3D vs. VFX/broadcast)."
   }
 ]
