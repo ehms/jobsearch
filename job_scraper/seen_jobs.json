@@ -7753,5 +7753,19 @@
       "Asset optimization for web/real-time environments"
     ],
     "notes": "Listed on BlenderNation September 18, 2026 job digest. Exalted Sandbox uses Babylon.js (browser-based real-time 3D) \u2014 interesting intersection of Shem's Blender skills + JavaScript background. Paid role. Posting originated from ArtStation or 3djobs.xyz (proxy-blocked). Full requirements unknown \u2014 visit the BlenderNation page or search 'Exalted Sandbox Blender Environment Artist' to find original listing. Medium fit: strong Blender match, adjacent domain (web/interactive 3D vs. VFX/broadcast)."
+  },
+  {
+    "id": "larian-studios-associate-lead-cinematic-animator-2026",
+    "title": "Associate Lead Cinematic Animator",
+    "company": "Larian Studios",
+    "location": "Dublin, Ireland",
+    "url": "https://www.ziprecruiter.ie/jobs/599349107-associate-lead-cinematic-animator-at-larian",
+    "first_seen": "2026-09-25",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [],
+    "skip_reason": "Lead in title \u2014 excluded per seniority filter",
+    "notes": "Appeared in September 25 search via ZipRecruiter Ireland. Not previously tracked. Title 'Associate Lead Cinematic Animator' contains 'Lead' \u2014 excluded per seniority filter. Larian Studios Dublin (storytelling studio: Baldur's Gate 3) is already tracked for VFX Artist (seen July-August 2026) and Technical Artist - Pipeline & Tools (seen Sept 16). Animation-focused role, not core tech art territory."
   }
 ]
