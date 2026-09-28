@@ -7845,5 +7845,39 @@
     ],
     "skip_reason": "Low fit — character art for a platform fighter game, freelance milestone-based, not aligned with Shem's VFX/procedural/technical art strengths. Posting date unverifiable (ArtStation domain blocked). Character art is Priority 14, not a primary focus.",
     "notes": "Fluid Games is a small 6-person team making a competitive platform fighter game. Freelance 3D Character Artist role, remote, per-character/milestone payment. Character modeling is in Shem's skill set but is not a primary career direction. Not worth pursuing over core technical artist/VFX roles."
+  },
+  {
+    "id": "wargaming-technical-artist-world-of-tanks-console-2026",
+    "title": "Technical Artist (World of Tanks Console)",
+    "company": "Wargaming",
+    "location": "Serbia (on-site)",
+    "url": "https://startup.jobs/roles/technical-artist",
+    "first_seen": "2026-09-28",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-09-22",
+    "requirements": [
+      "Technical art pipeline for console game (World of Tanks)",
+      "On-site in Serbia"
+    ],
+    "skip_reason": "On-site in Serbia — requires relocation from Dublin. Deal-breaker.",
+    "notes": "Appeared in startup.jobs Technical Artist digest September 2026. On-site Serbia only. Not viable for Shem in Dublin."
+  },
+  {
+    "id": "pubg-studios-vfx-technical-artist-seoul-2026",
+    "title": "VFX Technical Artist",
+    "company": "PUBG Studios (Krafton)",
+    "location": "Seoul, South Korea (on-site)",
+    "url": "https://startup.jobs/roles/technical-artist",
+    "first_seen": "2026-09-28",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-09-21",
+    "requirements": [
+      "VFX technical art for PUBG",
+      "On-site in Seoul, South Korea"
+    ],
+    "skip_reason": "On-site in Seoul, South Korea — requires relocation from Dublin. Deal-breaker.",
+    "notes": "Appeared in startup.jobs Technical Artist digest September 2026. On-site Seoul only. Not viable for Shem in Dublin."
   }
 ]
