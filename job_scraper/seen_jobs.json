@@ -8007,5 +8007,136 @@
       "Preference for Republic of Ireland residents or willing to relocate"
     ],
     "notes": "Separate posting from windmill-lane-compositor-netflix-2026 (stop-motion Netflix feature). This is a general mid/senior compositor role for ongoing film & TV projects. Recent WL credits: Avenue 5 (HBO), Wendell & Wild (Netflix), A Discovery of Witches (Sky), KIN (AMC), Sex Education (Netflix), Landscapers (HBO). First surfaced in daily results 2026-07-17 but was not formally entered until today. Apply: recruit@windmilllane.com with 'Compositor \u2014 Mid' or 'Compositor \u2014 Senior' in subject line. Windmill Lane is one of Shem's cold-call targets. Studio Meala Disney+ mid-level compositing credit is a direct match. CAUTION: Zerply.com shuts down 2026-10-26 \u2014 do not use as source after that date. Cross-ref: windmilllane.com careers page."
+  },
+  {
+    "title": "Technical Artist (Unreal Shaders & Materials)",
+    "company": "Romero Games",
+    "location": "Remote EU / Galway, Ireland (option)",
+    "url": "https://romerogames.com/careers-technical-artist-unreal-shaders-materials",
+    "first_seen": "2026-10-02",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "date unknown",
+    "requirements": [
+      "Unreal Engine shaders and materials (custom shader development)",
+      "PBR workflows and material library management",
+      "Bridge between art and programming teams",
+      "Optimize shaders for real-time performance",
+      "Establish shader/material workflows and best practices",
+      "European timezone required"
+    ],
+    "notes": "John Romero's next FPS in partnership with a major publisher. Not a Material Artist role. Remote EU with option to relocate to Galway. Active on careers page as of 2026-10-02."
+  },
+  {
+    "title": "Environment Artist",
+    "company": "Romero Games",
+    "location": "Remote EU / Galway, Ireland (option)",
+    "url": "https://romerogames.com/careers-environment-artist",
+    "first_seen": "2026-10-02",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "date unknown",
+    "requirements": [
+      "3-5 years experience in real-time environment creation",
+      "At least 1 published title (ideally AAA)",
+      "Collaborate with asset, material, VFX, and lighting artists",
+      "Performance-optimized environments",
+      "European timezone required"
+    ],
+    "notes": "John Romero's next FPS. Remote EU with option to relocate to Galway. Requires published title which Shem lacks. Active on careers page as of 2026-10-02."
+  },
+  {
+    "title": "Lighting Artist",
+    "company": "Romero Games",
+    "location": "Remote EU / Galway, Ireland (option)",
+    "url": "https://romerogames.com/careers-lighting-artist",
+    "first_seen": "2026-10-02",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "date unknown",
+    "requirements": [
+      "Real-time lighting for Unreal Engine",
+      "John Romero's next FPS project",
+      "European timezone required"
+    ],
+    "notes": "Active on Romero Games careers page as of 2026-10-02. Not Shem's primary strength but within toolkit."
+  },
+  {
+    "title": "Technical Artist (Middle/Senior level)",
+    "company": "Seedify / Seedworld Studios",
+    "location": "Remote (100%)",
+    "url": "https://builtindublin.ie/job/technical-artist/3772661",
+    "first_seen": "2026-10-02",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "2026-09-23",
+    "requirements": [
+      "Unreal Engine (essential)",
+      "3D DCC tools: Maya, 3DS Max, Houdini, Blender",
+      "Programming: Python, Unreal Script, C++/C#",
+      "Shaders: PBR/GLSL/HLSL",
+      "Source control: Perforce, Git",
+      "Modeling, Texturing, VFX, Post Processing, Rigging, Animation pipeline knowledge"
+    ],
+    "notes": "Seedify is a blockchain gaming incubator. Salary paid in USDC (stable coins). Less aligned with Shem's VFX/animation focus. Technical skills match well but crypto context is unusual."
+  },
+  {
+    "title": "Senior Props Artist",
+    "company": "Romero Games",
+    "location": "Remote EU / Galway, Ireland (option)",
+    "url": "https://romerogames.com/careers-senior-props-artist",
+    "first_seen": "2026-10-02",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "date unknown",
+    "requirements": [
+      "Senior level props artist for FPS game"
+    ],
+    "skip_reason": "Senior title - excluded by seniority filter"
+  },
+  {
+    "title": "Senior Lighting Artist",
+    "company": "Romero Games",
+    "location": "Remote EU / Galway, Ireland (option)",
+    "url": "https://romerogames.com/careers-senior-lighting-artist",
+    "first_seen": "2026-10-02",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "date unknown",
+    "requirements": [
+      "Senior lighting artist for FPS game"
+    ],
+    "skip_reason": "Senior title - excluded by seniority filter"
+  },
+  {
+    "title": "Scopely Motion Designer",
+    "company": "Scopely",
+    "location": "Barcelona, Spain / Bangalore, India",
+    "url": "https://hitmarker.net/jobs/scopely-motion-designer-738323",
+    "first_seen": "2026-10-02",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-09-14",
+    "requirements": [
+      "Min 5 years experience",
+      "2D animation, video editing, 3D/VFX knowledge"
+    ],
+    "skip_reason": "Requires relocation (Barcelona/Bangalore) + requires 5+ years experience"
+  },
+  {
+    "title": "Technical Artist (Unity - Remote)",
+    "company": "Variable State",
+    "location": "Remote (UK/Ireland preferred)",
+    "url": "https://polycount.com/discussion/196510/paid-unity-technical-artist-rendering-lighting-shaders-vfx-variable-state-ltd",
+    "first_seen": "2026-10-02",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "date unknown",
+    "requirements": [
+      "Unity (not Unreal/Blender)",
+      "Rendering, lighting, VFX, shaders",
+      "12-month contract"
+    ],
+    "skip_reason": "Unity-focused (not Shem's primary engine); posting date unknown - may be outside 14-day window"
   }
 ]
