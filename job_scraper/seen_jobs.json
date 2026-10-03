@@ -8138,5 +8138,60 @@
       "12-month contract"
     ],
     "skip_reason": "Unity-focused (not Shem's primary engine); posting date unknown - may be outside 14-day window"
+  },
+  {
+    "title": "Technical Animator - Regular/Senior (f/m/d)",
+    "company": "Aesir Interactive GmbH",
+    "location": "Munich, Germany / Remote EU",
+    "url": "https://aesir.jobs.personio.com/job/1773596",
+    "first_seen": "2026-10-03",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "recently posted (Oct 2026)",
+    "requirements": [
+      "Unreal Engine 5 (Blueprints or C++)",
+      "Maya / 3ds Max / Blender — animation software",
+      "Animation graphs, rigs, blend trees",
+      "Python or C++ scripting",
+      "Integration and optimization of animations in real-time engines",
+      "Solid communication in English"
+    ],
+    "notes": "Munich-based indie studio (PC/Xbox/PlayStation/Switch). Role bridges animation and dev departments. 'Regular' level = mid-level eligible. Remote EU — Dublin acceptable. Salary €45,600–€75,000/yr. Shem's UE5 and Blender skills are strong matches; gap is animation rigging depth vs a dedicated rigging specialist."
+  },
+  {
+    "title": "Unity Technical Artist",
+    "company": "iLogos Game Studios",
+    "location": "Remote (worldwide, Ukraine-based company)",
+    "url": "https://www.remotefront.com/remote-jobs/ilogos-unity-technical-artist-rtqxe",
+    "first_seen": "2026-10-03",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "5+ years Unity experience",
+      "Mobile multiplayer optimization",
+      "C# and C++ proficiency",
+      "Shader development (GLSL/HLSL)",
+      "Profiling tools (PIX, RenderDoc)"
+    ],
+    "skip_reason": "Unity/mobile focused (not Shem's primary stack); requires 5+ years; USD-based payments; mobile gaming not a target sector"
+  },
+  {
+    "title": "Technical Artist (Unity / Game Feel)",
+    "company": "Hire Overseas (client undisclosed)",
+    "location": "Remote worldwide (USD payment, EU/US hours)",
+    "url": "https://remotive.com/remote/jobs/all-others/technical-artist-4150885",
+    "first_seen": "2026-10-03",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "5+ years Unity game experience",
+      "Animation-heavy UI and hybrid 2D/3D scenes",
+      "Mobile performance constraints",
+      "C# runtime and editor tooling",
+      "Reusable prefabs, timelines, state machines"
+    ],
+    "skip_reason": "Unity/mobile focused; requires 5+ years; USD compensation; core focus (game feel systems, retention/IAP moments) not aligned with Shem's creative-technical VFX profile"
   }
 ]
