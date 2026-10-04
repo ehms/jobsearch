@@ -8150,13 +8150,13 @@
     "posting_date": "recently posted (Oct 2026)",
     "requirements": [
       "Unreal Engine 5 (Blueprints or C++)",
-      "Maya / 3ds Max / Blender — animation software",
+      "Maya / 3ds Max / Blender \u2014 animation software",
       "Animation graphs, rigs, blend trees",
       "Python or C++ scripting",
       "Integration and optimization of animations in real-time engines",
       "Solid communication in English"
     ],
-    "notes": "Munich-based indie studio (PC/Xbox/PlayStation/Switch). Role bridges animation and dev departments. 'Regular' level = mid-level eligible. Remote EU — Dublin acceptable. Salary €45,600–€75,000/yr. Shem's UE5 and Blender skills are strong matches; gap is animation rigging depth vs a dedicated rigging specialist."
+    "notes": "Munich-based indie studio (PC/Xbox/PlayStation/Switch). Role bridges animation and dev departments. 'Regular' level = mid-level eligible. Remote EU \u2014 Dublin acceptable. Salary \u20ac45,600\u2013\u20ac75,000/yr. Shem's UE5 and Blender skills are strong matches; gap is animation rigging depth vs a dedicated rigging specialist."
   },
   {
     "title": "Unity Technical Artist",
@@ -8193,5 +8193,41 @@
       "Reusable prefabs, timelines, state machines"
     ],
     "skip_reason": "Unity/mobile focused; requires 5+ years; USD compensation; core focus (game feel systems, retention/IAP moments) not aligned with Shem's creative-technical VFX profile"
+  },
+  {
+    "title": "Technical Artist",
+    "company": "OpusMajor",
+    "location": "Remote (France-based, EU timezone)",
+    "url": "https://jobs.lever.co/opusmajor/63bdd669-1fe4-4963-b363-3284f6133d32",
+    "first_seen": "2026-10-04",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown (active as of 2026-10-04)",
+    "requirements": [
+      "Unreal Engine \u2014 materials, shaders, HLSL",
+      "Blender (\"huge plus\")",
+      "Art + Programming hybrid skill set",
+      "Shaders, basic modeling, tools, design, prototyping",
+      "Cross-platform multiplayer game context"
+    ],
+    "notes": "French indie studio (Paris, 11-50 employees), founded 2023. Building \"Opus\" \u2014 a cross-platform large-scale cooperative multiplayer game. Remote full-time. Technical Artist = transversal role bridging art and engineering. Strong UE + Blender + HLSL match for Shem. Small team culture (preference match). Posting date unknown \u2014 may be weeks or months old, confirm before applying. Games sector is secondary to Shem's primary VFX/film target."
+  },
+  {
+    "title": "AI Motion Graphic Designer 3D/2D",
+    "company": "Movimentum",
+    "location": "Remote (worldwide)",
+    "url": "https://builtindublin.ie/job/ai-motion-graphic-designer-3d-2d/10332652",
+    "first_seen": "2026-10-04",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "3+ years motion design and video editing",
+      "Strong portfolio in crypto",
+      "Deep understanding of Web3",
+      "Blender, After Effects, DaVinci Resolve",
+      "AI creative tools (e.g. Nano Banana Pro)"
+    ],
+    "skip_reason": "Web3/crypto company (Stratosphere/Movimentum) \u2014 requires \"strong portfolio in crypto\" and \"deep understanding of Web3\". Shem has no crypto/Web3 background. Crypto sector is not a target sector."
   }
 ]
