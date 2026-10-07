@@ -8229,5 +8229,146 @@
       "AI creative tools (e.g. Nano Banana Pro)"
     ],
     "skip_reason": "Web3/crypto company (Stratosphere/Movimentum) \u2014 requires \"strong portfolio in crypto\" and \"deep understanding of Web3\". Shem has no crypto/Web3 background. Crypto sector is not a target sector."
+  },
+  {
+    "title": "Compositor (Mid/Senior)",
+    "company": "One Of Us VFX",
+    "location": "London, UK (hybrid)",
+    "url": "https://apply.workable.com/one-of-us/jobs/view/D7A78CC94E.md",
+    "first_seen": "2026-10-07",
+    "fit": "SKIP",
+    "status": "skipped",
+    "posting_date": "2026-10-01",
+    "requirements": [
+      "Mid to Senior level compositing experience",
+      "Strong Nuke proficiency",
+      "Film/TV VFX compositing",
+      "Hybrid: 2 days/week in London office"
+    ],
+    "skip_reason": "London-based hybrid role (min 2 days/week on-site in London). Requires relocation from Dublin \u2014 deal-breaker."
+  },
+  {
+    "title": "Compositor (Mid/Senior)",
+    "company": "One Of Us VFX",
+    "location": "Paris, France (hybrid)",
+    "url": "https://apply.workable.com/one-of-us/jobs/view/3475FB238F.md",
+    "first_seen": "2026-10-07",
+    "fit": "SKIP",
+    "status": "skipped",
+    "posting_date": "2026-10-01",
+    "requirements": [
+      "Mid to Senior level compositing experience",
+      "Strong Nuke proficiency",
+      "Film/TV VFX compositing",
+      "Hybrid: 4 days/week in Paris office"
+    ],
+    "skip_reason": "Paris-based hybrid role (min 4 days/week on-site in Paris). Requires relocation from Dublin \u2014 deal-breaker."
+  },
+  {
+    "title": "Compositor",
+    "company": "One Of Us VFX",
+    "location": "Bangalore, India",
+    "url": "https://apply.workable.com/one-of-us/jobs/view/3F8381B3B1.md",
+    "first_seen": "2026-10-07",
+    "fit": "SKIP",
+    "status": "skipped",
+    "posting_date": "2026-07-24",
+    "requirements": [
+      "Compositing for Film/TV VFX",
+      "Nuke proficiency",
+      "Integration of 2D, 3D, and live-action elements"
+    ],
+    "skip_reason": "Bangalore, India-based role. Requires international relocation \u2014 deal-breaker."
+  },
+  {
+    "title": "Mid/SR VFX Compositor",
+    "company": "Boxel Studio",
+    "location": "Remote (British Columbia, Canada only)",
+    "url": "https://boxelstudio.com/jobs/mid-sr-level-vfx-compositor/",
+    "first_seen": "2026-10-07",
+    "fit": "SKIP",
+    "status": "skipped",
+    "posting_date": "2026-05-22",
+    "requirements": [
+      "3+ years compositing experience (episodic, commercial, or feature film)",
+      "Nuke proficiency",
+      "Shotgun (ShotGrid)",
+      "Must reside in British Columbia, Canada",
+      "Must be legally eligible to work in Canada"
+    ],
+    "skip_reason": "Canada-only role: must be legally eligible to work in Canada and currently reside in British Columbia. Not applicable for Dublin-based applicant."
+  },
+  {
+    "title": "Environment Artist / Level Designer (Unreal Engine)",
+    "company": "Kraftraum Games",
+    "location": "Remote",
+    "url": "https://www.remotely.de/job/kraftraum-games-unreal-engine-environment-artist",
+    "first_seen": "2026-10-07",
+    "fit": "SKIP",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Blender, Substance Designer/Painter, Unreal Engine 5",
+      "Environment art from blockout to final lighting",
+      "Level design/gameplay layout",
+      "Material authoring"
+    ],
+    "skip_reason": "Job listing no longer available (German: \"Diese Stelle ist nicht mehr verf\u00fcgbar\"). Expired/filled before today."
+  },
+  {
+    "title": "FX TD \u2014 Unreal Engine",
+    "company": "Brown Bag Films (via Milo HR)",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://www.ziprecruiter.ie/jobs/574294139-fx-td-unreal-engine-at-milo-hr",
+    "first_seen": "2026-10-07",
+    "fit": "LOW-MEDIUM",
+    "status": "new",
+    "posting_date": "2026-08-08",
+    "requirements": [
+      "Unreal Engine FX systems expertise",
+      "Python tools development for DCCs (Maya, Houdini, or Unreal)",
+      "FX pipeline integration in linear narrative Unreal pipelines",
+      "Source control (Git or Perforce)",
+      "EU candidates only",
+      "12-month fixed-term contract, \u20ac60k-70k"
+    ],
+    "skip_reason": null
+  },
+  {
+    "title": "FX TD \u2014 Unreal Engine (repost)",
+    "company": "Brown Bag Films (via Milo HR)",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://www.ziprecruiter.ie/jobs/580501610-fx-td-unreal-engine-at-milo-hr",
+    "first_seen": "2026-10-07",
+    "fit": "LOW-MEDIUM",
+    "status": "new",
+    "posting_date": "2026-08-20",
+    "requirements": [
+      "Unreal Engine FX systems expertise",
+      "Python tools development for DCCs (Maya, Houdini, or Unreal)",
+      "FX pipeline integration in linear narrative Unreal pipelines",
+      "Source control (Git or Perforce)",
+      "EU candidates only",
+      "12-month fixed-term contract, \u20ac60k-70k"
+    ],
+    "skip_reason": null
+  },
+  {
+    "title": "Digital Creative Designer",
+    "company": "Distilled",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://distilled.recruitee.com/o/dgtl-crtv-dsgnr",
+    "first_seen": "2026-10-07",
+    "fit": "LOW",
+    "status": "new",
+    "posting_date": "2026-09-04",
+    "requirements": [
+      "2-5 years digital design experience",
+      "Motion content for digital campaigns",
+      "Generative AI creative tools",
+      "Leading Irish online platforms focus",
+      "Estimated \u20ac40k-55k"
+    ],
+    "skip_reason": null
   }
 ]
