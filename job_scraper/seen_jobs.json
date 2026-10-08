@@ -8370,5 +8370,56 @@
       "Estimated \u20ac40k-55k"
     ],
     "skip_reason": null
+  },
+  {
+    "id": "2k-creative-tech-artist-fdc-dublin-2026",
+    "title": "Creative Tech Artist (Fixed Term Contract)",
+    "company": "2K",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://job-boards.greenhouse.io/2k/jobs/7733326003",
+    "first_seen": "2026-10-08",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Creative tech art in games context",
+      "Fixed term contract role",
+      "Dublin-based hybrid"
+    ],
+    "notes": "Surfaced via LinkedIn Ireland Technical Artist search as 'Actively Hiring'. Greenhouse URL from search results but page couldn't be fetched to verify full details. 2K has existing roles tracked (Senior TA, Senior VFX Artist). 'Creative' in title may indicate marketing/capture team orientation rather than core technical art."
+  },
+  {
+    "id": "vela-games-look-dev-technical-artist-dublin-2026",
+    "title": "Look Dev Technical Artist",
+    "company": "Vela Games",
+    "location": "Dublin, Ireland",
+    "url": "https://velagonegaming.com/careers",
+    "first_seen": "2026-10-08",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Look development (shaders, materials, rendering)",
+      "Technical art in games context",
+      "Dublin-based (commuting distance)"
+    ],
+    "notes": "Surfaced via LinkedIn Ireland Technical Artist search as 'Be an early applicant'. Separate from Senior Technical Artist already tracked (2026-09-02). Look Dev focus (shaders, materials, rendering) is strong Shem match. No 'Senior' in title \u2014 likely mid-level. Vela is a cold-call target studio. URL needs direct verification on velagonegaming.com or LinkedIn."
+  },
+  {
+    "id": "vela-games-pipeline-technical-artist-dublin-2026",
+    "title": "Pipeline Technical Artist",
+    "company": "Vela Games",
+    "location": "Dublin, Ireland",
+    "url": "https://velagonegaming.com/careers",
+    "first_seen": "2026-10-08",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Pipeline/tools development (Python scripting)",
+      "Technical art in games context",
+      "Dublin-based (commuting distance)"
+    ],
+    "notes": "Surfaced via LinkedIn Ireland Technical Artist search. Separate from Senior Technical Artist already tracked. Pipeline/tools focus (Python, procedural workflows) matches Shem's secondary skills strongly. No 'Senior' in title \u2014 likely mid-level. URL needs verification on Vela Games careers page."
   }
 ]
