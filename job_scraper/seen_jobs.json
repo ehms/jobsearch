@@ -8421,5 +8421,41 @@
       "Dublin-based (commuting distance)"
     ],
     "notes": "Surfaced via LinkedIn Ireland Technical Artist search. Separate from Senior Technical Artist already tracked. Pipeline/tools focus (Python, procedural workflows) matches Shem's secondary skills strongly. No 'Senior' in title \u2014 likely mid-level. URL needs verification on Vela Games careers page."
+  },
+  {
+    "id": "renderer-studios-technical-artist-remote-2026",
+    "title": "Technical Artist",
+    "company": "Renderer Studios",
+    "location": "Remote (Worldwide, long-term contract)",
+    "url": "https://uk.jooble.org/jdp/-3420118636092672711",
+    "first_seen": "2026-10-09",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Rigging setup, skinning, and export for game assets",
+      "Engine integration across client game projects",
+      "Technical QA of art assets",
+      "Self-directed task management and progress reporting",
+      "Experience with AAA game pipelines"
+    ],
+    "notes": "Game art production partner for global AAA publishers and studios. Remote long-term contract open worldwide. Role bridges art teams and client pipeline (rigging, skinning, exports, engine integration, QA). Medium fit: technical art pipeline skills match well but this is outsourcing work rather than Shem's target creative studios. No explicit Blender/Unreal requirement found in search snippets. Surfaced via Jooble remote Technical Artist search, appeared as 'Long term contract' with worldwide eligibility."
+  },
+  {
+    "id": "sporty-group-motion-designer-remote-2026",
+    "title": "Motion Designer",
+    "company": "Sporty Group",
+    "location": "Remote / Multiple locations (incl. Dublin)",
+    "url": "https://builtindublin.ie/job/motion-designer/7038292",
+    "first_seen": "2026-10-09",
+    "fit": "low",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Dynamic motion graphics for marketing and product initiatives",
+      "3+ years professional motion design, video editing, graphic design",
+      "Multiple office locations listed (mid-level)"
+    ],
+    "notes": "Sports betting/gaming company. Motion Designer creating marketing and product motion graphics. Low fit: sector mismatch (sports betting is not Shem's target), marketing-oriented rather than creative-technical, likely large team structure. Role is remote/hybrid across multiple locations including Dublin. Surfaced via Built In Dublin October 2026 motion designer listings."
   }
 ]
