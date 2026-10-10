@@ -8457,5 +8457,31 @@
       "Multiple office locations listed (mid-level)"
     ],
     "notes": "Sports betting/gaming company. Motion Designer creating marketing and product motion graphics. Low fit: sector mismatch (sports betting is not Shem's target), marketing-oriented rather than creative-technical, likely large team structure. Role is remote/hybrid across multiple locations including Dublin. Surfaced via Built In Dublin October 2026 motion designer listings."
+  },
+  {
+    "id": "milo-hr-online-compositor-july-2026-repost",
+    "title": "Online Compositor",
+    "company": "Brown Bag Films (via Milo HR)",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://www.ziprecruiter.ie/jobs/562542119-online-compositor-at-milo-hr",
+    "first_seen": "2026-10-10",
+    "fit": "high",
+    "status": "skipped",
+    "posting_date": "2026-07-22",
+    "requirements": [],
+    "skip_reason": "Repost of already-tracked brown-bag-films-online-compositor-2026 via ZipRecruiter mirror. See parent entry for full spec."
+  },
+  {
+    "id": "milo-hr-online-compositor-aug-2026-repost",
+    "title": "Online Compositor",
+    "company": "Brown Bag Films (via Milo HR)",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://www.ziprecruiter.ie/jobs/580107034-online-compositor-at-milo-hr",
+    "first_seen": "2026-10-10",
+    "fit": "high",
+    "status": "skipped",
+    "posting_date": "2026-08-19",
+    "requirements": [],
+    "skip_reason": "Repost of already-tracked brown-bag-films-online-compositor-2026 via ZipRecruiter mirror. See parent entry for full spec."
   }
 ]
