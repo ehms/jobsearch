@@ -8483,5 +8483,42 @@
     "posting_date": "2026-08-19",
     "requirements": [],
     "skip_reason": "Repost of already-tracked brown-bag-films-online-compositor-2026 via ZipRecruiter mirror. See parent entry for full spec."
+  },
+  {
+    "id": "irish-cancer-society-graphic-digital-designer-2026",
+    "title": "Graphic & Digital Designer",
+    "company": "Irish Cancer Society",
+    "location": "Dublin, Ireland (hybrid \u2014 Wed/Thu in office)",
+    "url": "https://www.creativeboom.com/jobs/graphic-digital-designer/",
+    "first_seen": "2026-10-11",
+    "fit": "low",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Minimum 5 years graphic or digital design experience",
+      "Adobe Creative Cloud proficiency",
+      "Animation, motion graphics, and infographic creation",
+      "Social media, web, and email marketing design",
+      "Strong portfolio required"
+    ],
+    "notes": "Irish Cancer Society permanent role, \u20ac51K, 35hrs/week. Closing 19 October 2026. Reports to Head of Brand & Marketing. Hybrid: Wed/Thu in office. No technical 3D components \u2014 primarily brand/marketing graphic design with motion graphics element. BA Visual Communications is relevant but 5yr minimum is a stretch. Not core Shem target (no Blender/Unreal/procedural). Low priority. Also on jobsireland.ie id 2445762."
+  },
+  {
+    "id": "2k-senior-vfx-artist-builtindublin-9114725",
+    "title": "Senior VFX Artist",
+    "company": "2K",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://builtindublin.ie/job/senior-vfx-artist/9114725",
+    "first_seen": "2026-10-11",
+    "fit": "high",
+    "status": "skipped",
+    "posting_date": "2026-09-20",
+    "requirements": [
+      "Particle systems, material creation, modeling, and texturing",
+      "Unreal Engine VFX",
+      "Takes VFX content from concept to completion",
+      "Collaborates with Lead VFX Artist"
+    ],
+    "skip_reason": "Senior level role \u2014 excluded per seniority filter. Duplicate/alternate URL for 2K Senior VFX Artist already tracked (id: 2k-senior-vfx-artist-dublin-2026)."
   }
 ]
