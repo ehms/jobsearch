@@ -8538,5 +8538,80 @@
     ],
     "skip_reason": "Seniority filter: Lead level (people management required, oversees 3D discipline)",
     "notes": "StoryToys mobile games studio Dublin. 3D Art Lead is both people manager and hands-on. Skipped due to Lead-level requirement. Salary unspecified. Posted Sep 21 2026. Discovered on Oct 12 search."
+  },
+  {
+    "title": "Creative (Motion Design)",
+    "company": "Superside",
+    "location": "Remote (Ireland eligible)",
+    "url": "https://builtindublin.ie/job/creative-motion-design/10376096",
+    "first_seen": "2026-10-13",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "After Effects",
+      "Illustrator",
+      "Photoshop",
+      "Lottie",
+      "Rive",
+      "BA in Design/Creative",
+      "motion portfolio"
+    ],
+    "notes": "Mid-level, remote, Superside is fully remote 700+ team. Focus on motion graphics, animated ads, Lottie/Rive for global brands. No Blender/Unreal mentioned. Good sector match but advertising-focused rather than VFX/3D."
+  },
+  {
+    "title": "3D VFX Artist",
+    "company": "ICON plc",
+    "location": "Dublin, in-office",
+    "url": "https://builtindublin.ie/job/3d-motion-designer/8662393",
+    "first_seen": "2026-10-13",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "~2026-10-03 (reposted ~10 days ago)",
+    "requirements": [
+      "3D graphics",
+      "animations",
+      "clinical trial visuals",
+      "BA in visual FX or graphic design",
+      "portfolio"
+    ],
+    "skip_reason": "Medical/clinical trials sector \u2014 same sector mismatch as previous ICON Plc 3D Generalist role. Medical data visualization is not the creative-technical direction Shem is pursuing."
+  },
+  {
+    "title": "Motion Designer",
+    "company": "Neo Group",
+    "location": "Remote (Malta-based company)",
+    "url": "https://builtindublin.ie/job/motion-designer/6689232",
+    "first_seen": "2026-10-13",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "After Effects",
+      "Cinema 4D",
+      "2+ years motion design",
+      "promotional videos",
+      "trailers"
+    ],
+    "skip_reason": "iGaming sector (B2B services for iGaming industry). Promotional trailers/marketing materials focus. Not the creative-technical VFX/games/broadcast sector Shem is targeting."
+  },
+  {
+    "title": "Tender Animator / 4D Planner",
+    "company": "Collen Construction",
+    "location": "Dublin",
+    "url": "https://eurostaffs.org/job/tender-animator-4-d-planner-collen-construction",
+    "first_seen": "2026-10-13",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Navisworks",
+      "P6",
+      "MS Project",
+      "Revit",
+      "IFC workflows",
+      "2+ years planning/BIM/visualisation"
+    ],
+    "skip_reason": "Construction BIM/4D planning role \u2014 not the creative-technical sector Shem is targeting. Tools are construction-specific (Navisworks/Revit/P6), not Blender/Unreal for creative purposes."
   }
 ]
