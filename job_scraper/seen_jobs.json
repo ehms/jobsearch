@@ -8613,5 +8613,98 @@
       "2+ years planning/BIM/visualisation"
     ],
     "skip_reason": "Construction BIM/4D planning role \u2014 not the creative-technical sector Shem is targeting. Tools are construction-specific (Navisworks/Revit/P6), not Blender/Unreal for creative purposes."
+  },
+  {
+    "id": "ilogos-environment-artist-remote-2026",
+    "title": "Environment Artist",
+    "company": "iLogos Game Studios",
+    "location": "Remote (worldwide)",
+    "url": "https://careers.ilogos.biz/jobs/6280040-environment-artist",
+    "first_seen": "2026-10-14",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Blender (primary tool)",
+      "Unity game engine",
+      "Substance Painter",
+      "Retopology and UV optimization",
+      "Portfolio of game-ready environments or props",
+      "Nice-to-have: shader/material knowledge in Unity",
+      "Nice-to-have: rigging or animation experience"
+    ],
+    "notes": "iLogos is a remote-first mobile game outsourcing studio (400+ projects since 2006). Stack centers on Blender + Unity + Substance Painter for game-ready environment assets. Fully remote, work from anywhere on own schedule. Posting date unconfirmed."
+  },
+  {
+    "id": "screen-scene-3d-generalist-freelance-dublin-2026",
+    "title": "3D Generalist (Freelance)",
+    "company": "Screen Scene VFX",
+    "location": "Dublin, Ireland (on-site freelance)",
+    "url": "https://cgmeetup.com/job/fx-artist-freelance-screen-scene-vfx-dublin-ireland",
+    "first_seen": "2026-10-14",
+    "fit": "low",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "3ds Max",
+      "Shotgun pipeline experience",
+      "European passport required",
+      "Modeling, texturing, look development, animation and lighting"
+    ],
+    "notes": "Screen Scene is a premium Dublin post-production/VFX house (Sky, Monzo credits). Freelance role. Primary tool is 3ds Max \u2014 not Shem core stack (Blender). Shem's Multimedia Diploma includes 3D Studio Max. Posting date unconfirmed \u2014 may be stale. Low fit but Screen Scene is a high-value cold-call target."
+  },
+  {
+    "id": "brown-bag-films-senior-fx-artist-unreal-aug2026",
+    "title": "Senior FX Artist (Unreal Engine)",
+    "company": "Brown Bag Films (via Milo HR)",
+    "location": "Dublin, Ireland (hybrid, 2 days/week in studio)",
+    "url": "https://www.ziprecruiter.ie/jobs/576598053-senior-fx-artist-unreal-engine-at-milo-hr",
+    "first_seen": "2026-10-14",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2026-08-12",
+    "requirements": [
+      "Unreal Engine FX",
+      "Senior level experience (5+ years implied)",
+      "Hybrid: minimum 2 days/week in Dublin studio",
+      "12-month fixed-term contract",
+      "EU candidates only"
+    ],
+    "skip_reason": "Senior level \u2014 auto-filter (seniority above mid-level)"
+  },
+  {
+    "id": "jobgether-senior-motion-graphic-designer-ireland-sep2026",
+    "title": "Senior Motion Graphic Designer",
+    "company": "Jobgether (client undisclosed)",
+    "location": "Remote, Ireland",
+    "url": "https://designproject.io/jobs/senior-motion-graphic-designer-at-jobgether-hocif5",
+    "first_seen": "2026-10-14",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2026-09-22",
+    "requirements": [
+      "5-10 years experience",
+      "AI-powered creative tools integration",
+      "Motion design and animation",
+      "Fully remote, Ireland"
+    ],
+    "skip_reason": "Senior level (5-10 years required) \u2014 auto-filter"
+  },
+  {
+    "id": "lighthouse-studios-2d-fx-artist-kilkenny-oct2026",
+    "title": "2D FX Artist (Rick and Morty)",
+    "company": "Lighthouse Studios",
+    "location": "Kilkenny, Ireland (studio or remote within Republic of Ireland)",
+    "url": "https://animationireland.com/job/lighthouse-studios-hiring-experienced-2d-fx-artists-2",
+    "first_seen": "2026-10-14",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Toon Boom Harmony (hand-drawn and technical FX)",
+      "Must be based in Republic of Ireland",
+      "Contract running to October 23, 2026"
+    ],
+    "skip_reason": "2D FX with Toon Boom Harmony (not 3D/VFX). Contract nearly expired (ends Oct 23, 2026). Kilkenny-based."
   }
 ]
