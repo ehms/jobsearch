@@ -8706,5 +8706,22 @@
       "Contract running to October 23, 2026"
     ],
     "skip_reason": "2D FX with Toon Boom Harmony (not 3D/VFX). Contract nearly expired (ends Oct 23, 2026). Kilkenny-based."
+  },
+  {
+    "title": "Nuke Compositor (Senior)",
+    "company": "Screen Scene VFX",
+    "location": "Dublin (on-site)",
+    "url": "https://iftn.ie/jobs/?act1=record&aid=18&force=1&only=1&rid=2193&tpl=jobslist",
+    "first_seen": "2026-10-15",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown (IFTN rid=2193, likely older)",
+    "requirements": [
+      "Nuke (6+ years minimum)",
+      "VFX compositing",
+      "Features/broadcast",
+      "On-site Dublin"
+    ],
+    "skip_reason": "Senior-level role requiring 6+ years Nuke experience; Nuke is not Shem primary tool (Blender/After Effects stack). IFTN record ID 2193 suggests posting may also be stale."
   }
 ]
