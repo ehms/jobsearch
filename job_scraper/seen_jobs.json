@@ -8025,7 +8025,8 @@
       "Establish shader/material workflows and best practices",
       "European timezone required"
     ],
-    "notes": "John Romero's next FPS in partnership with a major publisher. Not a Material Artist role. Remote EU with option to relocate to Galway. Active on careers page as of 2026-10-02."
+    "notes": "John Romero's next FPS in partnership with a major publisher. Not a Material Artist role. Remote EU with option to relocate to Galway. Active on careers page as of 2026-10-02.",
+    "id": "romero-games-technical-artist-unreal-shaders-materials-2026"
   },
   {
     "title": "Environment Artist",
@@ -8043,7 +8044,8 @@
       "Performance-optimized environments",
       "European timezone required"
     ],
-    "notes": "John Romero's next FPS. Remote EU with option to relocate to Galway. Requires published title which Shem lacks. Active on careers page as of 2026-10-02."
+    "notes": "John Romero's next FPS. Remote EU with option to relocate to Galway. Requires published title which Shem lacks. Active on careers page as of 2026-10-02.",
+    "id": "romero-games-environment-artist-2026"
   },
   {
     "title": "Lighting Artist",
@@ -8059,7 +8061,8 @@
       "John Romero's next FPS project",
       "European timezone required"
     ],
-    "notes": "Active on Romero Games careers page as of 2026-10-02. Not Shem's primary strength but within toolkit."
+    "notes": "Active on Romero Games careers page as of 2026-10-02. Not Shem's primary strength but within toolkit.",
+    "id": "romero-games-lighting-artist-2026"
   },
   {
     "title": "Technical Artist (Middle/Senior level)",
@@ -8078,7 +8081,8 @@
       "Source control: Perforce, Git",
       "Modeling, Texturing, VFX, Post Processing, Rigging, Animation pipeline knowledge"
     ],
-    "notes": "Seedify is a blockchain gaming incubator. Salary paid in USDC (stable coins). Less aligned with Shem's VFX/animation focus. Technical skills match well but crypto context is unusual."
+    "notes": "Seedify is a blockchain gaming incubator. Salary paid in USDC (stable coins). Less aligned with Shem's VFX/animation focus. Technical skills match well but crypto context is unusual.",
+    "id": "seedify-seedworld-studios-technical-artist-middle-senior-lev-2026"
   },
   {
     "title": "Senior Props Artist",
@@ -8092,7 +8096,8 @@
     "requirements": [
       "Senior level props artist for FPS game"
     ],
-    "skip_reason": "Senior title - excluded by seniority filter"
+    "skip_reason": "Senior title - excluded by seniority filter",
+    "id": "romero-games-senior-props-artist-2026"
   },
   {
     "title": "Senior Lighting Artist",
@@ -8106,7 +8111,8 @@
     "requirements": [
       "Senior lighting artist for FPS game"
     ],
-    "skip_reason": "Senior title - excluded by seniority filter"
+    "skip_reason": "Senior title - excluded by seniority filter",
+    "id": "romero-games-senior-lighting-artist-2026"
   },
   {
     "title": "Scopely Motion Designer",
@@ -8121,7 +8127,8 @@
       "Min 5 years experience",
       "2D animation, video editing, 3D/VFX knowledge"
     ],
-    "skip_reason": "Requires relocation (Barcelona/Bangalore) + requires 5+ years experience"
+    "skip_reason": "Requires relocation (Barcelona/Bangalore) + requires 5+ years experience",
+    "id": "scopely-scopely-motion-designer-2026"
   },
   {
     "title": "Technical Artist (Unity - Remote)",
@@ -8137,7 +8144,8 @@
       "Rendering, lighting, VFX, shaders",
       "12-month contract"
     ],
-    "skip_reason": "Unity-focused (not Shem's primary engine); posting date unknown - may be outside 14-day window"
+    "skip_reason": "Unity-focused (not Shem's primary engine); posting date unknown - may be outside 14-day window",
+    "id": "variable-state-technical-artist-unity-remote-2026"
   },
   {
     "title": "Technical Animator - Regular/Senior (f/m/d)",
@@ -8156,7 +8164,8 @@
       "Integration and optimization of animations in real-time engines",
       "Solid communication in English"
     ],
-    "notes": "Munich-based indie studio (PC/Xbox/PlayStation/Switch). Role bridges animation and dev departments. 'Regular' level = mid-level eligible. Remote EU \u2014 Dublin acceptable. Salary \u20ac45,600\u2013\u20ac75,000/yr. Shem's UE5 and Blender skills are strong matches; gap is animation rigging depth vs a dedicated rigging specialist."
+    "notes": "Munich-based indie studio (PC/Xbox/PlayStation/Switch). Role bridges animation and dev departments. 'Regular' level = mid-level eligible. Remote EU \u2014 Dublin acceptable. Salary \u20ac45,600\u2013\u20ac75,000/yr. Shem's UE5 and Blender skills are strong matches; gap is animation rigging depth vs a dedicated rigging specialist.",
+    "id": "aesir-interactive-gmbh-technical-animator-regular-senior-f-m-2026"
   },
   {
     "title": "Unity Technical Artist",
@@ -8174,7 +8183,8 @@
       "Shader development (GLSL/HLSL)",
       "Profiling tools (PIX, RenderDoc)"
     ],
-    "skip_reason": "Unity/mobile focused (not Shem's primary stack); requires 5+ years; USD-based payments; mobile gaming not a target sector"
+    "skip_reason": "Unity/mobile focused (not Shem's primary stack); requires 5+ years; USD-based payments; mobile gaming not a target sector",
+    "id": "ilogos-game-studios-unity-technical-artist-2026"
   },
   {
     "title": "Technical Artist (Unity / Game Feel)",
@@ -8192,7 +8202,8 @@
       "C# runtime and editor tooling",
       "Reusable prefabs, timelines, state machines"
     ],
-    "skip_reason": "Unity/mobile focused; requires 5+ years; USD compensation; core focus (game feel systems, retention/IAP moments) not aligned with Shem's creative-technical VFX profile"
+    "skip_reason": "Unity/mobile focused; requires 5+ years; USD compensation; core focus (game feel systems, retention/IAP moments) not aligned with Shem's creative-technical VFX profile",
+    "id": "hire-overseas-client-undisclosed-technical-artist-unity-game-2026"
   },
   {
     "title": "Technical Artist",
@@ -8210,7 +8221,8 @@
       "Shaders, basic modeling, tools, design, prototyping",
       "Cross-platform multiplayer game context"
     ],
-    "notes": "French indie studio (Paris, 11-50 employees), founded 2023. Building \"Opus\" \u2014 a cross-platform large-scale cooperative multiplayer game. Remote full-time. Technical Artist = transversal role bridging art and engineering. Strong UE + Blender + HLSL match for Shem. Small team culture (preference match). Posting date unknown \u2014 may be weeks or months old, confirm before applying. Games sector is secondary to Shem's primary VFX/film target."
+    "notes": "French indie studio (Paris, 11-50 employees), founded 2023. Building \"Opus\" \u2014 a cross-platform large-scale cooperative multiplayer game. Remote full-time. Technical Artist = transversal role bridging art and engineering. Strong UE + Blender + HLSL match for Shem. Small team culture (preference match). Posting date unknown \u2014 may be weeks or months old, confirm before applying. Games sector is secondary to Shem's primary VFX/film target.",
+    "id": "opusmajor-technical-artist-2026"
   },
   {
     "title": "AI Motion Graphic Designer 3D/2D",
@@ -8228,7 +8240,8 @@
       "Blender, After Effects, DaVinci Resolve",
       "AI creative tools (e.g. Nano Banana Pro)"
     ],
-    "skip_reason": "Web3/crypto company (Stratosphere/Movimentum) \u2014 requires \"strong portfolio in crypto\" and \"deep understanding of Web3\". Shem has no crypto/Web3 background. Crypto sector is not a target sector."
+    "skip_reason": "Web3/crypto company (Stratosphere/Movimentum) \u2014 requires \"strong portfolio in crypto\" and \"deep understanding of Web3\". Shem has no crypto/Web3 background. Crypto sector is not a target sector.",
+    "id": "movimentum-ai-motion-graphic-designer-3d-2d-2026"
   },
   {
     "title": "Compositor (Mid/Senior)",
@@ -8245,7 +8258,8 @@
       "Film/TV VFX compositing",
       "Hybrid: 2 days/week in London office"
     ],
-    "skip_reason": "London-based hybrid role (min 2 days/week on-site in London). Requires relocation from Dublin \u2014 deal-breaker."
+    "skip_reason": "London-based hybrid role (min 2 days/week on-site in London). Requires relocation from Dublin \u2014 deal-breaker.",
+    "id": "one-of-us-vfx-compositor-mid-senior-2026"
   },
   {
     "title": "Compositor (Mid/Senior)",
@@ -8262,7 +8276,8 @@
       "Film/TV VFX compositing",
       "Hybrid: 4 days/week in Paris office"
     ],
-    "skip_reason": "Paris-based hybrid role (min 4 days/week on-site in Paris). Requires relocation from Dublin \u2014 deal-breaker."
+    "skip_reason": "Paris-based hybrid role (min 4 days/week on-site in Paris). Requires relocation from Dublin \u2014 deal-breaker.",
+    "id": "one-of-us-vfx-compositor-mid-senior-2026-2"
   },
   {
     "title": "Compositor",
@@ -8278,7 +8293,8 @@
       "Nuke proficiency",
       "Integration of 2D, 3D, and live-action elements"
     ],
-    "skip_reason": "Bangalore, India-based role. Requires international relocation \u2014 deal-breaker."
+    "skip_reason": "Bangalore, India-based role. Requires international relocation \u2014 deal-breaker.",
+    "id": "one-of-us-vfx-compositor-2026"
   },
   {
     "title": "Mid/SR VFX Compositor",
@@ -8296,7 +8312,8 @@
       "Must reside in British Columbia, Canada",
       "Must be legally eligible to work in Canada"
     ],
-    "skip_reason": "Canada-only role: must be legally eligible to work in Canada and currently reside in British Columbia. Not applicable for Dublin-based applicant."
+    "skip_reason": "Canada-only role: must be legally eligible to work in Canada and currently reside in British Columbia. Not applicable for Dublin-based applicant.",
+    "id": "boxel-studio-mid-sr-vfx-compositor-2026"
   },
   {
     "title": "Environment Artist / Level Designer (Unreal Engine)",
@@ -8313,7 +8330,8 @@
       "Level design/gameplay layout",
       "Material authoring"
     ],
-    "skip_reason": "Job listing no longer available (German: \"Diese Stelle ist nicht mehr verf\u00fcgbar\"). Expired/filled before today."
+    "skip_reason": "Job listing no longer available (German: \"Diese Stelle ist nicht mehr verf\u00fcgbar\"). Expired/filled before today.",
+    "id": "kraftraum-games-environment-artist-level-designer-unreal-eng-2026"
   },
   {
     "title": "FX TD \u2014 Unreal Engine",
@@ -8332,7 +8350,8 @@
       "EU candidates only",
       "12-month fixed-term contract, \u20ac60k-70k"
     ],
-    "skip_reason": null
+    "skip_reason": null,
+    "id": "brown-bag-films-via-milo-hr-fx-td-unreal-engine-2026"
   },
   {
     "title": "FX TD \u2014 Unreal Engine (repost)",
@@ -8351,7 +8370,8 @@
       "EU candidates only",
       "12-month fixed-term contract, \u20ac60k-70k"
     ],
-    "skip_reason": null
+    "skip_reason": null,
+    "id": "brown-bag-films-via-milo-hr-fx-td-unreal-engine-repost-2026"
   },
   {
     "title": "Digital Creative Designer",
@@ -8369,7 +8389,8 @@
       "Leading Irish online platforms focus",
       "Estimated \u20ac40k-55k"
     ],
-    "skip_reason": null
+    "skip_reason": null,
+    "id": "distilled-digital-creative-designer-2026"
   },
   {
     "id": "2k-creative-tech-artist-fdc-dublin-2026",
@@ -8557,7 +8578,8 @@
       "BA in Design/Creative",
       "motion portfolio"
     ],
-    "notes": "Mid-level, remote, Superside is fully remote 700+ team. Focus on motion graphics, animated ads, Lottie/Rive for global brands. No Blender/Unreal mentioned. Good sector match but advertising-focused rather than VFX/3D."
+    "notes": "Mid-level, remote, Superside is fully remote 700+ team. Focus on motion graphics, animated ads, Lottie/Rive for global brands. No Blender/Unreal mentioned. Good sector match but advertising-focused rather than VFX/3D.",
+    "id": "superside-creative-motion-design-2026"
   },
   {
     "title": "3D VFX Artist",
@@ -8575,7 +8597,8 @@
       "BA in visual FX or graphic design",
       "portfolio"
     ],
-    "skip_reason": "Medical/clinical trials sector \u2014 same sector mismatch as previous ICON Plc 3D Generalist role. Medical data visualization is not the creative-technical direction Shem is pursuing."
+    "skip_reason": "Medical/clinical trials sector \u2014 same sector mismatch as previous ICON Plc 3D Generalist role. Medical data visualization is not the creative-technical direction Shem is pursuing.",
+    "id": "icon-plc-3d-vfx-artist-2026"
   },
   {
     "title": "Motion Designer",
@@ -8593,7 +8616,8 @@
       "promotional videos",
       "trailers"
     ],
-    "skip_reason": "iGaming sector (B2B services for iGaming industry). Promotional trailers/marketing materials focus. Not the creative-technical VFX/games/broadcast sector Shem is targeting."
+    "skip_reason": "iGaming sector (B2B services for iGaming industry). Promotional trailers/marketing materials focus. Not the creative-technical VFX/games/broadcast sector Shem is targeting.",
+    "id": "neo-group-motion-designer-2026"
   },
   {
     "title": "Tender Animator / 4D Planner",
@@ -8612,7 +8636,8 @@
       "IFC workflows",
       "2+ years planning/BIM/visualisation"
     ],
-    "skip_reason": "Construction BIM/4D planning role \u2014 not the creative-technical sector Shem is targeting. Tools are construction-specific (Navisworks/Revit/P6), not Blender/Unreal for creative purposes."
+    "skip_reason": "Construction BIM/4D planning role \u2014 not the creative-technical sector Shem is targeting. Tools are construction-specific (Navisworks/Revit/P6), not Blender/Unreal for creative purposes.",
+    "id": "collen-construction-tender-animator-4d-planner-2026"
   },
   {
     "id": "ilogos-environment-artist-remote-2026",
@@ -8722,6 +8747,7 @@
       "Features/broadcast",
       "On-site Dublin"
     ],
-    "skip_reason": "Senior-level role requiring 6+ years Nuke experience; Nuke is not Shem primary tool (Blender/After Effects stack). IFTN record ID 2193 suggests posting may also be stale."
+    "skip_reason": "Senior-level role requiring 6+ years Nuke experience; Nuke is not Shem primary tool (Blender/After Effects stack). IFTN record ID 2193 suggests posting may also be stale.",
+    "id": "screen-scene-vfx-nuke-compositor-senior-2026"
   }
 ]
