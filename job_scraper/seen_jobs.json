@@ -8749,5 +8749,23 @@
     ],
     "skip_reason": "Senior-level role requiring 6+ years Nuke experience; Nuke is not Shem primary tool (Blender/After Effects stack). IFTN record ID 2193 suggests posting may also be stale.",
     "id": "screen-scene-vfx-nuke-compositor-senior-2026"
+  },
+  {
+    "id": "oliver-agency-video-editor-2026",
+    "title": "Video Editor",
+    "company": "OLIVER Agency",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://builtindublin.ie/job/video-editor/8541759",
+    "first_seen": "2026-10-17",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "~2026-10-11",
+    "requirements": [
+      "Premiere Pro, After Effects, Adobe Creative Suite",
+      "Motion software; craft narratives",
+      "Client-facing video content editing",
+      "High production standards"
+    ],
+    "notes": "Video editing role (Premiere-centric), not technical art or motion design; not aligned with Shem core direction"
   }
 ]
