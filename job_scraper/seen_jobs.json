@@ -8767,5 +8767,83 @@
       "High production standards"
     ],
     "notes": "Video editing role (Premiere-centric), not technical art or motion design; not aligned with Shem core direction"
+  },
+  {
+    "title": "Motion Designer",
+    "company": "OLIVER Ireland",
+    "location": "Dublin City, County Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/motion-designer-at-oliver-ireland",
+    "first_seen": "2026-10-18",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "~2026-10-04",
+    "requirements": [
+      "Motion design",
+      "After Effects",
+      "Cinema 4D",
+      "Adobe suite",
+      "Commercial/brand focus"
+    ],
+    "notes": "OLIVER in-house agency model embedded with client brands. 'Actively Hiring' on LinkedIn, ~2 weeks ago. Different from the Video Editor role seen 2026-10-17. Motion-focused creative role."
+  },
+  {
+    "title": "Visual/Motion Designer",
+    "company": "Salesforce",
+    "location": "Dublin, County Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/visual-motion-designer-at-salesforce-dublin",
+    "first_seen": "2026-10-18",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "~2026-10-04",
+    "requirements": [
+      "Visual design",
+      "Motion design",
+      "Adobe CC",
+      "Marketing/product design"
+    ],
+    "notes": "Large corporate tech company; 'Actively Hiring' on LinkedIn, ~2 weeks ago. Not aligned with Shem's small-studio preference but the motion design skillset is relevant."
+  },
+  {
+    "title": "Compositors",
+    "company": "Unknown (IFTN posting #4150)",
+    "location": "Ireland",
+    "url": "https://www.iftn.ie/jobs/?act1=record&aid=18&force=1&only=1&rid=4150&tpl=jobslist",
+    "first_seen": "2026-10-18",
+    "fit": "unknown",
+    "status": "needs_verification",
+    "posting_date": "unknown",
+    "requirements": [],
+    "skip_reason": "Could not access IFTN page \u2014 site unreachable from remote environment. Company and details unknown. Flagged for manual review at iftn.ie."
+  },
+  {
+    "title": "Unity Tech Artist - 3D Engine Team",
+    "company": "Huawei Ireland Research Center",
+    "location": "Dublin, Ireland",
+    "url": "https://huaweiireland.teamtailor.com/",
+    "first_seen": "2026-10-18",
+    "fit": "medium",
+    "status": "needs_verification",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unity",
+      "3D Engine tech art",
+      "R&D"
+    ],
+    "notes": "Appeared in LinkedIn search result. Research center environment; Unity focus (not Unreal). Adjacent to Shem's 3D engine skills. Needs direct URL verification."
+  },
+  {
+    "title": "Art Director",
+    "company": "OLIVER Ireland",
+    "location": "Dublin, County Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/art-director-at-oliver-ireland",
+    "first_seen": "2026-10-18",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "~2026-10-18",
+    "requirements": [
+      "Art direction",
+      "Brand design"
+    ],
+    "skip_reason": "Art Director is a senior-level title above Shem's mid-level target. LinkedIn showed ~15 hours ago."
   }
 ]
