@@ -8845,5 +8845,74 @@
       "Brand design"
     ],
     "skip_reason": "Art Director is a senior-level title above Shem's mid-level target. LinkedIn showed ~15 hours ago."
+  },
+  {
+    "id": "egg-post-production-cg-generalist-2026-10",
+    "title": "Computer Graphics Generalist",
+    "company": "EGG Post Production and VFX",
+    "location": "Dublin, Ireland",
+    "url": "https://builtindublin.ie/company/egg-post-production-and-vfx",
+    "first_seen": "2026-10-19",
+    "fit": "high",
+    "status": "needs-verification",
+    "posting_date": "~2026-10-16",
+    "requirements": [
+      "CG/VFX generalist skills",
+      "Post-production pipeline experience",
+      "Dublin-based role"
+    ],
+    "notes": "Appeared in LinkedIn search 3 days ago (Oct 16). EGG Post Production and VFX is a Dublin-based post-production house, IFTA winner 2023, BAFTA nominee 2022. Direct job URL unknown \u2014 verify at egg.ie/careers or LinkedIn. High culture/sector fit for Shem."
+  },
+  {
+    "id": "taller-stories-motion-graphic-designer-2026-10",
+    "title": "Motion Graphic Designer",
+    "company": "Taller Stories",
+    "location": "Dublin 7, Ireland",
+    "url": "https://ie.linkedin.com/jobs/search/?keywords=motion+graphic+designer&location=Dublin",
+    "first_seen": "2026-10-19",
+    "fit": "medium",
+    "status": "needs-verification",
+    "posting_date": "~2026-10-18",
+    "requirements": [
+      "Motion graphics for video production",
+      "Small studio environment (2\u20139 employees)"
+    ],
+    "notes": "Appeared 1 day ago on LinkedIn. Taller Stories is a small Dublin 7 video production company (founded 2014, 2\u20139 employees). Small studio culture is a good match for Shem. Exact JD and URL unknown \u2014 needs manual LinkedIn check. Lower priority than EGG."
+  },
+  {
+    "id": "algorithm-cg-vfx-generalist-fx-simulation-2026",
+    "title": "CG / VFX Generalist (FX & Simulation)",
+    "company": "Algorithm",
+    "location": "Dublin (fully remote, Irish working hours GMT/IST)",
+    "url": "https://animationireland.com/job/algorithm-hiring-cg-vfx-generalist/",
+    "first_seen": "2026-10-19",
+    "fit": "medium-high",
+    "status": "near-expired",
+    "posting_date": "unknown",
+    "requirements": [
+      "FX and simulation work in Maya",
+      "Redshift setup and lighting",
+      "3\u20135 years CG/VFX production experience",
+      "Full-dome immersive media production",
+      "CV + reel to jobs@algorithm.ie"
+    ],
+    "notes": "Different role from existing algorithm-cg-generalist-dublin-2026 (surfacing/look dev). This role focuses on FX/simulation in Maya + Redshift. Contract runs through early November \u2014 may be near-expired. Remote-friendly. Mid-level fit good but Maya-centric rather than Blender."
+  },
+  {
+    "id": "dice-technical-artist-runtime-ireland-2026-linkedin",
+    "title": "Technical Artist (Runtime)",
+    "company": "DICE / Electronic Arts",
+    "location": "Listed as Ireland on LinkedIn (DICE offices are Stockholm/Gothenburg)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist/211469",
+    "first_seen": "2026-10-19",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "~2026-10-17",
+    "requirements": [
+      "Technical art for Battlefield franchise",
+      "Runtime performance team",
+      "3+ years technical art for games"
+    ],
+    "skip_reason": "DICE is EA's Stockholm/Gothenburg-based studio. 'Ireland' listing on LinkedIn likely erroneous or refers to remote-eligible EA region listing; confirmed office locations are Sweden. Already tracked as dice-technical-artist-runtime-dublin-2026."
   }
 ]
