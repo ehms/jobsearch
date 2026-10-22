@@ -9011,5 +9011,24 @@
     "posting_date": "2026-09-20",
     "requirements": "Motion design lead, brand portfolio, After Effects, oversee freelance motion specialists",
     "skip_reason": "Lead title; outside 14-day freshness window; large corporate brand role"
+  },
+  {
+    "id": "qloc-character-artist-remote-eu-2026",
+    "title": "Character Artist",
+    "company": "QLOC",
+    "location": "Remote EU (Warsaw / Gdańsk / Remote)",
+    "url": "https://www.designremotejobs.com/job/qloc-character-artist-remote-eu",
+    "first_seen": "2026-10-22",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "2026-10-05",
+    "requirements": [
+      "Character art for games (high/low poly)",
+      "Blender experience",
+      "Unreal Engine experience",
+      "Substance Painter",
+      "Remote EU eligibility"
+    ],
+    "notes": "QLOC is a Polish game art studio (Warsaw/Gdańsk) working on Unreal Engine and custom engine titles. Remote EU listing surfaced via designremotejobs.com. Posted ~Oct 5, 2026. Fit is medium — character art is adjacent to Shem's 3D generalist/rigging skills (Blender Rigify, character modeling), and the Blender + Unreal Engine stack is a direct match. Key gap: character art specialist role rather than technical art or motion design. Worth checking q-loc.com directly for confirmation and full spec. Source: search snippet only — verify before applying."
   }
 ]
