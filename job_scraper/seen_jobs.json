@@ -9016,7 +9016,7 @@
     "id": "qloc-character-artist-remote-eu-2026",
     "title": "Character Artist",
     "company": "QLOC",
-    "location": "Remote EU (Warsaw / Gdańsk / Remote)",
+    "location": "Remote EU (Warsaw / Gda\u0144sk / Remote)",
     "url": "https://www.designremotejobs.com/job/qloc-character-artist-remote-eu",
     "first_seen": "2026-10-22",
     "fit": "medium",
@@ -9029,6 +9029,27 @@
       "Substance Painter",
       "Remote EU eligibility"
     ],
-    "notes": "QLOC is a Polish game art studio (Warsaw/Gdańsk) working on Unreal Engine and custom engine titles. Remote EU listing surfaced via designremotejobs.com. Posted ~Oct 5, 2026. Fit is medium — character art is adjacent to Shem's 3D generalist/rigging skills (Blender Rigify, character modeling), and the Blender + Unreal Engine stack is a direct match. Key gap: character art specialist role rather than technical art or motion design. Worth checking q-loc.com directly for confirmation and full spec. Source: search snippet only — verify before applying."
+    "notes": "QLOC is a Polish game art studio (Warsaw/Gda\u0144sk) working on Unreal Engine and custom engine titles. Remote EU listing surfaced via designremotejobs.com. Posted ~Oct 5, 2026. Fit is medium \u2014 character art is adjacent to Shem's 3D generalist/rigging skills (Blender Rigify, character modeling), and the Blender + Unreal Engine stack is a direct match. Key gap: character art specialist role rather than technical art or motion design. Worth checking q-loc.com directly for confirmation and full spec. Source: search snippet only \u2014 verify before applying."
+  },
+  {
+    "title": "Senior Render Artist",
+    "company": "Scopely",
+    "location": "Dublin / Barcelona / UK / Portugal (Hybrid)",
+    "url": "https://job-boards.greenhouse.io/scopely/jobs/5108862008",
+    "first_seen": "2026-10-23",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-10-19 (reposted)",
+    "requirements": [
+      "Maya",
+      "Marmoset Toolbag",
+      "Marketing renders and promotional art from 3D assets",
+      "Portfolio of renders and 2D promotional pieces",
+      "Character posing on existing skeletal rigs",
+      "Multiple shipped titles as render/marketing artist",
+      "Composition and lighting for 3D scenes",
+      "Games industry experience"
+    ],
+    "skip_reason": "Senior level \u2014 exceeds mid-level seniority filter"
   }
 ]
