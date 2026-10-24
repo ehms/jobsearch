@@ -9051,5 +9051,40 @@
       "Games industry experience"
     ],
     "skip_reason": "Senior level \u2014 exceeds mid-level seniority filter"
+  },
+  {
+    "title": "Compositors (Junior / Mid / Senior)",
+    "company": "Egg Post Production and VFX",
+    "location": "Dublin, Ireland (On-site)",
+    "url": "https://zerply.com/industry-jobs/Compositors-Egg-VFX-Dublin-29Fe4e5I",
+    "first_seen": "2026-10-24",
+    "fit": "high",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Nuke",
+      "2-3+ years compositing at VFX facility",
+      "EU work eligibility",
+      "Ireland-based"
+    ],
+    "skip_reason": "Listing marked Not Active on Zerply; contact vfxjobs@egg.ie directly to check for future openings"
+  },
+  {
+    "title": "Mid-Level 3D Artist",
+    "company": "StoryToys",
+    "location": "Dublin, Ireland (possibly UK Remote also)",
+    "url": "https://apply.workable.com/storytoys/jobs/view/44387279C1",
+    "first_seen": "2026-10-24",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2026-06-10",
+    "requirements": [
+      "Maya",
+      "Unity",
+      "mobile games optimization",
+      "3D modeling and animation",
+      "implementing assets in Unity"
+    ],
+    "skip_reason": "Outside 14-day window (posted June 10, 2026); Maya/Unity focus rather than Blender/Unreal"
   }
 ]
