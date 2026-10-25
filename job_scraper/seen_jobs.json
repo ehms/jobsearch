@@ -9086,5 +9086,38 @@
       "implementing assets in Unity"
     ],
     "skip_reason": "Outside 14-day window (posted June 10, 2026); Maya/Unity focus rather than Blender/Unreal"
+  },
+  {
+    "title": "Compositor",
+    "company": "Algorithm",
+    "location": "Dublin, Ireland (Full Dome / Immersive Media, hybrid/on-site)",
+    "url": "https://animationireland.com/job/algorithm-hiring-compositor/",
+    "first_seen": "2026-10-25",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown (contract through November, immediate start)",
+    "requirements": [
+      "3+ years compositing experience in animation, VFX, broadcast, or immersive media",
+      "Strong proficiency in Nuke for multi-pass CG compositing",
+      "Experience in Full Dome / immersive content production",
+      "CV and reel required (applications to jobs@algorithm.ie)"
+    ],
+    "notes": "Contract through early November - immediate start. Full Dome / Immersive production. Shem has Disney+ compositing credit (Studio Meala) which is directly relevant. Gap: Nuke (Shem uses Blender for compositing). Apply via jobs@algorithm.ie"
+  },
+  {
+    "title": "Nuke Compositor",
+    "company": "Maere Studios",
+    "location": "Remote",
+    "url": "https://zerply.com/industry-jobs/Nuke-Compositor-Maere-Studios-Remote-Work-29Fe4dRb",
+    "first_seen": "2026-10-25",
+    "fit": "medium",
+    "status": "urgent-zerply-closing",
+    "posting_date": "unknown",
+    "requirements": [
+      "3+ years VFX experience",
+      "Nuke for compositing",
+      "Multi-pass CG compositing"
+    ],
+    "notes": "URGENT: Zerply.com closes 2026-10-26 at 16:00 UTC - link will be dead tomorrow. Maere Studios already have two other roles in seen_jobs (3D generalist, character animator). Nuke compositor is a gap for Shem (uses Blender). Remote."
   }
 ]
