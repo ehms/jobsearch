@@ -9137,5 +9137,76 @@
     ],
     "notes": "Found via LinkedIn search snippet: Actively Hiring 6 days ago (~Oct 21). Listed through YunoJuno as freelance Dublin role. Network access blocked - cannot confirm full details. Check YunoJuno directly for role description and apply link.",
     "skip_reason": null
+  },
+  {
+    "id": "gamegears-3d-motion-designer-unreal-2026",
+    "title": "3D Motion Designer/Generalist (Unreal Engine, Video Production)",
+    "company": "GameGears.Online",
+    "location": "Remote (worldwide)",
+    "url": "https://freehire.me/jobs/3d-motion-designer-generalist-unreal-engine-gamegears-online-d4cy3vrk",
+    "first_seen": "2026-10-29",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "2026-10-22",
+    "requirements": [
+      "Unreal Engine (professional level) for motion design and ad creatives",
+      "3D animation/camera/render/VFX within Unreal Engine",
+      "Marketing ad creatives from game assets",
+      "3-5 years experience in 3D motion design",
+      "Remote worldwide"
+    ],
+    "notes": "GameGears.Online — gaming marketing company. Full-time, mid-level, EUR 2,000-3,500/month. Posted ~Oct 22 2026 (1 week ago on ingamejob.com). Role focused on creating marketing ads using Unreal Engine from game assets. Company appears Eastern European; worth verifying Ireland eligibility. Strong Unreal overlap. alt source: ie.ingamejob.com/en/job/game-designer-generalist-17"
+  },
+  {
+    "id": "neo-group-graphic-designer-cg-artist-2026-10",
+    "title": "Graphic Designer / CG Artist",
+    "company": "Neo Group",
+    "location": "Remote / Dublin (5 locations)",
+    "url": "https://builtindublin.ie/job/graphic-designer-cg-artist/7354421",
+    "first_seen": "2026-10-29",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-10-29",
+    "requirements": [
+      "3+ years graphic design experience",
+      "Photoshop, Illustrator",
+      "AI and generative design tools",
+      "Retouching and composition"
+    ],
+    "skip_reason": "Graphic design/retouching focus; no 3D, Blender, Unreal, or motion design requirement.",
+    "notes": "Neo Group — remote/hybrid, mid-level. Reposted Oct 29 2026. Focus on graphic design with AI tools and image retouching."
+  },
+  {
+    "id": "screen-scene-vfx-production-assistant-2026-10",
+    "title": "Visual Effects Production Assistant",
+    "company": "Screen Scene VFX",
+    "location": "Dublin, Ireland",
+    "url": "https://www.iftn.ie/jobs/",
+    "first_seen": "2026-10-29",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-10-01",
+    "requirements": [
+      "Production support/coordination in VFX environment"
+    ],
+    "skip_reason": "Production/administrative assistant role, not a creative 3D/VFX artist position.",
+    "notes": "Listed on IFTN board Oct 1 2026. Production coordinator role — not an art/compositing role."
+  },
+  {
+    "id": "auraone-visual-designer-motion-3d-2026",
+    "title": "Visual Designer (Motion & 3D)",
+    "company": "AuraOne Human Data",
+    "location": "Remote",
+    "url": "https://www.remoterocketship.com/country/ireland/jobs/3d-artist/",
+    "first_seen": "2026-10-29",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Motion and 3D visual design",
+      "Remote"
+    ],
+    "skip_reason": "Data annotation / AI training data role, not creative production.",
+    "notes": "AuraOne Human Data — AI data labeling company. Not a creative production or VFX role."
   }
 ]
