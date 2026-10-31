@@ -9295,5 +9295,92 @@
     ],
     "skip_reason": "Removed January 19 2026 \u2014 very stale (>9 months old).",
     "notes": "Void Interactive (Ready or Not). Closed. Cold outreach still potentially worthwhile."
+  },
+  {
+    "id": "enbarr-vfx-enba-compositor-2026-10",
+    "title": "ENBA Compositor",
+    "company": "Enbarr VFX",
+    "location": "Dublin, on-site",
+    "url": "https://jobvfx.com/studios/enbarr-mvhem1sj/",
+    "first_seen": "2026-10-31",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "2026-10-24",
+    "requirements": [
+      "VFX compositing experience (Nuke assumed)",
+      "On-site Dublin",
+      "EU work eligibility"
+    ],
+    "notes": "New Dublin VFX studio founded April 2026 by Ed Bruce & Nicholas Murphy (ex-SSVFX / One Battle After Another). Part of Dream Machine FX Group. 5 open roles. Apply: jobs@enbarr.ie. Previously tracked as cold-call target only."
+  },
+  {
+    "id": "enbarr-vfx-enba-3d-generalist-2026-10",
+    "title": "ENBA Generalist, 3D",
+    "company": "Enbarr VFX",
+    "location": "Dublin, on-site",
+    "url": "https://jobvfx.com/studios/enbarr-mvhem1sj/",
+    "first_seen": "2026-10-31",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "2026-10-24",
+    "requirements": [
+      "3D generalist skills",
+      "CG environments and VFX workflows",
+      "Permanent role",
+      "EU work eligibility"
+    ],
+    "notes": "New Dublin VFX studio, 5 open roles. Complex CG environments, FX systems, ageing/de-ageing workflows. Apply: jobs@enbarr.ie."
+  },
+  {
+    "id": "storytoys-3d-principal-artist-ftc-2026-10",
+    "title": "3D Principal Artist (FTC 9 Months)",
+    "company": "StoryToys",
+    "location": "Dublin",
+    "url": "https://gamejobs.co/3D-Principal-Artist-FTC-9-Months-at-Story-Toys",
+    "first_seen": "2026-10-31",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-10-28",
+    "requirements": [
+      "Principal-level 3D artist",
+      "Maya, Unity",
+      "Python, C# scripting"
+    ],
+    "skip_reason": "Principal level role \u2014 above mid-level target. Seniority filter.",
+    "notes": "StoryToys Dublin FTC. Skipped: Principal = senior."
+  },
+  {
+    "id": "icon-plc-3d-motion-designer-jr142645",
+    "title": "3D Motion Designer",
+    "company": "ICON plc",
+    "location": "Dublin / Reading UK",
+    "url": "https://careers.iconplc.com",
+    "first_seen": "2026-10-31",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-10",
+    "requirements": [
+      "3D graphics for clinical trial presentations",
+      "Motion design"
+    ],
+    "skip_reason": "Clinical research company. Consistently low fit \u2014 unrelated sector, not creative-technical VFX/games context.",
+    "notes": "JR142645. ICON plc is a CRO (clinical research organisation). Not aligned with Shem's sector targets."
+  },
+  {
+    "id": "clinch-motion-designer-remote-2026-10",
+    "title": "Motion Designer",
+    "company": "Clinch",
+    "location": "Remote (global, multiple locations)",
+    "url": "https://remotejobs.org/remote-jobs/motion-designer-clinch",
+    "first_seen": "2026-10-31",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2026-10-27",
+    "requirements": [
+      "Digital advertising motion design",
+      "Entry to intermediate level"
+    ],
+    "skip_reason": "Entry level. Not Dublin-specific \u2014 remote from Germany or Philippines per listings. Ad-tech focus.",
+    "notes": "Clinch is a digital advertising personalisation platform. Multiple global remote locations. Not a creative-technical VFX/3D role."
   }
 ]
