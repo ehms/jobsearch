@@ -9382,5 +9382,42 @@
     ],
     "skip_reason": "Entry level. Not Dublin-specific \u2014 remote from Germany or Philippines per listings. Ad-tech focus.",
     "notes": "Clinch is a digital advertising personalisation platform. Multiple global remote locations. Not a creative-technical VFX/3D role."
+  },
+  {
+    "title": "3D Generalist (Remote)",
+    "company": "Earth2050",
+    "location": "Remote (UK hours, EU-compatible)",
+    "url": "https://blenderartists.org/t/3d-generalist-role-at-earth2050/1626933",
+    "first_seen": "2026-11-01",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown (rolling post, no expiry listed)",
+    "requirements": [
+      "Blender (primary tool)",
+      "4+ years 3D experience",
+      "Remote with UK working hours (10am-6pm)",
+      "Salary \u00a328k-\u00a355k PA depending on experience",
+      "3D generalist skills",
+      "Applications to jobs@earth2050.com"
+    ],
+    "notes": "UK-based company, fully remote, global applicants accepted at UK timezone. Date could not be verified due to site access restrictions. Blender-focused role."
+  },
+  {
+    "title": "Senior 3D Motion Designer IRC307218",
+    "company": "GlobalLogic",
+    "location": "Unknown (likely remote, Eastern Europe based on other GlobalLogic roles)",
+    "url": "https://www.globallogic.com/careers/3d-motion-designer-irc307218-2/",
+    "first_seen": "2026-11-01",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-10-21",
+    "requirements": [
+      "Senior level",
+      "4+ years CAD/3D modelling experience",
+      "4+ years motion graphics",
+      "Technical 3D animations for diagnostic/maintenance software",
+      "English B2+"
+    ],
+    "skip_reason": "Senior level (title explicitly says Senior) - excluded per search rules"
   }
 ]
