@@ -9419,5 +9419,40 @@
       "English B2+"
     ],
     "skip_reason": "Senior level (title explicitly says Senior) - excluded per search rules"
+  },
+  {
+    "title": "Motion & Video Designer - Europe",
+    "company": "Storyblok",
+    "location": "Remote (Europe)",
+    "url": "https://builtindublin.ie/job/motion-video-designer-europe/10002436",
+    "first_seen": "2026-11-03",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "2026-11-01",
+    "requirements": [
+      "3-5 years experience in motion design, video production or related field",
+      "Adobe After Effects, Premiere Pro, Figma",
+      "Lead and evolve video design system (intros, outros, lower thirds, templates)",
+      "Produce and edit video content for multiple formats and channels",
+      "Mid-level remote role"
+    ],
+    "notes": "Headless CMS company (Storyblok). Fully remote, Europe. 2D motion/video focus - uses After Effects/Premiere rather than Blender. Marketing/brand video role. Posted ~2 days ago per aggregator. Fit is medium: adjacent to Shem's BA Visual Comms/motion background but not core VFX/3D path. Check careers.storyblok.com for current status."
+  },
+  {
+    "title": "Video Editor & Motion Designer",
+    "company": "Ahrefs",
+    "location": "Remote (Europe)",
+    "url": "https://ahrefs.com/jobs/video-editor-and-motion-designer",
+    "first_seen": "2026-11-03",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Adobe Premiere Pro, After Effects",
+      "2-5 years experience",
+      "60% video editing / 40% motion design split",
+      "Remote - Europe"
+    ],
+    "skip_reason": "SEO tech company marketing role. Heavily video editing focused (60/40 edit/motion). After Effects/Premiere rather than Blender/3D. Not a creative-technical or VFX role. Posting date uncertain (possibly 2025). Low fit for Shem's direction."
   }
 ]
