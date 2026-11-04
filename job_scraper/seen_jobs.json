@@ -9454,5 +9454,55 @@
       "Remote - Europe"
     ],
     "skip_reason": "SEO tech company marketing role. Heavily video editing focused (60/40 edit/motion). After Effects/Premiere rather than Blender/3D. Not a creative-technical or VFX role. Posting date uncertain (possibly 2025). Low fit for Shem's direction."
+  },
+  {
+    "id": "movimentum-graphic-designer-nov-2026",
+    "title": "Graphic Designer",
+    "company": "Movimentum",
+    "location": "Remote (Ireland / In-Office option)",
+    "url": "https://builtindublin.ie/job/graphic-designer/10495418",
+    "first_seen": "2026-11-04",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-11-03",
+    "requirements": [
+      "Graphic design for Web3/crypto marketing",
+      "Visual identity and design production",
+      "Mid-level role"
+    ],
+    "skip_reason": "Web3/crypto company (Movimentum/Stratosphere). Pure graphic designer role (no motion, no 3D). Same Web3 exclusion applied to previous Movimentum AI Motion Graphic Designer (Oct 4). Not a target sector."
+  },
+  {
+    "id": "boulder-media-2d-compositor-oct-2026",
+    "title": "2D Compositor",
+    "company": "Boulder Media",
+    "location": "Dublin (hybrid)",
+    "url": "https://outscal.com/job/2d-compositor-at-boulder-media-in-dublin-county-dublin-ireland-1",
+    "first_seen": "2026-11-04",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Compositing 2D animation elements (Harmony/After Effects)",
+      "Matching style guides for 2D animation",
+      "Specified-purpose (fixed-term) hybrid role"
+    ],
+    "skip_reason": "2D compositing role at a 2D animation studio (Harmony/After Effects). Shem's compositing background is 3D VFX (Disney+ Studio Meala, Nuke). Poor skill match. Outscal listing shows ~1 month old; may also be outside 14-day window."
+  },
+  {
+    "id": "screen-scene-vfx-3d-generalist-entertainmentcareers-2026",
+    "title": "3D Generalist",
+    "company": "Screen Scene VFX",
+    "location": "Dublin (hybrid/freelance)",
+    "url": "https://www.entertainmentcareers.net/ssvfx/3d-generalist/job/312516",
+    "first_seen": "2026-11-04",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "3D generalist for VFX department (freelance)",
+      "VFX production pipeline"
+    ],
+    "skip_reason": "Likely cross-post or duplicate of already-tracked Screen Scene VFX 3D Generalist (Freelance) from 2026-10-14 via cgmeetup.com. Same company, same role type. entertainmentcareers.net is blocked from WebFetch; posting date unverified."
   }
 ]
