@@ -9504,5 +9504,58 @@
       "VFX production pipeline"
     ],
     "skip_reason": "Likely cross-post or duplicate of already-tracked Screen Scene VFX 3D Generalist (Freelance) from 2026-10-14 via cgmeetup.com. Same company, same role type. entertainmentcareers.net is blocked from WebFetch; posting date unverified."
+  },
+  {
+    "id": "elephant-goldfish-compositors-2026-11",
+    "title": "Compositors (Mid / Senior)",
+    "company": "Elephant Goldfish",
+    "location": "Dublin (remote / hybrid / studio flexible)",
+    "url": "https://elephantgoldfish.com/join-us/compositors/",
+    "first_seen": "2026-11-06",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Mid/senior compositing experience (Nuke implied by studio type)",
+      "Right to work in Ireland or UK",
+      "Flexible working: remote, hybrid, or Dublin studio",
+      "Part of Molinare Creative Group"
+    ],
+    "notes": "New Dublin VFX studio founded by former Windmill Lane team. Credits include Doctor Who, Netflix Wednesday, The Mummy, Richard Linklater Blue Moon. Part of Molinare Creative Group. Careers page active as of 2026-11-06. Apply: careers@elephantgoldfish.com. Website blocked from WebFetch in this session - posting details from web search. LinkedIn post advertising role ~2 months old, but careers page still live. ELIGIBILITY: Must have right to work in Ireland/UK (Shem qualifies as Irish resident)."
+  },
+  {
+    "id": "elephant-goldfish-comp-supervisor-2026-11",
+    "title": "Comp Supervisor",
+    "company": "Elephant Goldfish",
+    "location": "Dublin (ideally in-studio, hybrid considered)",
+    "url": "https://elephantgoldfish.com/join-us/comp-supervisor/",
+    "first_seen": "2026-11-06",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Compositing Supervisor level",
+      "Path to VFX Supervisor described"
+    ],
+    "skip_reason": "Supervisory/senior role - above mid-level target. Apply only if Shem wants to explore a step up.",
+    "notes": "Part of same Elephant Goldfish hiring round. Ideally Dublin in-studio. Skip for now given seniority filter."
+  },
+  {
+    "id": "brown-bag-films-online-compositor-aug-2026",
+    "title": "Online Compositor",
+    "company": "Brown Bag Films",
+    "location": "Dublin (on-site)",
+    "url": "https://www.ziprecruiter.ie/jobs/580107034-online-compositor-at-milo-hr",
+    "first_seen": "2026-11-06",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2026-08-19",
+    "requirements": [
+      "Online compositing, clean-up, and rotoscoping for children's animation",
+      "Photoshop (Autodesk Flame useful but not required)",
+      "EU candidates only",
+      "Salary: \u20ac45,000\u2013\u20ac55,000"
+    ],
+    "skip_reason": "Posted August 19, 2026 - outside 14-day window (78 days old). Likely expired."
   }
 ]
