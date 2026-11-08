@@ -9557,5 +9557,59 @@
       "Salary: \u20ac45,000\u2013\u20ac55,000"
     ],
     "skip_reason": "Posted August 19, 2026 - outside 14-day window (78 days old). Likely expired."
+  },
+  {
+    "id": "tether-operations-ai-filmmaker-remote-2026",
+    "title": "AI Filmmaker (100% Remote)",
+    "company": "Tether Operations Limited",
+    "location": "Remote (Dublin listing; also London, Bern, Lugano)",
+    "url": "https://ie.indeed.com/q-tether-operations-limited-jobs.html",
+    "first_seen": "2026-11-08",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026",
+    "requirements": [
+      "Making short films and videos with AI photo and video tools",
+      "Supporting Tether and affiliated brands marketing",
+      "Developing video concepts for campaigns",
+      "Managing multiple projects with tight deadlines"
+    ],
+    "skip_reason": "Not a 3D/technical art role. AI video content creator position, no Blender/Unreal/compositing skills mentioned. Poor match for Shem profile."
+  },
+  {
+    "id": "halon-entertainment-environment-artist-remote-2026",
+    "title": "Environment Artist",
+    "company": "Halon Entertainment",
+    "location": "Remote (US-focused; EU eligibility unconfirmed)",
+    "url": "https://www.glassdoor.com/job-listing/environment-artist-halon-entertainment-JV_KO0,18_KE19,38.htm?jl=1010259599563",
+    "first_seen": "2026-11-08",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2026-10-11",
+    "requirements": [
+      "3+ years game or film industry experience",
+      "Maya, Substance, ZBrush, Unreal, Photoshop, Shotgun/Flow",
+      "Worldbuilding, texturing, modeling, implementing in Maya + UE",
+      "Blender not mentioned"
+    ],
+    "skip_reason": "Role appears US-based; no confirmed EU/Ireland eligibility. Tools focus on Maya not Blender. Contract instability noted in reviews."
+  },
+  {
+    "id": "keywords-gamesim-environment-artist-us-2026",
+    "title": "Environment Artist - GameSim Talent Pipeline",
+    "company": "Keywords Studios (GameSim)",
+    "location": "Remote (US states only - Orlando, Austin, New Orleans)",
+    "url": "https://www.glassdoor.com/job-listing/environment-artist-gamesim-talent-pipeline-keywords-studios-JV_IC1150035_KO0,42_KE43,59.htm?jl=1010156910293",
+    "first_seen": "2026-11-08",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026",
+    "requirements": [
+      "5+ years professional experience as 3D environment artist",
+      "At least one shipped game or comparable real-time project",
+      "Maya, Blender, ZBrush, Substance Painter, Unreal Engine",
+      "US work authorization required"
+    ],
+    "skip_reason": "US work authorization required; restricted to specific US states. Also requires 5+ years and a shipped title - above Shem mid-level target."
   }
 ]
