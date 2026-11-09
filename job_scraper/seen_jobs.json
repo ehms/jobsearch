@@ -9611,5 +9611,78 @@
       "US work authorization required"
     ],
     "skip_reason": "US work authorization required; restricted to specific US states. Also requires 5+ years and a shipped title - above Shem mid-level target."
+  },
+  {
+    "id": "algorithm-compositor-fulldome-ireland-nov2026",
+    "title": "Compositor (Full-Dome / Immersive Media)",
+    "company": "Algorithm",
+    "location": "Remote (Ireland-based, GMT/IST overlap required)",
+    "url": "https://animationireland.com/job/algorithm-hiring-compositor/",
+    "first_seen": "2026-11-09",
+    "fit": "medium-high",
+    "status": "skipped",
+    "posting_date": "2026-10",
+    "requirements": [
+      "Compositor with trained eye and technical fluency",
+      "Full-dome / hemispherical projection compositing experience (inferred)",
+      "Report to Digital Imaging Supervisor",
+      "Dublin-hours overlap (GMT/IST)",
+      "CV and reel required (jobs@algorithm.ie)"
+    ],
+    "skip_reason": "Contract ran through early November 2026 \u2014 posting appears expired as of today (Nov 9). Site blocked from direct fetch. Worth monitoring for future projects. Algorithm is a Dublin XR/immersive studio; relevant background match for Shem (compositing, immersive media)."
+  },
+  {
+    "id": "medtronic-motion-graphics-designer-galway-2026",
+    "title": "Motion Graphics Designer Specialist",
+    "company": "Medtronic Vascular Galway Unlimited Company",
+    "location": "Remote (Ireland, advertised by Galway office)",
+    "url": "https://irishtalents.com/jobs/motion-graphics-designer-specialist-remote-bf244768",
+    "first_seen": "2026-11-09",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "Bachelor's degree",
+      "2+ years experience",
+      "Advanced skills in After Effects and Premiere Pro",
+      "Motion graphics for medical/corporate communications"
+    ],
+    "skip_reason": "After Effects / Premiere Pro focus \u2014 no Blender or Unreal Engine. Corporate medical content (Medtronic) not in Shem's target sectors. irishtalents.com blocked from direct fetch; requirements from web search snippets only."
+  },
+  {
+    "id": "boulder-media-2d-compositor-dublin-2026",
+    "title": "2D Compositor",
+    "company": "Boulder Media",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://animationireland.com/?p=6453",
+    "first_seen": "2026-11-09",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "2+ years experience",
+      "Bring together all production elements (staging, composition, lighting, composite FX)",
+      "Per style guides, maintaining continuity across sequences",
+      "Hybrid working, full-time"
+    ],
+    "skip_reason": "2D compositing role for traditional animation production \u2014 not 3D/VFX compositing. Boulder Media is a 2D animation studio. Shem's compositing background is 3D/VFX (Nuke/Blender, Disney+/Studio Meala). animationireland.com blocked from direct fetch; posting date not confirmed recent."
+  },
+  {
+    "id": "jobgether-senior-vfx-artist-unity3d-ireland-oct2026",
+    "title": "Senior VFX Artist (Stylized Games | Unity3D)",
+    "company": "Undisclosed (via Jobgether partner)",
+    "location": "Ireland (Dublin 1)",
+    "url": "https://dynamic.jobgether.com/offer/681cd01c104ec44fc89a2c5f-stylised-technical-animator-12-month-ftc",
+    "first_seen": "2026-11-09",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "2026-10-29",
+    "requirements": [
+      "5+ years real-time VFX experience in game development",
+      "Strong portfolio of stylized VFX",
+      "Unity3D proficiency",
+      "Ireland / Dublin 1 location"
+    ],
+    "skip_reason": "Senior level \u2014 exceeds Shem's mid-level target (5+ years required). Also Unity3D primary (not Unreal/Blender-centric)."
   }
 ]
