@@ -9684,5 +9684,59 @@
       "Ireland / Dublin 1 location"
     ],
     "skip_reason": "Senior level \u2014 exceeds Shem's mid-level target (5+ years required). Also Unity3D primary (not Unreal/Blender-centric)."
+  },
+  {
+    "id": "movimentum-motion-graphic-designer-3d-dublin-2026",
+    "title": "AI Motion & Graphic Designer 3D/2D",
+    "company": "Movimentum",
+    "location": "Dublin, Ireland (hybrid or remote-eligible)",
+    "url": "https://builtindublin.ie/job/ai-motion-graphic-designer-3d-2d/10332652",
+    "first_seen": "2026-11-10",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "~2026-11-06",
+    "requirements": [
+      "Full video and visual production pipeline (concept to final export)",
+      "3D and 2D motion design",
+      "Strategy and direction before executing agreed concepts",
+      "Motion assets for product launches, campaigns, social media, events, presentations"
+    ],
+    "notes": "Movimentum is an AI-focused tech startup in Dublin. 'Posted 4 days ago' on BuiltInDublin = approximately Nov 6, 2026, within 14-day window. BuiltInDublin blocked from direct fetch; details from search snippets. Role covers full production pipeline with 3D/2D motion scope. Company is not traditional VFX/animation sector (product/marketing focus). Shem's motion graphics and 3D design skills are directly applicable. Mid-level scope. Verify requirements and application process directly at builtindublin.ie."
+  },
+  {
+    "id": "storytoys-mid-3d-artist-dublin-2026",
+    "title": "Mid-Level 3D Artist",
+    "company": "StoryToys",
+    "location": "Dublin, Ireland",
+    "url": "https://ie.indeed.com/q-3d-artist-jobs.html",
+    "first_seen": "2026-11-10",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Maya (primary DCC tool \u2014 required)",
+      "Unity pipeline (asset integration, optimization)",
+      "3D modeling, texturing, rigging, and animation",
+      "Shader knowledge (nice-to-have)",
+      "Portfolio demonstrating 3D character/environment work"
+    ],
+    "notes": "StoryToys is a Dublin-based children's digital media company. Mid-level role surfaced in ie.indeed.com search results (Nov 2026). Key gap: Maya is primary tool, not Blender. Unity pipeline rather than Unreal. Shem's experience is transferable but would require demonstrating Maya capability. Posting date unconfirmed \u2014 verify currency before applying."
+  },
+  {
+    "id": "windmill-lane-compositor-mid-standing-zerply-2026",
+    "title": "Compositor Mid/Senior (standing notice)",
+    "company": "Windmill Lane VFX",
+    "location": "Dublin, Ireland",
+    "url": "https://zerply.com/industry-jobs/Compositor-Mid-Senior-Windmill-Lane-Dublin-29Fe4dyI",
+    "first_seen": "2026-11-10",
+    "fit": "high",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "skip_reason": "Zerply.com shut down 2026-09-28 \u2014 URL defunct. Windmill Lane Pictures reportedly closed ~2025; successor is Elephant Goldfish (already tracked as elephant-goldfish-compositors-2026-11). Pursue via Elephant Goldfish (careers@elephantgoldfish.com) instead.",
+    "requirements": [
+      "Mid or Senior level compositor for film and TV projects",
+      "Apply to recruit@windmilllane.com with Compositor + level in subject line"
+    ],
+    "notes": "Appeared in Nov 10 search results despite Zerply shutdown (indexing lag). Studio Meala Disney+ mid-level compositor credit is a direct qualifier. If recruit@windmilllane.com still active, could function as cold-call."
   }
 ]
