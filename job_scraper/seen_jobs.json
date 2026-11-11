@@ -9738,5 +9738,43 @@
       "Apply to recruit@windmilllane.com with Compositor + level in subject line"
     ],
     "notes": "Appeared in Nov 10 search results despite Zerply shutdown (indexing lag). Studio Meala Disney+ mid-level compositor credit is a direct qualifier. If recruit@windmilllane.com still active, could function as cold-call."
+  },
+  {
+    "id": "egg-vfx-compositor-dublin-2026-11-11",
+    "title": "Compositor (Junior / Mid / Senior)",
+    "company": "Egg VFX",
+    "location": "Dublin, Ireland",
+    "url": "https://egg.ie/egg-vfx/vfx-crew",
+    "first_seen": "2026-11-11",
+    "fit": "medium-high",
+    "status": "investigate",
+    "posting_date": "unknown",
+    "requirements": [
+      "VFX compositing for feature film, TV drama, documentary",
+      "Post-production pipeline",
+      "Ireland-based Dublin studio"
+    ],
+    "skip_reason": null,
+    "notes": "Found via Zerply listing (dead - Zerply shut down Sep 28, 2026). Check egg.ie directly for current openings. Dublin VFX/post house with film/TV credits. egg.ie blocked in cloud session - verify manually. Direct contact: egg.ie/contact"
+  },
+  {
+    "id": "accenture-interaction-designer-dock-dublin-2026",
+    "title": "Interaction Designer (The Dock)",
+    "company": "Accenture",
+    "location": "Dublin, Ireland (hybrid)",
+    "url": "https://www.accenture.com/ie-en/careers/jobdetails?id=R00345826_en",
+    "first_seen": "2026-11-11",
+    "fit": "low-medium",
+    "status": "skipped",
+    "posting_date": "2026-06-05",
+    "requirements": [
+      "Human-centred design methodologies",
+      "Rapid prototyping",
+      "Adobe Creative Suite / Figma",
+      "Digital interface design",
+      "Generative AI design tools"
+    ],
+    "skip_reason": "Outside 14-day window (posted June 2026). Large corporate (Accenture). Low creative-technical depth. No 3D/VFX/motion requirements.",
+    "notes": "The Dock is Accenture's Dublin innovation centre. Role ID R00345826. Posted ~June 5, 2026. \u20ac80-100k estimated. Shem's BA Visual Comms UX specialization is relevant but this is a large siloed corporate role."
   }
 ]
