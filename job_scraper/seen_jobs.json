@@ -9776,5 +9776,45 @@
     ],
     "skip_reason": "Outside 14-day window (posted June 2026). Large corporate (Accenture). Low creative-technical depth. No 3D/VFX/motion requirements.",
     "notes": "The Dock is Accenture's Dublin innovation centre. Role ID R00345826. Posted ~June 5, 2026. \u20ac80-100k estimated. Shem's BA Visual Comms UX specialization is relevant but this is a large siloed corporate role."
+  },
+  {
+    "id": "boulder-media-3d-generalist-blender-2026",
+    "title": "3D Generalist (Blender)",
+    "company": "Boulder Media",
+    "location": "Dublin, Ireland (Hybrid)",
+    "url": "https://outscal.com/job/3d-generalist-at-boulder-media-in-dublin-republic-of-ireland",
+    "first_seen": "2026-11-12",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Blender (required)",
+      "3D modeling",
+      "3D animation",
+      "Basic rigging",
+      "Animation pipeline knowledge"
+    ],
+    "notes": "Dublin animation studio. Blender specifically required. Posting date unknown - verify before applying."
+  },
+  {
+    "id": "windmill-lane-3d-generalist-2026",
+    "title": "3D Generalist",
+    "company": "Windmill Lane Pictures",
+    "location": "Dublin 2, Ireland (Full-time)",
+    "url": "https://www.entertainmentcareers.net/windmill-lane-pictures/3d-generalist/job/295245",
+    "first_seen": "2026-11-12",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "3D modeling",
+      "Texturing",
+      "Animation",
+      "Lighting",
+      "Rendering",
+      "FX",
+      "Multi-discipline generalist"
+    ],
+    "notes": "Top Dublin VFX studio (Disney+/HBO/Netflix credits). Generalist role. Posting date unknown - verify before applying."
   }
 ]
