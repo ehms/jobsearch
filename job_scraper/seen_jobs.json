@@ -9834,5 +9834,75 @@
       "Portfolio demonstrating motion design work"
     ],
     "notes": "Surfaced via LinkedIn aggregator search result (posted ~1 day ago as of 2026-11-13). LinkedIn is network-blocked so full JD unverified. The Atomic Agency is a Dublin-based creative/digital agency (Glassdoor ID: EI_IE2602690). Shem has relevant background: BA Visual Comms, motion graphics for Science Gallery installations, Kubicle content. However, this role is likely AE-focused rather than Blender/UE. Verify full JD on LinkedIn before applying."
+  },
+  {
+    "id": "imvizar-3d-character-artist-dublin-2026-11",
+    "title": "3D Character Artist",
+    "company": "Imvizar",
+    "location": "Dublin, Ireland (on-site/hybrid TBC)",
+    "url": "https://ie.linkedin.com/jobs/3d-generalist-jobs",
+    "first_seen": "2026-11-14",
+    "fit": "medium",
+    "status": "new",
+    "posting_date": "~2026-11-13",
+    "requirements": [
+      "3D character modeling and texturing",
+      "Real-time AR/holographic pipeline (inferred)",
+      "Animation skills",
+      "Portfolio with character work"
+    ],
+    "notes": "Surfaced via LinkedIn 3D Generalist search, Dublin, flagged as Actively Hiring 1 day ago (2026-11-14). Imvizar builds real-time holographic AR experiences in Dublin \u2014 creative-tech, XR/immersive sector. Character art (Priority 14) aligns with Shem Blender Rigify/character modeling skills. Full JD unverified \u2014 LinkedIn network-blocked. Verify before applying."
+  },
+  {
+    "id": "windmill-lane-junior-motion-graphics-designer-2026-11",
+    "title": "Junior Motion Graphics Designer",
+    "company": "Windmill Lane Pictures",
+    "location": "Dublin, Ireland",
+    "url": "https://iftn.ie/jobs/",
+    "first_seen": "2026-11-14",
+    "fit": "low",
+    "status": "new",
+    "posting_date": "~2026-11-05",
+    "requirements": [
+      "Cinema 4D (preferred)",
+      "2+ years motion graphics or design experience",
+      "Motion design",
+      "Graphic design"
+    ],
+    "notes": "From IFTN board (page dated Nov 5 2026). Junior level \u2014 below mid-level target. Cinema 4D preferred (not Blender). Top target studio; consider cold-email for senior/mid roles rather than applying to this junior posting."
+  },
+  {
+    "id": "virtuos-lead-technical-artist-2026-11-14",
+    "title": "Lead Technical Artist",
+    "company": "Virtuos (Dublin)",
+    "location": "Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/technical-artist-jobs",
+    "first_seen": "2026-11-14",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "~2026-11-13",
+    "requirements": [
+      "Technical art leadership",
+      "Materials and rendering performance",
+      "Artist pipeline support"
+    ],
+    "notes": "Surfaced LinkedIn 2026-11-14 as posted 1 day ago in Dublin. Lead level \u2014 above mid-level target. Skipped."
+  },
+  {
+    "id": "improbable-ireland-senior-technical-animator-2026-11-14",
+    "title": "Senior Technical Animator",
+    "company": "Improbable Ireland",
+    "location": "Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/animation-artist-jobs",
+    "first_seen": "2026-11-14",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "~2026-11-13",
+    "requirements": [
+      "Senior-level technical animation",
+      "Procedural animation systems",
+      "Game engine pipeline"
+    ],
+    "notes": "Surfaced LinkedIn 2026-11-14 as posted 1 day ago. Senior level \u2014 above mid-level target. Skipped."
   }
 ]
