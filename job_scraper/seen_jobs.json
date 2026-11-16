@@ -9904,5 +9904,32 @@
       "Game engine pipeline"
     ],
     "notes": "Surfaced LinkedIn 2026-11-14 as posted 1 day ago. Senior level \u2014 above mid-level target. Skipped."
+  },
+  {
+    "id": "lighthouse-studios-compositing-artists-animireland-2026-11",
+    "title": "Compositing Artists",
+    "company": "Lighthouse Studios",
+    "location": "Kilkenny, Ireland (~75 miles from Dublin)",
+    "url": "https://animationireland.com/job/lighthouse-studios-hiring-compositing-artists/",
+    "first_seen": "2026-11-16",
+    "fit": "low-medium",
+    "status": "needs_verification",
+    "posting_date": "unknown",
+    "requirements": [],
+    "notes": "Surfaced via search 2026-11-16. animationireland.com network-blocked in this session \u2014 full JD unverified. Different from tracked lighthouse-studios-compositor-2026 (ToonBoom Harmony 2D, April 2026). Lighthouse Studios is a Kilkenny animation studio (Cartoon Saloon + Mercury Filmworks joint venture). If 3D/Nuke compositing \u2014 fit medium; if 2D ToonBoom \u2014 fit low. Location is 75 miles from Dublin (commute concern for on-site). Needs manual check on animationireland.com."
+  },
+  {
+    "id": "lighthouse-studios-compositing-supervisors-animireland-2026-11",
+    "title": "Compositing Supervisors",
+    "company": "Lighthouse Studios",
+    "location": "Kilkenny, Ireland (~75 miles from Dublin)",
+    "url": "https://animationireland.com/job/lighthouse-studios-hiring-compositing-supervisors/",
+    "first_seen": "2026-11-16",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [],
+    "skip_reason": "Supervisory level \u2014 above mid-level target. animationireland.com network-blocked; full JD unverified.",
+    "notes": "Surfaced via search 2026-11-16. Skipped: Supervisor title exceeds mid-level seniority ceiling. Same Lighthouse Studios round as compositing-artists entry. If considering a step-up, verify manually at animationireland.com."
   }
 ]
