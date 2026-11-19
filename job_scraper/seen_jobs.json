@@ -9931,5 +9931,40 @@
     "requirements": [],
     "skip_reason": "Supervisory level \u2014 above mid-level target. animationireland.com network-blocked; full JD unverified.",
     "notes": "Surfaced via search 2026-11-16. Skipped: Supervisor title exceeds mid-level seniority ceiling. Same Lighthouse Studios round as compositing-artists entry. If considering a step-up, verify manually at animationireland.com."
+  },
+  {
+    "id": "rodeo-fx-compositing-eoi-2026-11",
+    "title": "Compositing Artist — Expression of Interest",
+    "company": "Rodeo FX",
+    "location": "Remote (Ireland-eligible freelance)",
+    "url": "https://www.hirebase.org/company/rodeo-fx/jobs/compositing-artist-expression-of-interest-e4064ccf",
+    "first_seen": "2026-11-19",
+    "fit": "medium-high",
+    "status": "new",
+    "posting_date": "unknown",
+    "requirements": [
+      "Compositing experience in VFX",
+      "Strong Nuke skills expected (industry standard at Rodeo FX)",
+      "Some projects may be geographically restricted"
+    ],
+    "notes": "Rodeo FX is a major VFX studio (Montreal, LA, Berlin, Munich) doing TV and film VFX. Built In Dublin listing tagged as hiring in Ireland. This is an expression-of-interest / ongoing talent pool for freelance compositing, not a specific posting. Fit: Shem's Disney+/Studio Meala mid-level compositing credit directly qualifies. Key gap: Rodeo FX almost certainly uses Nuke — Shem's compositing background is Blender/Fusion. Worth submitting EOI despite the tool gap, referencing the Disney+ credit. Additional compositor listings at gorodeo.app. Direct EOI link may also exist at rodeofx.com/en/careers."
+  },
+  {
+    "id": "pixomondo-mid-compositor-stuttgart-2026-11",
+    "title": "Mid-Level Compositor",
+    "company": "Pixomondo",
+    "location": "Stuttgart, Germany (hybrid on-site)",
+    "url": "https://www.entertainmentcareers.net/pixomondo/mid-level-compositor/job/472730",
+    "first_seen": "2026-11-19",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "~2026-11",
+    "requirements": [
+      "Nuke compositing",
+      "VFX mid-level experience",
+      "On-site Stuttgart or hybrid"
+    ],
+    "skip_reason": "Stuttgart, Germany hybrid role — requires relocation from Dublin. Shem's location constraint is Dublin only, no relocation. Skills match well but geography is a dealbreaker.",
+    "notes": "Pixomondo also advertises Senior Compositors for remote EU/UK short contracts — if a fully-remote EU mid-level role appears from Pixomondo, it would be high fit. Monitor pixomondo.com/careers."
   }
 ]
