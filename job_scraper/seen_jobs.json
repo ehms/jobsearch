@@ -9966,5 +9966,25 @@
     ],
     "skip_reason": "Stuttgart, Germany hybrid role — requires relocation from Dublin. Shem's location constraint is Dublin only, no relocation. Skills match well but geography is a dealbreaker.",
     "notes": "Pixomondo also advertises Senior Compositors for remote EU/UK short contracts — if a fully-remote EU mid-level role appears from Pixomondo, it would be high fit. Monitor pixomondo.com/careers."
+  },
+  {
+    "id": "techtive-games-environment-artist-remote-2026",
+    "title": "Environment Artist",
+    "company": "Techtive Games GmbH",
+    "location": "Remote (Germany / EEA — location eligibility contested)",
+    "url": "https://join.com/companies/techtivegames/16939208-environment-artist",
+    "first_seen": "2026-11-20",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-10-12",
+    "requirements": [
+      "Strong 3D modeling skills (Blender, Maya, or 3ds Max)",
+      "Unreal Engine environment art",
+      "Modular asset kit creation",
+      "Foliage and procedural tools (Houdini listed as desirable)",
+      "Open-world/survival game experience preferred"
+    ],
+    "skip_reason": "Outside 14-day window (posted 2026-10-12, 39 days ago). Location conflict: Remotive.com lists Germany-only restriction; JOIN.com says Remote EEA. Remotely.de copy listed as 'no longer available'. Cannot confirm Ireland eligibility or active status without direct page access (join.com blocked in this cloud session).",
+    "notes": "Techtive Games is building Ardem, an open-world survival game. Blender is an accepted tool. Skills are a solid match (procedural, environment art, Unreal). Monitor for new postings if location clarifies to EEA-wide. Also has a Technical Artist role (fully remote, freelance/full-time Germany) that mentions Blender scripting."
   }
 ]
