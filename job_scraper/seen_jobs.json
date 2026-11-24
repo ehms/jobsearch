@@ -9934,7 +9934,7 @@
   },
   {
     "id": "rodeo-fx-compositing-eoi-2026-11",
-    "title": "Compositing Artist — Expression of Interest",
+    "title": "Compositing Artist \u2014 Expression of Interest",
     "company": "Rodeo FX",
     "location": "Remote (Ireland-eligible freelance)",
     "url": "https://www.hirebase.org/company/rodeo-fx/jobs/compositing-artist-expression-of-interest-e4064ccf",
@@ -9947,7 +9947,7 @@
       "Strong Nuke skills expected (industry standard at Rodeo FX)",
       "Some projects may be geographically restricted"
     ],
-    "notes": "Rodeo FX is a major VFX studio (Montreal, LA, Berlin, Munich) doing TV and film VFX. Built In Dublin listing tagged as hiring in Ireland. This is an expression-of-interest / ongoing talent pool for freelance compositing, not a specific posting. Fit: Shem's Disney+/Studio Meala mid-level compositing credit directly qualifies. Key gap: Rodeo FX almost certainly uses Nuke — Shem's compositing background is Blender/Fusion. Worth submitting EOI despite the tool gap, referencing the Disney+ credit. Additional compositor listings at gorodeo.app. Direct EOI link may also exist at rodeofx.com/en/careers."
+    "notes": "Rodeo FX is a major VFX studio (Montreal, LA, Berlin, Munich) doing TV and film VFX. Built In Dublin listing tagged as hiring in Ireland. This is an expression-of-interest / ongoing talent pool for freelance compositing, not a specific posting. Fit: Shem's Disney+/Studio Meala mid-level compositing credit directly qualifies. Key gap: Rodeo FX almost certainly uses Nuke \u2014 Shem's compositing background is Blender/Fusion. Worth submitting EOI despite the tool gap, referencing the Disney+ credit. Additional compositor listings at gorodeo.app. Direct EOI link may also exist at rodeofx.com/en/careers."
   },
   {
     "id": "pixomondo-mid-compositor-stuttgart-2026-11",
@@ -9964,14 +9964,14 @@
       "VFX mid-level experience",
       "On-site Stuttgart or hybrid"
     ],
-    "skip_reason": "Stuttgart, Germany hybrid role — requires relocation from Dublin. Shem's location constraint is Dublin only, no relocation. Skills match well but geography is a dealbreaker.",
-    "notes": "Pixomondo also advertises Senior Compositors for remote EU/UK short contracts — if a fully-remote EU mid-level role appears from Pixomondo, it would be high fit. Monitor pixomondo.com/careers."
+    "skip_reason": "Stuttgart, Germany hybrid role \u2014 requires relocation from Dublin. Shem's location constraint is Dublin only, no relocation. Skills match well but geography is a dealbreaker.",
+    "notes": "Pixomondo also advertises Senior Compositors for remote EU/UK short contracts \u2014 if a fully-remote EU mid-level role appears from Pixomondo, it would be high fit. Monitor pixomondo.com/careers."
   },
   {
     "id": "techtive-games-environment-artist-remote-2026",
     "title": "Environment Artist",
     "company": "Techtive Games GmbH",
-    "location": "Remote (Germany / EEA — location eligibility contested)",
+    "location": "Remote (Germany / EEA \u2014 location eligibility contested)",
     "url": "https://join.com/companies/techtivegames/16939208-environment-artist",
     "first_seen": "2026-11-20",
     "fit": "low",
@@ -9986,5 +9986,107 @@
     ],
     "skip_reason": "Outside 14-day window (posted 2026-10-12, 39 days ago). Location conflict: Remotive.com lists Germany-only restriction; JOIN.com says Remote EEA. Remotely.de copy listed as 'no longer available'. Cannot confirm Ireland eligibility or active status without direct page access (join.com blocked in this cloud session).",
     "notes": "Techtive Games is building Ardem, an open-world survival game. Blender is an accepted tool. Skills are a solid match (procedural, environment art, Unreal). Monitor for new postings if location clarifies to EEA-wide. Also has a Technical Artist role (fully remote, freelance/full-time Germany) that mentions Blender scripting."
+  },
+  {
+    "title": "Computer Graphics Generalist (Nov repost)",
+    "company": "EGG Post Production and VFX",
+    "location": "Dublin, Ireland",
+    "url": "https://builtindublin.ie/company/egg-post-production-and-vfx",
+    "first_seen": "2026-11-24",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "~2026-11-21",
+    "requirements": [
+      "CG/VFX generalist skills across film/TV pipeline",
+      "Post-production pipeline experience",
+      "Dublin-based, EU work eligibility required",
+      "Show reel required (vfxjobs@egg.ie)"
+    ],
+    "notes": "Repost confirmed via LinkedIn (appeared 3 days ago from 2026-11-24 = ~2026-11-21). EGG Post Production and VFX, Dublin \u2014 IFTA winner 2023, BAFTA nominee 2022. Second CG Generalist-category listing this search cycle (previous: egg-post-production-cg-generalist-2026-10 was needs-verification 2026-10-19). Active repost strongly suggests ongoing hiring. High sector fit: TV drama and film VFX pipeline. Shem's broad 3D (Blender advanced), compositing background (Studio Meala/Disney+), material/shader experience all applicable. Apply: vfxjobs@egg.ie or via builtindublin.ie listing."
+  },
+  {
+    "title": "Artist (3D)",
+    "company": "Beyond Creative Limited",
+    "location": "Dublin City, Ireland",
+    "url": "https://ie.linkedin.com/jobs/beyond-creative-limited-jobs-dublin",
+    "first_seen": "2026-11-24",
+    "fit": "low-medium",
+    "status": "needs-verification",
+    "posting_date": "~2026-11-22",
+    "requirements": [],
+    "notes": "Surfaced via LinkedIn search (2 days ago from 2026-11-24 = ~2026-11-22). Full JD unverifiable \u2014 LinkedIn blocked in this cloud session. Beyond Creative Ltd is a Dublin studio specialising in branded games within the Fortnite UEFN (Unreal Editor for Fortnite) ecosystem; has published 20+ experiences. Previous roles tracked: Unreal Engine Artist UEFN/Fortnite (skipped 2026-07-27) and Technical Artist Generalist (new 2026-09-01). This Artist (3D) title is new and distinct. Fit is low-medium: 3D artist role in Dublin at a creative studio but Fortnite UEFN is niche platform. Shem's Unreal Engine expertise is directly relevant. Check LinkedIn or Beyond Creative careers page manually to verify full JD and seniority level."
+  },
+  {
+    "title": "Senior VFX Artist",
+    "company": "Beyond Creative Limited",
+    "location": "Dublin City, Ireland",
+    "url": "https://www.artstation.com/jobs/v4dB",
+    "first_seen": "2026-11-24",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "~2026-11-19",
+    "requirements": [
+      "Senior-level VFX experience",
+      "Fortnite UEFN / branded game VFX"
+    ],
+    "skip_reason": "Senior level \u2014 above mid-level target seniority ceiling. ArtStation listing active ~2026-11-19 (5 days ago). Beyond Creative UEFN studio.",
+    "notes": "Surfaced via LinkedIn search and ArtStation (jobs/v4dB). Senior title auto-excluded. If a mid-level VFX Artist opens at Beyond Creative, it would be medium fit."
+  },
+  {
+    "title": "Senior Motion Graphic Designer",
+    "company": "IPC Digital Media",
+    "location": "Dublin City, Ireland",
+    "url": "https://ie.linkedin.com/jobs/ipc-digital-media-jobs-dublin",
+    "first_seen": "2026-11-24",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "~2026-11-22",
+    "requirements": [],
+    "skip_reason": "Senior level \u2014 above mid-level target seniority ceiling.",
+    "notes": "Surfaced via LinkedIn search (2 days ago from 2026-11-24). IPC Digital Media is a media/publishing company in Dublin. Senior title auto-excluded."
+  },
+  {
+    "title": "Motion Graphics Executive",
+    "company": "Ryanair",
+    "location": "Dublin, Ireland",
+    "url": "https://careers.ryanair.com",
+    "first_seen": "2026-11-24",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "~2026-11-18",
+    "requirements": [
+      "Adobe After Effects and Premiere Pro",
+      "Motion graphics for digital marketing campaigns",
+      "Portfolio of digital motion work",
+      "Managing multiple deadlines"
+    ],
+    "skip_reason": "Not target sector: corporate in-house marketing at a major airline. Adobe-centric (After Effects/Premiere Pro), not Blender/Unreal. Large corporate team. Marketing-focused, not creative/VFX/games industry.",
+    "notes": "Surfaced via LinkedIn search (6 days ago from 2026-11-24 = ~2026-11-18). Ryanair in-house creative studio. Skills match exists (motion graphics) but sector, tools, and company culture are misaligned with Shem's target (VFX studios, games, creative agencies; small crews; Blender/Unreal). Flagged for completeness."
+  },
+  {
+    "title": "Motion Graphics Designer",
+    "company": "Bunzl Ireland",
+    "location": "Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/bunzl-jobs-dublin",
+    "first_seen": "2026-11-24",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "~2026-11-23",
+    "requirements": [],
+    "skip_reason": "Not target sector: wholesale/distribution company (Bunzl is a global distribution and outsourcing company). In-house corporate marketing role. Not creative industry.",
+    "notes": "Surfaced via LinkedIn search (1 day ago from 2026-11-24 = ~2026-11-23). Bunzl is a FTSE 100 distribution company. Motion graphics role would be internal marketing/communications. Not in Shem's target sectors (VFX, animation, games, creative agencies)."
+  },
+  {
+    "title": "Motion Graphics Designer Internship",
+    "company": "SolaVieve Ireland",
+    "location": "Ireland",
+    "url": "https://ie.linkedin.com/jobs/solavieve-jobs",
+    "first_seen": "2026-11-24",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "~2026-11-20",
+    "requirements": [],
+    "skip_reason": "Internship level \u2014 below target seniority (mid-level). Shem has years of professional experience.",
+    "notes": "Surfaced via LinkedIn search (4 days ago from 2026-11-24). SolaVieve Ireland company profile unclear. Internship excluded on seniority grounds."
   }
 ]
