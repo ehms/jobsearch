@@ -10088,5 +10088,59 @@
     "requirements": [],
     "skip_reason": "Internship level \u2014 below target seniority (mid-level). Shem has years of professional experience.",
     "notes": "Surfaced via LinkedIn search (4 days ago from 2026-11-24). SolaVieve Ireland company profile unclear. Internship excluded on seniority grounds."
+  },
+  {
+    "id": "cartoon-saloon-blender-generalist-feature-2026",
+    "title": "Blender Generalist",
+    "company": "Cartoon Saloon",
+    "location": "Kilkenny, Ireland (on-site / hybrid uncertain)",
+    "url": "https://outscal.com/job/blender-generalist-at-cartoon-saloon-in-kilkenny-county-kilkenny-ireland-1",
+    "first_seen": "2026-11-26",
+    "fit": "high",
+    "status": "needs_verification",
+    "posting_date": "unknown",
+    "requirements": [
+      "Blender generalist for new feature film",
+      "Animation, FX simulations",
+      "Geometry Nodes (a plus)",
+      "2+ years experience"
+    ],
+    "skip_reason": null,
+    "notes": "Cartoon Saloon is a world-class Irish animation studio (The Secret of Kells, Song of the Sea, Wolfwalkers). Blender-specific role for a new feature film. High skill match. Location is Kilkenny (not Dublin) \u2014 verify if hybrid or remote is possible before applying. Outscal page gave no posting date. Confirm via Cartoon Saloon careers or Animation Ireland direct."
+  },
+  {
+    "id": "milk-vfx-unreal-artist-mid-senior-2026",
+    "title": "Unreal Artist (Mid/Senior)",
+    "company": "Milk Visual Effects",
+    "location": "London / Bordeaux / Barcelona / Dublin / remote",
+    "url": "https://www.milk-vfx.com/?p=5408",
+    "first_seen": "2026-11-26",
+    "fit": "high",
+    "status": "needs_verification",
+    "posting_date": "unknown",
+    "requirements": [
+      "Unreal Engine (Mid/Senior level)",
+      "Real-time visualisation",
+      "VFX studio production experience"
+    ],
+    "skip_reason": null,
+    "notes": "Milk VFX is an award-winning independent VFX studio with offices in London, Bordeaux, Barcelona, Dublin, and remote options. Unreal Engine role at mid/senior level is a strong match for Shem's real-time workflows. Site (milk-vfx.com) is blocked in this cloud session \u2014 verify details and posting date manually. If Dublin or remote eligible, strong candidate."
+  },
+  {
+    "id": "transperfect-gaming-environment-artist-dublin-2026",
+    "title": "Environment Artist",
+    "company": "TransPerfect Gaming",
+    "location": "Dublin, Ireland (or remote)",
+    "url": "https://gaming.transperfect.com/careers/environment-artist",
+    "first_seen": "2026-11-26",
+    "fit": "medium",
+    "status": "needs_verification",
+    "posting_date": "unknown",
+    "requirements": [
+      "3D environment art",
+      "Dublin, Ireland or remote"
+    ],
+    "skip_reason": null,
+    "notes": "TransPerfect Gaming provides localization and QA services for game studios. Environment Artist role in Dublin or remote. Posting date unknown \u2014 site blocked in this session. TransPerfect is a larger company (potential deal-breaker: large/siloed team structure). Verify role scope and team size before applying. Medium fit due to company type (not a creative studio)."
   }
 ]
