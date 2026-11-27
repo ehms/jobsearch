@@ -10142,5 +10142,77 @@
     ],
     "skip_reason": null,
     "notes": "TransPerfect Gaming provides localization and QA services for game studios. Environment Artist role in Dublin or remote. Posting date unknown \u2014 site blocked in this session. TransPerfect is a larger company (potential deal-breaker: large/siloed team structure). Verify role scope and team size before applying. Medium fit due to company type (not a creative studio)."
+  },
+  {
+    "id": "algorithm-cg-vfx-generalist-ireland-nov2026",
+    "title": "CG / VFX Generalist (Remote \u00b11 UTC)",
+    "company": "Algorithm",
+    "location": "Remote (Dublin-based production company, \u00b11 UTC)",
+    "url": "https://animationireland.com/job/algorithm-hiring-cg-vfx-generalist/",
+    "first_seen": "2026-11-27",
+    "fit": "high",
+    "status": "needs_verification",
+    "posting_date": "unknown",
+    "requirements": [
+      "CG / VFX generalist skills",
+      "Compositing, surfacing, look development",
+      "Remote \u00b11 UTC timezone",
+      "Full-dome / immersive media production experience"
+    ],
+    "skip_reason": null,
+    "notes": "Algorithm is a Dublin-based immersive / full-dome production company. This CG/VFX Generalist role is distinct from their Compositor role (already tracked). Remote \u00b11 UTC makes it Ireland-eligible. 'Immediate Start through November' in listing \u2014 posting may be closing or already closed. animationireland.com is blocked in this cloud session; verify status and date manually at animationireland.com/job/algorithm-hiring-cg-vfx-generalist/"
+  },
+  {
+    "id": "egg-vfx-visual-effects-artist-dublin-nov2026",
+    "title": "Visual Effects Artist",
+    "company": "EGG Post Production and VFX",
+    "location": "Dublin, Ireland",
+    "url": "https://egg.ie/egg-vfx/vfx-crew",
+    "first_seen": "2026-11-27",
+    "fit": "high",
+    "status": "needs_verification",
+    "posting_date": "approx 2026-11-20",
+    "requirements": [
+      "Visual effects production",
+      "Compositing experience likely (EGG is a VFX/post house)",
+      "Dublin-based"
+    ],
+    "skip_reason": null,
+    "notes": "LinkedIn snippet described this as 'actively hiring, posted one week ago' (~Nov 20, 2026). EGG is an award-winning Dublin VFX company with IFTA win (2023) and BAFTA nomination (2022). Credits include Bad Sisters (Apple TV), Evil Dead Rise (Warner), Good Omens (Amazon). Different from the Compositor (Junior/Mid/Senior) role tracked as egg-vfx-compositor-dublin-2026-11-11. egg.ie is blocked in this cloud session \u2014 verify via egg.ie/egg-vfx/vfx-crew or LinkedIn. DISTINCT from previously tracked compositor role."
+  },
+  {
+    "id": "black-shamrock-technical-artist-plain-2026",
+    "title": "Technical Artist",
+    "company": "Black Shamrock (a Virtuos Studio)",
+    "location": "Dublin, Ireland (Smithfield)",
+    "url": "https://ie.linkedin.com/jobs/black-shamrock-jobs",
+    "first_seen": "2026-11-27",
+    "fit": "medium-high",
+    "status": "skipped",
+    "posting_date": "approx 2026-10-27",
+    "requirements": [
+      "Technical art and workflow maintenance",
+      "AAA games pipeline",
+      "Likely Unreal Engine"
+    ],
+    "skip_reason": "Posted ~1 month ago per LinkedIn (~Oct 27), outside the 14-day window. Also distinct from Lead Technical Artist role (already tracked as virtuos-lead-technical-artist-2026-11-14).",
+    "notes": "Black Shamrock is Ireland's largest AAA game studio (Virtuos acquisition). LinkedIn shows 'Technical Artist' as a separate listing from Lead Technical Artist. Posted approximately 1 month ago \u2014 just outside the 14-day window. Worth monitoring for repost. ie.linkedin.com is blocked in this session."
+  },
+  {
+    "id": "screen-scene-vfx-fx-artist-freelance-2026",
+    "title": "FX Artist (Freelance)",
+    "company": "Screen Scene VFX",
+    "location": "Dublin, Ireland",
+    "url": "https://cgmeetup.com/job/fx-artist-freelance-screen-scene-vfx-dublin-ireland",
+    "first_seen": "2026-11-27",
+    "fit": "medium",
+    "status": "skipped",
+    "posting_date": "unknown",
+    "requirements": [
+      "FX Artist skills",
+      "Freelance / contract"
+    ],
+    "skip_reason": "cgmeetup.com is blocked in this cloud session \u2014 could not verify posting date, role details, or current status. Freelance only (not full-time). Skipped pending manual verification.",
+    "notes": "Screen Scene VFX is a Dublin VFX studio. FX Artist freelance role surfaced on cgmeetup.com. Cannot verify date or whether still open. If Blender/Houdini FX, could be a medium-high fit \u2014 check cgmeetup.com or Screen Scene directly."
   }
 ]
