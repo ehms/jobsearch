@@ -10214,5 +10214,56 @@
     ],
     "skip_reason": "cgmeetup.com is blocked in this cloud session \u2014 could not verify posting date, role details, or current status. Freelance only (not full-time). Skipped pending manual verification.",
     "notes": "Screen Scene VFX is a Dublin VFX studio. FX Artist freelance role surfaced on cgmeetup.com. Cannot verify date or whether still open. If Blender/Houdini FX, could be a medium-high fit \u2014 check cgmeetup.com or Screen Scene directly."
+  },
+  {
+    "title": "Unreal 3D Technical Artist (Remote UK/EU)",
+    "company": "TDA Recruitment",
+    "location": "Remote (UK/EU, anywhere in Europe)",
+    "url": "https://talents.studysmarter.co.uk/companies/tda/unreal-3d-technical-artist-remote-in-uk-or-eu-7837208/",
+    "first_seen": "2026-11-28",
+    "fit": "high",
+    "status": "new",
+    "posting_date": "2026-11-27",
+    "requirements": [
+      "Unreal Engine 5",
+      "real-time rendering",
+      "automotive brand immersive experience",
+      "3D DCC (Blender/Cinema 4D/Houdini)",
+      "materials/shaders",
+      "EU timezone"
+    ],
+    "notes": "Salary \u00a355K-\u00a375K / \u20ac65K-\u20ac85K. Application deadline 2027-07-03. For real-time immersive experience for an automotive brand. Remote-first open to anyone in Europe or UK. Confirm Ireland eligibility. URL blocked in this session."
+  },
+  {
+    "title": "Animation Director (Contract, Dublin)",
+    "company": "Brown Bag Films",
+    "location": "Dublin, Ireland (Hybrid)",
+    "url": "https://brownbagfilms.com/about-us/careers/dublin-jobs",
+    "first_seen": "2026-11-28",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-11-27",
+    "requirements": [
+      "Animation direction",
+      "children's animation",
+      "director-level experience"
+    ],
+    "skip_reason": "Director-level role \u2014 deal-breaker per search criteria. Applications close 6 Dec 2026."
+  },
+  {
+    "title": "Offline Editor (Contract, Dublin)",
+    "company": "Brown Bag Films",
+    "location": "Dublin, Ireland (Hybrid)",
+    "url": "https://brownbagfilms.com/about-us/careers/dublin-jobs",
+    "first_seen": "2026-11-28",
+    "fit": "low",
+    "status": "skipped",
+    "posting_date": "2026-11-27",
+    "requirements": [
+      "Offline editing",
+      "Avid Media Composer",
+      "children's animation post"
+    ],
+    "skip_reason": "Offline editor role \u2014 not in Shem's core skillset (compositing/3D/motion). Applications close 8 Dec 2026."
   }
 ]
